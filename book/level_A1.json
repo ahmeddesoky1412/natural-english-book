@@ -1,0 +1,5714 @@
+{
+  "level": "A1",
+  "pages": 100,
+  "content": [
+    {
+      "page": 1,
+      "level": "A1",
+      "module": 1,
+      "module_title": "Presence & Environment",
+      "title": "Morning Table",
+      "visual_scene": "A clean wooden table with a steaming cup of coffee in warm morning sunlight. A chair pulled out beside it.",
+      "natural_english": [
+        "This is a cup.",
+        "Here is coffee.",
+        "It is hot.",
+        "The cup is on the table."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Coffee?",
+          "gesture": "raising the cup slightly"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes. Hot coffee.",
+          "gesture": "nodding"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is a cup.",
+              "Here is coffee.",
+              "It is hot.",
+              "The cup is on the table."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Coffee?",
+              "Yes. Hot coffee."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "on the table"
+        ]
+      }
+    },
+    {
+      "page": 2,
+      "level": "A1",
+      "module": 1,
+      "module_title": "Presence & Environment",
+      "title": "The Window — Listen & Shadow",
+      "visual_scene": "A large window with white curtains. Outside, a quiet street with one green tree.",
+      "natural_english": [
+        "This is a window.",
+        "The window is big.",
+        "I see a tree.",
+        "The tree is green."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Look. What is that?",
+          "gesture": "pointing outside"
+        },
+        {
+          "speaker": "B",
+          "line": "A tree. A green tree.",
+          "gesture": "looking out"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is a window.",
+              "The window is big.",
+              "I see a tree.",
+              "The tree is green."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Look. What is that?",
+              "A tree. A green tree."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "I see"
+        ]
+      }
+    },
+    {
+      "page": 3,
+      "level": "A1",
+      "module": 1,
+      "module_title": "Presence & Environment",
+      "title": "The Door — Your Turn",
+      "visual_scene": "A simple wooden door, slightly open. Bright light comes through the gap.",
+      "natural_english": [
+        "This is a door.",
+        "The door is open.",
+        "Now the door is closed.",
+        "Open. Closed."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Open the door, please.",
+          "gesture": "gesturing"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "OK. It is open.",
+          "gesture": "pushing the door"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is a door.",
+              "The door is open."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Open the door, please.",
+              "OK. It is open."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "open / closed"
+        ]
+      }
+    },
+    {
+      "page": 4,
+      "level": "A1",
+      "module": 1,
+      "module_title": "Presence & Environment",
+      "title": "One Chair, Two Chairs — Spiral Review",
+      "visual_scene": "A small room with a table and three chairs. One chair is red, two are brown.",
+      "natural_english": [
+        "This is a chair.",
+        "One chair. Two chairs. Three chairs.",
+        "This chair is red.",
+        "That chair is brown."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Sit here, please.",
+          "gesture": "pulling a chair"
+        },
+        {
+          "speaker": "B",
+          "line": "Thank you.",
+          "gesture": "sitting down"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This chair is red.",
+              "That chair is brown."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Sit here, please.",
+              "Thank you."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "plural -s"
+        ]
+      }
+    },
+    {
+      "page": 5,
+      "level": "A1",
+      "module": 1,
+      "module_title": "Presence & Environment",
+      "title": "Light and Dark",
+      "visual_scene": "A lamp on a side table. The room is half in light, half in shadow.",
+      "natural_english": [
+        "This is a lamp.",
+        "The light is on.",
+        "Now the light is off.",
+        "On. Off."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "The lamp?",
+          "gesture": "touching the switch"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes. On, please.",
+          "gesture": "closing eyes against the light"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is a lamp.",
+              "The light is on.",
+              "Now the light is off.",
+              "On. Off."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "The lamp?",
+              "Yes. On, please."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "on / off"
+        ]
+      }
+    },
+    {
+      "page": 6,
+      "level": "A1",
+      "module": 1,
+      "module_title": "Presence & Environment",
+      "title": "My Bag — Listen & Shadow",
+      "visual_scene": "A blue bag on the floor next to a shoe. Keys on top of the bag.",
+      "natural_english": [
+        "This is my bag.",
+        "The bag is blue.",
+        "The bag is on the floor.",
+        "Here are my keys."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Where is my bag?",
+          "gesture": "looking around"
+        },
+        {
+          "speaker": "B",
+          "line": "Here. On the floor.",
+          "gesture": "pointing down"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is my bag.",
+              "The bag is blue.",
+              "The bag is on the floor.",
+              "Here are my keys."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Where is my bag?",
+              "Here. On the floor."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "where is"
+        ]
+      }
+    },
+    {
+      "page": 7,
+      "level": "A1",
+      "module": 1,
+      "module_title": "Presence & Environment",
+      "title": "Big and Small — Your Turn",
+      "visual_scene": "A big book and a small book side by side on a desk.",
+      "natural_english": [
+        "This is a book.",
+        "This book is big.",
+        "This book is small.",
+        "Big. Small."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Big book?",
+          "gesture": "holding one up"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Yes. Big. This one is small.",
+          "gesture": "holding the other"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is a book.",
+              "This book is big."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Big book?",
+              "Yes. Big. This one is small."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "big / small"
+        ]
+      }
+    },
+    {
+      "page": 8,
+      "level": "A1",
+      "module": 1,
+      "module_title": "Presence & Environment",
+      "title": "Night Room — Spiral Review",
+      "visual_scene": "A dark, quiet room. A small clock glows on the nightstand. The bed is empty.",
+      "natural_english": [
+        "This is a room.",
+        "It is night.",
+        "The room is dark.",
+        "The clock is small."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Night?",
+          "gesture": "yawning"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes. Good night.",
+          "gesture": "turning off the light"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "The room is dark.",
+              "The clock is small."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Night?",
+              "Yes. Good night."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "night / dark"
+        ]
+      }
+    },
+    {
+      "page": 9,
+      "level": "A1",
+      "module": 1,
+      "module_title": "Presence & Environment",
+      "title": "Evening Table (2)",
+      "visual_scene": "The same wooden table at night. A lamp on, a cold cup, an empty plate.",
+      "natural_english": [
+        "The cup is empty.",
+        "The coffee is cold.",
+        "The lamp is on.",
+        "It is late."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "More coffee?",
+          "gesture": "pot in hand"
+        },
+        {
+          "speaker": "B",
+          "line": "No, thank you. It is late.",
+          "gesture": "shaking head slowly"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "The cup is empty.",
+              "The coffee is cold.",
+              "The lamp is on.",
+              "It is late."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "More coffee?",
+              "No, thank you. It is late."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "empty / cold"
+        ]
+      }
+    },
+    {
+      "page": 10,
+      "level": "A1",
+      "module": 1,
+      "module_title": "Presence & Environment",
+      "title": "Night Window — Listen & Shadow (2)",
+      "visual_scene": "The window at night. Streetlights, one car passing, curtains half open.",
+      "natural_english": [
+        "It is dark outside.",
+        "I see lights.",
+        "The street is quiet.",
+        "The lights are yellow."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Look outside.",
+          "gesture": "curtains aside"
+        },
+        {
+          "speaker": "B",
+          "line": "I see lights. Many lights.",
+          "gesture": "face close to glass"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "It is dark outside.",
+              "I see lights.",
+              "The street is quiet.",
+              "The lights are yellow."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Look outside.",
+              "I see lights. Many lights."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "outside / dark"
+        ]
+      }
+    },
+    {
+      "page": 11,
+      "level": "A1",
+      "module": 1,
+      "module_title": "Presence & Environment",
+      "title": "Knock Knock — Your Turn (2)",
+      "visual_scene": "A closed door. A hand knocks twice. Another hand reaches for the handle.",
+      "natural_english": [
+        "Someone is at the door.",
+        "I hear a knock.",
+        "I open the door.",
+        "Hello! Come in."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Hello?",
+          "gesture": "knocking"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Come in! The door is open.",
+          "gesture": "voice from inside"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "Someone is at the door.",
+              "I hear a knock."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Hello?",
+              "Come in! The door is open."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "someone / hear"
+        ]
+      }
+    },
+    {
+      "page": 12,
+      "level": "A1",
+      "module": 1,
+      "module_title": "Presence & Environment",
+      "title": "The Empty Chair — Spiral Review (2)",
+      "visual_scene": "Three chairs. One occupied, one empty, one with a bag on it.",
+      "natural_english": [
+        "I sit on this chair.",
+        "That chair is empty.",
+        "The red chair is free.",
+        "Sit with me."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Is this chair free?",
+          "gesture": "standing, tray in hands"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes. Sit down, please.",
+          "gesture": "moving the bag"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "The red chair is free.",
+              "Sit with me."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Is this chair free?",
+              "Yes. Sit down, please."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "free / empty"
+        ]
+      }
+    },
+    {
+      "page": 13,
+      "level": "A1",
+      "module": 1,
+      "module_title": "Presence & Environment",
+      "title": "The Broken Lamp (2)",
+      "visual_scene": "A lamp. A hand presses the switch. Nothing happens. A second press. Still nothing.",
+      "natural_english": [
+        "The lamp is off.",
+        "I press the switch.",
+        "Nothing happens.",
+        "The lamp is broken."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "The lamp is broken.",
+          "gesture": "tapping it"
+        },
+        {
+          "speaker": "B",
+          "line": "I know. We need a new lamp.",
+          "gesture": "shrugging"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "The lamp is off.",
+              "I press the switch.",
+              "Nothing happens.",
+              "The lamp is broken."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "The lamp is broken.",
+              "I know. We need a new lamp."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "broken / press"
+        ]
+      }
+    },
+    {
+      "page": 14,
+      "level": "A1",
+      "module": 1,
+      "module_title": "Presence & Environment",
+      "title": "Two Bags — Listen & Shadow (2)",
+      "visual_scene": "Two bags by the door: one big and heavy, one small and light.",
+      "natural_english": [
+        "This is your bag.",
+        "That bag is mine.",
+        "My bag is small.",
+        "Your bag is big."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Which bag is yours?",
+          "gesture": "both in hands"
+        },
+        {
+          "speaker": "B",
+          "line": "The small one. The blue one.",
+          "gesture": "pointing"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is your bag.",
+              "That bag is mine.",
+              "My bag is small.",
+              "Your bag is big."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Which bag is yours?",
+              "The small one. The blue one."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "mine / yours"
+        ]
+      }
+    },
+    {
+      "page": 15,
+      "level": "A1",
+      "module": 1,
+      "module_title": "Presence & Environment",
+      "title": "Reading Time — Your Turn (2)",
+      "visual_scene": "A person on a sofa with the big book, a cooling coffee on the side table.",
+      "natural_english": [
+        "I read the big book.",
+        "The book is good.",
+        "I read one page. Then ten.",
+        "Time is fast with a good book."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Is the book good?",
+          "gesture": "passing by"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Very good. I can't stop reading.",
+          "gesture": "not looking up"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I read the big book.",
+              "The book is good."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Is the book good?",
+              "Very good. I can't stop reading."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "read / can't stop"
+        ]
+      }
+    },
+    {
+      "page": 16,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "Stand Up, Sit Down",
+      "visual_scene": "A man in a plain room. In one frame he stands; in the next he sits.",
+      "natural_english": [
+        "I stand up.",
+        "I sit down.",
+        "Stand up. Sit down.",
+        "Now I am sitting."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Stand up, please.",
+          "gesture": "gesturing upward"
+        },
+        {
+          "speaker": "B",
+          "line": "OK. Now I sit down.",
+          "gesture": "sitting"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I stand up.",
+              "I sit down.",
+              "Stand up. Sit down.",
+              "Now I am sitting."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Stand up, please.",
+              "OK. Now I sit down."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "stand up / sit down"
+        ]
+      }
+    },
+    {
+      "page": 17,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "Walk and Stop — Listen & Shadow",
+      "visual_scene": "A person walking along a corridor, then stopping at a door marked EXIT.",
+      "natural_english": [
+        "I walk.",
+        "I walk to the door.",
+        "Now I stop.",
+        "I am at the door."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Stop here, please.",
+          "gesture": "raising a hand"
+        },
+        {
+          "speaker": "B",
+          "line": "OK. I stop.",
+          "gesture": "freezing mid-step"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I walk.",
+              "I walk to the door.",
+              "Now I stop.",
+              "I am at the door."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Stop here, please.",
+              "OK. I stop."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "walk / stop"
+        ]
+      }
+    },
+    {
+      "page": 18,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "I Look, I Listen — Your Turn",
+      "visual_scene": "A woman looking at a painting, then turning her head toward music playing from a radio.",
+      "natural_english": [
+        "I look. I see a picture.",
+        "I listen. I hear music.",
+        "My eyes are open.",
+        "My ears listen."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Listen!",
+          "gesture": "hand to ear"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "I hear it. Nice music.",
+          "gesture": "smiling"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I look. I see a picture.",
+              "I listen. I hear music."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Listen!",
+              "I hear it. Nice music."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "look / listen"
+        ]
+      }
+    },
+    {
+      "page": 19,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "My Hands — Spiral Review",
+      "visual_scene": "Close-up of two hands: open palms, then closed fists, then clapping.",
+      "natural_english": [
+        "Big. Small.",
+        "Open. Closed.",
+        "Now my hands are closed.",
+        "I clap my hands."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Clap!",
+          "gesture": "clapping once"
+        },
+        {
+          "speaker": "B",
+          "line": "I clap too.",
+          "gesture": "clapping"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "Big. Small.",
+              "Open. Closed.",
+              "Now my hands are closed.",
+              "I clap my hands."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Clap!",
+              "I clap too."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "hands / clap"
+        ]
+      }
+    },
+    {
+      "page": 20,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "Eat and Drink",
+      "visual_scene": "A person at a small table with bread and a glass of water. One bite, one sip.",
+      "natural_english": [
+        "I eat bread.",
+        "I drink water.",
+        "The bread is good.",
+        "The water is cold."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Eat, please.",
+          "gesture": "offering bread"
+        },
+        {
+          "speaker": "B",
+          "line": "Thank you. Mmm. Good.",
+          "gesture": "chewing"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I eat bread.",
+              "I drink water.",
+              "The bread is good.",
+              "The water is cold."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Eat, please.",
+              "Thank you. Mmm. Good."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "eat / drink"
+        ]
+      }
+    },
+    {
+      "page": 21,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "I Am Tired — Listen & Shadow",
+      "visual_scene": "A man rubbing his eyes and yawning on a sofa in the evening.",
+      "natural_english": [
+        "I am tired.",
+        "I yawn.",
+        "I want to sleep.",
+        "Good night."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "You are tired.",
+          "gesture": "noticing the yawn"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes. Very tired. Sleep now.",
+          "gesture": "nodding slowly"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I am tired.",
+              "I yawn.",
+              "I want to sleep.",
+              "Good night."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "You are tired.",
+              "Yes. Very tired. Sleep now."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "tired / want to"
+        ]
+      }
+    },
+    {
+      "page": 22,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "Hot and Cold — Your Turn",
+      "visual_scene": "A hand touching a hot radiator and pulling back; another hand touching a cold window.",
+      "natural_english": [
+        "The fire is hot.",
+        "The ice is cold.",
+        "Hot. Cold.",
+        "I touch the cup. It is hot."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Careful! Hot!",
+          "gesture": "pulling a hand back"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Ouch. Yes. Very hot.",
+          "gesture": "shaking the hand"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "The fire is hot.",
+              "The ice is cold."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Careful! Hot!",
+              "Ouch. Yes. Very hot."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "hot / cold"
+        ]
+      }
+    },
+    {
+      "page": 23,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "I Smile — Spiral Review",
+      "visual_scene": "A child laughing at a puppy; the puppy jumps and the child laughs more.",
+      "natural_english": [
+        "Big. Small.",
+        "Open. Closed.",
+        "The dog is funny.",
+        "I am happy."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "You are happy!",
+          "gesture": "smiling back"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes! The dog is funny!",
+          "gesture": "laughing"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "Big. Small.",
+              "Open. Closed.",
+              "The dog is funny.",
+              "I am happy."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "You are happy!",
+              "Yes! The dog is funny!"
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "smile / laugh"
+        ]
+      }
+    },
+    {
+      "page": 24,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "Exercise Time (2)",
+      "visual_scene": "A person exercising in front of the TV: arms up, then down, following an instructor.",
+      "natural_english": [
+        "Stand up. Arms up.",
+        "Sit down. Stand up.",
+        "Again! One more time.",
+        "Good. Now rest."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Again?",
+          "gesture": "breathing hard"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes. One more. You can do it.",
+          "gesture": "counting"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "Stand up. Arms up.",
+              "Sit down. Stand up.",
+              "Again! One more time.",
+              "Good. Now rest."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Again?",
+              "Yes. One more. You can do it."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "again / rest"
+        ]
+      }
+    },
+    {
+      "page": 25,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "The Race — Listen & Shadow (2)",
+      "visual_scene": "Two people in a park: one jogging easily, one stopping, hands on knees.",
+      "natural_english": [
+        "We walk fast. We run.",
+        "He runs fast. I am slow.",
+        "I stop. I breathe.",
+        "Running is hard."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Wait! I need to stop.",
+          "gesture": "hands on knees"
+        },
+        {
+          "speaker": "B",
+          "line": "OK. I wait here.",
+          "gesture": "jogging in place"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "We walk fast. We run.",
+              "He runs fast. I am slow.",
+              "I stop. I breathe.",
+              "Running is hard."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Wait! I need to stop.",
+              "OK. I wait here."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "run / breathe"
+        ]
+      }
+    },
+    {
+      "page": 26,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "The Concert — Your Turn (2)",
+      "visual_scene": "A crowd facing a small stage. Lights move. Hands in the air.",
+      "natural_english": [
+        "We listen to the music.",
+        "We watch the band.",
+        "The music is loud.",
+        "Everyone is happy."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "I love this song!",
+          "gesture": "hands up"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Me too! Listen!",
+          "gesture": "leaning closer"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "We listen to the music.",
+              "We watch the band."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "I love this song!",
+              "Me too! Listen!"
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "loud / band"
+        ]
+      }
+    },
+    {
+      "page": 27,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "Handshake — Spiral Review (2)",
+      "visual_scene": "Two people meeting for the first time, hands meeting in a firm handshake.",
+      "natural_english": [
+        "Big. Small.",
+        "Open. Closed.",
+        "Your hand is warm.",
+        "Nice to meet you."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Hello!",
+          "gesture": "hand out"
+        },
+        {
+          "speaker": "B",
+          "line": "Hello! Nice to meet you.",
+          "gesture": "firm handshake"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "Big. Small.",
+              "Open. Closed.",
+              "Your hand is warm.",
+              "Nice to meet you."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Hello!",
+              "Hello! Nice to meet you."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "shake hands"
+        ]
+      }
+    },
+    {
+      "page": 28,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "The Restaurant (2)",
+      "visual_scene": "Two people at a restaurant table, menus open, a waiter waiting with a notepad.",
+      "natural_english": [
+        "I want the soup.",
+        "He wants the fish.",
+        "The food comes. It smells good.",
+        "We eat and talk."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "What do you want?",
+          "gesture": "menu down"
+        },
+        {
+          "speaker": "B",
+          "line": "The fish, please. And water.",
+          "gesture": "closing the menu"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I want the soup.",
+              "He wants the fish.",
+              "The food comes. It smells good.",
+              "We eat and talk."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "What do you want?",
+              "The fish, please. And water."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "want"
+        ]
+      }
+    },
+    {
+      "page": 29,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "After Work — Listen & Shadow (2)",
+      "visual_scene": "A person drops a bag by the door and falls onto the sofa without removing one shoe.",
+      "natural_english": [
+        "I am home. I am dead tired.",
+        "I take off my shoes.",
+        "I close my eyes. Just five minutes.",
+        "Zzz."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Long day?",
+          "gesture": "from the kitchen"
+        },
+        {
+          "speaker": "B",
+          "line": "Don't ask. I need sleep. Now.",
+          "gesture": "face in cushion"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I am home. I am dead tired.",
+              "I take off my shoes.",
+              "I close my eyes. Just five minutes.",
+              "Zzz."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Long day?",
+              "Don't ask. I need sleep. Now."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "take off"
+        ]
+      }
+    },
+    {
+      "page": 30,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "Seasons — Your Turn (2)",
+      "visual_scene": "A split image: a hot beach in summer, a snowy street in winter.",
+      "natural_english": [
+        "Summer is hot. Winter is cold.",
+        "I like summer. I love the sun.",
+        "She likes winter. She loves snow.",
+        "Everyone is different."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Hot or cold?",
+          "gesture": "sunscreen in hand"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Hot, for sure. Beach weather!",
+          "gesture": "sunglasses on"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "Summer is hot. Winter is cold.",
+              "I like summer. I love the sun."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Hot or cold?",
+              "Hot, for sure. Beach weather!"
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "summer / winter"
+        ]
+      }
+    },
+    {
+      "page": 31,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "The Joke — Spiral Review (2)",
+      "visual_scene": "Friends around a table. One tells a story with big gestures. The others are mid-laugh.",
+      "natural_english": [
+        "Big. Small.",
+        "Open. Closed.",
+        "My face hurts from smiling.",
+        "Laughing is good for you."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Tell it again!",
+          "gesture": "wiping eyes"
+        },
+        {
+          "speaker": "B",
+          "line": "No, no. My stomach hurts from laughing.",
+          "gesture": "hand up"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "Big. Small.",
+              "Open. Closed.",
+              "My face hurts from smiling.",
+              "Laughing is good for you."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Tell it again!",
+              "No, no. My stomach hurts from laughing."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "tell a joke"
+        ]
+      }
+    },
+    {
+      "page": 32,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "Stand Up, Sit Down (3)",
+      "visual_scene": "A man in a plain room. In one frame he stands; in the next he sits.",
+      "natural_english": [
+        "I stand up.",
+        "I sit down.",
+        "Stand up. Sit down.",
+        "Now I am sitting."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Stand up, please.",
+          "gesture": "gesturing upward"
+        },
+        {
+          "speaker": "B",
+          "line": "OK. Now I sit down.",
+          "gesture": "sitting"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I stand up.",
+              "I sit down.",
+              "Stand up. Sit down.",
+              "Now I am sitting."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Stand up, please.",
+              "OK. Now I sit down."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "stand up / sit down"
+        ]
+      }
+    },
+    {
+      "page": 33,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "Walk and Stop — Listen & Shadow (3)",
+      "visual_scene": "A person walking along a corridor, then stopping at a door marked EXIT.",
+      "natural_english": [
+        "I walk.",
+        "I walk to the door.",
+        "Now I stop.",
+        "I am at the door."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Stop here, please.",
+          "gesture": "raising a hand"
+        },
+        {
+          "speaker": "B",
+          "line": "OK. I stop.",
+          "gesture": "freezing mid-step"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I walk.",
+              "I walk to the door.",
+              "Now I stop.",
+              "I am at the door."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Stop here, please.",
+              "OK. I stop."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "walk / stop"
+        ]
+      }
+    },
+    {
+      "page": 34,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "I Look, I Listen — Your Turn (3)",
+      "visual_scene": "A woman looking at a painting, then turning her head toward music playing from a radio.",
+      "natural_english": [
+        "I look. I see a picture.",
+        "I listen. I hear music.",
+        "My eyes are open.",
+        "My ears listen."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Listen!",
+          "gesture": "hand to ear"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "I hear it. Nice music.",
+          "gesture": "smiling"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I look. I see a picture.",
+              "I listen. I hear music."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Listen!",
+              "I hear it. Nice music."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "look / listen"
+        ]
+      }
+    },
+    {
+      "page": 35,
+      "level": "A1",
+      "module": 2,
+      "module_title": "The Human Body & Basic Actions",
+      "title": "My Hands — Spiral Review (3)",
+      "visual_scene": "Close-up of two hands: open palms, then closed fists, then clapping.",
+      "natural_english": [
+        "Big. Small.",
+        "Open. Closed.",
+        "Now my hands are closed.",
+        "I clap my hands."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Clap!",
+          "gesture": "clapping once"
+        },
+        {
+          "speaker": "B",
+          "line": "I clap too.",
+          "gesture": "clapping"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "Big. Small.",
+              "Open. Closed.",
+              "Now my hands are closed.",
+              "I clap my hands."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Clap!",
+              "I clap too."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "hands / clap"
+        ]
+      }
+    },
+    {
+      "page": 36,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "The Kitchen",
+      "visual_scene": "A small kitchen: a sink, a stove, a kettle, and two mugs drying on a rack.",
+      "natural_english": [
+        "This is the kitchen.",
+        "I cook here.",
+        "The kettle is on the stove.",
+        "The water is hot."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Tea?",
+          "gesture": "lifting the kettle"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes, please. One cup.",
+          "gesture": "getting a mug"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is the kitchen.",
+              "I cook here.",
+              "The kettle is on the stove.",
+              "The water is hot."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Tea?",
+              "Yes, please. One cup."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "kitchen / cook"
+        ]
+      }
+    },
+    {
+      "page": 37,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "In the Fridge — Listen & Shadow",
+      "visual_scene": "An open fridge: milk, eggs, one tomato, half a cheese.",
+      "natural_english": [
+        "This is the fridge.",
+        "The milk is in the fridge.",
+        "The eggs are here.",
+        "The cheese is old."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Where is the milk?",
+          "gesture": "opening the fridge"
+        },
+        {
+          "speaker": "B",
+          "line": "Here. Next to the eggs.",
+          "gesture": "pointing"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is the fridge.",
+              "The milk is in the fridge.",
+              "The eggs are here.",
+              "The cheese is old."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Where is the milk?",
+              "Here. Next to the eggs."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "in / next to"
+        ]
+      }
+    },
+    {
+      "page": 38,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "I Make Tea — Your Turn",
+      "visual_scene": "Step-by-step: kettle fills, water boils, tea goes in the cup, hot water pours.",
+      "natural_english": [
+        "First, the water.",
+        "The water is hot now.",
+        "I put tea in the cup.",
+        "Now I drink my tea."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "What are you doing?",
+          "gesture": "watching"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Tea. I make tea. Wait two minutes.",
+          "gesture": "holding up two fingers"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "First, the water.",
+              "The water is hot now."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "What are you doing?",
+              "Tea. I make tea. Wait two minutes."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "first / now"
+        ]
+      }
+    },
+    {
+      "page": 39,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "The Bathroom — Spiral Review",
+      "visual_scene": "A clean bathroom: mirror, sink, soap, and a towel on a hook.",
+      "natural_english": [
+        "I am at the door.",
+        "The tree is green.",
+        "The soap is here.",
+        "The towel is on the door."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Where is the soap?",
+          "gesture": "hands wet"
+        },
+        {
+          "speaker": "B",
+          "line": "Here. In the shower.",
+          "gesture": "passing it"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I am at the door.",
+              "The tree is green.",
+              "The soap is here.",
+              "The towel is on the door."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Where is the soap?",
+              "Here. In the shower."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "wash / bathroom"
+        ]
+      }
+    },
+    {
+      "page": 40,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "I Sleep Here",
+      "visual_scene": "A bedroom at dusk: a bed with a blue blanket, a book on the pillow, curtains half drawn.",
+      "natural_english": [
+        "This is my bedroom.",
+        "I sleep here.",
+        "The blanket is blue.",
+        "I read a book in bed."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Good night!",
+          "gesture": "from the doorway"
+        },
+        {
+          "speaker": "B",
+          "line": "Good night. See you tomorrow.",
+          "gesture": "turning off the lamp"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is my bedroom.",
+              "I sleep here.",
+              "The blanket is blue.",
+              "I read a book in bed."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Good night!",
+              "Good night. See you tomorrow."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "sleep / bedroom"
+        ]
+      }
+    },
+    {
+      "page": 41,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "The Living Room — Listen & Shadow",
+      "visual_scene": "A living room: a sofa, a small TV, a cup of tea on the table.",
+      "natural_english": [
+        "This is the living room.",
+        "I sit on the sofa.",
+        "I watch TV.",
+        "The film is good."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "TV?",
+          "gesture": "holding the remote"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes. The film is good tonight.",
+          "gesture": "patting the sofa"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is the living room.",
+              "I sit on the sofa.",
+              "I watch TV.",
+              "The film is good."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "TV?",
+              "Yes. The film is good tonight."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "watch / living room"
+        ]
+      }
+    },
+    {
+      "page": 42,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "Clean Clothes — Your Turn",
+      "visual_scene": "A washing machine spinning; clean shirts hanging on a rack by the window.",
+      "natural_english": [
+        "These are my clothes.",
+        "The shirt is clean.",
+        "The machine is on.",
+        "I wait one hour."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Is my shirt clean?",
+          "gesture": "holding it up"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Yes. It is on the chair.",
+          "gesture": "pointing"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "These are my clothes.",
+              "The shirt is clean."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Is my shirt clean?",
+              "Yes. It is on the chair."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "clean / machine"
+        ]
+      }
+    },
+    {
+      "page": 43,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "Food at Home — Spiral Review",
+      "visual_scene": "A table set for two: plates, bread, soup, and two glasses of water.",
+      "natural_english": [
+        "I am at the door.",
+        "The tree is green.",
+        "I eat with a spoon.",
+        "The bread is fresh."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Soup?",
+          "gesture": "serving"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes, please. It smells good.",
+          "gesture": "leaning in"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I am at the door.",
+              "The tree is green.",
+              "I eat with a spoon.",
+              "The bread is fresh."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Soup?",
+              "Yes, please. It smells good."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "spoon / fresh"
+        ]
+      }
+    },
+    {
+      "page": 44,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "Doing the Dishes (2)",
+      "visual_scene": "A sink full of dishes. Warm water, soap bubbles, a drying rack filling up.",
+      "natural_english": [
+        "The dishes are dirty.",
+        "I wash them with hot water.",
+        "Now they are clean.",
+        "I dry them with a towel."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Whose turn is it?",
+          "gesture": "looking at the sink"
+        },
+        {
+          "speaker": "B",
+          "line": "Mine. I do the dishes tonight.",
+          "gesture": "rolling up sleeves"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "The dishes are dirty.",
+              "I wash them with hot water.",
+              "Now they are clean.",
+              "I dry them with a towel."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Whose turn is it?",
+              "Mine. I do the dishes tonight."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "dirty / dry"
+        ]
+      }
+    },
+    {
+      "page": 45,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "Shopping Day — Listen & Shadow (2)",
+      "visual_scene": "An open fridge being filled from grocery bags: milk, eggs, juice, vegetables.",
+      "natural_english": [
+        "The fridge is empty. We need food.",
+        "Now it is full.",
+        "Milk, eggs, juice, vegetables.",
+        "Good. We are ready for the week."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Did we forget anything?",
+          "gesture": "closing the fridge"
+        },
+        {
+          "speaker": "B",
+          "line": "Butter. We always forget butter.",
+          "gesture": "half-laughing"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "The fridge is empty. We need food.",
+              "Now it is full.",
+              "Milk, eggs, juice, vegetables.",
+              "Good. We are ready for the week."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Did we forget anything?",
+              "Butter. We always forget butter."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "full / empty"
+        ]
+      }
+    },
+    {
+      "page": 46,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "Coffee or Tea? — Your Turn (2)",
+      "visual_scene": "Two mugs on a table: one of black coffee, one of milky tea. Two hands reach for them.",
+      "natural_english": [
+        "I drink tea. He drinks coffee.",
+        "My tea is sweet.",
+        "His coffee is black.",
+        "We drink and talk about life."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Tea or coffee?",
+          "gesture": "kettle in hand"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Tea, please. With milk, no sugar.",
+          "gesture": "cup forward"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I drink tea. He drinks coffee.",
+              "My tea is sweet."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Tea or coffee?",
+              "Tea, please. With milk, no sugar."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "with / without"
+        ]
+      }
+    },
+    {
+      "page": 47,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "Getting Ready — Spiral Review (2)",
+      "visual_scene": "A person at the bathroom mirror: toothbrush, splashed water, towel over shoulder.",
+      "natural_english": [
+        "I am at the door.",
+        "The tree is green.",
+        "I wash my face.",
+        "Now I am ready."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Are you ready?",
+          "gesture": "keys in hand"
+        },
+        {
+          "speaker": "B",
+          "line": "Two minutes! I'm brushing my teeth.",
+          "gesture": "foam and all"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I am at the door.",
+              "The tree is green.",
+              "I wash my face.",
+              "Now I am ready."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Are you ready?",
+              "Two minutes! I'm brushing my teeth."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "mirror / ready"
+        ]
+      }
+    },
+    {
+      "page": 48,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "Can't Sleep (2)",
+      "visual_scene": "A dark bedroom. A person lies awake. The clock reads 2:00.",
+      "natural_english": [
+        "It is two o'clock. I am not sleeping.",
+        "My head is full of thoughts.",
+        "I count sheep. It doesn't work.",
+        "Maybe some warm milk."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "You're still awake?",
+          "gesture": "from the doorway"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes. My brain won't stop.",
+          "gesture": "pillow over head"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "It is two o'clock. I am not sleeping.",
+              "My head is full of thoughts.",
+              "I count sheep. It doesn't work.",
+              "Maybe some warm milk."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "You're still awake?",
+              "Yes. My brain won't stop."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "awake"
+        ]
+      }
+    },
+    {
+      "page": 49,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "Movie Night — Listen & Shadow (2)",
+      "visual_scene": "A sofa, a big bowl of popcorn, the TV showing a movie menu. Lights already off.",
+      "natural_english": [
+        "It is movie night.",
+        "We make popcorn.",
+        "The film starts at nine.",
+        "Phones off, lights off."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Action movie or comedy?",
+          "gesture": "remote ready"
+        },
+        {
+          "speaker": "B",
+          "line": "Comedy. I want to laugh tonight.",
+          "gesture": "hand in the popcorn"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "It is movie night.",
+              "We make popcorn.",
+              "The film starts at nine.",
+              "Phones off, lights off."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Action movie or comedy?",
+              "Comedy. I want to laugh tonight."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "popcorn / starts"
+        ]
+      }
+    },
+    {
+      "page": 50,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "The Iron — Your Turn (2)",
+      "visual_scene": "A person ironing a shirt. Steam rises. The collar gets special attention.",
+      "natural_english": [
+        "This shirt has wrinkles.",
+        "I iron it carefully.",
+        "Careful! The iron is hot.",
+        "Now the shirt is perfect."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Where is the iron?",
+          "gesture": "shirt over arm"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "In the closet. Be careful, it's hot.",
+          "gesture": "pointing"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This shirt has wrinkles.",
+              "I iron it carefully."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Where is the iron?",
+              "In the closet. Be careful, it's hot."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "iron / wrinkles"
+        ]
+      }
+    },
+    {
+      "page": 51,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "Cooking Together — Spiral Review (2)",
+      "visual_scene": "Two people in a kitchen: one chops onions, one stirs a pot. Both talking.",
+      "natural_english": [
+        "I am at the door.",
+        "The tree is green.",
+        "The onions make me cry!",
+        "Together, dinner is easy."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "What can I do?",
+          "gesture": "apron half-tied"
+        },
+        {
+          "speaker": "B",
+          "line": "Wash the salad, please. I do the rest.",
+          "gesture": "knife in hand"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I am at the door.",
+              "The tree is green.",
+              "The onions make me cry!",
+              "Together, dinner is easy."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "What can I do?",
+              "Wash the salad, please. I do the rest."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "cut / together"
+        ]
+      }
+    },
+    {
+      "page": 52,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "The Kitchen (3)",
+      "visual_scene": "A small kitchen: a sink, a stove, a kettle, and two mugs drying on a rack.",
+      "natural_english": [
+        "This is the kitchen.",
+        "I cook here.",
+        "The kettle is on the stove.",
+        "The water is hot."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Tea?",
+          "gesture": "lifting the kettle"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes, please. One cup.",
+          "gesture": "getting a mug"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is the kitchen.",
+              "I cook here.",
+              "The kettle is on the stove.",
+              "The water is hot."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Tea?",
+              "Yes, please. One cup."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "kitchen / cook"
+        ]
+      }
+    },
+    {
+      "page": 53,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "In the Fridge — Listen & Shadow (3)",
+      "visual_scene": "An open fridge: milk, eggs, one tomato, half a cheese.",
+      "natural_english": [
+        "This is the fridge.",
+        "The milk is in the fridge.",
+        "The eggs are here.",
+        "The cheese is old."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Where is the milk?",
+          "gesture": "opening the fridge"
+        },
+        {
+          "speaker": "B",
+          "line": "Here. Next to the eggs.",
+          "gesture": "pointing"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is the fridge.",
+              "The milk is in the fridge.",
+              "The eggs are here.",
+              "The cheese is old."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Where is the milk?",
+              "Here. Next to the eggs."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "in / next to"
+        ]
+      }
+    },
+    {
+      "page": 54,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "I Make Tea — Your Turn (3)",
+      "visual_scene": "Step-by-step: kettle fills, water boils, tea goes in the cup, hot water pours.",
+      "natural_english": [
+        "First, the water.",
+        "The water is hot now.",
+        "I put tea in the cup.",
+        "Now I drink my tea."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "What are you doing?",
+          "gesture": "watching"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Tea. I make tea. Wait two minutes.",
+          "gesture": "holding up two fingers"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "First, the water.",
+              "The water is hot now."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "What are you doing?",
+              "Tea. I make tea. Wait two minutes."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "first / now"
+        ]
+      }
+    },
+    {
+      "page": 55,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "The Bathroom — Spiral Review (3)",
+      "visual_scene": "A clean bathroom: mirror, sink, soap, and a towel on a hook.",
+      "natural_english": [
+        "I am at the door.",
+        "The tree is green.",
+        "The soap is here.",
+        "The towel is on the door."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Where is the soap?",
+          "gesture": "hands wet"
+        },
+        {
+          "speaker": "B",
+          "line": "Here. In the shower.",
+          "gesture": "passing it"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I am at the door.",
+              "The tree is green.",
+              "The soap is here.",
+              "The towel is on the door."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Where is the soap?",
+              "Here. In the shower."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "wash / bathroom"
+        ]
+      }
+    },
+    {
+      "page": 56,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "I Sleep Here (3)",
+      "visual_scene": "A bedroom at dusk: a bed with a blue blanket, a book on the pillow, curtains half drawn.",
+      "natural_english": [
+        "This is my bedroom.",
+        "I sleep here.",
+        "The blanket is blue.",
+        "I read a book in bed."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Good night!",
+          "gesture": "from the doorway"
+        },
+        {
+          "speaker": "B",
+          "line": "Good night. See you tomorrow.",
+          "gesture": "turning off the lamp"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is my bedroom.",
+              "I sleep here.",
+              "The blanket is blue.",
+              "I read a book in bed."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Good night!",
+              "Good night. See you tomorrow."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "sleep / bedroom"
+        ]
+      }
+    },
+    {
+      "page": 57,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "The Living Room — Listen & Shadow (3)",
+      "visual_scene": "A living room: a sofa, a small TV, a cup of tea on the table.",
+      "natural_english": [
+        "This is the living room.",
+        "I sit on the sofa.",
+        "I watch TV.",
+        "The film is good."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "TV?",
+          "gesture": "holding the remote"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes. The film is good tonight.",
+          "gesture": "patting the sofa"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is the living room.",
+              "I sit on the sofa.",
+              "I watch TV.",
+              "The film is good."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "TV?",
+              "Yes. The film is good tonight."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "watch / living room"
+        ]
+      }
+    },
+    {
+      "page": 58,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "Clean Clothes — Your Turn (3)",
+      "visual_scene": "A washing machine spinning; clean shirts hanging on a rack by the window.",
+      "natural_english": [
+        "These are my clothes.",
+        "The shirt is clean.",
+        "The machine is on.",
+        "I wait one hour."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Is my shirt clean?",
+          "gesture": "holding it up"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Yes. It is on the chair.",
+          "gesture": "pointing"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "These are my clothes.",
+              "The shirt is clean."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Is my shirt clean?",
+              "Yes. It is on the chair."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "clean / machine"
+        ]
+      }
+    },
+    {
+      "page": 59,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "Food at Home — Spiral Review (3)",
+      "visual_scene": "A table set for two: plates, bread, soup, and two glasses of water.",
+      "natural_english": [
+        "I am at the door.",
+        "The tree is green.",
+        "I eat with a spoon.",
+        "The bread is fresh."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Soup?",
+          "gesture": "serving"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes, please. It smells good.",
+          "gesture": "leaning in"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I am at the door.",
+              "The tree is green.",
+              "I eat with a spoon.",
+              "The bread is fresh."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Soup?",
+              "Yes, please. It smells good."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "spoon / fresh"
+        ]
+      }
+    },
+    {
+      "page": 60,
+      "level": "A1",
+      "module": 3,
+      "module_title": "Home & Daily Life",
+      "title": "Doing the Dishes (4)",
+      "visual_scene": "A sink full of dishes. Warm water, soap bubbles, a drying rack filling up.",
+      "natural_english": [
+        "The dishes are dirty.",
+        "I wash them with hot water.",
+        "Now they are clean.",
+        "I dry them with a towel."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Whose turn is it?",
+          "gesture": "looking at the sink"
+        },
+        {
+          "speaker": "B",
+          "line": "Mine. I do the dishes tonight.",
+          "gesture": "rolling up sleeves"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "The dishes are dirty.",
+              "I wash them with hot water.",
+              "Now they are clean.",
+              "I dry them with a towel."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Whose turn is it?",
+              "Mine. I do the dishes tonight."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "dirty / dry"
+        ]
+      }
+    },
+    {
+      "page": 61,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "My Family",
+      "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
+      "natural_english": [
+        "This is my family.",
+        "This is my mother.",
+        "This is my father.",
+        "We are happy."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Your family?",
+          "gesture": "looking at the photo"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes. My mother, my father, my sister.",
+          "gesture": "pointing at each"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is my family.",
+              "This is my mother.",
+              "This is my father.",
+              "We are happy."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Your family?",
+              "Yes. My mother, my father, my sister."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "my mother / my father"
+        ]
+      }
+    },
+    {
+      "page": 62,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "My Brother — Listen & Shadow",
+      "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
+      "natural_english": [
+        "This is my brother.",
+        "He is tall.",
+        "He is funny.",
+        "I like my brother."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Who is he?",
+          "gesture": "curious"
+        },
+        {
+          "speaker": "B",
+          "line": "My brother. He is twenty.",
+          "gesture": "smiling proudly"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is my brother.",
+              "He is tall.",
+              "He is funny.",
+              "I like my brother."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Who is he?",
+              "My brother. He is twenty."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "he is"
+        ]
+      }
+    },
+    {
+      "page": 63,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "My Sister — Your Turn",
+      "visual_scene": "A young woman reading on a windowsill, coffee beside her.",
+      "natural_english": [
+        "This is my sister.",
+        "She is a student.",
+        "She reads a lot.",
+        "Her hair is black."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Is she your sister?",
+          "gesture": "nodding at the photo"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Yes. She is a student.",
+          "gesture": "nodding"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is my sister.",
+              "She is a student."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Is she your sister?",
+              "Yes. She is a student."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "she is / student"
+        ]
+      }
+    },
+    {
+      "page": 64,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "My Friend — Spiral Review",
+      "visual_scene": "Two friends walking together, mid-conversation, shopping bags in hand.",
+      "natural_english": [
+        "The water is cold.",
+        "The cup is on the table.",
+        "We are friends.",
+        "We walk in the park."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Sam is your friend?",
+          "gesture": "smiling"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes. Good friend. Many years.",
+          "gesture": "holding up five fingers"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "The water is cold.",
+              "The cup is on the table.",
+              "We are friends.",
+              "We walk in the park."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Sam is your friend?",
+              "Yes. Good friend. Many years."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "his name is"
+        ]
+      }
+    },
+    {
+      "page": 65,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "Old and Young",
+      "visual_scene": "A grandfather teaching a small child to hold a cup with both hands.",
+      "natural_english": [
+        "He is old.",
+        "She is young.",
+        "The baby is small.",
+        "The grandfather is kind."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Your grandfather?",
+          "gesture": "watching them"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes. He is eighty. He is kind.",
+          "gesture": "smiling"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "He is old.",
+              "She is young.",
+              "The baby is small.",
+              "The grandfather is kind."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Your grandfather?",
+              "Yes. He is eighty. He is kind."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "old / young"
+        ]
+      }
+    },
+    {
+      "page": 66,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "Tall and Short — Listen & Shadow",
+      "visual_scene": "A tall woman and a shorter man standing side by side at a bus stop.",
+      "natural_english": [
+        "She is tall.",
+        "He is short.",
+        "I am not tall.",
+        "I am short too."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "You are tall!",
+          "gesture": "looking up"
+        },
+        {
+          "speaker": "B",
+          "line": "No, no. She is tall. I am short.",
+          "gesture": "laughing"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "She is tall.",
+              "He is short.",
+              "I am not tall.",
+              "I am short too."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "You are tall!",
+              "No, no. She is tall. I am short."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "tall / short"
+        ]
+      }
+    },
+    {
+      "page": 67,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "What Is Your Name? — Your Turn",
+      "visual_scene": "Two neighbors meeting at a gate, one carrying shopping bags.",
+      "natural_english": [
+        "My name is Omar.",
+        "What is your name?",
+        "Nice to meet you.",
+        "Her name is Lena."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Hello. What is your name?",
+          "gesture": "extending a hand"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "My name is Omar. Nice to meet you.",
+          "gesture": "shaking hands"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "My name is Omar.",
+              "What is your name?"
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Hello. What is your name?",
+              "My name is Omar. Nice to meet you."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "what is your name"
+        ]
+      }
+    },
+    {
+      "page": 68,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "This Is My Home — Spiral Review",
+      "visual_scene": "A man opening his front door for a guest, gesturing inside warmly.",
+      "natural_english": [
+        "The water is cold.",
+        "The cup is on the table.",
+        "Sit here.",
+        "This is my wife."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Thank you for the invitation.",
+          "gesture": "stepping in"
+        },
+        {
+          "speaker": "B",
+          "line": "Come in, come in. Sit here.",
+          "gesture": "pulling out a chair"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "The water is cold.",
+              "The cup is on the table.",
+              "Sit here.",
+              "This is my wife."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Thank you for the invitation.",
+              "Come in, come in. Sit here."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "come in / please"
+        ]
+      }
+    },
+    {
+      "page": 69,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "Family Dinner (2)",
+      "visual_scene": "A family around a full table. Dishes passing hands, one child mid-question.",
+      "natural_english": [
+        "We eat together every Friday.",
+        "Mother cooks. Father tells stories.",
+        "The children ask many questions.",
+        "Family time is precious time."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Pass the bread, please.",
+          "gesture": "hands out"
+        },
+        {
+          "speaker": "B",
+          "line": "Here you are. Try the chicken too!",
+          "gesture": "plate sliding over"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "We eat together every Friday.",
+              "Mother cooks. Father tells stories.",
+              "The children ask many questions.",
+              "Family time is precious time."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Pass the bread, please.",
+              "Here you are. Try the chicken too!"
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "together / precious"
+        ]
+      }
+    },
+    {
+      "page": 70,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "My Brother's Job — Listen & Shadow (2)",
+      "visual_scene": "A man in a work uniform waving from the window of a big van.",
+      "natural_english": [
+        "My brother is a driver.",
+        "He drives a big van.",
+        "He works six days a week.",
+        "He is never late. Never."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "What does your brother do?",
+          "gesture": "curious"
+        },
+        {
+          "speaker": "B",
+          "line": "He's a driver. Hard work, but he loves it.",
+          "gesture": "proud tone"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "My brother is a driver.",
+              "He drives a big van.",
+              "He works six days a week.",
+              "He is never late. Never."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "What does your brother do?",
+              "He's a driver. Hard work, but he loves it."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "what does he do"
+        ]
+      }
+    },
+    {
+      "page": 71,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "A Call From My Sister — Your Turn (2)",
+      "visual_scene": "A person on the phone, smiling, a cup of tea going cold beside them.",
+      "natural_english": [
+        "My sister calls every Sunday.",
+        "We talk for one hour.",
+        "She tells me her news.",
+        "I tell her my news. Time flies."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Who are you talking to?",
+          "gesture": "noticing the laugh"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "My sister. She talks and talks. I just listen and laugh.",
+          "gesture": "phone to ear"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "My sister calls every Sunday.",
+              "We talk for one hour."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Who are you talking to?",
+              "My sister. She talks and talks. I just listen and laugh."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "calls / news"
+        ]
+      }
+    },
+    {
+      "page": 72,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "Old Friends — Spiral Review (2)",
+      "visual_scene": "Two middle-aged men looking at an old school photo, pointing at faces.",
+      "natural_english": [
+        "The water is cold.",
+        "The cup is on the table.",
+        "Good friends are like family.",
+        "We don't see each other often, but nothing changes."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Remember school?",
+          "gesture": "photo between them"
+        },
+        {
+          "speaker": "B",
+          "line": "Every day. Best years of my life.",
+          "gesture": "tapping the photo"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "The water is cold.",
+              "The cup is on the table.",
+              "Good friends are like family.",
+              "We don't see each other often, but nothing changes."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Remember school?",
+              "Every day. Best years of my life."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "each other"
+        ]
+      }
+    },
+    {
+      "page": 73,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "Grandmother's Hands (2)",
+      "visual_scene": "Close-up: old hands guiding young hands through kneading dough on a floured table.",
+      "natural_english": [
+        "My grandmother is seventy-five.",
+        "Her hands are old but strong.",
+        "She teaches me her recipes.",
+        "One day, I will teach my daughter."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Who taught you to cook?",
+          "gesture": "watching the dough"
+        },
+        {
+          "speaker": "B",
+          "line": "My grandmother. Her hands remember everything.",
+          "gesture": "flour on cheek"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "My grandmother is seventy-five.",
+              "Her hands are old but strong.",
+              "She teaches me her recipes.",
+              "One day, I will teach my daughter."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Who taught you to cook?",
+              "My grandmother. Her hands remember everything."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "teach"
+        ]
+      }
+    },
+    {
+      "page": 74,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "The Basketball Game — Listen & Shadow (2)",
+      "visual_scene": "A park basketball court: a tall player under the hoop, a short one sprinting past.",
+      "natural_english": [
+        "He is tall. Basketball is easy for him.",
+        "I am short. I run fast.",
+        "Everyone has a strength.",
+        "The game is fun for both of us."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "You can't win. I'm taller!",
+          "gesture": "arms up"
+        },
+        {
+          "speaker": "B",
+          "line": "Watch me. Speed beats height!",
+          "gesture": "dribbling past"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "He is tall. Basketball is easy for him.",
+              "I am short. I run fast.",
+              "Everyone has a strength.",
+              "The game is fun for both of us."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "You can't win. I'm taller!",
+              "Watch me. Speed beats height!"
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "strength / win"
+        ]
+      }
+    },
+    {
+      "page": 75,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "Introducing People — Your Turn (2)",
+      "visual_scene": "At a small party: one person in the middle, introducing two friends to each other.",
+      "natural_english": [
+        "Lena, this is Karim.",
+        "Karim, this is Lena, my neighbor.",
+        "They shake hands.",
+        "Now they are not strangers."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Do you two know each other?",
+          "gesture": "looking between them"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Not yet. Lena, meet Karim.",
+          "gesture": "gesturing between"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "Lena, this is Karim.",
+              "Karim, this is Lena, my neighbor."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Do you two know each other?",
+              "Not yet. Lena, meet Karim."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "know each other / stranger"
+        ]
+      }
+    },
+    {
+      "page": 76,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "A Visitor for Dinner — Spiral Review (2)",
+      "visual_scene": "A guest at a full dinner table, the host serving another portion, bread basket open.",
+      "natural_english": [
+        "The water is cold.",
+        "The cup is on the table.",
+        "We eat, we talk, we laugh.",
+        "A guest brings blessings."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "This food is wonderful!",
+          "gesture": "plate nearly clean"
+        },
+        {
+          "speaker": "B",
+          "line": "I'm happy you like it. Eat more! There is plenty.",
+          "gesture": "serving again"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "The water is cold.",
+              "The cup is on the table.",
+              "We eat, we talk, we laugh.",
+              "A guest brings blessings."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "This food is wonderful!",
+              "I'm happy you like it. Eat more! There is plenty."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "guest / plenty"
+        ]
+      }
+    },
+    {
+      "page": 77,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "My Family (3)",
+      "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
+      "natural_english": [
+        "This is my family.",
+        "This is my mother.",
+        "This is my father.",
+        "We are happy."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Your family?",
+          "gesture": "looking at the photo"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes. My mother, my father, my sister.",
+          "gesture": "pointing at each"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is my family.",
+              "This is my mother.",
+              "This is my father.",
+              "We are happy."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Your family?",
+              "Yes. My mother, my father, my sister."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "my mother / my father"
+        ]
+      }
+    },
+    {
+      "page": 78,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "My Brother — Listen & Shadow (3)",
+      "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
+      "natural_english": [
+        "This is my brother.",
+        "He is tall.",
+        "He is funny.",
+        "I like my brother."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Who is he?",
+          "gesture": "curious"
+        },
+        {
+          "speaker": "B",
+          "line": "My brother. He is twenty.",
+          "gesture": "smiling proudly"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is my brother.",
+              "He is tall.",
+              "He is funny.",
+              "I like my brother."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Who is he?",
+              "My brother. He is twenty."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "he is"
+        ]
+      }
+    },
+    {
+      "page": 79,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "My Sister — Your Turn (3)",
+      "visual_scene": "A young woman reading on a windowsill, coffee beside her.",
+      "natural_english": [
+        "This is my sister.",
+        "She is a student.",
+        "She reads a lot.",
+        "Her hair is black."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Is she your sister?",
+          "gesture": "nodding at the photo"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Yes. She is a student.",
+          "gesture": "nodding"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "This is my sister.",
+              "She is a student."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Is she your sister?",
+              "Yes. She is a student."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "she is / student"
+        ]
+      }
+    },
+    {
+      "page": 80,
+      "level": "A1",
+      "module": 4,
+      "module_title": "Family & Immediate Relationships",
+      "title": "My Friend — Spiral Review (3)",
+      "visual_scene": "Two friends walking together, mid-conversation, shopping bags in hand.",
+      "natural_english": [
+        "The water is cold.",
+        "The cup is on the table.",
+        "We are friends.",
+        "We walk in the park."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Sam is your friend?",
+          "gesture": "smiling"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes. Good friend. Many years.",
+          "gesture": "holding up five fingers"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "The water is cold.",
+              "The cup is on the table.",
+              "We are friends.",
+              "We walk in the park."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Sam is your friend?",
+              "Yes. Good friend. Many years."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "his name is"
+        ]
+      }
+    },
+    {
+      "page": 81,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "Hello and Goodbye",
+      "visual_scene": "Morning on a residential street; two neighbors pass each other and wave.",
+      "natural_english": [
+        "Hello!",
+        "Good morning.",
+        "Goodbye. See you later.",
+        "Have a good day."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Good morning!",
+          "gesture": "waving"
+        },
+        {
+          "speaker": "B",
+          "line": "Good morning! Have a good day.",
+          "gesture": "smiling and walking on"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "Hello!",
+              "Good morning.",
+              "Goodbye. See you later.",
+              "Have a good day."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Good morning!",
+              "Good morning! Have a good day."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "good morning / goodbye"
+        ]
+      }
+    },
+    {
+      "page": 82,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "How Are You? — Listen & Shadow",
+      "visual_scene": "Two colleagues meeting by the office kettle, mugs in hand.",
+      "natural_english": [
+        "How are you?",
+        "I am fine, thank you.",
+        "And you?",
+        "I am very well."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Hi! How are you?",
+          "gesture": "warm"
+        },
+        {
+          "speaker": "B",
+          "line": "Fine, thanks. And you?",
+          "gesture": "pouring tea"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "How are you?",
+              "I am fine, thank you.",
+              "And you?",
+              "I am very well."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Hi! How are you?",
+              "Fine, thanks. And you?"
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "how are you"
+        ]
+      }
+    },
+    {
+      "page": 83,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "Please and Thank You — Your Turn",
+      "visual_scene": "A small shop counter; a customer points at bread and holds out coins.",
+      "natural_english": [
+        "One bread, please.",
+        "Thank you very much.",
+        "You are welcome.",
+        "Here you are."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "One bread, please.",
+          "gesture": "pointing"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Here you are.",
+          "gesture": "handing it over"
+        },
+        {
+          "speaker": "A",
+          "line": "Thank you.",
+          "gesture": "paying"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "You are welcome.",
+          "gesture": "smiling"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "One bread, please.",
+              "Thank you very much."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "One bread, please.",
+              "Here you are.",
+              "Thank you.",
+              "You are welcome."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "please / thank you"
+        ]
+      }
+    },
+    {
+      "page": 84,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "One, Two, Three — Spiral Review",
+      "visual_scene": "A hand placing apples one by one into a bag on a kitchen scale.",
+      "natural_english": [
+        "I am happy.",
+        "This is my wife.",
+        "One, two, three, four, five.",
+        "Five apples. Good."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "How many?",
+          "gesture": "holding the bag open"
+        },
+        {
+          "speaker": "B",
+          "line": "Three, please. No... four.",
+          "gesture": "counting"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I am happy.",
+              "This is my wife.",
+              "One, two, three, four, five.",
+              "Five apples. Good."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "How many?",
+              "Three, please. No... four."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "numbers 1-5"
+        ]
+      }
+    },
+    {
+      "page": 85,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "What Time Is It?",
+      "visual_scene": "A wall clock showing nine, and a man checking his watch against it.",
+      "natural_english": [
+        "What time is it?",
+        "It is nine o'clock.",
+        "It is late.",
+        "It is early."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "What time is it?",
+          "gesture": "looking up at the clock"
+        },
+        {
+          "speaker": "B",
+          "line": "Nine o'clock. We are early.",
+          "gesture": "relaxing"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "What time is it?",
+              "It is nine o'clock.",
+              "It is late.",
+              "It is early."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "What time is it?",
+              "Nine o'clock. We are early."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "what time"
+        ]
+      }
+    },
+    {
+      "page": 86,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "Excuse Me, Sorry — Listen & Shadow",
+      "visual_scene": "A crowded bus; a passenger steps on another's foot and apologizes.",
+      "natural_english": [
+        "Excuse me.",
+        "I am sorry.",
+        "No problem.",
+        "It is OK."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Oh! Sorry!",
+          "gesture": "hand to chest"
+        },
+        {
+          "speaker": "B",
+          "line": "No problem. It is OK.",
+          "gesture": "small smile"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "Excuse me.",
+              "I am sorry.",
+              "No problem.",
+              "It is OK."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Oh! Sorry!",
+              "No problem. It is OK."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "excuse me / sorry"
+        ]
+      }
+    },
+    {
+      "page": 87,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "Yes and No — Your Turn",
+      "visual_scene": "Two faces in close-up: one nodding clearly, one shaking the head.",
+      "natural_english": [
+        "Yes, please.",
+        "No, thank you.",
+        "Yes, I like it.",
+        "No, not today."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "More tea?",
+          "gesture": "holding the pot"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Yes, please. Just a little.",
+          "gesture": "cup forward"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "Yes, please.",
+              "No, thank you."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "More tea?",
+              "Yes, please. Just a little."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "yes / no"
+        ]
+      }
+    },
+    {
+      "page": 88,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "I Don't Understand — Spiral Review",
+      "visual_scene": "A learner at a counter looking puzzled, hand slightly raised.",
+      "natural_english": [
+        "I am happy.",
+        "This is my wife.",
+        "Slowly, please.",
+        "OK. Now I understand."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "It's ten dollars fifty.",
+          "gesture": "quickly"
+        },
+        {
+          "speaker": "B",
+          "line": "Sorry. Slowly, please.",
+          "gesture": "hand up"
+        },
+        {
+          "speaker": "A",
+          "line": "Ten. Dollars. Fifty.",
+          "gesture": "slower"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I am happy.",
+              "This is my wife.",
+              "Slowly, please.",
+              "OK. Now I understand."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "It's ten dollars fifty.",
+              "Sorry. Slowly, please."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "I don't understand"
+        ]
+      }
+    },
+    {
+      "page": 89,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "First Day (2)",
+      "visual_scene": "A new employee at the office door, slightly nervous. Colleagues look up and wave.",
+      "natural_english": [
+        "It is my first day.",
+        "I say hello to everyone.",
+        "People are friendly here.",
+        "Good start. Good day."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Welcome! You must be the new one.",
+          "gesture": "warm smile"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes, that's me. Happy to be here.",
+          "gesture": "hand extended"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "It is my first day.",
+              "I say hello to everyone.",
+              "People are friendly here.",
+              "Good start. Good day."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Welcome! You must be the new one.",
+              "Yes, that's me. Happy to be here."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "welcome"
+        ]
+      }
+    },
+    {
+      "page": 90,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "Not So Good — Listen & Shadow (2)",
+      "visual_scene": "Two colleagues by the window. One looks tired; the other's face shows real concern.",
+      "natural_english": [
+        "How are you today?",
+        "Not so good, to be honest.",
+        "I didn't sleep well.",
+        "Thanks for asking. It helps."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "How are you?",
+          "gesture": "gentle"
+        },
+        {
+          "speaker": "B",
+          "line": "Honestly? Not great. Didn't sleep.",
+          "gesture": "rubbing eyes"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "How are you today?",
+              "Not so good, to be honest.",
+              "I didn't sleep well.",
+              "Thanks for asking. It helps."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "How are you?",
+              "Honestly? Not great. Didn't sleep."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "not so good / to be honest"
+        ]
+      }
+    },
+    {
+      "page": 91,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "The Favor — Your Turn (2)",
+      "visual_scene": "A neighbor passing a ladder over a garden fence, both hands involved.",
+      "natural_english": [
+        "Can you help me, please?",
+        "Of course. No problem.",
+        "Thank you so much!",
+        "Anytime. That's what neighbors are for."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Could you help me for a minute?",
+          "gesture": "ladder slipping"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Sure. What do you need?",
+          "gesture": "already walking over"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "Can you help me, please?",
+              "Of course. No problem."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Could you help me for a minute?",
+              "Sure. What do you need?"
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "favor / anytime"
+        ]
+      }
+    },
+    {
+      "page": 92,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "Phone Numbers — Spiral Review (2)",
+      "visual_scene": "Two people at a cafe table. One dictates, the other writes digits on a paper napkin.",
+      "natural_english": [
+        "I am happy.",
+        "This is my wife.",
+        "Slowly, please. I write it down.",
+        "Got it. I'll call you."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Give me your number.",
+          "gesture": "pen ready"
+        },
+        {
+          "speaker": "B",
+          "line": "Zero seven seven, one two two... Did you get it?",
+          "gesture": "slowly"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I am happy.",
+              "This is my wife.",
+              "Slowly, please. I write it down.",
+              "Got it. I'll call you."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Give me your number.",
+              "Zero seven seven, one two two... Did you get it?"
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "phone numbers"
+        ]
+      }
+    },
+    {
+      "page": 93,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "The Late Bus (2)",
+      "visual_scene": "A bus stop. A watch reads 8:40. The road is empty.",
+      "natural_english": [
+        "The bus comes at eight thirty.",
+        "It is eight forty now. No bus.",
+        "It is late. Again.",
+        "Patience. Or a taxi."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Where's the bus?",
+          "gesture": "looking down the road"
+        },
+        {
+          "speaker": "B",
+          "line": "Late, as always. Let's walk instead.",
+          "gesture": "already moving"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "The bus comes at eight thirty.",
+              "It is eight forty now. No bus.",
+              "It is late. Again.",
+              "Patience. Or a taxi."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Where's the bus?",
+              "Late, as always. Let's walk instead."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "late / instead"
+        ]
+      }
+    },
+    {
+      "page": 94,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "The Broken Cup — Listen & Shadow (2)",
+      "visual_scene": "A cup in pieces on the kitchen floor. Two people kneeling among the fragments.",
+      "natural_english": [
+        "Oh no. I broke your cup.",
+        "It was my grandmother's cup.",
+        "I am so, so sorry.",
+        "It's OK. It was just a thing. You are more important."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "I'm so sorry. I broke it.",
+          "gesture": "hand to mouth"
+        },
+        {
+          "speaker": "B",
+          "line": "Don't worry. Accidents happen.",
+          "gesture": "sweeping gently"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "Oh no. I broke your cup.",
+              "It was my grandmother's cup.",
+              "I am so, so sorry.",
+              "It's OK. It was just a thing. You are more important."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "I'm so sorry. I broke it.",
+              "Don't worry. Accidents happen."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "break / accidents happen"
+        ]
+      }
+    },
+    {
+      "page": 95,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "The Invitation — Your Turn (2)",
+      "visual_scene": "A hand holding a small invitation card. An open calendar on the table.",
+      "natural_english": [
+        "Here is an invitation.",
+        "Saturday, seven o'clock, dinner.",
+        "I want to go. But I am tired.",
+        "Yes or no? Yes. Of course yes."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Are you coming Saturday?",
+          "gesture": "hopeful"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "I wouldn't miss it. See you there.",
+          "gesture": "card on the fridge"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "Here is an invitation.",
+              "Saturday, seven o'clock, dinner."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Are you coming Saturday?",
+              "I wouldn't miss it. See you there."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "invitation"
+        ]
+      }
+    },
+    {
+      "page": 96,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "The Accent — Spiral Review (2)",
+      "visual_scene": "Two people at an information desk. One leans in, listening hard.",
+      "natural_english": [
+        "I am happy.",
+        "This is my wife.",
+        "It's my first month here.",
+        "Slower is better. Thank you for your patience."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Sorry, I didn't catch that.",
+          "gesture": "leaning in"
+        },
+        {
+          "speaker": "B",
+          "line": "No problem. I'll say it slower.",
+          "gesture": "smiling, slower"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I am happy.",
+              "This is my wife.",
+              "It's my first month here.",
+              "Slower is better. Thank you for your patience."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Sorry, I didn't catch that.",
+              "No problem. I'll say it slower."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "catch / patience"
+        ]
+      }
+    },
+    {
+      "page": 97,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "Hello and Goodbye (3)",
+      "visual_scene": "Morning on a residential street; two neighbors pass each other and wave.",
+      "natural_english": [
+        "Hello!",
+        "Good morning.",
+        "Goodbye. See you later.",
+        "Have a good day."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Good morning!",
+          "gesture": "waving"
+        },
+        {
+          "speaker": "B",
+          "line": "Good morning! Have a good day.",
+          "gesture": "smiling and walking on"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "Hello!",
+              "Good morning.",
+              "Goodbye. See you later.",
+              "Have a good day."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Good morning!",
+              "Good morning! Have a good day."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "good morning / goodbye"
+        ]
+      }
+    },
+    {
+      "page": 98,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "How Are You? — Listen & Shadow (3)",
+      "visual_scene": "Two colleagues meeting by the office kettle, mugs in hand.",
+      "natural_english": [
+        "How are you?",
+        "I am fine, thank you.",
+        "And you?",
+        "I am very well."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Hi! How are you?",
+          "gesture": "warm"
+        },
+        {
+          "speaker": "B",
+          "line": "Fine, thanks. And you?",
+          "gesture": "pouring tea"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "How are you?",
+              "I am fine, thank you.",
+              "And you?",
+              "I am very well."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "Hi! How are you?",
+              "Fine, thanks. And you?"
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "how are you"
+        ]
+      }
+    },
+    {
+      "page": 99,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "Please and Thank You — Your Turn (3)",
+      "visual_scene": "A small shop counter; a customer points at bread and holds out coins.",
+      "natural_english": [
+        "One bread, please.",
+        "Thank you very much.",
+        "You are welcome.",
+        "Here you are."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "One bread, please.",
+          "gesture": "pointing"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "Here you are.",
+          "gesture": "handing it over"
+        },
+        {
+          "speaker": "A",
+          "line": "Thank you.",
+          "gesture": "paying"
+        },
+        {
+          "speaker": "B (you)",
+          "line": "… (respond aloud)",
+          "gesture": ""
+        },
+        {
+          "speaker": "B (model)",
+          "line": "You are welcome.",
+          "gesture": "smiling"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Voice 1 speaks; Voice 2's lines are replaced by a 3-second silent slot for the listener to answer aloud, then Voice 2 models the answer.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "One bread, please.",
+              "Thank you very much."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "One bread, please.",
+              "Here you are.",
+              "Thank you.",
+              "You are welcome."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "please / thank you"
+        ]
+      }
+    },
+    {
+      "page": 100,
+      "level": "A1",
+      "module": 5,
+      "module_title": "Basic Interactions & Survival English",
+      "title": "One, Two, Three — Spiral Review (3)",
+      "visual_scene": "A hand placing apples one by one into a bag on a kitchen scale.",
+      "natural_english": [
+        "I am happy.",
+        "This is my wife.",
+        "One, two, three, four, five.",
+        "Five apples. Good."
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "How many?",
+          "gesture": "holding the bag open"
+        },
+        {
+          "speaker": "B",
+          "line": "Three, please. No... four.",
+          "gesture": "counting"
+        }
+      ],
+      "audio_script": {
+        "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+        "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+        "direction": "Review-first flow: familiar lines from earlier modules, then this page's new element woven in at the end. Keep energy warm, like revision, not testing.",
+        "voices": [
+          {
+            "role": "Voice 1 — narrator / Speaker A",
+            "lines": [
+              "I am happy.",
+              "This is my wife.",
+              "One, two, three, four, five.",
+              "Five apples. Good."
+            ]
+          },
+          {
+            "role": "Voice 2 — conversation partner / Speaker B",
+            "lines": [
+              "How many?",
+              "Three, please. No... four."
+            ]
+          }
+        ]
+      },
+      "spiral": {
+        "familiar_pct": 85,
+        "new_pct": 15,
+        "new_elements": [
+          "numbers 1-5"
+        ]
+      }
+    }
+  ]
+}
