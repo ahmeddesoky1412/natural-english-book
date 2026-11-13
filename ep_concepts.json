@@ -1,0 +1,3110 @@
+[
+ {
+  "ep": 1,
+  "level": "A1",
+  "module": 1,
+  "title": "Morning Table",
+  "concepts": [
+   {
+    "sent": "This is a cup",
+    "word": "cup",
+    "phrase": "a cup"
+   },
+   {
+    "sent": "Here is coffee",
+    "word": "coffee",
+    "phrase": "coffee"
+   },
+   {
+    "sent": "It is hot",
+    "word": "hot",
+    "phrase": "hot"
+   }
+  ]
+ },
+ {
+  "ep": 2,
+  "level": "A1",
+  "module": 1,
+  "title": "The Window — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "This is a window",
+    "word": "window",
+    "phrase": "a window"
+   },
+   {
+    "sent": "The window is big",
+    "word": "window",
+    "phrase": "The window"
+   },
+   {
+    "sent": "I see a tree",
+    "word": "tree",
+    "phrase": "a tree"
+   }
+  ]
+ },
+ {
+  "ep": 3,
+  "level": "A1",
+  "module": 1,
+  "title": "The Door — Your Turn",
+  "concepts": [
+   {
+    "sent": "This is a door",
+    "word": "door",
+    "phrase": "a door"
+   },
+   {
+    "sent": "The door is open",
+    "word": "door",
+    "phrase": "The door"
+   },
+   {
+    "sent": "Now the door is closed",
+    "word": "closed",
+    "phrase": "closed"
+   }
+  ]
+ },
+ {
+  "ep": 4,
+  "level": "A1",
+  "module": 1,
+  "title": "One Chair, Two Chairs — Spiral Review",
+  "concepts": [
+   {
+    "sent": "This is a chair",
+    "word": "chair",
+    "phrase": "a chair"
+   },
+   {
+    "sent": "One chair. Two chairs. Three chairs",
+    "word": "chairs",
+    "phrase": "chairs Three"
+   },
+   {
+    "sent": "This chair is red",
+    "word": "chair",
+    "phrase": "chair"
+   }
+  ]
+ },
+ {
+  "ep": 5,
+  "level": "A1",
+  "module": 1,
+  "title": "Light and Dark",
+  "concepts": [
+   {
+    "sent": "This is a lamp",
+    "word": "lamp",
+    "phrase": "a lamp"
+   },
+   {
+    "sent": "The light is on",
+    "word": "light",
+    "phrase": "The light"
+   },
+   {
+    "sent": "Now the light is off",
+    "word": "light",
+    "phrase": "the light"
+   }
+  ]
+ },
+ {
+  "ep": 6,
+  "level": "A1",
+  "module": 1,
+  "title": "My Bag — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "This is my bag",
+    "word": "bag",
+    "phrase": "my bag"
+   },
+   {
+    "sent": "The bag is blue",
+    "word": "blue",
+    "phrase": "blue"
+   },
+   {
+    "sent": "The bag is on the floor",
+    "word": "floor",
+    "phrase": "the floor"
+   }
+  ]
+ },
+ {
+  "ep": 7,
+  "level": "A1",
+  "module": 1,
+  "title": "Big and Small — Your Turn",
+  "concepts": [
+   {
+    "sent": "This is a book",
+    "word": "book",
+    "phrase": "a book"
+   },
+   {
+    "sent": "This book is big",
+    "word": "book",
+    "phrase": "book"
+   },
+   {
+    "sent": "This book is small",
+    "word": "small",
+    "phrase": "small"
+   }
+  ]
+ },
+ {
+  "ep": 8,
+  "level": "A1",
+  "module": 1,
+  "title": "Night Room — Spiral Review",
+  "concepts": [
+   {
+    "sent": "This is a room",
+    "word": "room",
+    "phrase": "a room"
+   },
+   {
+    "sent": "It is night",
+    "word": "night",
+    "phrase": "night"
+   },
+   {
+    "sent": "The room is dark",
+    "word": "room",
+    "phrase": "The room"
+   }
+  ]
+ },
+ {
+  "ep": 9,
+  "level": "A1",
+  "module": 2,
+  "title": "Stand Up, Sit Down",
+  "concepts": [
+   {
+    "sent": "I stand up",
+    "word": "stand",
+    "phrase": "stand"
+   },
+   {
+    "sent": "I sit down",
+    "word": "down",
+    "phrase": "down"
+   },
+   {
+    "sent": "Stand up. Sit down",
+    "word": "stand",
+    "phrase": "stand"
+   }
+  ]
+ },
+ {
+  "ep": 10,
+  "level": "A1",
+  "module": 2,
+  "title": "Walk and Stop — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "I walk",
+    "word": "walk",
+    "phrase": "walk"
+   },
+   {
+    "sent": "I walk to the door",
+    "word": "walk",
+    "phrase": "walk"
+   },
+   {
+    "sent": "Now I stop",
+    "word": "stop",
+    "phrase": "stop"
+   }
+  ]
+ },
+ {
+  "ep": 11,
+  "level": "A1",
+  "module": 2,
+  "title": "I Look, I Listen — Your Turn",
+  "concepts": [
+   {
+    "sent": "I look. I see a picture",
+    "word": "picture",
+    "phrase": "a picture"
+   },
+   {
+    "sent": "I listen. I hear music",
+    "word": "listen",
+    "phrase": "listen"
+   },
+   {
+    "sent": "My eyes are open",
+    "word": "eyes",
+    "phrase": "My eyes"
+   }
+  ]
+ },
+ {
+  "ep": 12,
+  "level": "A1",
+  "module": 2,
+  "title": "My Hands — Spiral Review",
+  "concepts": [
+   {
+    "sent": "Big. Small",
+    "word": "small",
+    "phrase": "small"
+   },
+   {
+    "sent": "Open. Closed",
+    "word": "closed",
+    "phrase": "closed"
+   },
+   {
+    "sent": "Now my hands are closed",
+    "word": "closed",
+    "phrase": "closed"
+   }
+  ]
+ },
+ {
+  "ep": 13,
+  "level": "A1",
+  "module": 2,
+  "title": "Eat and Drink",
+  "concepts": [
+   {
+    "sent": "I eat bread",
+    "word": "bread",
+    "phrase": "bread"
+   },
+   {
+    "sent": "I drink water",
+    "word": "drink",
+    "phrase": "drink water"
+   },
+   {
+    "sent": "The bread is good",
+    "word": "bread",
+    "phrase": "The bread"
+   }
+  ]
+ },
+ {
+  "ep": 14,
+  "level": "A1",
+  "module": 2,
+  "title": "I Am Tired — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "I am tired",
+    "word": "tired",
+    "phrase": "tired"
+   },
+   {
+    "sent": "I yawn",
+    "word": "yawn",
+    "phrase": "yawn"
+   },
+   {
+    "sent": "I want to sleep",
+    "word": "sleep",
+    "phrase": "sleep"
+   }
+  ]
+ },
+ {
+  "ep": 15,
+  "level": "A1",
+  "module": 2,
+  "title": "Hot and Cold — Your Turn",
+  "concepts": [
+   {
+    "sent": "The fire is hot",
+    "word": "fire",
+    "phrase": "The fire"
+   },
+   {
+    "sent": "The ice is cold",
+    "word": "cold",
+    "phrase": "cold"
+   },
+   {
+    "sent": "Hot. Cold",
+    "word": "cold",
+    "phrase": "cold"
+   }
+  ]
+ },
+ {
+  "ep": 16,
+  "level": "A1",
+  "module": 2,
+  "title": "I Smile — Spiral Review",
+  "concepts": [
+   {
+    "sent": "Big. Small",
+    "word": "small",
+    "phrase": "small"
+   },
+   {
+    "sent": "Open. Closed",
+    "word": "closed",
+    "phrase": "closed"
+   },
+   {
+    "sent": "The dog is funny",
+    "word": "funny",
+    "phrase": "funny"
+   }
+  ]
+ },
+ {
+  "ep": 17,
+  "level": "A1",
+  "module": 3,
+  "title": "The Kitchen",
+  "concepts": [
+   {
+    "sent": "This is the kitchen",
+    "word": "kitchen",
+    "phrase": "the kitchen"
+   },
+   {
+    "sent": "I cook here",
+    "word": "cook",
+    "phrase": "cook here"
+   },
+   {
+    "sent": "The kettle is on the stove",
+    "word": "kettle",
+    "phrase": "The kettle"
+   }
+  ]
+ },
+ {
+  "ep": 18,
+  "level": "A1",
+  "module": 3,
+  "title": "In the Fridge — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "This is the fridge",
+    "word": "fridge",
+    "phrase": "the fridge"
+   },
+   {
+    "sent": "The milk is in the fridge",
+    "word": "fridge",
+    "phrase": "the fridge"
+   },
+   {
+    "sent": "The eggs are here",
+    "word": "eggs",
+    "phrase": "The eggs"
+   }
+  ]
+ },
+ {
+  "ep": 19,
+  "level": "A1",
+  "module": 3,
+  "title": "I Make Tea — Your Turn",
+  "concepts": [
+   {
+    "sent": "First, the water",
+    "word": "first",
+    "phrase": "first"
+   },
+   {
+    "sent": "The water is hot now",
+    "word": "water",
+    "phrase": "The water"
+   },
+   {
+    "sent": "I put tea in the cup",
+    "word": "put",
+    "phrase": "put tea"
+   }
+  ]
+ },
+ {
+  "ep": 20,
+  "level": "A1",
+  "module": 3,
+  "title": "The Bathroom — Spiral Review",
+  "concepts": [
+   {
+    "sent": "I am at the door",
+    "word": "door",
+    "phrase": "the door"
+   },
+   {
+    "sent": "The tree is green",
+    "word": "green",
+    "phrase": "green"
+   },
+   {
+    "sent": "The soap is here",
+    "word": "soap",
+    "phrase": "The soap"
+   }
+  ]
+ },
+ {
+  "ep": 21,
+  "level": "A1",
+  "module": 3,
+  "title": "I Sleep Here",
+  "concepts": [
+   {
+    "sent": "This is my bedroom",
+    "word": "bedroom",
+    "phrase": "my bedroom"
+   },
+   {
+    "sent": "I sleep here",
+    "word": "sleep",
+    "phrase": "sleep here"
+   },
+   {
+    "sent": "The blanket is blue",
+    "word": "blanket",
+    "phrase": "The blanket"
+   }
+  ]
+ },
+ {
+  "ep": 22,
+  "level": "A1",
+  "module": 3,
+  "title": "The Living Room — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "This is the living room",
+    "word": "living",
+    "phrase": "the living"
+   },
+   {
+    "sent": "I sit on the sofa",
+    "word": "sofa",
+    "phrase": "the sofa"
+   },
+   {
+    "sent": "I watch TV",
+    "word": "watch",
+    "phrase": "watch TV"
+   }
+  ]
+ },
+ {
+  "ep": 23,
+  "level": "A1",
+  "module": 3,
+  "title": "Clean Clothes — Your Turn",
+  "concepts": [
+   {
+    "sent": "These are my clothes",
+    "word": "clothes",
+    "phrase": "my clothes"
+   },
+   {
+    "sent": "The shirt is clean",
+    "word": "shirt",
+    "phrase": "The shirt"
+   },
+   {
+    "sent": "The machine is on",
+    "word": "machine",
+    "phrase": "The machine"
+   }
+  ]
+ },
+ {
+  "ep": 24,
+  "level": "A1",
+  "module": 3,
+  "title": "Food at Home — Spiral Review",
+  "concepts": [
+   {
+    "sent": "I am at the door",
+    "word": "door",
+    "phrase": "the door"
+   },
+   {
+    "sent": "The tree is green",
+    "word": "green",
+    "phrase": "green"
+   },
+   {
+    "sent": "I eat with a spoon",
+    "word": "spoon",
+    "phrase": "a spoon"
+   }
+  ]
+ },
+ {
+  "ep": 25,
+  "level": "A1",
+  "module": 4,
+  "title": "My Family",
+  "concepts": [
+   {
+    "sent": "This is my family",
+    "word": "family",
+    "phrase": "my family"
+   },
+   {
+    "sent": "This is my mother",
+    "word": "mother",
+    "phrase": "my mother"
+   },
+   {
+    "sent": "This is my father",
+    "word": "father",
+    "phrase": "my father"
+   }
+  ]
+ },
+ {
+  "ep": 26,
+  "level": "A1",
+  "module": 4,
+  "title": "My Brother — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "This is my brother",
+    "word": "brother",
+    "phrase": "my brother"
+   },
+   {
+    "sent": "He is tall",
+    "word": "tall",
+    "phrase": "tall"
+   },
+   {
+    "sent": "He is funny",
+    "word": "funny",
+    "phrase": "funny"
+   }
+  ]
+ },
+ {
+  "ep": 27,
+  "level": "A1",
+  "module": 4,
+  "title": "My Sister — Your Turn",
+  "concepts": [
+   {
+    "sent": "This is my sister",
+    "word": "sister",
+    "phrase": "my sister"
+   },
+   {
+    "sent": "She is a student",
+    "word": "student",
+    "phrase": "a student"
+   },
+   {
+    "sent": "She reads a lot",
+    "word": "reads",
+    "phrase": "reads"
+   }
+  ]
+ },
+ {
+  "ep": 28,
+  "level": "A1",
+  "module": 4,
+  "title": "My Friend — Spiral Review",
+  "concepts": [
+   {
+    "sent": "The water is cold",
+    "word": "water",
+    "phrase": "The water"
+   },
+   {
+    "sent": "The cup is on the table",
+    "word": "table",
+    "phrase": "the table"
+   },
+   {
+    "sent": "We are friends",
+    "word": "friends",
+    "phrase": "friends"
+   }
+  ]
+ },
+ {
+  "ep": 29,
+  "level": "A1",
+  "module": 4,
+  "title": "Old and Young",
+  "concepts": [
+   {
+    "sent": "He is old",
+    "word": "old",
+    "phrase": "old"
+   },
+   {
+    "sent": "She is young",
+    "word": "young",
+    "phrase": "young"
+   },
+   {
+    "sent": "The baby is small",
+    "word": "small",
+    "phrase": "small"
+   }
+  ]
+ },
+ {
+  "ep": 30,
+  "level": "A1",
+  "module": 4,
+  "title": "Tall and Short — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "She is tall",
+    "word": "tall",
+    "phrase": "tall"
+   },
+   {
+    "sent": "He is short",
+    "word": "short",
+    "phrase": "short"
+   },
+   {
+    "sent": "I am not tall",
+    "word": "tall",
+    "phrase": "tall"
+   }
+  ]
+ },
+ {
+  "ep": 31,
+  "level": "A1",
+  "module": 4,
+  "title": "What Is Your Name? — Your Turn",
+  "concepts": [
+   {
+    "sent": "What is your name",
+    "word": "name",
+    "phrase": "your name"
+   },
+   {
+    "sent": "My name is Omar",
+    "word": "name",
+    "phrase": "My name"
+   },
+   {
+    "sent": "Nice to meet you",
+    "word": "nice",
+    "phrase": "nice"
+   }
+  ]
+ },
+ {
+  "ep": 32,
+  "level": "A1",
+  "module": 4,
+  "title": "This Is My Home — Spiral Review",
+  "concepts": [
+   {
+    "sent": "The water is cold",
+    "word": "water",
+    "phrase": "The water"
+   },
+   {
+    "sent": "The cup is on the table",
+    "word": "table",
+    "phrase": "the table"
+   },
+   {
+    "sent": "Sit here",
+    "word": "here",
+    "phrase": "here"
+   }
+  ]
+ },
+ {
+  "ep": 33,
+  "level": "A1",
+  "module": 5,
+  "title": "Hello and Goodbye",
+  "concepts": [
+   {
+    "sent": "Hello",
+    "word": "hello",
+    "phrase": "hello"
+   },
+   {
+    "sent": "Good morning",
+    "word": "morning",
+    "phrase": "morning"
+   },
+   {
+    "sent": "Goodbye. See you later",
+    "word": "goodbye",
+    "phrase": "Goodbye See"
+   }
+  ]
+ },
+ {
+  "ep": 34,
+  "level": "A1",
+  "module": 5,
+  "title": "How Are You? — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "I am fine, thank you",
+    "word": "thank",
+    "phrase": "thank"
+   }
+  ]
+ },
+ {
+  "ep": 35,
+  "level": "A1",
+  "module": 5,
+  "title": "Please and Thank You — Your Turn",
+  "concepts": [
+   {
+    "sent": "One bread, please",
+    "word": "bread",
+    "phrase": "bread"
+   },
+   {
+    "sent": "Thank you very much",
+    "word": "thank",
+    "phrase": "thank"
+   },
+   {
+    "sent": "You are welcome",
+    "word": "welcome",
+    "phrase": "welcome"
+   }
+  ]
+ },
+ {
+  "ep": 36,
+  "level": "A1",
+  "module": 5,
+  "title": "One, Two, Three — Spiral Review",
+  "concepts": [
+   {
+    "sent": "I am happy",
+    "word": "happy",
+    "phrase": "happy"
+   },
+   {
+    "sent": "This is my wife",
+    "word": "wife",
+    "phrase": "my wife"
+   },
+   {
+    "sent": "One, two, three, four, five",
+    "word": "three",
+    "phrase": "three four"
+   }
+  ]
+ },
+ {
+  "ep": 37,
+  "level": "A1",
+  "module": 5,
+  "title": "What Time Is It?",
+  "concepts": [
+   {
+    "sent": "What time is it",
+    "word": "time",
+    "phrase": "time"
+   },
+   {
+    "sent": "It is nine o'clock",
+    "word": "o'clock",
+    "phrase": "o'clock"
+   },
+   {
+    "sent": "It is late",
+    "word": "late",
+    "phrase": "late"
+   }
+  ]
+ },
+ {
+  "ep": 38,
+  "level": "A1",
+  "module": 5,
+  "title": "Excuse Me, Sorry — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "Excuse me",
+    "word": "excuse",
+    "phrase": "excuse"
+   },
+   {
+    "sent": "I am sorry",
+    "word": "sorry",
+    "phrase": "sorry"
+   },
+   {
+    "sent": "No problem",
+    "word": "problem",
+    "phrase": "problem"
+   }
+  ]
+ },
+ {
+  "ep": 39,
+  "level": "A1",
+  "module": 5,
+  "title": "Yes and No — Your Turn",
+  "concepts": [
+   {
+    "sent": "No, thank you",
+    "word": "thank",
+    "phrase": "thank"
+   },
+   {
+    "sent": "Yes, I like it",
+    "word": "like",
+    "phrase": "like"
+   }
+  ]
+ },
+ {
+  "ep": 40,
+  "level": "A1",
+  "module": 5,
+  "title": "I Don't Understand — Spiral Review",
+  "concepts": [
+   {
+    "sent": "I am happy",
+    "word": "happy",
+    "phrase": "happy"
+   },
+   {
+    "sent": "This is my wife",
+    "word": "wife",
+    "phrase": "my wife"
+   },
+   {
+    "sent": "Slowly, please",
+    "word": "slowly",
+    "phrase": "slowly"
+   }
+  ]
+ },
+ {
+  "ep": 41,
+  "level": "A2",
+  "module": 6,
+  "title": "I Wake Up at Seven",
+  "concepts": [
+   {
+    "sent": "I wake up at seven",
+    "word": "seven",
+    "phrase": "seven"
+   },
+   {
+    "sent": "First, I check my phone",
+    "word": "first",
+    "phrase": "first"
+   },
+   {
+    "sent": "Then I get out of bed",
+    "word": "bed",
+    "phrase": "bed"
+   }
+  ]
+ },
+ {
+  "ep": 42,
+  "level": "A2",
+  "module": 6,
+  "title": "Morning Routine — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "I brush my teeth",
+    "word": "brush",
+    "phrase": "brush"
+   },
+   {
+    "sent": "I take a shower",
+    "word": "shower",
+    "phrase": "a shower"
+   },
+   {
+    "sent": "I get dressed in ten minutes",
+    "word": "dressed",
+    "phrase": "dressed"
+   }
+  ]
+ },
+ {
+  "ep": 43,
+  "level": "A2",
+  "module": 6,
+  "title": "Breakfast, Kind Of — Your Turn",
+  "concepts": [
+   {
+    "sent": "I just have coffee and toast",
+    "word": "coffee",
+    "phrase": "coffee"
+   },
+   {
+    "sent": "I eat it standing up",
+    "word": "standing",
+    "phrase": "standing"
+   },
+   {
+    "sent": "I'm always in a hurry",
+    "word": "always",
+    "phrase": "always"
+   }
+  ]
+ },
+ {
+  "ep": 44,
+  "level": "A2",
+  "module": 6,
+  "title": "Off to Work — Spiral Review",
+  "concepts": [
+   {
+    "sent": "Now I drink my tea",
+    "word": "drink",
+    "phrase": "drink"
+   },
+   {
+    "sent": "No, not today",
+    "word": "today",
+    "phrase": "today"
+   },
+   {
+    "sent": "The streets are busy today",
+    "word": "streets",
+    "phrase": "The streets"
+   }
+  ]
+ },
+ {
+  "ep": 45,
+  "level": "A2",
+  "module": 6,
+  "title": "Lunch Break",
+  "concepts": [
+   {
+    "sent": "I take a break at one",
+    "word": "break",
+    "phrase": "a break"
+   },
+   {
+    "sent": "I usually eat with my team",
+    "word": "usually",
+    "phrase": "usually eat"
+   },
+   {
+    "sent": "We talk about everything except work",
+    "word": "everything",
+    "phrase": "everything except"
+   }
+  ]
+ },
+ {
+  "ep": 46,
+  "level": "A2",
+  "module": 6,
+  "title": "The Evening Wind-Down — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "I get home around six",
+    "word": "around",
+    "phrase": "around six"
+   },
+   {
+    "sent": "I cook something simple",
+    "word": "something",
+    "phrase": "something simple"
+   },
+   {
+    "sent": "After dinner, I watch a series",
+    "word": "dinner",
+    "phrase": "dinner"
+   }
+  ]
+ },
+ {
+  "ep": 47,
+  "level": "A2",
+  "module": 6,
+  "title": "Sundays Are Different — Your Turn",
+  "concepts": [
+   {
+    "sent": "On Sundays, I sleep in",
+    "word": "sundays",
+    "phrase": "sundays"
+   },
+   {
+    "sent": "I don't set an alarm",
+    "word": "don't",
+    "phrase": "don't set"
+   },
+   {
+    "sent": "I clean the house a little",
+    "word": "little",
+    "phrase": "a little"
+   }
+  ]
+ },
+ {
+  "ep": 48,
+  "level": "A2",
+  "module": 6,
+  "title": "How Often? — Spiral Review",
+  "concepts": [
+   {
+    "sent": "Now I drink my tea",
+    "word": "drink",
+    "phrase": "drink"
+   },
+   {
+    "sent": "No, not today",
+    "word": "today",
+    "phrase": "today"
+   },
+   {
+    "sent": "I rarely eat out",
+    "word": "rarely",
+    "phrase": "rarely eat"
+   }
+  ]
+ },
+ {
+  "ep": 49,
+  "level": "A2",
+  "module": 7,
+  "title": "Where Is the Station?",
+  "concepts": [
+   {
+    "sent": "Excuse me, where is the train station",
+    "word": "station",
+    "phrase": "station"
+   },
+   {
+    "sent": "Go straight, then turn left",
+    "word": "straight",
+    "phrase": "straight"
+   },
+   {
+    "sent": "It's about five minutes on foot",
+    "word": "minutes",
+    "phrase": "minutes"
+   }
+  ]
+ },
+ {
+  "ep": 50,
+  "level": "A2",
+  "module": 7,
+  "title": "Taking the Bus — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "Which bus goes to the city center",
+    "word": "center",
+    "phrase": "center"
+   },
+   {
+    "sent": "The number twelve, I think",
+    "word": "number",
+    "phrase": "The number"
+   },
+   {
+    "sent": "You need to buy a ticket first",
+    "word": "ticket",
+    "phrase": "a ticket"
+   }
+  ]
+ },
+ {
+  "ep": 51,
+  "level": "A2",
+  "module": 7,
+  "title": "On Foot — Your Turn",
+  "concepts": [
+   {
+    "sent": "Cross the street at the lights",
+    "word": "street",
+    "phrase": "the street"
+   },
+   {
+    "sent": "Walk past the bank",
+    "word": "walk",
+    "phrase": "Walk past"
+   },
+   {
+    "sent": "It's the building next to the pharmacy",
+    "word": "building",
+    "phrase": "the building"
+   }
+  ]
+ },
+ {
+  "ep": 52,
+  "level": "A2",
+  "module": 7,
+  "title": "By Taxi — Spiral Review",
+  "concepts": [
+   {
+    "sent": "The film is good",
+    "word": "film",
+    "phrase": "The film"
+   },
+   {
+    "sent": "I'm asleep by eleven, mostly",
+    "word": "asleep",
+    "phrase": "asleep"
+   },
+   {
+    "sent": "Around thirty minutes without traffic",
+    "word": "minutes",
+    "phrase": "minutes without"
+   }
+  ]
+ },
+ {
+  "ep": 53,
+  "level": "A2",
+  "module": 7,
+  "title": "Landmarks",
+  "concepts": [
+   {
+    "sent": "Meet me at the fountain",
+    "word": "fountain",
+    "phrase": "the fountain"
+   },
+   {
+    "sent": "It's opposite the clock tower",
+    "word": "opposite",
+    "phrase": "opposite"
+   },
+   {
+    "sent": "There's a big blue sign",
+    "word": "there's",
+    "phrase": "there's"
+   }
+  ]
+ },
+ {
+  "ep": 54,
+  "level": "A2",
+  "module": 7,
+  "title": "The Metro — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "Take the red line, direction north",
+    "word": "direction",
+    "phrase": "direction north"
+   },
+   {
+    "sent": "Change at Central Station",
+    "word": "central",
+    "phrase": "Central Station"
+   },
+   {
+    "sent": "The trains come every four minutes",
+    "word": "minutes",
+    "phrase": "minutes"
+   }
+  ]
+ },
+ {
+  "ep": 55,
+  "level": "A2",
+  "module": 7,
+  "title": "Asking for Help — Your Turn",
+  "concepts": [
+   {
+    "sent": "Could you show me on the map",
+    "word": "show",
+    "phrase": "show"
+   },
+   {
+    "sent": "I'm a bit lost, actually",
+    "word": "actually",
+    "phrase": "actually"
+   },
+   {
+    "sent": "Sure, we're here, and you want to go here",
+    "word": "we're",
+    "phrase": "we're here"
+   }
+  ]
+ },
+ {
+  "ep": 56,
+  "level": "A2",
+  "module": 7,
+  "title": "First Time in the City — Spiral Review",
+  "concepts": [
+   {
+    "sent": "The film is good",
+    "word": "film",
+    "phrase": "The film"
+   },
+   {
+    "sent": "I'm asleep by eleven, mostly",
+    "word": "asleep",
+    "phrase": "asleep"
+   },
+   {
+    "sent": "Everything is within walking distance",
+    "word": "everything",
+    "phrase": "everything"
+   }
+  ]
+ },
+ {
+  "ep": 57,
+  "level": "A2",
+  "module": 8,
+  "title": "How Much Is It?",
+  "concepts": [
+   {
+    "sent": "How much are the oranges",
+    "word": "oranges",
+    "phrase": "the oranges"
+   },
+   {
+    "sent": "They're three dollars a kilo",
+    "word": "they're",
+    "phrase": "They're three"
+   },
+   {
+    "sent": "That's a good price",
+    "word": "that's",
+    "phrase": "that's"
+   }
+  ]
+ },
+ {
+  "ep": 58,
+  "level": "A2",
+  "module": 8,
+  "title": "I Like This One — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "Do you have it in blue",
+    "word": "blue",
+    "phrase": "blue"
+   },
+   {
+    "sent": "I like this one better",
+    "word": "better",
+    "phrase": "better"
+   },
+   {
+    "sent": "Sorry, blue is out of stock",
+    "word": "sorry",
+    "phrase": "Sorry blue"
+   }
+  ]
+ },
+ {
+  "ep": 59,
+  "level": "A2",
+  "module": 8,
+  "title": "At the Cafe — Your Turn",
+  "concepts": [
+   {
+    "sent": "Can I get a large coffee, please",
+    "word": "coffee",
+    "phrase": "coffee"
+   },
+   {
+    "sent": "For here or to go",
+    "word": "here",
+    "phrase": "here"
+   }
+  ]
+ },
+ {
+  "ep": 60,
+  "level": "A2",
+  "module": 8,
+  "title": "It's Too Expensive — Spiral Review",
+  "concepts": [
+   {
+    "sent": "We are happy",
+    "word": "happy",
+    "phrase": "happy"
+   },
+   {
+    "sent": "You'll see it right away",
+    "word": "you'll",
+    "phrase": "You'll see"
+   },
+   {
+    "sent": "The sale section is over there",
+    "word": "section",
+    "phrase": "section"
+   }
+  ]
+ },
+ {
+  "ep": 61,
+  "level": "A2",
+  "module": 8,
+  "title": "Paying",
+  "concepts": [
+   {
+    "sent": "Card or cash",
+    "word": "card",
+    "phrase": "card"
+   },
+   {
+    "sent": "Card, please",
+    "word": "card",
+    "phrase": "card"
+   },
+   {
+    "sent": "Do you want a receipt",
+    "word": "receipt",
+    "phrase": "a receipt"
+   }
+  ]
+ },
+ {
+  "ep": 62,
+  "level": "A2",
+  "module": 8,
+  "title": "The Grocery List — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "We need milk and bread",
+    "word": "bread",
+    "phrase": "bread"
+   },
+   {
+    "sent": "Don't forget the eggs",
+    "word": "forget",
+    "phrase": "forget"
+   },
+   {
+    "sent": "We're out of coffee again",
+    "word": "coffee",
+    "phrase": "coffee again"
+   }
+  ]
+ },
+ {
+  "ep": 63,
+  "level": "A2",
+  "module": 8,
+  "title": "Trying Things On — Your Turn",
+  "concepts": [
+   {
+    "sent": "Can I try this on",
+    "word": "try",
+    "phrase": "try"
+   },
+   {
+    "sent": "The fitting rooms are over there",
+    "word": "fitting",
+    "phrase": "The fitting"
+   },
+   {
+    "sent": "It fits well, but it's a bit tight",
+    "word": "tight",
+    "phrase": "tight"
+   }
+  ]
+ },
+ {
+  "ep": 64,
+  "level": "A2",
+  "module": 8,
+  "title": "Street Food — Spiral Review",
+  "concepts": [
+   {
+    "sent": "We are happy",
+    "word": "happy",
+    "phrase": "happy"
+   },
+   {
+    "sent": "You'll see it right away",
+    "word": "you'll",
+    "phrase": "You'll see"
+   },
+   {
+    "sent": "Spicy, but not too spicy",
+    "word": "spicy",
+    "phrase": "spicy"
+   }
+  ]
+ },
+ {
+  "ep": 65,
+  "level": "A2",
+  "module": 9,
+  "title": "Yesterday",
+  "concepts": [
+   {
+    "sent": "Yesterday was a long day",
+    "word": "yesterday",
+    "phrase": "yesterday"
+   },
+   {
+    "sent": "I worked until seven",
+    "word": "worked",
+    "phrase": "worked until"
+   },
+   {
+    "sent": "Then I met an old friend for dinner",
+    "word": "friend",
+    "phrase": "friend"
+   }
+  ]
+ },
+ {
+  "ep": 66,
+  "level": "A2",
+  "module": 9,
+  "title": "Last Weekend — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "Last weekend, we went to the lake",
+    "word": "weekend",
+    "phrase": "weekend"
+   },
+   {
+    "sent": "The weather was perfect",
+    "word": "weather",
+    "phrase": "The weather"
+   },
+   {
+    "sent": "We stayed until sunset",
+    "word": "stayed",
+    "phrase": "stayed until"
+   }
+  ]
+ },
+ {
+  "ep": 67,
+  "level": "A2",
+  "module": 9,
+  "title": "Tomorrow's Plan — Your Turn",
+  "concepts": [
+   {
+    "sent": "Tomorrow, I'm meeting Sara at noon",
+    "word": "tomorrow",
+    "phrase": "Tomorrow I'm"
+   },
+   {
+    "sent": "After that, I have a dentist appointment",
+    "word": "appointment",
+    "phrase": "appointment"
+   },
+   {
+    "sent": "In the evening, I'm cooking for friends",
+    "word": "evening",
+    "phrase": "the evening"
+   }
+  ]
+ },
+ {
+  "ep": 68,
+  "level": "A2",
+  "module": 9,
+  "title": "Going To — Spiral Review",
+  "concepts": [
+   {
+    "sent": "We walk in the park",
+    "word": "walk",
+    "phrase": "walk"
+   },
+   {
+    "sent": "Actually, this one is on sale",
+    "word": "actually",
+    "phrase": "actually"
+   },
+   {
+    "sent": "I'm not going to check my work email",
+    "word": "going",
+    "phrase": "going"
+   }
+  ]
+ },
+ {
+  "ep": 69,
+  "level": "A2",
+  "module": 9,
+  "title": "When I Was Young",
+  "concepts": [
+   {
+    "sent": "When I was a child, we lived by the sea",
+    "word": "child",
+    "phrase": "a child"
+   },
+   {
+    "sent": "I was very shy",
+    "word": "shy",
+    "phrase": "shy"
+   },
+   {
+    "sent": "We didn't have a car",
+    "word": "didn't",
+    "phrase": "didn't"
+   }
+  ]
+ },
+ {
+  "ep": 70,
+  "level": "A2",
+  "module": 9,
+  "title": "Making Arrangements — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "Does that work for you",
+    "word": "work",
+    "phrase": "work"
+   },
+   {
+    "sent": "Let's meet on Thursday at six",
+    "word": "thursday",
+    "phrase": "thursday"
+   },
+   {
+    "sent": "Thursday is fine",
+    "word": "thursday",
+    "phrase": "thursday"
+   }
+  ]
+ },
+ {
+  "ep": 71,
+  "level": "A2",
+  "module": 9,
+  "title": "Promises and Predictions — Your Turn",
+  "concepts": [
+   {
+    "sent": "I'll help you move on Saturday",
+    "word": "saturday",
+    "phrase": "saturday"
+   },
+   {
+    "sent": "Don't worry, it'll be fine",
+    "word": "don't",
+    "phrase": "Don't worry"
+   },
+   {
+    "sent": "I think it'll rain tomorrow",
+    "word": "tomorrow",
+    "phrase": "tomorrow"
+   }
+  ]
+ },
+ {
+  "ep": 72,
+  "level": "A2",
+  "module": 9,
+  "title": "Yet and Already — Spiral Review",
+  "concepts": [
+   {
+    "sent": "We walk in the park",
+    "word": "walk",
+    "phrase": "walk"
+   },
+   {
+    "sent": "Actually, this one is on sale",
+    "word": "actually",
+    "phrase": "actually"
+   },
+   {
+    "sent": "I haven't started the presentation",
+    "word": "presentation",
+    "phrase": "the presentation"
+   }
+  ]
+ },
+ {
+  "ep": 73,
+  "level": "B1",
+  "module": 10,
+  "title": "Where I'm From",
+  "concepts": [
+   {
+    "sent": "I grew up in a coastal town, about two hours from the capital",
+    "word": "coastal",
+    "phrase": "a coastal"
+   },
+   {
+    "sent": "It was the kind of place where everyone knew everyone",
+    "word": "everyone",
+    "phrase": "everyone knew"
+   },
+   {
+    "sent": "I moved away when I was nineteen, and I never really went back",
+    "word": "nineteen",
+    "phrase": "nineteen"
+   }
+  ]
+ },
+ {
+  "ep": 74,
+  "level": "B1",
+  "module": 10,
+  "title": "School Days — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "I wasn't a great student, to be honest",
+    "word": "student",
+    "phrase": "student"
+   },
+   {
+    "sent": "I was fine at math, but I hated sitting still",
+    "word": "sitting",
+    "phrase": "sitting still"
+   },
+   {
+    "sent": "My literature teacher changed everything for me",
+    "word": "literature",
+    "phrase": "My literature"
+   }
+  ]
+ },
+ {
+  "ep": 75,
+  "level": "B1",
+  "module": 10,
+  "title": "My First Job — Your Turn",
+  "concepts": [
+   {
+    "sent": "My first job was at a bookstore when I was sixteen",
+    "word": "bookstore",
+    "phrase": "a bookstore"
+   },
+   {
+    "sent": "I earned almost nothing, but I read half the shop",
+    "word": "nothing",
+    "phrase": "nothing"
+   },
+   {
+    "sent": "I learned how to talk to strangers there",
+    "word": "strangers",
+    "phrase": "strangers"
+   }
+  ]
+ },
+ {
+  "ep": 76,
+  "level": "B1",
+  "module": 10,
+  "title": "The Big Move — Spiral Review",
+  "concepts": [
+   {
+    "sent": "Her name is Lena",
+    "word": "name",
+    "phrase": "Her name"
+   },
+   {
+    "sent": "It's going to be a full day",
+    "word": "going",
+    "phrase": "going"
+   },
+   {
+    "sent": "Then, slowly, it started to feel like home",
+    "word": "started",
+    "phrase": "started"
+   }
+  ]
+ },
+ {
+  "ep": 77,
+  "level": "B1",
+  "module": 10,
+  "title": "A Turning Point",
+  "concepts": [
+   {
+    "sent": "There was one moment that changed my career",
+    "word": "changed",
+    "phrase": "changed"
+   },
+   {
+    "sent": "My manager told me I was ready for more responsibility",
+    "word": "responsibility",
+    "phrase": "responsibility"
+   },
+   {
+    "sent": "I didn't believe it at first",
+    "word": "believe",
+    "phrase": "believe"
+   }
+  ]
+ },
+ {
+  "ep": 78,
+  "level": "B1",
+  "module": 10,
+  "title": "A Trip I'll Never Forget — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "A few years ago, I took a train across the mountains",
+    "word": "mountains",
+    "phrase": "the mountains"
+   },
+   {
+    "sent": "The plan fell apart on day two, honestly",
+    "word": "honestly",
+    "phrase": "honestly"
+   },
+   {
+    "sent": "The hotel was overbooked, and I slept in a village inn instead",
+    "word": "overbooked",
+    "phrase": "overbooked"
+   }
+  ]
+ },
+ {
+  "ep": 79,
+  "level": "B1",
+  "module": 10,
+  "title": "People Who Shaped Me — Your Turn",
+  "concepts": [
+   {
+    "sent": "My grandfather taught me patience, mostly through chess",
+    "word": "grandfather",
+    "phrase": "My grandfather"
+   },
+   {
+    "sent": "He never rushed a move, and he never rushed me",
+    "word": "rushed",
+    "phrase": "rushed"
+   },
+   {
+    "sent": "I still hear his voice when I'm about to decide in a hurry",
+    "word": "decide",
+    "phrase": "decide"
+   }
+  ]
+ },
+ {
+  "ep": 80,
+  "level": "B1",
+  "module": 10,
+  "title": "How I've Changed — Spiral Review",
+  "concepts": [
+   {
+    "sent": "Her name is Lena",
+    "word": "name",
+    "phrase": "Her name"
+   },
+   {
+    "sent": "It's going to be a full day",
+    "word": "going",
+    "phrase": "going"
+   },
+   {
+    "sent": "Now I try to ask questions before reacting",
+    "word": "questions",
+    "phrase": "questions before"
+   }
+  ]
+ },
+ {
+  "ep": 81,
+  "level": "B1",
+  "module": 11,
+  "title": "What I Do",
+  "concepts": [
+   {
+    "sent": "I work as a product designer at a mid-size software company",
+    "word": "designer",
+    "phrase": "designer"
+   },
+   {
+    "sent": "Basically, I turn messy requirements into interfaces people can actually use",
+    "word": "requirements",
+    "phrase": "requirements into"
+   },
+   {
+    "sent": "Half the job is talking, not drawing",
+    "word": "talking",
+    "phrase": "talking"
+   }
+  ]
+ },
+ {
+  "ep": 82,
+  "level": "B1",
+  "module": 11,
+  "title": "A Typical Day at Work — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "My mornings are for deep work, if I'm lucky",
+    "word": "mornings",
+    "phrase": "My mornings"
+   },
+   {
+    "sent": "Afternoons are usually meetings",
+    "word": "afternoons",
+    "phrase": "afternoons"
+   },
+   {
+    "sent": "I try to protect two hours a day with no interruptions",
+    "word": "interruptions",
+    "phrase": "interruptions"
+   }
+  ]
+ },
+ {
+  "ep": 83,
+  "level": "B1",
+  "module": 11,
+  "title": "Skills I'm Building — Your Turn",
+  "concepts": [
+   {
+    "sent": "I'm currently learning data analysis on the side",
+    "word": "currently",
+    "phrase": "currently learning"
+   },
+   {
+    "sent": "It's slow going, but I can already feel it paying off",
+    "word": "already",
+    "phrase": "already feel"
+   },
+   {
+    "sent": "My goal is to be fluent in it within a year",
+    "word": "fluent",
+    "phrase": "fluent"
+   }
+  ]
+ },
+ {
+  "ep": 84,
+  "level": "B1",
+  "module": 11,
+  "title": "Applying for a Job — Spiral Review",
+  "concepts": [
+   {
+    "sent": "I am very well",
+    "word": "well",
+    "phrase": "well"
+   },
+   {
+    "sent": "She made me believe I was good at something",
+    "word": "something",
+    "phrase": "something"
+   },
+   {
+    "sent": "I got three callbacks last week",
+    "word": "callbacks",
+    "phrase": "callbacks last"
+   }
+  ]
+ },
+ {
+  "ep": 85,
+  "level": "B1",
+  "module": 11,
+  "title": "The Interview",
+  "concepts": [
+   {
+    "sent": "Tell me about a project you're proud of",
+    "word": "project",
+    "phrase": "a project"
+   },
+   {
+    "sent": "I led a redesign that cut support tickets by thirty percent",
+    "word": "redesign",
+    "phrase": "a redesign"
+   },
+   {
+    "sent": "The challenge wasn't the design, it was getting buy-in",
+    "word": "challenge",
+    "phrase": "The challenge"
+   }
+  ]
+ },
+ {
+  "ep": 86,
+  "level": "B1",
+  "module": 11,
+  "title": "Ambitions — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "In five years, I'd like to lead a small team",
+    "word": "years",
+    "phrase": "years I'd"
+   },
+   {
+    "sent": "Not for the title, more for the leverage",
+    "word": "leverage",
+    "phrase": "the leverage"
+   },
+   {
+    "sent": "I want to build things that outlast my involvement",
+    "word": "involvement",
+    "phrase": "my involvement"
+   }
+  ]
+ },
+ {
+  "ep": 87,
+  "level": "B1",
+  "module": 11,
+  "title": "Working in a Team — Your Turn",
+  "concepts": [
+   {
+    "sent": "Our team works well because we disagree openly",
+    "word": "disagree",
+    "phrase": "disagree openly"
+   },
+   {
+    "sent": "Nobody takes it personally, which took time",
+    "word": "personally",
+    "phrase": "personally"
+   },
+   {
+    "sent": "We split work by strengths, not by fairness",
+    "word": "strengths",
+    "phrase": "strengths"
+   }
+  ]
+ },
+ {
+  "ep": 88,
+  "level": "B1",
+  "module": 11,
+  "title": "A Setback — Spiral Review",
+  "concepts": [
+   {
+    "sent": "I am very well",
+    "word": "well",
+    "phrase": "well"
+   },
+   {
+    "sent": "She made me believe I was good at something",
+    "word": "something",
+    "phrase": "something"
+   },
+   {
+    "sent": "Then we regrouped and rebuilt around smaller accounts",
+    "word": "regrouped",
+    "phrase": "regrouped"
+   }
+  ]
+ },
+ {
+  "ep": 89,
+  "level": "B1",
+  "module": 12,
+  "title": "I See It Differently",
+  "concepts": [
+   {
+    "sent": "I see your point, but I read the data differently",
+    "word": "differently",
+    "phrase": "differently"
+   },
+   {
+    "sent": "The numbers suggest the opposite, actually",
+    "word": "opposite",
+    "phrase": "the opposite"
+   },
+   {
+    "sent": "Maybe we're looking at different segments",
+    "word": "different",
+    "phrase": "different segments"
+   }
+  ]
+ },
+ {
+  "ep": 90,
+  "level": "B1",
+  "module": 12,
+  "title": "Strong Opinions, Gently Held — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "What's your take on it",
+    "word": "what's",
+    "phrase": "what's"
+   },
+   {
+    "sent": "Honestly, I think remote work is here to stay",
+    "word": "honestly",
+    "phrase": "honestly"
+   },
+   {
+    "sent": "Offices will shrink, not disappear",
+    "word": "disappear",
+    "phrase": "disappear"
+   }
+  ]
+ },
+ {
+  "ep": 91,
+  "level": "B1",
+  "module": 12,
+  "title": "Agreeing Enthusiastically — Your Turn",
+  "concepts": [
+   {
+    "sent": "Exactly! That's what I've been saying",
+    "word": "exactly",
+    "phrase": "Exactly That's"
+   },
+   {
+    "sent": "You've put it perfectly",
+    "word": "perfectly",
+    "phrase": "perfectly"
+   },
+   {
+    "sent": "I couldn't agree more",
+    "word": "couldn't",
+    "phrase": "couldn't agree"
+   }
+  ]
+ },
+ {
+  "ep": 92,
+  "level": "B1",
+  "module": 12,
+  "title": "Disagreeing Politely — Spiral Review",
+  "concepts": [
+   {
+    "sent": "Can I offer another angle",
+    "word": "another",
+    "phrase": "another angle"
+   },
+   {
+    "sent": "It is early",
+    "word": "early",
+    "phrase": "early"
+   },
+   {
+    "sent": "The drawing is the easy part, honestly",
+    "word": "honestly",
+    "phrase": "honestly"
+   }
+  ]
+ },
+ {
+  "ep": 93,
+  "level": "B1",
+  "module": 12,
+  "title": "When You're Upset",
+  "concepts": [
+   {
+    "sent": "I'm a bit hurt, to be honest",
+    "word": "honest",
+    "phrase": "honest"
+   },
+   {
+    "sent": "It's not the decision, it's how I found out",
+    "word": "decision",
+    "phrase": "the decision"
+   },
+   {
+    "sent": "I need a day to think about it",
+    "word": "think",
+    "phrase": "think"
+   }
+  ]
+ },
+ {
+  "ep": 94,
+  "level": "B1",
+  "module": 12,
+  "title": "Giving Advice — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "If I were you, I'd wait a week before answering",
+    "word": "answering",
+    "phrase": "answering"
+   },
+   {
+    "sent": "Don't reply while you're angry",
+    "word": "you're",
+    "phrase": "you're angry"
+   },
+   {
+    "sent": "Whatever you decide, decide it rested",
+    "word": "whatever",
+    "phrase": "whatever"
+   }
+  ]
+ },
+ {
+  "ep": 95,
+  "level": "B1",
+  "module": 12,
+  "title": "Talking About Feelings — Your Turn",
+  "concepts": [
+   {
+    "sent": "I've been feeling a bit overwhelmed lately",
+    "word": "overwhelmed",
+    "phrase": "overwhelmed lately"
+   },
+   {
+    "sent": "It's nothing dramatic, just too many open loops",
+    "word": "dramatic",
+    "phrase": "dramatic"
+   },
+   {
+    "sent": "Saying it out loud helps, actually",
+    "word": "actually",
+    "phrase": "actually"
+   }
+  ]
+ },
+ {
+  "ep": 96,
+  "level": "B1",
+  "module": 12,
+  "title": "Making Peace — Spiral Review",
+  "concepts": [
+   {
+    "sent": "No hard feelings",
+    "word": "feelings",
+    "phrase": "feelings"
+   },
+   {
+    "sent": "It is early",
+    "word": "early",
+    "phrase": "early"
+   },
+   {
+    "sent": "The drawing is the easy part, honestly",
+    "word": "honestly",
+    "phrase": "honestly"
+   }
+  ]
+ },
+ {
+  "ep": 97,
+  "level": "B1",
+  "module": 13,
+  "title": "Lost Keys",
+  "concepts": [
+   {
+    "sent": "I can't find my keys anywhere",
+    "word": "anywhere",
+    "phrase": "anywhere"
+   },
+   {
+    "sent": "I've checked every pocket twice",
+    "word": "checked",
+    "phrase": "checked every"
+   },
+   {
+    "sent": "The last time I saw them was at the cafe",
+    "word": "last",
+    "phrase": "The last"
+   }
+  ]
+ },
+ {
+  "ep": 98,
+  "level": "B1",
+  "module": 13,
+  "title": "The Train Is Delayed — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "The train's been delayed by forty minutes",
+    "word": "train's",
+    "phrase": "The train's"
+   },
+   {
+    "sent": "There's replacement bus service, apparently",
+    "word": "replacement",
+    "phrase": "replacement bus"
+   },
+   {
+    "sent": "I'm going to miss my connection",
+    "word": "connection",
+    "phrase": "my connection"
+   }
+  ]
+ },
+ {
+  "ep": 99,
+  "level": "B1",
+  "module": 13,
+  "title": "Broken Phone — Your Turn",
+  "concepts": [
+   {
+    "sent": "I dropped my phone and cracked the screen",
+    "word": "dropped",
+    "phrase": "dropped"
+   },
+   {
+    "sent": "It still works, mostly",
+    "word": "mostly",
+    "phrase": "mostly"
+   },
+   {
+    "sent": "The repair quote was almost the price of a new one",
+    "word": "repair",
+    "phrase": "The repair"
+   }
+  ]
+ },
+ {
+  "ep": 100,
+  "level": "B1",
+  "module": 13,
+  "title": "Wrong Order — Spiral Review",
+  "concepts": [
+   {
+    "sent": "OK. Now I understand",
+    "word": "understand",
+    "phrase": "understand"
+   },
+   {
+    "sent": "Looking back, it forced us to get better",
+    "word": "looking",
+    "phrase": "Looking back"
+   },
+   {
+    "sent": "No problem at all, I'll fix it right away",
+    "word": "problem",
+    "phrase": "problem"
+   }
+  ]
+ },
+ {
+  "ep": 101,
+  "level": "B1",
+  "module": 13,
+  "title": "Locked Out",
+  "concepts": [
+   {
+    "sent": "I've locked myself out",
+    "word": "locked",
+    "phrase": "locked myself"
+   },
+   {
+    "sent": "My spare key is with a neighbor who's traveling",
+    "word": "traveling",
+    "phrase": "traveling"
+   },
+   {
+    "sent": "The locksmith quoted me an hour and a small fortune",
+    "word": "locksmith",
+    "phrase": "The locksmith"
+   }
+  ]
+ },
+ {
+  "ep": 102,
+  "level": "B1",
+  "module": 13,
+  "title": "A Flat Tire — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "I got a flat on the highway",
+    "word": "highway",
+    "phrase": "the highway"
+   },
+   {
+    "sent": "I managed to pull over safely",
+    "word": "managed",
+    "phrase": "managed"
+   },
+   {
+    "sent": "The spare is under the trunk floor, thankfully",
+    "word": "thankfully",
+    "phrase": "thankfully"
+   }
+  ]
+ },
+ {
+  "ep": 103,
+  "level": "B1",
+  "module": 13,
+  "title": "The File That Vanished — Your Turn",
+  "concepts": [
+   {
+    "sent": "The final version of the file is gone",
+    "word": "version",
+    "phrase": "version"
+   },
+   {
+    "sent": "I've searched every folder, I promise",
+    "word": "searched",
+    "phrase": "searched every"
+   },
+   {
+    "sent": "It turns out I saved it to the wrong drive",
+    "word": "turns",
+    "phrase": "turns"
+   }
+  ]
+ },
+ {
+  "ep": 104,
+  "level": "B1",
+  "module": 13,
+  "title": "Asking for Help Gracefully — Spiral Review",
+  "concepts": [
+   {
+    "sent": "Of course, what's the problem",
+    "word": "problem",
+    "phrase": "the problem"
+   },
+   {
+    "sent": "OK. Now I understand",
+    "word": "understand",
+    "phrase": "understand"
+   },
+   {
+    "sent": "Looking back, it forced us to get better",
+    "word": "looking",
+    "phrase": "Looking back"
+   }
+  ]
+ },
+ {
+  "ep": 105,
+  "level": "B2",
+  "module": 14,
+  "title": "Reading Between the Lines",
+  "concepts": [
+   {
+    "sent": "'Per my last email' actually means 'you didn't read it.'",
+    "word": "actually",
+    "phrase": "actually means"
+   },
+   {
+    "sent": "'Let's take this offline' means 'not in front of everyone.'",
+    "word": "offline'",
+    "phrase": "offline' means"
+   },
+   {
+    "sent": "'With all due respect' usually announces a disagreement",
+    "word": "disagreement",
+    "phrase": "a disagreement"
+   }
+  ]
+ },
+ {
+  "ep": 106,
+  "level": "B2",
+  "module": 14,
+  "title": "Sarcasm at Work — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "You can hear the irony, right",
+    "word": "irony",
+    "phrase": "the irony"
+   },
+   {
+    "sent": "Oh great, another Monday surprise",
+    "word": "surprise",
+    "phrase": "surprise"
+   },
+   {
+    "sent": "Well, that went smoothly",
+    "word": "smoothly",
+    "phrase": "smoothly"
+   }
+  ]
+ },
+ {
+  "ep": 107,
+  "level": "B2",
+  "module": 14,
+  "title": "The Art of the Soft No — Your Turn",
+  "concepts": [
+   {
+    "sent": "Can we revisit it next quarter",
+    "word": "revisit",
+    "phrase": "revisit"
+   },
+   {
+    "sent": "I'd love to, but I'm stretched thin this month",
+    "word": "stretched",
+    "phrase": "stretched thin"
+   },
+   {
+    "sent": "Let me check my capacity and come back to you",
+    "word": "capacity",
+    "phrase": "my capacity"
+   }
+  ]
+ },
+ {
+  "ep": 108,
+  "level": "B2",
+  "module": 14,
+  "title": "Small Talk, Real Function — Spiral Review",
+  "concepts": [
+   {
+    "sent": "How's the family keeping",
+    "word": "keeping",
+    "phrase": "keeping"
+   },
+   {
+    "sent": "It's not a big breakfast, but it works",
+    "word": "breakfast",
+    "phrase": "breakfast"
+   },
+   {
+    "sent": "Thanks for listening",
+    "word": "listening",
+    "phrase": "listening"
+   }
+  ]
+ },
+ {
+  "ep": 109,
+  "level": "B2",
+  "module": 14,
+  "title": "Polite Indirectness",
+  "concepts": [
+   {
+    "sent": "Are those cookies going to be finished",
+    "word": "finished",
+    "phrase": "finished"
+   },
+   {
+    "sent": "I wouldn't say no to a coffee",
+    "word": "wouldn't",
+    "phrase": "wouldn't say"
+   },
+   {
+    "sent": "It's getting a bit chilly in here, isn't it",
+    "word": "getting",
+    "phrase": "getting"
+   }
+  ]
+ },
+ {
+  "ep": 110,
+  "level": "B2",
+  "module": 14,
+  "title": "Humor Across Cultures — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "Humor is the hardest part of a language",
+    "word": "language",
+    "phrase": "a language"
+   },
+   {
+    "sent": "The words translate; the timing doesn't",
+    "word": "translate",
+    "phrase": "translate"
+   },
+   {
+    "sent": "Self-deprecating humor works almost everywhere",
+    "word": "deprecating",
+    "phrase": "deprecating humor"
+   }
+  ]
+ },
+ {
+  "ep": 111,
+  "level": "B2",
+  "module": 14,
+  "title": "Understatement — Your Turn",
+  "concepts": [
+   {
+    "sent": "It's a bit breezy out",
+    "word": "breezy",
+    "phrase": "breezy"
+   },
+   {
+    "sent": "The project hit a slight snag",
+    "word": "project",
+    "phrase": "The project"
+   },
+   {
+    "sent": "I'm not entirely unhappy with the result",
+    "word": "entirely",
+    "phrase": "entirely unhappy"
+   }
+  ]
+ },
+ {
+  "ep": 112,
+  "level": "B2",
+  "module": 14,
+  "title": "Teasing and Rapport — Spiral Review",
+  "concepts": [
+   {
+    "sent": "It's not a big breakfast, but it works",
+    "word": "breakfast",
+    "phrase": "breakfast"
+   },
+   {
+    "sent": "Thanks for listening",
+    "word": "listening",
+    "phrase": "listening"
+   },
+   {
+    "sent": "Some things never change",
+    "word": "things",
+    "phrase": "Some things"
+   }
+  ]
+ },
+ {
+  "ep": 113,
+  "level": "B2",
+  "module": 15,
+  "title": "Opening a Meeting",
+  "concepts": [
+   {
+    "sent": "Thanks, everyone, for making time",
+    "word": "everyone",
+    "phrase": "everyone"
+   },
+   {
+    "sent": "We have three items and forty minutes",
+    "word": "minutes",
+    "phrase": "minutes"
+   },
+   {
+    "sent": "I'll keep us moving, but let's allow real discussion on item two",
+    "word": "discussion",
+    "phrase": "discussion"
+   }
+  ]
+ },
+ {
+  "ep": 114,
+  "level": "B2",
+  "module": 15,
+  "title": "Steering the Discussion — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "Can we timebox this to ten minutes",
+    "word": "timebox",
+    "phrase": "timebox"
+   },
+   {
+    "sent": "Let's park that for now and come back to it",
+    "word": "let's",
+    "phrase": "Let's park"
+   },
+   {
+    "sent": "We're drifting off topic slightly",
+    "word": "drifting",
+    "phrase": "drifting off"
+   }
+  ]
+ },
+ {
+  "ep": 115,
+  "level": "B2",
+  "module": 15,
+  "title": "Email Tone — Your Turn",
+  "concepts": [
+   {
+    "sent": "Could you prioritize it this week, if possible",
+    "word": "prioritize",
+    "phrase": "prioritize"
+   },
+   {
+    "sent": "I'm following up on my message from Tuesday",
+    "word": "following",
+    "phrase": "following"
+   },
+   {
+    "sent": "Just a gentle nudge on this",
+    "word": "gentle",
+    "phrase": "a gentle"
+   }
+  ]
+ },
+ {
+  "ep": 116,
+  "level": "B2",
+  "module": 15,
+  "title": "Negotiating — Spiral Review",
+  "concepts": [
+   {
+    "sent": "I'm asleep by eleven, mostly",
+    "word": "asleep",
+    "phrase": "asleep"
+   },
+   {
+    "sent": "I watched a tutorial and changed it myself",
+    "word": "tutorial",
+    "phrase": "a tutorial"
+   },
+   {
+    "sent": "We have some flexibility on timeline, less on price",
+    "word": "flexibility",
+    "phrase": "some flexibility"
+   }
+  ]
+ },
+ {
+  "ep": 117,
+  "level": "B2",
+  "module": 15,
+  "title": "Giving Feedback",
+  "concepts": [
+   {
+    "sent": "What support would help you here",
+    "word": "support",
+    "phrase": "support"
+   },
+   {
+    "sent": "Overall, the work is strong",
+    "word": "overall",
+    "phrase": "overall"
+   },
+   {
+    "sent": "One area to sharpen: the summary buried the key finding",
+    "word": "sharpen",
+    "phrase": "sharpen"
+   }
+  ]
+ },
+ {
+  "ep": 118,
+  "level": "B2",
+  "module": 15,
+  "title": "Disagreeing With Your Manager — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "May I push back on one point",
+    "word": "point",
+    "phrase": "point"
+   },
+   {
+    "sent": "I see the upside, but I'm worried about the risk",
+    "word": "worried",
+    "phrase": "worried"
+   },
+   {
+    "sent": "Could we test it on a small scale first",
+    "word": "small",
+    "phrase": "a small"
+   }
+  ]
+ },
+ {
+  "ep": 119,
+  "level": "B2",
+  "module": 15,
+  "title": "Delegating — Your Turn",
+  "concepts": [
+   {
+    "sent": "I'd like you to own the vendor outreach",
+    "word": "outreach",
+    "phrase": "outreach"
+   },
+   {
+    "sent": "You'll have full authority up to ten thousand",
+    "word": "authority",
+    "phrase": "authority"
+   },
+   {
+    "sent": "Check in with me weekly, not daily",
+    "word": "weekly",
+    "phrase": "weekly"
+   }
+  ]
+ },
+ {
+  "ep": 120,
+  "level": "B2",
+  "module": 15,
+  "title": "Wrapping Up — Spiral Review",
+  "concepts": [
+   {
+    "sent": "Anything we've missed before we close",
+    "word": "anything",
+    "phrase": "Anything we've"
+   },
+   {
+    "sent": "I'm asleep by eleven, mostly",
+    "word": "asleep",
+    "phrase": "asleep"
+   },
+   {
+    "sent": "I watched a tutorial and changed it myself",
+    "word": "tutorial",
+    "phrase": "a tutorial"
+   }
+  ]
+ },
+ {
+  "ep": 121,
+  "level": "B2",
+  "module": 16,
+  "title": "The Price of Convenience",
+  "concepts": [
+   {
+    "sent": "Convenience has a cost; we just don't see the invoice",
+    "word": "convenience",
+    "phrase": "convenience"
+   },
+   {
+    "sent": "Every delivery has a footprint, however small it feels",
+    "word": "footprint",
+    "phrase": "a footprint"
+   },
+   {
+    "sent": "I'm not against it. I just think we should price it honestly",
+    "word": "honestly",
+    "phrase": "honestly"
+   }
+  ]
+ },
+ {
+  "ep": 122,
+  "level": "B2",
+  "module": 16,
+  "title": "Who Owns the Data? — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "If the service is free, you're not the customer; you're the product",
+    "word": "customer",
+    "phrase": "the customer"
+   },
+   {
+    "sent": "Data is labor, in a sense. We generate it; companies refine it",
+    "word": "companies",
+    "phrase": "companies refine"
+   },
+   {
+    "sent": "Consent screens are designed to be skipped",
+    "word": "designed",
+    "phrase": "designed"
+   }
+  ]
+ },
+ {
+  "ep": 123,
+  "level": "B2",
+  "module": 16,
+  "title": "Machines That Decide — Your Turn",
+  "concepts": [
+   {
+    "sent": "Algorithms don't remove bias; they industrialize it",
+    "word": "industrialize",
+    "phrase": "industrialize"
+   },
+   {
+    "sent": "A model trained on the past will vote for the past",
+    "word": "trained",
+    "phrase": "trained"
+   },
+   {
+    "sent": "The danger isn't that machines decide, but that we stop checking",
+    "word": "machines",
+    "phrase": "machines decide"
+   }
+  ]
+ },
+ {
+  "ep": 124,
+  "level": "B2",
+  "module": 16,
+  "title": "Cities for People — Spiral Review",
+  "concepts": [
+   {
+    "sent": "You can't miss it",
+    "word": "can't",
+    "phrase": "can't miss"
+   },
+   {
+    "sent": "Translation: I want one, please make one, please close the window",
+    "word": "translation",
+    "phrase": "translation"
+   },
+   {
+    "sent": "Traffic expands to fill every lane you add",
+    "word": "traffic",
+    "phrase": "Traffic expands"
+   }
+  ]
+ },
+ {
+  "ep": 125,
+  "level": "B2",
+  "module": 16,
+  "title": "Growth Versus Enough",
+  "concepts": [
+   {
+    "sent": "We treat growth as a moral default, not a tool",
+    "word": "default",
+    "phrase": "default"
+   },
+   {
+    "sent": "Some things should grow: knowledge, trust, forests",
+    "word": "knowledge",
+    "phrase": "knowledge trust"
+   },
+   {
+    "sent": "Others should probably stop: attention extraction, landfill",
+    "word": "extraction",
+    "phrase": "extraction landfill"
+   }
+  ]
+ },
+ {
+  "ep": 126,
+  "level": "B2",
+  "module": 16,
+  "title": "The Attention Economy — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "Your attention is the raw material; outrage is the refinery",
+    "word": "attention",
+    "phrase": "Your attention"
+   },
+   {
+    "sent": "Apps are designed by teams whose job is your next scroll",
+    "word": "designed",
+    "phrase": "designed"
+   },
+   {
+    "sent": "The feed doesn't care what's true, only what's sticky",
+    "word": "doesn't",
+    "phrase": "doesn't care"
+   }
+  ]
+ },
+ {
+  "ep": 127,
+  "level": "B2",
+  "module": 16,
+  "title": "Teaching for the Future — Your Turn",
+  "concepts": [
+   {
+    "sent": "We prepare students for jobs that don't exist yet",
+    "word": "students",
+    "phrase": "students"
+   },
+   {
+    "sent": "So memorizing content matters less than learning how to learn",
+    "word": "memorizing",
+    "phrase": "memorizing content"
+   },
+   {
+    "sent": "Curiosity is infrastructure, not decoration",
+    "word": "infrastructure",
+    "phrase": "infrastructure"
+   }
+  ]
+ },
+ {
+  "ep": 128,
+  "level": "B2",
+  "module": 16,
+  "title": "What We Owe the Future — Spiral Review",
+  "concepts": [
+   {
+    "sent": "You can't miss it",
+    "word": "can't",
+    "phrase": "can't miss"
+   },
+   {
+    "sent": "Translation: I want one, please make one, please close the window",
+    "word": "translation",
+    "phrase": "translation"
+   },
+   {
+    "sent": "Long-term thinking is unnatural for us and necessary anyway",
+    "word": "unnatural",
+    "phrase": "unnatural"
+   }
+  ]
+ },
+ {
+  "ep": 129,
+  "level": "B2",
+  "module": 17,
+  "title": "Get: The Workhorse",
+  "concepts": [
+   {
+    "sent": "I got up at six and got a call from work",
+    "word": "call",
+    "phrase": "a call"
+   },
+   {
+    "sent": "We got the contract. I got home at nine",
+    "word": "contract",
+    "phrase": "the contract"
+   },
+   {
+    "sent": "'Get' absorbs other verbs: get up, get over, get by, get ahead",
+    "word": "absorbs",
+    "phrase": "absorbs other"
+   }
+  ]
+ },
+ {
+  "ep": 130,
+  "level": "B2",
+  "module": 17,
+  "title": "Body Idioms — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "She has an ear for languages",
+    "word": "languages",
+    "phrase": "languages"
+   },
+   {
+    "sent": "He gave me a hand with the move",
+    "word": "gave",
+    "phrase": "gave"
+   },
+   {
+    "sent": "We're on the same wavelength; it cost an arm and a leg to learn that",
+    "word": "wavelength",
+    "phrase": "wavelength"
+   }
+  ]
+ },
+ {
+  "ep": 131,
+  "level": "B2",
+  "module": 17,
+  "title": "Business Idioms That Survive Meetings — Your Turn",
+  "concepts": [
+   {
+    "sent": "Let's grab the low-hanging fruit first",
+    "word": "hanging",
+    "phrase": "hanging fruit"
+   },
+   {
+    "sent": "Give me a ballpark figure, not a spreadsheet",
+    "word": "spreadsheet",
+    "phrase": "a spreadsheet"
+   },
+   {
+    "sent": "That proposal doesn't move the needle",
+    "word": "proposal",
+    "phrase": "proposal doesn't"
+   }
+  ]
+ },
+ {
+  "ep": 132,
+  "level": "B2",
+  "module": 17,
+  "title": "Weather in the Mind — Spiral Review",
+  "concepts": [
+   {
+    "sent": "That'll be eighteen fifty",
+    "word": "eighteen",
+    "phrase": "eighteen fifty"
+   },
+   {
+    "sent": "Let's find a structure that works for both sides",
+    "word": "structure",
+    "phrase": "a structure"
+   },
+   {
+    "sent": "After the audit, it was sunny skies for a month",
+    "word": "after",
+    "phrase": "after"
+   }
+  ]
+ },
+ {
+  "ep": 133,
+  "level": "B2",
+  "module": 17,
+  "title": "Phrasal Verbs for Relationships",
+  "concepts": [
+   {
+    "sent": "I ran into an old classmate yesterday",
+    "word": "classmate",
+    "phrase": "classmate yesterday"
+   },
+   {
+    "sent": "We hit it off immediately, as if no time had passed",
+    "word": "immediately",
+    "phrase": "immediately"
+   },
+   {
+    "sent": "I look up to her, honestly",
+    "word": "honestly",
+    "phrase": "her honestly"
+   }
+  ]
+ },
+ {
+  "ep": 134,
+  "level": "B2",
+  "module": 17,
+  "title": "Time Idioms — Listen & Shadow",
+  "concepts": [
+   {
+    "sent": "Time flies when you're buried in work",
+    "word": "you're",
+    "phrase": "you're buried"
+   },
+   {
+    "sent": "Let's call it a day; we're beating a dead horse",
+    "word": "beating",
+    "phrase": "beating"
+   },
+   {
+    "sent": "In the nick of time, the server came back",
+    "word": "server",
+    "phrase": "the server"
+   }
+  ]
+ },
+ {
+  "ep": 135,
+  "level": "B2",
+  "module": 17,
+  "title": "Idioms in the Wild — Your Turn",
+  "concepts": [
+   {
+    "sent": "He dropped the ball on the deadline",
+    "word": "deadline",
+    "phrase": "the deadline"
+   },
+   {
+    "sent": "She really went the extra mile for the client",
+    "word": "really",
+    "phrase": "really went"
+   },
+   {
+    "sent": "We're back to square one, but wiser",
+    "word": "square",
+    "phrase": "square one"
+   }
+  ]
+ },
+ {
+  "ep": 136,
+  "level": "B2",
+  "module": 17,
+  "title": "When Idioms Go Wrong — Spiral Review",
+  "concepts": [
+   {
+    "sent": "That'll be eighteen fifty",
+    "word": "eighteen",
+    "phrase": "eighteen fifty"
+   },
+   {
+    "sent": "Let's find a structure that works for both sides",
+    "word": "structure",
+    "phrase": "a structure"
+   },
+   {
+    "sent": "The safest strategy: use one, land it, stop",
+    "word": "strategy",
+    "phrase": "strategy use"
+   }
+  ]
+ }
+]
