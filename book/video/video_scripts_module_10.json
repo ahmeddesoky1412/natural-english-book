@@ -1,0 +1,2517 @@
+{
+ "module": 10,
+ "module_title": "Personal History & Storytelling",
+ "level": "B1",
+ "episodes": [
+  {
+   "episode": 73,
+   "level": "B1",
+   "module": 10,
+   "module_title": "Personal History & Storytelling",
+   "title": "Where I'm From",
+   "kind": "core",
+   "source_page": 221,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 3 — The Narrating Child (linguistic age 4–8 years)",
+    "teacher_role": "You are a parent of a school-age storyteller. The child now tells you about his day, his past, his plans and opinions. You listen like parents do: with real questions, real reactions, and gentle recasts instead of corrections.",
+    "child_expected": "Speaks in full sentences. Tells simple stories. Gives opinions and reasons. Makes mistakes — that is the engine of growth.",
+    "speech_style": "Completely natural adult speech. Your job is rich response, not correction."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الثالثة — الطفل الحَكّاء (عمر لغوي 4–8 سنوات)",
+    "teacher_role": "أنت والدُ طفلٍ في سن المدرسة يحكي قصصه. صار يحكي يومه وماضيه وخططه وآراءه. أنصت كما يُنصت الآباء: بأسئلة حقيقية وتفاعل حقيقي، وبإعادة صياغة لطيفة بدل التصحيح.",
+    "child_expected": "يتكلم بجمل كاملة. يحكي قصصًا بسيطة. يرى آراءً وأسبابًا. يخطئ — والخطأ هو محرّك النمو.",
+    "speech_style": "كلام البالغين الطبيعي تمامًا. مهمتك الاستجابة الغنية لا التصحيح."
+   },
+   "scene": {
+    "setting": "A person sketching a rough map on a napkin: a coastline, a small town, an arrow to the capital.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A hometown market, unchanged for decades. An adult stands still among the stalls.",
+    "lines": [
+     "I visit my hometown once a year.",
+     "The market smells the same. The faces got older.",
+     "The baker still remembers my order.",
+     "You can leave a place. It doesn't leave you."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Does it feel different now?",
+      "gesture": "walking beside them"
+     },
+     {
+      "speaker": "B",
+      "line": "The place didn't change. I did.",
+      "gesture": "buying the same bread"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I grew up in a coastal town, about two hours from the capital.  ·  I grew up in a coastal town, about two hours from the capital.  ·  I grew up in a coastal town, about two hours from the capital."
+      },
+      {
+       "who": "Teacher",
+       "line": "It was the kind of place where everyone knew everyone.  ·  It was the kind of place where everyone knew everyone.  ·  It was the kind of place where everyone knew everyone."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Live dialogue — teacher plays both roles with the child",
+     "camera": "Over-the-shoulder alternates; keep both faces in frame for reactions.",
+     "action": "Teacher speaks line A to the child with gesture. Waits 5 seconds — silently. If the child offers anything, expand it joyfully. Then teacher voices B with a puppet/second voice. Replay the exchange once more with roles swapped.",
+     "audio": [
+      {
+       "who": "A",
+       "line": "So where are you originally from?",
+       "gesture": "leaning in"
+      },
+      {
+       "who": "B",
+       "line": "A small coastal town. You wouldn't know it, but it had the best fish market in the region.",
+       "gesture": "drawing on the napkin"
+      }
+     ],
+     "sfx": "None. Faces and voices carry everything."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "It was the kind of place where everyone knew everyone."
+      },
+      {
+       "who": "Teacher",
+       "line": "I grew up in a coastal town, about two hours from the capital."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I moved away when I was nineteen, and I never really went back."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 191,
+        "level": "A2",
+        "module": 9,
+        "module_title": "Past Experiences & Simple Futures",
+        "title": "Yesterday",
+        "visual_scene": "A desk with yesterday's coffee cup still on it, a window now showing evening.",
+        "natural_english": [
+         "Yesterday was a long day.",
+         "I worked until seven.",
+         "Then I met an old friend for dinner.",
+         "We talked for three hours."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "How was your day?",
+          "gesture": "hanging up a coat"
+         },
+         {
+          "speaker": "B",
+          "line": "Busy, but good. I finally finished the report.",
+          "gesture": "sighing happily"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Yesterday was a long day.",
+            "I worked until seven.",
+            "Then I met an old friend for dinner.",
+            "We talked for three hours."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "How was your day?",
+            "Busy, but good. I finally finished the report."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "past simple"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 192,
+        "level": "A2",
+        "module": 9,
+        "module_title": "Past Experiences & Simple Futures",
+        "title": "Last Weekend — Listen & Shadow",
+        "visual_scene": "Photos on a phone: a lake, a picnic blanket, a dog shaking off water.",
+        "natural_english": [
+         "Last weekend, we went to the lake.",
+         "The weather was perfect.",
+         "We stayed until sunset.",
+         "I didn't want to leave."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "What did you do on the weekend?",
+          "gesture": "pouring coffee"
+         },
+         {
+          "speaker": "B",
+          "line": "Nothing much. We drove to the coast on Saturday.",
+          "gesture": "leaning back"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Last weekend, we went to the lake.",
+            "The weather was perfect.",
+            "We stayed until sunset.",
+            "I didn't want to leave."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "What did you do on the weekend?",
+            "Nothing much. We drove to the coast on Saturday."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "went / didn't"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I grew up in a coastal town, about two hours from the capital."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "capital!",
+    "2_two_words": "from capital!",
+    "3_full_sentence": "I grew up in a coastal town, about two hours from the capital.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A person sketching a rough map on a napkin: a coastline, a small town, an arrow to the capital.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «I grew up in a coastal town, about two hours from the capital.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): grew up / the kind of place where. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «So where are you originally from?» اصمت وانظر بترقّب. بعد سؤالك اصمت دون قلق. دعه يبني جملته كاملة حتى وإن تلعثم. التلعثم جزء من البناء.",
+    "لا تترجم: أعد الصياغة بإنجليزية أبسط أو اطلب منه أن يريك بالفعل ما عنده في ذهنه.",
+    "صحح بالإعادة ضمن ردك الطبيعي: أعد جملته صحيحة وأنت تجيب عليه، فسمعها صحيحة دون أن يشعر بالتصحيح.",
+    "نوع هذه الحلقة: الأسماء والأفعال أمام عينيه أهم من أي شرح.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child begins narrating on his own initiative. Full sentences appear without ever being assigned."
+  },
+  {
+   "episode": 74,
+   "level": "B1",
+   "module": 10,
+   "module_title": "Personal History & Storytelling",
+   "title": "School Days — Listen & Shadow",
+   "kind": "shadow",
+   "source_page": 222,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 3 — The Narrating Child (linguistic age 4–8 years)",
+    "teacher_role": "You are a parent of a school-age storyteller. The child now tells you about his day, his past, his plans and opinions. You listen like parents do: with real questions, real reactions, and gentle recasts instead of corrections.",
+    "child_expected": "Speaks in full sentences. Tells simple stories. Gives opinions and reasons. Makes mistakes — that is the engine of growth.",
+    "speech_style": "Completely natural adult speech. Your job is rich response, not correction."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الثالثة — الطفل الحَكّاء (عمر لغوي 4–8 سنوات)",
+    "teacher_role": "أنت والدُ طفلٍ في سن المدرسة يحكي قصصه. صار يحكي يومه وماضيه وخططه وآراءه. أنصت كما يُنصت الآباء: بأسئلة حقيقية وتفاعل حقيقي، وبإعادة صياغة لطيفة بدل التصحيح.",
+    "child_expected": "يتكلم بجمل كاملة. يحكي قصصًا بسيطة. يرى آراءً وأسبابًا. يخطئ — والخطأ هو محرّك النمو.",
+    "speech_style": "كلام البالغين الطبيعي تمامًا. مهمتك الاستجابة الغنية لا التصحيح."
+   },
+   "scene": {
+    "setting": "An old classroom photo on a phone screen, a finger zooming in on one face.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A school gym twenty years on: name tags, folded chairs, people squinting at faces.",
+    "lines": [
+     "Twenty years later, we stand in the same gym.",
+     "Some faces I recognize instantly. Some, not at all.",
+     "We laugh about teachers we feared.",
+     "Everyone got older. Nobody changed."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Do you recognize him?",
+      "gesture": "nodding across the room"
+     },
+     {
+      "speaker": "B",
+      "line": "The tall one? That's Hassan. He sat behind me for six years.",
+      "gesture": "certain"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I wasn't a great student, to be honest.  ·  I wasn't a great student, to be honest.  ·  I wasn't a great student, to be honest."
+      },
+      {
+       "who": "Teacher",
+       "line": "I was fine at math, but I hated sitting still.  ·  I was fine at math, but I hated sitting still.  ·  I was fine at math, but I hated sitting still."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Echo & shadow play (pure imitation game, never a task)",
+     "camera": "Full-body teacher shot so mouth, hands and body are all visible.",
+     "action": "Teacher says each line twice: once slow with huge mouth movements, once natural. If the child shadows, wonderful; if not, the teacher simply continues, delighted either way.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I wasn't a great student, to be honest.  ...  I wasn't a great student, to be honest."
+      },
+      {
+       "who": "Teacher",
+       "line": "I was fine at math, but I hated sitting still.  ...  I was fine at math, but I hated sitting still."
+      },
+      {
+       "who": "Teacher",
+       "line": "My literature teacher changed everything for me.  ...  My literature teacher changed everything for me."
+      },
+      {
+       "who": "Teacher",
+       "line": "She made me believe I was good at something.  ...  She made me believe I was good at something."
+      }
+     ],
+     "sfx": "Optional light rhythm under the second pass."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I was fine at math, but I hated sitting still."
+      },
+      {
+       "who": "Teacher",
+       "line": "I wasn't a great student, to be honest."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "My literature teacher changed everything for me."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 191,
+        "level": "A2",
+        "module": 9,
+        "module_title": "Past Experiences & Simple Futures",
+        "title": "Yesterday",
+        "visual_scene": "A desk with yesterday's coffee cup still on it, a window now showing evening.",
+        "natural_english": [
+         "Yesterday was a long day.",
+         "I worked until seven.",
+         "Then I met an old friend for dinner.",
+         "We talked for three hours."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "How was your day?",
+          "gesture": "hanging up a coat"
+         },
+         {
+          "speaker": "B",
+          "line": "Busy, but good. I finally finished the report.",
+          "gesture": "sighing happily"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Yesterday was a long day.",
+            "I worked until seven.",
+            "Then I met an old friend for dinner.",
+            "We talked for three hours."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "How was your day?",
+            "Busy, but good. I finally finished the report."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "past simple"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 192,
+        "level": "A2",
+        "module": 9,
+        "module_title": "Past Experiences & Simple Futures",
+        "title": "Last Weekend — Listen & Shadow",
+        "visual_scene": "Photos on a phone: a lake, a picnic blanket, a dog shaking off water.",
+        "natural_english": [
+         "Last weekend, we went to the lake.",
+         "The weather was perfect.",
+         "We stayed until sunset.",
+         "I didn't want to leave."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "What did you do on the weekend?",
+          "gesture": "pouring coffee"
+         },
+         {
+          "speaker": "B",
+          "line": "Nothing much. We drove to the coast on Saturday.",
+          "gesture": "leaning back"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Last weekend, we went to the lake.",
+            "The weather was perfect.",
+            "We stayed until sunset.",
+            "I didn't want to leave."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "What did you do on the weekend?",
+            "Nothing much. We drove to the coast on Saturday."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "went / didn't"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I wasn't a great student, to be honest."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "honest!",
+    "2_two_words": "be honest!",
+    "3_full_sentence": "I wasn't a great student, to be honest.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: An old classroom photo on a phone screen, a finger zooming in on one face.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «I wasn't a great student, to be honest.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): to be honest / changed everything. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «What were you like at school?» اصمت وانظر بترقّب. بعد سؤالك اصمت دون قلق. دعه يبني جملته كاملة حتى وإن تلعثم. التلعثم جزء من البناء.",
+    "لا تترجم: أعد الصياغة بإنجليزية أبسط أو اطلب منه أن يريك بالفعل ما عنده في ذهنه.",
+    "صحح بالإعادة ضمن ردك الطبيعي: أعد جملته صحيحة وأنت تجيب عليه، فسمعها صحيحة دون أن يشعر بالتصحيح.",
+    "نوع هذه الحلقة: التظليل هنا لعبة تقليد طبيعية لا واجب نطق — إن لم يقلد فلا شيء، أنت وحدك تكمل بفرح.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child begins narrating on his own initiative. Full sentences appear without ever being assigned."
+  },
+  {
+   "episode": 75,
+   "level": "B1",
+   "module": 10,
+   "module_title": "Personal History & Storytelling",
+   "title": "My First Job — Your Turn",
+   "kind": "your_turn",
+   "source_page": 223,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 3 — The Narrating Child (linguistic age 4–8 years)",
+    "teacher_role": "You are a parent of a school-age storyteller. The child now tells you about his day, his past, his plans and opinions. You listen like parents do: with real questions, real reactions, and gentle recasts instead of corrections.",
+    "child_expected": "Speaks in full sentences. Tells simple stories. Gives opinions and reasons. Makes mistakes — that is the engine of growth.",
+    "speech_style": "Completely natural adult speech. Your job is rich response, not correction."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الثالثة — الطفل الحَكّاء (عمر لغوي 4–8 سنوات)",
+    "teacher_role": "أنت والدُ طفلٍ في سن المدرسة يحكي قصصه. صار يحكي يومه وماضيه وخططه وآراءه. أنصت كما يُنصت الآباء: بأسئلة حقيقية وتفاعل حقيقي، وبإعادة صياغة لطيفة بدل التصحيح.",
+    "child_expected": "يتكلم بجمل كاملة. يحكي قصصًا بسيطة. يرى آراءً وأسبابًا. يخطئ — والخطأ هو محرّك النمو.",
+    "speech_style": "كلام البالغين الطبيعي تمامًا. مهمتك الاستجابة الغنية لا التصحيح."
+   },
+   "scene": {
+    "setting": "A tiny shop counter from memory: a cash register, a bell above the door.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A small shop counter. A teenage worker faces a first customer, register open.",
+    "lines": [
+     "On my first day, I was terrified of the register.",
+     "A customer smiled and said, 'We all started somewhere.'",
+     "I made mistakes. The regulars forgave me.",
+     "Kindness keeps beginners going."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Was your first job hard?",
+      "gesture": "over coffee"
+     },
+     {
+      "speaker": "B (you)",
+      "line": "… (respond aloud)",
+      "gesture": ""
+     },
+     {
+      "speaker": "B (model)",
+      "line": "The work was easy. Talking to strangers was the hard part.",
+      "gesture": "measured"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "My first job was at a bookstore when I was sixteen.  ·  My first job was at a bookstore when I was sixteen.  ·  My first job was at a bookstore when I was sixteen."
+      },
+      {
+       "who": "Teacher",
+       "line": "I earned almost nothing, but I read half the shop.  ·  I earned almost nothing, but I read half the shop.  ·  I earned almost nothing, but I read half the shop."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Silent invitation (no production ever required)",
+     "camera": "Tight on teacher's expectant face during the pause — warm, patient, zero pressure.",
+     "action": "Teacher asks, then holds a real 5-second silence with bright eyes and raised eyebrows. Whether the child answers or not, the teacher then completes the answer himself, warmly, as if the child had asked him to. Any sound the child makes is celebrated but never requested.",
+     "audio": [
+      {
+       "who": "Teacher (asks, then waits 5s)",
+       "line": "What was your first job?"
+      },
+      {
+       "who": "(silence — the child may or may not attempt; both are perfect)",
+       "line": "…"
+      },
+      {
+       "who": "Teacher (completes warmly)",
+       "line": "A bookstore. Terrible pay, amazing education."
+      }
+     ],
+     "sfx": "A tiny 'sparkle' cue only if the child initiates anything."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I earned almost nothing, but I read half the shop."
+      },
+      {
+       "who": "Teacher",
+       "line": "My first job was at a bookstore when I was sixteen."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I learned how to talk to strangers there."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 191,
+        "level": "A2",
+        "module": 9,
+        "module_title": "Past Experiences & Simple Futures",
+        "title": "Yesterday",
+        "visual_scene": "A desk with yesterday's coffee cup still on it, a window now showing evening.",
+        "natural_english": [
+         "Yesterday was a long day.",
+         "I worked until seven.",
+         "Then I met an old friend for dinner.",
+         "We talked for three hours."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "How was your day?",
+          "gesture": "hanging up a coat"
+         },
+         {
+          "speaker": "B",
+          "line": "Busy, but good. I finally finished the report.",
+          "gesture": "sighing happily"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Yesterday was a long day.",
+            "I worked until seven.",
+            "Then I met an old friend for dinner.",
+            "We talked for three hours."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "How was your day?",
+            "Busy, but good. I finally finished the report."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "past simple"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 192,
+        "level": "A2",
+        "module": 9,
+        "module_title": "Past Experiences & Simple Futures",
+        "title": "Last Weekend — Listen & Shadow",
+        "visual_scene": "Photos on a phone: a lake, a picnic blanket, a dog shaking off water.",
+        "natural_english": [
+         "Last weekend, we went to the lake.",
+         "The weather was perfect.",
+         "We stayed until sunset.",
+         "I didn't want to leave."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "What did you do on the weekend?",
+          "gesture": "pouring coffee"
+         },
+         {
+          "speaker": "B",
+          "line": "Nothing much. We drove to the coast on Saturday.",
+          "gesture": "leaning back"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Last weekend, we went to the lake.",
+            "The weather was perfect.",
+            "We stayed until sunset.",
+            "I didn't want to leave."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "What did you do on the weekend?",
+            "Nothing much. We drove to the coast on Saturday."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "went / didn't"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "My first job was at a bookstore when I was sixteen."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "sixteen!",
+    "2_two_words": "was sixteen!",
+    "3_full_sentence": "My first job was at a bookstore when I was sixteen.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A tiny shop counter from memory: a cash register, a bell above the door.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «My first job was at a bookstore when I was sixteen.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): turned out to be. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «What was your first job?» اصمت وانظر بترقّب. بعد سؤالك اصمت دون قلق. دعه يبني جملته كاملة حتى وإن تلعثم. التلعثم جزء من البناء.",
+    "لا تترجم: أعد الصياغة بإنجليزية أبسط أو اطلب منه أن يريك بالفعل ما عنده في ذهنه.",
+    "صحح بالإعادة ضمن ردك الطبيعي: أعد جملته صحيحة وأنت تجيب عليه، فسمعها صحيحة دون أن يشعر بالتصحيح.",
+    "نوع هذه الحلقة: الدعوة صامتة: الصمت المنتظر هو جوهر الحلقة، وأنت من يكمل الإجابة دائمًا بعد الانتظار سواء نطق هو أم لا.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child begins narrating on his own initiative. Full sentences appear without ever being assigned."
+  },
+  {
+   "episode": 76,
+   "level": "B1",
+   "module": 10,
+   "module_title": "Personal History & Storytelling",
+   "title": "The Big Move — Spiral Review",
+   "kind": "spiral",
+   "source_page": 224,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 3 — The Narrating Child (linguistic age 4–8 years)",
+    "teacher_role": "You are a parent of a school-age storyteller. The child now tells you about his day, his past, his plans and opinions. You listen like parents do: with real questions, real reactions, and gentle recasts instead of corrections.",
+    "child_expected": "Speaks in full sentences. Tells simple stories. Gives opinions and reasons. Makes mistakes — that is the engine of growth.",
+    "speech_style": "Completely natural adult speech. Your job is rich response, not correction."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الثالثة — الطفل الحَكّاء (عمر لغوي 4–8 سنوات)",
+    "teacher_role": "أنت والدُ طفلٍ في سن المدرسة يحكي قصصه. صار يحكي يومه وماضيه وخططه وآراءه. أنصت كما يُنصت الآباء: بأسئلة حقيقية وتفاعل حقيقي، وبإعادة صياغة لطيفة بدل التصحيح.",
+    "child_expected": "يتكلم بجمل كاملة. يحكي قصصًا بسيطة. يرى آراءً وأسبابًا. يخطئ — والخطأ هو محرّك النمو.",
+    "speech_style": "كلام البالغين الطبيعي تمامًا. مهمتك الاستجابة الغنية لا التصحيح."
+   },
+   "scene": {
+    "setting": "Two suitcases at an airport gate, a boarding pass in hand, a look back over one shoulder.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A small apartment abroad. Snow at the window. A video call glowing on a laptop.",
+    "lines": [
+     "Her name is Lena.",
+     "It's going to be a full day.",
+     "I called home every night.",
+     "Then, one morning, I made breakfast without thinking. And it was home."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "When did it start feeling normal?",
+      "gesture": "genuinely curious"
+     },
+     {
+      "speaker": "B",
+      "line": "Around month four. One day I stopped translating my grocery list.",
+      "gesture": "remembering"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Her name is Lena.  ·  Her name is Lena.  ·  Her name is Lena."
+      },
+      {
+       "who": "Teacher",
+       "line": "It's going to be a full day.  ·  It's going to be a full day.  ·  It's going to be a full day."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Old lines, new scene",
+     "camera": "Cut between quick inserts of earlier episodes and the live scene.",
+     "action": "Teacher opens with familiar lines from earlier modules (spiral), then lands them into today's new scene. The child feels 'I know this!' — that safety is the goal.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Her name is Lena."
+      },
+      {
+       "who": "Teacher",
+       "line": "It's going to be a full day."
+      },
+      {
+       "who": "Teacher",
+       "line": "Then, slowly, it started to feel like home."
+      },
+      {
+       "who": "Teacher",
+       "line": "Now I can't imagine living anywhere else."
+      }
+     ],
+     "sfx": "Soft 'you know this!' chime on each familiar line."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "It's going to be a full day."
+      },
+      {
+       "who": "Teacher",
+       "line": "Her name is Lena."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Then, slowly, it started to feel like home."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 191,
+        "level": "A2",
+        "module": 9,
+        "module_title": "Past Experiences & Simple Futures",
+        "title": "Yesterday",
+        "visual_scene": "A desk with yesterday's coffee cup still on it, a window now showing evening.",
+        "natural_english": [
+         "Yesterday was a long day.",
+         "I worked until seven.",
+         "Then I met an old friend for dinner.",
+         "We talked for three hours."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "How was your day?",
+          "gesture": "hanging up a coat"
+         },
+         {
+          "speaker": "B",
+          "line": "Busy, but good. I finally finished the report.",
+          "gesture": "sighing happily"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Yesterday was a long day.",
+            "I worked until seven.",
+            "Then I met an old friend for dinner.",
+            "We talked for three hours."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "How was your day?",
+            "Busy, but good. I finally finished the report."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "past simple"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 192,
+        "level": "A2",
+        "module": 9,
+        "module_title": "Past Experiences & Simple Futures",
+        "title": "Last Weekend — Listen & Shadow",
+        "visual_scene": "Photos on a phone: a lake, a picnic blanket, a dog shaking off water.",
+        "natural_english": [
+         "Last weekend, we went to the lake.",
+         "The weather was perfect.",
+         "We stayed until sunset.",
+         "I didn't want to leave."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "What did you do on the weekend?",
+          "gesture": "pouring coffee"
+         },
+         {
+          "speaker": "B",
+          "line": "Nothing much. We drove to the coast on Saturday.",
+          "gesture": "leaning back"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Last weekend, we went to the lake.",
+            "The weather was perfect.",
+            "We stayed until sunset.",
+            "I didn't want to leave."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "What did you do on the weekend?",
+            "Nothing much. We drove to the coast on Saturday."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "went / didn't"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Her name is Lena."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "Lena!",
+    "2_two_words": "name Lena!",
+    "3_full_sentence": "Her name is Lena.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: Two suitcases at an airport gate, a boarding pass in hand, a look back over one shoulder.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «Her name is Lena.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): the hardest thing I've done. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «Do you ever regret moving?» اصمت وانظر بترقّب. بعد سؤالك اصمت دون قلق. دعه يبني جملته كاملة حتى وإن تلعثم. التلعثم جزء من البناء.",
+    "لا تترجم: أعد الصياغة بإنجليزية أبسط أو اطلب منه أن يريك بالفعل ما عنده في ذهنه.",
+    "صحح بالإعادة ضمن ردك الطبيعي: أعد جملته صحيحة وأنت تجيب عليه، فسمعها صحيحة دون أن يشعر بالتصحيح.",
+    "نوع هذه الحلقة: ابدأ بجمل مألوفة من حلقات سابقة قبل الجديد حتى يشعر بأمان «أنا أعرف هذا».",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child begins narrating on his own initiative. Full sentences appear without ever being assigned."
+  },
+  {
+   "episode": 77,
+   "level": "B1",
+   "module": 10,
+   "module_title": "Personal History & Storytelling",
+   "title": "A Turning Point",
+   "kind": "core",
+   "source_page": 225,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 3 — The Narrating Child (linguistic age 4–8 years)",
+    "teacher_role": "You are a parent of a school-age storyteller. The child now tells you about his day, his past, his plans and opinions. You listen like parents do: with real questions, real reactions, and gentle recasts instead of corrections.",
+    "child_expected": "Speaks in full sentences. Tells simple stories. Gives opinions and reasons. Makes mistakes — that is the engine of growth.",
+    "speech_style": "Completely natural adult speech. Your job is rich response, not correction."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الثالثة — الطفل الحَكّاء (عمر لغوي 4–8 سنوات)",
+    "teacher_role": "أنت والدُ طفلٍ في سن المدرسة يحكي قصصه. صار يحكي يومه وماضيه وخططه وآراءه. أنصت كما يُنصت الآباء: بأسئلة حقيقية وتفاعل حقيقي، وبإعادة صياغة لطيفة بدل التصحيح.",
+    "child_expected": "يتكلم بجمل كاملة. يحكي قصصًا بسيطة. يرى آراءً وأسبابًا. يخطئ — والخطأ هو محرّك النمو.",
+    "speech_style": "كلام البالغين الطبيعي تمامًا. مهمتك الاستجابة الغنية لا التصحيح."
+   },
+   "scene": {
+    "setting": "A desk with a resignation letter half-written, a window showing rain.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A desk. A printed email: 'We've decided to move forward with other candidates.'",
+    "lines": [
+     "I applied for my dream job. They said no.",
+     "It hurt for a week. Then it trained me.",
+     "I fixed my weak points and tried again.",
+     "Eight months later, a better company said yes."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Did you get it?",
+      "gesture": "carefully"
+     },
+     {
+      "speaker": "B",
+      "line": "No. But that rejection built my next ten interviews.",
+      "gesture": "no bitterness left"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "There was one moment that changed my career.  ·  There was one moment that changed my career.  ·  There was one moment that changed my career."
+      },
+      {
+       "who": "Teacher",
+       "line": "My manager told me I was ready for more responsibility.  ·  My manager told me I was ready for more responsibility.  ·  My manager told me I was ready for more responsibility."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Live dialogue — teacher plays both roles with the child",
+     "camera": "Over-the-shoulder alternates; keep both faces in frame for reactions.",
+     "action": "Teacher speaks line A to the child with gesture. Waits 5 seconds — silently. If the child offers anything, expand it joyfully. Then teacher voices B with a puppet/second voice. Replay the exchange once more with roles swapped.",
+     "audio": [
+      {
+       "who": "A",
+       "line": "What made you switch careers?",
+       "gesture": "genuinely interested"
+      },
+      {
+       "who": "B",
+       "line": "One conversation, really. Someone told me I was wasting my potential, and it stung. But she was right.",
+       "gesture": "pausing"
+      }
+     ],
+     "sfx": "None. Faces and voices carry everything."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "My manager told me I was ready for more responsibility."
+      },
+      {
+       "who": "Teacher",
+       "line": "There was one moment that changed my career."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I didn't believe it at first."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 191,
+        "level": "A2",
+        "module": 9,
+        "module_title": "Past Experiences & Simple Futures",
+        "title": "Yesterday",
+        "visual_scene": "A desk with yesterday's coffee cup still on it, a window now showing evening.",
+        "natural_english": [
+         "Yesterday was a long day.",
+         "I worked until seven.",
+         "Then I met an old friend for dinner.",
+         "We talked for three hours."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "How was your day?",
+          "gesture": "hanging up a coat"
+         },
+         {
+          "speaker": "B",
+          "line": "Busy, but good. I finally finished the report.",
+          "gesture": "sighing happily"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Yesterday was a long day.",
+            "I worked until seven.",
+            "Then I met an old friend for dinner.",
+            "We talked for three hours."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "How was your day?",
+            "Busy, but good. I finally finished the report."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "past simple"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 192,
+        "level": "A2",
+        "module": 9,
+        "module_title": "Past Experiences & Simple Futures",
+        "title": "Last Weekend — Listen & Shadow",
+        "visual_scene": "Photos on a phone: a lake, a picnic blanket, a dog shaking off water.",
+        "natural_english": [
+         "Last weekend, we went to the lake.",
+         "The weather was perfect.",
+         "We stayed until sunset.",
+         "I didn't want to leave."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "What did you do on the weekend?",
+          "gesture": "pouring coffee"
+         },
+         {
+          "speaker": "B",
+          "line": "Nothing much. We drove to the coast on Saturday.",
+          "gesture": "leaning back"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Last weekend, we went to the lake.",
+            "The weather was perfect.",
+            "We stayed until sunset.",
+            "I didn't want to leave."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "What did you do on the weekend?",
+            "Nothing much. We drove to the coast on Saturday."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "went / didn't"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "There was one moment that changed my career."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "career!",
+    "2_two_words": "my career!",
+    "3_full_sentence": "There was one moment that changed my career.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A desk with a resignation letter half-written, a window showing rain.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «There was one moment that changed my career.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): everything followed from that. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «What made you switch careers?» اصمت وانظر بترقّب. بعد سؤالك اصمت دون قلق. دعه يبني جملته كاملة حتى وإن تلعثم. التلعثم جزء من البناء.",
+    "لا تترجم: أعد الصياغة بإنجليزية أبسط أو اطلب منه أن يريك بالفعل ما عنده في ذهنه.",
+    "صحح بالإعادة ضمن ردك الطبيعي: أعد جملته صحيحة وأنت تجيب عليه، فسمعها صحيحة دون أن يشعر بالتصحيح.",
+    "نوع هذه الحلقة: الأسماء والأفعال أمام عينيه أهم من أي شرح.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child begins narrating on his own initiative. Full sentences appear without ever being assigned."
+  },
+  {
+   "episode": 78,
+   "level": "B1",
+   "module": 10,
+   "module_title": "Personal History & Storytelling",
+   "title": "A Trip I'll Never Forget — Listen & Shadow",
+   "kind": "shadow",
+   "source_page": 226,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 3 — The Narrating Child (linguistic age 4–8 years)",
+    "teacher_role": "You are a parent of a school-age storyteller. The child now tells you about his day, his past, his plans and opinions. You listen like parents do: with real questions, real reactions, and gentle recasts instead of corrections.",
+    "child_expected": "Speaks in full sentences. Tells simple stories. Gives opinions and reasons. Makes mistakes — that is the engine of growth.",
+    "speech_style": "Completely natural adult speech. Your job is rich response, not correction."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الثالثة — الطفل الحَكّاء (عمر لغوي 4–8 سنوات)",
+    "teacher_role": "أنت والدُ طفلٍ في سن المدرسة يحكي قصصه. صار يحكي يومه وماضيه وخططه وآراءه. أنصت كما يُنصت الآباء: بأسئلة حقيقية وتفاعل حقيقي، وبإعادة صياغة لطيفة بدل التصحيح.",
+    "child_expected": "يتكلم بجمل كاملة. يحكي قصصًا بسيطة. يرى آراءً وأسبابًا. يخطئ — والخطأ هو محرّك النمو.",
+    "speech_style": "كلام البالغين الطبيعي تمامًا. مهمتك الاستجابة الغنية لا التصحيح."
+   },
+   "scene": {
+    "setting": "A crumpled train ticket used as a bookmark in a worn guidebook.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "An airport bench at midnight. A person laughs at their own useless ticket.",
+    "lines": [
+     "I missed my flight by four minutes.",
+     "The next one was tomorrow morning. I was stuck.",
+     "An airport stranger shared her fries and her story.",
+     "We still send messages every New Year."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "How was the trip?",
+      "gesture": "expecting a complaint"
+     },
+     {
+      "speaker": "B",
+      "line": "It started with a disaster and became my favorite memory.",
+      "gesture": "smiling at the memory"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "A few years ago, I took a train across the mountains.  ·  A few years ago, I took a train across the mountains.  ·  A few years ago, I took a train across the mountains."
+      },
+      {
+       "who": "Teacher",
+       "line": "The plan fell apart on day two, honestly.  ·  The plan fell apart on day two, honestly.  ·  The plan fell apart on day two, honestly."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Echo & shadow play (pure imitation game, never a task)",
+     "camera": "Full-body teacher shot so mouth, hands and body are all visible.",
+     "action": "Teacher says each line twice: once slow with huge mouth movements, once natural. If the child shadows, wonderful; if not, the teacher simply continues, delighted either way.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "A few years ago, I took a train across the mountains.  ...  A few years ago, I took a train across the mountains."
+      },
+      {
+       "who": "Teacher",
+       "line": "The plan fell apart on day two, honestly.  ...  The plan fell apart on day two, honestly."
+      },
+      {
+       "who": "Teacher",
+       "line": "The hotel was overbooked, and I slept in a village inn instead.  ...  The hotel was overbooked, and I slept in a village inn instead."
+      },
+      {
+       "who": "Teacher",
+       "line": "It ended up being the best part of the trip.  ...  It ended up being the best part of the trip."
+      }
+     ],
+     "sfx": "Optional light rhythm under the second pass."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "The plan fell apart on day two, honestly."
+      },
+      {
+       "who": "Teacher",
+       "line": "A few years ago, I took a train across the mountains."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "The hotel was overbooked, and I slept in a village inn instead."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 191,
+        "level": "A2",
+        "module": 9,
+        "module_title": "Past Experiences & Simple Futures",
+        "title": "Yesterday",
+        "visual_scene": "A desk with yesterday's coffee cup still on it, a window now showing evening.",
+        "natural_english": [
+         "Yesterday was a long day.",
+         "I worked until seven.",
+         "Then I met an old friend for dinner.",
+         "We talked for three hours."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "How was your day?",
+          "gesture": "hanging up a coat"
+         },
+         {
+          "speaker": "B",
+          "line": "Busy, but good. I finally finished the report.",
+          "gesture": "sighing happily"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Yesterday was a long day.",
+            "I worked until seven.",
+            "Then I met an old friend for dinner.",
+            "We talked for three hours."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "How was your day?",
+            "Busy, but good. I finally finished the report."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "past simple"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 192,
+        "level": "A2",
+        "module": 9,
+        "module_title": "Past Experiences & Simple Futures",
+        "title": "Last Weekend — Listen & Shadow",
+        "visual_scene": "Photos on a phone: a lake, a picnic blanket, a dog shaking off water.",
+        "natural_english": [
+         "Last weekend, we went to the lake.",
+         "The weather was perfect.",
+         "We stayed until sunset.",
+         "I didn't want to leave."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "What did you do on the weekend?",
+          "gesture": "pouring coffee"
+         },
+         {
+          "speaker": "B",
+          "line": "Nothing much. We drove to the coast on Saturday.",
+          "gesture": "leaning back"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Last weekend, we went to the lake.",
+            "The weather was perfect.",
+            "We stayed until sunset.",
+            "I didn't want to leave."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "What did you do on the weekend?",
+            "Nothing much. We drove to the coast on Saturday."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "went / didn't"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "A few years ago, I took a train across the mountains."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "mountains!",
+    "2_two_words": "across mountains!",
+    "3_full_sentence": "A few years ago, I took a train across the mountains.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A crumpled train ticket used as a bookmark in a worn guidebook.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «A few years ago, I took a train across the mountains.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): fell apart / ended up. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «Best trip you've ever taken?» اصمت وانظر بترقّب. بعد سؤالك اصمت دون قلق. دعه يبني جملته كاملة حتى وإن تلعثم. التلعثم جزء من البناء.",
+    "لا تترجم: أعد الصياغة بإنجليزية أبسط أو اطلب منه أن يريك بالفعل ما عنده في ذهنه.",
+    "صحح بالإعادة ضمن ردك الطبيعي: أعد جملته صحيحة وأنت تجيب عليه، فسمعها صحيحة دون أن يشعر بالتصحيح.",
+    "نوع هذه الحلقة: التظليل هنا لعبة تقليد طبيعية لا واجب نطق — إن لم يقلد فلا شيء، أنت وحدك تكمل بفرح.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child begins narrating on his own initiative. Full sentences appear without ever being assigned."
+  },
+  {
+   "episode": 79,
+   "level": "B1",
+   "module": 10,
+   "module_title": "Personal History & Storytelling",
+   "title": "People Who Shaped Me — Your Turn",
+   "kind": "your_turn",
+   "source_page": 227,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 3 — The Narrating Child (linguistic age 4–8 years)",
+    "teacher_role": "You are a parent of a school-age storyteller. The child now tells you about his day, his past, his plans and opinions. You listen like parents do: with real questions, real reactions, and gentle recasts instead of corrections.",
+    "child_expected": "Speaks in full sentences. Tells simple stories. Gives opinions and reasons. Makes mistakes — that is the engine of growth.",
+    "speech_style": "Completely natural adult speech. Your job is rich response, not correction."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الثالثة — الطفل الحَكّاء (عمر لغوي 4–8 سنوات)",
+    "teacher_role": "أنت والدُ طفلٍ في سن المدرسة يحكي قصصه. صار يحكي يومه وماضيه وخططه وآراءه. أنصت كما يُنصت الآباء: بأسئلة حقيقية وتفاعل حقيقي، وبإعادة صياغة لطيفة بدل التصحيح.",
+    "child_expected": "يتكلم بجمل كاملة. يحكي قصصًا بسيطة. يرى آراءً وأسبابًا. يخطئ — والخطأ هو محرّك النمو.",
+    "speech_style": "كلام البالغين الطبيعي تمامًا. مهمتك الاستجابة الغنية لا التصحيح."
+   },
+   "scene": {
+    "setting": "A shelf of objects: a worn chess piece, a fountain pen, a small brass compass.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A whiteboard session: an older professional listening intently to a younger one mid-explanation.",
+    "lines": [
+     "My first manager saw something in me.",
+     "She gave me hard tasks and real trust.",
+     "I failed sometimes. She never made it feel final.",
+     "Now I try to be that person for others."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "What made you a good professional?",
+      "gesture": "direct question"
+     },
+     {
+      "speaker": "B (you)",
+      "line": "… (respond aloud)",
+      "gesture": ""
+     },
+     {
+      "speaker": "B (model)",
+      "line": "One manager who trusted me before I deserved it.",
+      "gesture": "no hesitation"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "My grandfather taught me patience, mostly through chess.  ·  My grandfather taught me patience, mostly through chess.  ·  My grandfather taught me patience, mostly through chess."
+      },
+      {
+       "who": "Teacher",
+       "line": "He never rushed a move, and he never rushed me.  ·  He never rushed a move, and he never rushed me.  ·  He never rushed a move, and he never rushed me."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Silent invitation (no production ever required)",
+     "camera": "Tight on teacher's expectant face during the pause — warm, patient, zero pressure.",
+     "action": "Teacher asks, then holds a real 5-second silence with bright eyes and raised eyebrows. Whether the child answers or not, the teacher then completes the answer himself, warmly, as if the child had asked him to. Any sound the child makes is celebrated but never requested.",
+     "audio": [
+      {
+       "who": "Teacher (asks, then waits 5s)",
+       "line": "Who influenced you the most?"
+      },
+      {
+       "who": "(silence — the child may or may not attempt; both are perfect)",
+       "line": "…"
+      },
+      {
+       "who": "Teacher (completes warmly)",
+       "line": "My grandfather. He never gave advice directly. He just asked better questions."
+      }
+     ],
+     "sfx": "A tiny 'sparkle' cue only if the child initiates anything."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "He never rushed a move, and he never rushed me."
+      },
+      {
+       "who": "Teacher",
+       "line": "My grandfather taught me patience, mostly through chess."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I still hear his voice when I'm about to decide in a hurry."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 191,
+        "level": "A2",
+        "module": 9,
+        "module_title": "Past Experiences & Simple Futures",
+        "title": "Yesterday",
+        "visual_scene": "A desk with yesterday's coffee cup still on it, a window now showing evening.",
+        "natural_english": [
+         "Yesterday was a long day.",
+         "I worked until seven.",
+         "Then I met an old friend for dinner.",
+         "We talked for three hours."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "How was your day?",
+          "gesture": "hanging up a coat"
+         },
+         {
+          "speaker": "B",
+          "line": "Busy, but good. I finally finished the report.",
+          "gesture": "sighing happily"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Yesterday was a long day.",
+            "I worked until seven.",
+            "Then I met an old friend for dinner.",
+            "We talked for three hours."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "How was your day?",
+            "Busy, but good. I finally finished the report."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "past simple"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 192,
+        "level": "A2",
+        "module": 9,
+        "module_title": "Past Experiences & Simple Futures",
+        "title": "Last Weekend — Listen & Shadow",
+        "visual_scene": "Photos on a phone: a lake, a picnic blanket, a dog shaking off water.",
+        "natural_english": [
+         "Last weekend, we went to the lake.",
+         "The weather was perfect.",
+         "We stayed until sunset.",
+         "I didn't want to leave."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "What did you do on the weekend?",
+          "gesture": "pouring coffee"
+         },
+         {
+          "speaker": "B",
+          "line": "Nothing much. We drove to the coast on Saturday.",
+          "gesture": "leaning back"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Last weekend, we went to the lake.",
+            "The weather was perfect.",
+            "We stayed until sunset.",
+            "I didn't want to leave."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "What did you do on the weekend?",
+            "Nothing much. We drove to the coast on Saturday."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "went / didn't"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "My grandfather taught me patience, mostly through chess."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "chess!",
+    "2_two_words": "through chess!",
+    "3_full_sentence": "My grandfather taught me patience, mostly through chess.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A shelf of objects: a worn chess piece, a fountain pen, a small brass compass.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «My grandfather taught me patience, mostly through chess.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): a strange kind of inheritance. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «Who influenced you the most?» اصمت وانظر بترقّب. بعد سؤالك اصمت دون قلق. دعه يبني جملته كاملة حتى وإن تلعثم. التلعثم جزء من البناء.",
+    "لا تترجم: أعد الصياغة بإنجليزية أبسط أو اطلب منه أن يريك بالفعل ما عنده في ذهنه.",
+    "صحح بالإعادة ضمن ردك الطبيعي: أعد جملته صحيحة وأنت تجيب عليه، فسمعها صحيحة دون أن يشعر بالتصحيح.",
+    "نوع هذه الحلقة: الدعوة صامتة: الصمت المنتظر هو جوهر الحلقة، وأنت من يكمل الإجابة دائمًا بعد الانتظار سواء نطق هو أم لا.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child begins narrating on his own initiative. Full sentences appear without ever being assigned."
+  },
+  {
+   "episode": 80,
+   "level": "B1",
+   "module": 10,
+   "module_title": "Personal History & Storytelling",
+   "title": "How I've Changed — Spiral Review",
+   "kind": "spiral",
+   "source_page": 228,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 3 — The Narrating Child (linguistic age 4–8 years)",
+    "teacher_role": "You are a parent of a school-age storyteller. The child now tells you about his day, his past, his plans and opinions. You listen like parents do: with real questions, real reactions, and gentle recasts instead of corrections.",
+    "child_expected": "Speaks in full sentences. Tells simple stories. Gives opinions and reasons. Makes mistakes — that is the engine of growth.",
+    "speech_style": "Completely natural adult speech. Your job is rich response, not correction."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الثالثة — الطفل الحَكّاء (عمر لغوي 4–8 سنوات)",
+    "teacher_role": "أنت والدُ طفلٍ في سن المدرسة يحكي قصصه. صار يحكي يومه وماضيه وخططه وآراءه. أنصت كما يُنصت الآباء: بأسئلة حقيقية وتفاعل حقيقي، وبإعادة صياغة لطيفة بدل التصحيح.",
+    "child_expected": "يتكلم بجمل كاملة. يحكي قصصًا بسيطة. يرى آراءً وأسبابًا. يخطئ — والخطأ هو محرّك النمو.",
+    "speech_style": "كلام البالغين الطبيعي تمامًا. مهمتك الاستجابة الغنية لا التصحيح."
+   },
+   "scene": {
+    "setting": "Two photos side by side on a phone: the same person five years apart.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "Two photos on a phone: same face, ten years apart, different posture.",
+    "lines": [
+     "Her name is Lena.",
+     "It's going to be a full day.",
+     "I used to talk to win. Now I talk to understand.",
+     "The photo is the same face. The person isn't."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Would you recognize your old self?",
+      "gesture": "looking at the photos"
+     },
+     {
+      "speaker": "B",
+      "line": "The face, yes. The priorities, never.",
+      "gesture": "swiping away"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Her name is Lena.  ·  Her name is Lena.  ·  Her name is Lena."
+      },
+      {
+       "who": "Teacher",
+       "line": "It's going to be a full day.  ·  It's going to be a full day.  ·  It's going to be a full day."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Old lines, new scene",
+     "camera": "Cut between quick inserts of earlier episodes and the live scene.",
+     "action": "Teacher opens with familiar lines from earlier modules (spiral), then lands them into today's new scene. The child feels 'I know this!' — that safety is the goal.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Her name is Lena."
+      },
+      {
+       "who": "Teacher",
+       "line": "It's going to be a full day."
+      },
+      {
+       "who": "Teacher",
+       "line": "Now I try to ask questions before reacting."
+      },
+      {
+       "who": "Teacher",
+       "line": "It took years, and I'm still working on it."
+      }
+     ],
+     "sfx": "Soft 'you know this!' chime on each familiar line."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "It's going to be a full day."
+      },
+      {
+       "who": "Teacher",
+       "line": "Her name is Lena."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Now I try to ask questions before reacting."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 191,
+        "level": "A2",
+        "module": 9,
+        "module_title": "Past Experiences & Simple Futures",
+        "title": "Yesterday",
+        "visual_scene": "A desk with yesterday's coffee cup still on it, a window now showing evening.",
+        "natural_english": [
+         "Yesterday was a long day.",
+         "I worked until seven.",
+         "Then I met an old friend for dinner.",
+         "We talked for three hours."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "How was your day?",
+          "gesture": "hanging up a coat"
+         },
+         {
+          "speaker": "B",
+          "line": "Busy, but good. I finally finished the report.",
+          "gesture": "sighing happily"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Yesterday was a long day.",
+            "I worked until seven.",
+            "Then I met an old friend for dinner.",
+            "We talked for three hours."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "How was your day?",
+            "Busy, but good. I finally finished the report."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "past simple"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 192,
+        "level": "A2",
+        "module": 9,
+        "module_title": "Past Experiences & Simple Futures",
+        "title": "Last Weekend — Listen & Shadow",
+        "visual_scene": "Photos on a phone: a lake, a picnic blanket, a dog shaking off water.",
+        "natural_english": [
+         "Last weekend, we went to the lake.",
+         "The weather was perfect.",
+         "We stayed until sunset.",
+         "I didn't want to leave."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "What did you do on the weekend?",
+          "gesture": "pouring coffee"
+         },
+         {
+          "speaker": "B",
+          "line": "Nothing much. We drove to the coast on Saturday.",
+          "gesture": "leaning back"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Last weekend, we went to the lake.",
+            "The weather was perfect.",
+            "We stayed until sunset.",
+            "I didn't want to leave."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "What did you do on the weekend?",
+            "Nothing much. We drove to the coast on Saturday."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "went / didn't"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Her name is Lena."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "Lena!",
+    "2_two_words": "name Lena!",
+    "3_full_sentence": "Her name is Lena.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: Two photos side by side on a phone: the same person five years apart.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «Her name is Lena.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): used to / still working on it. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «You seem different lately.» اصمت وانظر بترقّب. بعد سؤالك اصمت دون قلق. دعه يبني جملته كاملة حتى وإن تلعثم. التلعثم جزء من البناء.",
+    "لا تترجم: أعد الصياغة بإنجليزية أبسط أو اطلب منه أن يريك بالفعل ما عنده في ذهنه.",
+    "صحح بالإعادة ضمن ردك الطبيعي: أعد جملته صحيحة وأنت تجيب عليه، فسمعها صحيحة دون أن يشعر بالتصحيح.",
+    "نوع هذه الحلقة: ابدأ بجمل مألوفة من حلقات سابقة قبل الجديد حتى يشعر بأمان «أنا أعرف هذا».",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child begins narrating on his own initiative. Full sentences appear without ever being assigned."
+  }
+ ]
+}

@@ -1,0 +1,2517 @@
+{
+ "module": 8,
+ "module_title": "Commerce & Markets",
+ "level": "A2",
+ "episodes": [
+  {
+   "episode": 57,
+   "level": "A2",
+   "module": 8,
+   "module_title": "Commerce & Markets",
+   "title": "How Much Is It?",
+   "kind": "core",
+   "source_page": 161,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 2 — Toddler Talk (linguistic age 18 months–3 years)",
+    "teacher_role": "You are a caregiver expanding the child's world: the city, the market, yesterday and tomorrow. You ask simple questions and wait. When the child answers with one or two words, you expand it naturally into a full sentence and move on.",
+    "child_expected": "Says single words and two-word combos ('more juice', 'go bus!'). Answers 'what/where' questions with a word or gesture.",
+    "speech_style": "Natural but still slow. Use expansions: child says 'Bus!' — you say 'Yes, the bus is coming!'"
+   },
+   "stage_ar": {
+    "stage": "المرحلة الثانية — كلام الطفل سائرًا (عمر لغوي 18 شهرًا–3 سنوات)",
+    "teacher_role": "أنت مُربٍّ يوسّع عالم الطفل: المدينة والسوق وأمس وغدًا. اسأل أسئلة بسيطة وانتظر. حين يجيب بكلمة أو كلمتين، وسّعها أنت إلى جملة كاملة بشكل طبيعي وواصل.",
+    "child_expected": "ينطق كلمات مفردة وتركيبات من كلمتين (more juice / go bus). يجيب عن أسئلة ماذا وأين بكلمة أو بإشارة.",
+    "speech_style": "طبيعي لكن ما زال بطيئًا. استخدم التوسيع: يقول الطفل Bus! تقول أنت: Yes, the bus is coming!"
+   },
+   "scene": {
+    "setting": "A market stall with oranges piled in a pyramid, a handwritten price sign.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A market stall. Seller and buyer mid-negotiation, both smiling, hands animated.",
+    "lines": [
+     "How much for all of them?",
+     "For you? A special price.",
+     "We agree on a number. We both smile.",
+     "Everyone leaves happy. That's a good market."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Last price?",
+      "gesture": "counting coins"
+     },
+     {
+      "speaker": "B",
+      "line": "For you, my friend... OK, final price.",
+      "gesture": "hand extended to shake"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "How much are the oranges?  ·  How much are the oranges?  ·  How much are the oranges?"
+      },
+      {
+       "who": "Teacher",
+       "line": "They're three dollars a kilo.  ·  They're three dollars a kilo.  ·  They're three dollars a kilo."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Live dialogue — teacher plays both roles with the child",
+     "camera": "Over-the-shoulder alternates; keep both faces in frame for reactions.",
+     "action": "Teacher speaks line A to the child with gesture. Waits 5 seconds — silently. If the child offers anything, expand it joyfully. Then teacher voices B with a puppet/second voice. Replay the exchange once more with roles swapped.",
+     "audio": [
+      {
+       "who": "A",
+       "line": "How much is this?",
+       "gesture": "holding up a melon"
+      },
+      {
+       "who": "B",
+       "line": "Four dollars. Fresh this morning.",
+       "gesture": "tapping it twice"
+      }
+     ],
+     "sfx": "None. Faces and voices carry everything."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "They're three dollars a kilo."
+      },
+      {
+       "who": "Teacher",
+       "line": "How much are the oranges?"
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's a good price."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 131,
+        "level": "A2",
+        "module": 7,
+        "module_title": "The City & Navigation",
+        "title": "Where Is the Station?",
+        "visual_scene": "A city corner: a lost visitor holding a phone map, a local pointing down the street.",
+        "natural_english": [
+         "Excuse me, where is the train station?",
+         "Go straight, then turn left.",
+         "It's about five minutes on foot.",
+         "You can't miss it."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Sorry, is the station far from here?",
+          "gesture": "map in hand"
+         },
+         {
+          "speaker": "B",
+          "line": "No, it's close. Straight ahead, then left at the bakery.",
+          "gesture": "pointing"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Excuse me, where is the train station?",
+            "Go straight, then turn left.",
+            "It's about five minutes on foot.",
+            "You can't miss it."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Sorry, is the station far from here?",
+            "No, it's close. Straight ahead, then left at the bakery."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "directions with imperatives"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 132,
+        "level": "A2",
+        "module": 7,
+        "module_title": "The City & Navigation",
+        "title": "Taking the Bus — Listen & Shadow",
+        "visual_scene": "A bus shelter with a route map; a bus approaches, headlights in the drizzle.",
+        "natural_english": [
+         "Which bus goes to the city center?",
+         "The number twelve, I think.",
+         "You need to buy a ticket first.",
+         "Get off at the third stop."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Does this bus go downtown?",
+          "gesture": "stepping aboard"
+         },
+         {
+          "speaker": "B",
+          "line": "Yes, but you need to change at the square.",
+          "gesture": "holding the door"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Which bus goes to the city center?",
+            "The number twelve, I think.",
+            "You need to buy a ticket first.",
+            "Get off at the third stop."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Does this bus go downtown?",
+            "Yes, but you need to change at the square."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "get on / get off / change"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "How much are the oranges?"
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "oranges?",
+    "2_two_words": "much oranges?",
+    "3_full_sentence": "How much are the oranges?",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A market stall with oranges piled in a pyramid, a handwritten price sign.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «How much are the oranges?» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): how much / I'll take. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «How much is this?» اصمت وانظر بترقّب. بعد السؤال اصمت 5 ثوانٍ كاملة. أي كلمة واحدة منه = نجاح كبير. وسّعها أنت إلى الجملة الكاملة بفرح واضح.",
+    "لا تترجم: إذا لم يفهم، أعد الجملة مع مشهد أقوى (إيماءة، صوت، حركة) لا مع ترجمة عربية.",
+    "صحح بالإعادة (recast): يقول 'Bus go!' فتقول بدهشة سعيدة 'Yes! The bus is going!' — دون أن تقل 'خطأ' أو 'لا'.",
+    "نوع هذه الحلقة: الأسماء والأفعال أمام عينيه أهم من أي شرح.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child engages with the scene and may offer a word or two spontaneously. You expand it; he owes you nothing."
+  },
+  {
+   "episode": 58,
+   "level": "A2",
+   "module": 8,
+   "module_title": "Commerce & Markets",
+   "title": "I Like This One — Listen & Shadow",
+   "kind": "shadow",
+   "source_page": 162,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 2 — Toddler Talk (linguistic age 18 months–3 years)",
+    "teacher_role": "You are a caregiver expanding the child's world: the city, the market, yesterday and tomorrow. You ask simple questions and wait. When the child answers with one or two words, you expand it naturally into a full sentence and move on.",
+    "child_expected": "Says single words and two-word combos ('more juice', 'go bus!'). Answers 'what/where' questions with a word or gesture.",
+    "speech_style": "Natural but still slow. Use expansions: child says 'Bus!' — you say 'Yes, the bus is coming!'"
+   },
+   "stage_ar": {
+    "stage": "المرحلة الثانية — كلام الطفل سائرًا (عمر لغوي 18 شهرًا–3 سنوات)",
+    "teacher_role": "أنت مُربٍّ يوسّع عالم الطفل: المدينة والسوق وأمس وغدًا. اسأل أسئلة بسيطة وانتظر. حين يجيب بكلمة أو كلمتين، وسّعها أنت إلى جملة كاملة بشكل طبيعي وواصل.",
+    "child_expected": "ينطق كلمات مفردة وتركيبات من كلمتين (more juice / go bus). يجيب عن أسئلة ماذا وأين بكلمة أو بإشارة.",
+    "speech_style": "طبيعي لكن ما زال بطيئًا. استخدم التوسيع: يقول الطفل Bus! تقول أنت: Yes, the bus is coming!"
+   },
+   "scene": {
+    "setting": "A clothing rack; a shopper holding up two shirts, comparing them.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A fitting room mirror. A person in a new jacket, turning slowly, nodding.",
+    "lines": [
+     "This jacket. This is the one.",
+     "It fits like it was made for me.",
+     "It's not cheap. But I'll wear it for years.",
+     "Some purchases are easy."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Decision time?",
+      "gesture": "tags still on"
+     },
+     {
+      "speaker": "B",
+      "line": "Done. I'm taking it. No more thinking.",
+      "gesture": "cutting the tag"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I like this one better.  ·  I like this one better.  ·  I like this one better."
+      },
+      {
+       "who": "Teacher",
+       "line": "Do you have it in blue?  ·  Do you have it in blue?  ·  Do you have it in blue?"
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Echo & shadow play (pure imitation game, never a task)",
+     "camera": "Full-body teacher shot so mouth, hands and body are all visible.",
+     "action": "Teacher says each line twice: once slow with huge mouth movements, once natural. If the child shadows, wonderful; if not, the teacher simply continues, delighted either way.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I like this one better.  ...  I like this one better."
+      },
+      {
+       "who": "Teacher",
+       "line": "Do you have it in blue?  ...  Do you have it in blue?"
+      },
+      {
+       "who": "Teacher",
+       "line": "Sorry, blue is out of stock.  ...  Sorry, blue is out of stock."
+      },
+      {
+       "who": "Teacher",
+       "line": "OK, I'll take the green one then.  ...  OK, I'll take the green one then."
+      }
+     ],
+     "sfx": "Optional light rhythm under the second pass."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Do you have it in blue?"
+      },
+      {
+       "who": "Teacher",
+       "line": "I like this one better."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Sorry, blue is out of stock."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 131,
+        "level": "A2",
+        "module": 7,
+        "module_title": "The City & Navigation",
+        "title": "Where Is the Station?",
+        "visual_scene": "A city corner: a lost visitor holding a phone map, a local pointing down the street.",
+        "natural_english": [
+         "Excuse me, where is the train station?",
+         "Go straight, then turn left.",
+         "It's about five minutes on foot.",
+         "You can't miss it."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Sorry, is the station far from here?",
+          "gesture": "map in hand"
+         },
+         {
+          "speaker": "B",
+          "line": "No, it's close. Straight ahead, then left at the bakery.",
+          "gesture": "pointing"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Excuse me, where is the train station?",
+            "Go straight, then turn left.",
+            "It's about five minutes on foot.",
+            "You can't miss it."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Sorry, is the station far from here?",
+            "No, it's close. Straight ahead, then left at the bakery."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "directions with imperatives"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 132,
+        "level": "A2",
+        "module": 7,
+        "module_title": "The City & Navigation",
+        "title": "Taking the Bus — Listen & Shadow",
+        "visual_scene": "A bus shelter with a route map; a bus approaches, headlights in the drizzle.",
+        "natural_english": [
+         "Which bus goes to the city center?",
+         "The number twelve, I think.",
+         "You need to buy a ticket first.",
+         "Get off at the third stop."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Does this bus go downtown?",
+          "gesture": "stepping aboard"
+         },
+         {
+          "speaker": "B",
+          "line": "Yes, but you need to change at the square.",
+          "gesture": "holding the door"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Which bus goes to the city center?",
+            "The number twelve, I think.",
+            "You need to buy a ticket first.",
+            "Get off at the third stop."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Does this bus go downtown?",
+            "Yes, but you need to change at the square."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "get on / get off / change"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I like this one better."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "blue?",
+    "2_two_words": "in blue?",
+    "3_full_sentence": "Do you have it in blue?",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A clothing rack; a shopper holding up two shirts, comparing them.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «I like this one better.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): prefer / out of stock. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «Do you have this in a medium?» اصمت وانظر بترقّب. بعد السؤال اصمت 5 ثوانٍ كاملة. أي كلمة واحدة منه = نجاح كبير. وسّعها أنت إلى الجملة الكاملة بفرح واضح.",
+    "لا تترجم: إذا لم يفهم، أعد الجملة مع مشهد أقوى (إيماءة، صوت، حركة) لا مع ترجمة عربية.",
+    "صحح بالإعادة (recast): يقول 'Bus go!' فتقول بدهشة سعيدة 'Yes! The bus is going!' — دون أن تقل 'خطأ' أو 'لا'.",
+    "نوع هذه الحلقة: التظليل هنا لعبة تقليد طبيعية لا واجب نطق — إن لم يقلد فلا شيء، أنت وحدك تكمل بفرح.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child engages with the scene and may offer a word or two spontaneously. You expand it; he owes you nothing."
+  },
+  {
+   "episode": 59,
+   "level": "A2",
+   "module": 8,
+   "module_title": "Commerce & Markets",
+   "title": "At the Cafe — Your Turn",
+   "kind": "your_turn",
+   "source_page": 163,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 2 — Toddler Talk (linguistic age 18 months–3 years)",
+    "teacher_role": "You are a caregiver expanding the child's world: the city, the market, yesterday and tomorrow. You ask simple questions and wait. When the child answers with one or two words, you expand it naturally into a full sentence and move on.",
+    "child_expected": "Says single words and two-word combos ('more juice', 'go bus!'). Answers 'what/where' questions with a word or gesture.",
+    "speech_style": "Natural but still slow. Use expansions: child says 'Bus!' — you say 'Yes, the bus is coming!'"
+   },
+   "stage_ar": {
+    "stage": "المرحلة الثانية — كلام الطفل سائرًا (عمر لغوي 18 شهرًا–3 سنوات)",
+    "teacher_role": "أنت مُربٍّ يوسّع عالم الطفل: المدينة والسوق وأمس وغدًا. اسأل أسئلة بسيطة وانتظر. حين يجيب بكلمة أو كلمتين، وسّعها أنت إلى جملة كاملة بشكل طبيعي وواصل.",
+    "child_expected": "ينطق كلمات مفردة وتركيبات من كلمتين (more juice / go bus). يجيب عن أسئلة ماذا وأين بكلمة أو بإشارة.",
+    "speech_style": "طبيعي لكن ما زال بطيئًا. استخدم التوسيع: يقول الطفل Bus! تقول أنت: Yes, the bus is coming!"
+   },
+   "scene": {
+    "setting": "A cafe counter, steam from the machine, a chalkboard menu behind.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A cafe counter. The barista is already steaming milk as a familiar face walks in.",
+    "lines": [
+     "The barista knows my order.",
+     "Large coffee, no sugar, to go.",
+     "She starts making it when I open the door.",
+     "Being a regular has benefits."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "The usual?",
+      "gesture": "cup already out"
+     },
+     {
+      "speaker": "B (you)",
+      "line": "… (respond aloud)",
+      "gesture": ""
+     },
+     {
+      "speaker": "B (model)",
+      "line": "You know me too well.",
+      "gesture": "exact change ready"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Can I get a large coffee, please?  ·  Can I get a large coffee, please?  ·  Can I get a large coffee, please?"
+      },
+      {
+       "who": "Teacher",
+       "line": "For here or to go?  ·  For here or to go?  ·  For here or to go?"
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Silent invitation (no production ever required)",
+     "camera": "Tight on teacher's expectant face during the pause — warm, patient, zero pressure.",
+     "action": "Teacher asks, then holds a real 5-second silence with bright eyes and raised eyebrows. Whether the child answers or not, the teacher then completes the answer himself, warmly, as if the child had asked him to. Any sound the child makes is celebrated but never requested.",
+     "audio": [
+      {
+       "who": "Teacher (asks, then waits 5s)",
+       "line": "What do you recommend?"
+      },
+      {
+       "who": "(silence — the child may or may not attempt; both are perfect)",
+       "line": "…"
+      },
+      {
+       "who": "Teacher (completes warmly)",
+       "line": "The cappuccino is great today."
+      }
+     ],
+     "sfx": "A tiny 'sparkle' cue only if the child initiates anything."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "For here or to go?"
+      },
+      {
+       "who": "Teacher",
+       "line": "Can I get a large coffee, please?"
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "To go, please."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 131,
+        "level": "A2",
+        "module": 7,
+        "module_title": "The City & Navigation",
+        "title": "Where Is the Station?",
+        "visual_scene": "A city corner: a lost visitor holding a phone map, a local pointing down the street.",
+        "natural_english": [
+         "Excuse me, where is the train station?",
+         "Go straight, then turn left.",
+         "It's about five minutes on foot.",
+         "You can't miss it."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Sorry, is the station far from here?",
+          "gesture": "map in hand"
+         },
+         {
+          "speaker": "B",
+          "line": "No, it's close. Straight ahead, then left at the bakery.",
+          "gesture": "pointing"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Excuse me, where is the train station?",
+            "Go straight, then turn left.",
+            "It's about five minutes on foot.",
+            "You can't miss it."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Sorry, is the station far from here?",
+            "No, it's close. Straight ahead, then left at the bakery."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "directions with imperatives"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 132,
+        "level": "A2",
+        "module": 7,
+        "module_title": "The City & Navigation",
+        "title": "Taking the Bus — Listen & Shadow",
+        "visual_scene": "A bus shelter with a route map; a bus approaches, headlights in the drizzle.",
+        "natural_english": [
+         "Which bus goes to the city center?",
+         "The number twelve, I think.",
+         "You need to buy a ticket first.",
+         "Get off at the third stop."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Does this bus go downtown?",
+          "gesture": "stepping aboard"
+         },
+         {
+          "speaker": "B",
+          "line": "Yes, but you need to change at the square.",
+          "gesture": "holding the door"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Which bus goes to the city center?",
+            "The number twelve, I think.",
+            "You need to buy a ticket first.",
+            "Get off at the third stop."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Does this bus go downtown?",
+            "Yes, but you need to change at the square."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "get on / get off / change"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Can I get a large coffee, please?"
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "please?",
+    "2_two_words": "coffee please?",
+    "3_full_sentence": "Can I get a large coffee, please?",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A cafe counter, steam from the machine, a chalkboard menu behind.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «Can I get a large coffee, please?» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): can I get / for here or to go. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «What do you recommend?» اصمت وانظر بترقّب. بعد السؤال اصمت 5 ثوانٍ كاملة. أي كلمة واحدة منه = نجاح كبير. وسّعها أنت إلى الجملة الكاملة بفرح واضح.",
+    "لا تترجم: إذا لم يفهم، أعد الجملة مع مشهد أقوى (إيماءة، صوت، حركة) لا مع ترجمة عربية.",
+    "صحح بالإعادة (recast): يقول 'Bus go!' فتقول بدهشة سعيدة 'Yes! The bus is going!' — دون أن تقل 'خطأ' أو 'لا'.",
+    "نوع هذه الحلقة: الدعوة صامتة: الصمت المنتظر هو جوهر الحلقة، وأنت من يكمل الإجابة دائمًا بعد الانتظار سواء نطق هو أم لا.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child engages with the scene and may offer a word or two spontaneously. You expand it; he owes you nothing."
+  },
+  {
+   "episode": 60,
+   "level": "A2",
+   "module": 8,
+   "module_title": "Commerce & Markets",
+   "title": "It's Too Expensive — Spiral Review",
+   "kind": "spiral",
+   "source_page": 164,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 2 — Toddler Talk (linguistic age 18 months–3 years)",
+    "teacher_role": "You are a caregiver expanding the child's world: the city, the market, yesterday and tomorrow. You ask simple questions and wait. When the child answers with one or two words, you expand it naturally into a full sentence and move on.",
+    "child_expected": "Says single words and two-word combos ('more juice', 'go bus!'). Answers 'what/where' questions with a word or gesture.",
+    "speech_style": "Natural but still slow. Use expansions: child says 'Bus!' — you say 'Yes, the bus is coming!'"
+   },
+   "stage_ar": {
+    "stage": "المرحلة الثانية — كلام الطفل سائرًا (عمر لغوي 18 شهرًا–3 سنوات)",
+    "teacher_role": "أنت مُربٍّ يوسّع عالم الطفل: المدينة والسوق وأمس وغدًا. اسأل أسئلة بسيطة وانتظر. حين يجيب بكلمة أو كلمتين، وسّعها أنت إلى جملة كاملة بشكل طبيعي وواصل.",
+    "child_expected": "ينطق كلمات مفردة وتركيبات من كلمتين (more juice / go bus). يجيب عن أسئلة ماذا وأين بكلمة أو بإشارة.",
+    "speech_style": "طبيعي لكن ما زال بطيئًا. استخدم التوسيع: يقول الطفل Bus! تقول أنت: Yes, the bus is coming!"
+   },
+   "scene": {
+    "setting": "A shopper turning over a price tag, eyebrows raised, putting the item back.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A shop window with a big SALE sign. A small crowd, coats over arms.",
+    "lines": [
+     "We are happy.",
+     "You'll see it right away.",
+     "I arrive early. Smart move.",
+     "I get the coat. Half price."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Did you get anything good?",
+      "gesture": "bags everywhere"
+     },
+     {
+      "speaker": "B",
+      "line": "A winter coat, half price. I'm very happy.",
+      "gesture": "showing it off"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "We are happy.  ·  We are happy.  ·  We are happy."
+      },
+      {
+       "who": "Teacher",
+       "line": "You'll see it right away.  ·  You'll see it right away.  ·  You'll see it right away."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Old lines, new scene",
+     "camera": "Cut between quick inserts of earlier episodes and the live scene.",
+     "action": "Teacher opens with familiar lines from earlier modules (spiral), then lands them into today's new scene. The child feels 'I know this!' — that safety is the goal.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "We are happy."
+      },
+      {
+       "who": "Teacher",
+       "line": "You'll see it right away."
+      },
+      {
+       "who": "Teacher",
+       "line": "The sale section is over there."
+      },
+      {
+       "who": "Teacher",
+       "line": "Actually, this one is on sale."
+      }
+     ],
+     "sfx": "Soft 'you know this!' chime on each familiar line."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "You'll see it right away."
+      },
+      {
+       "who": "Teacher",
+       "line": "We are happy."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "The sale section is over there."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 131,
+        "level": "A2",
+        "module": 7,
+        "module_title": "The City & Navigation",
+        "title": "Where Is the Station?",
+        "visual_scene": "A city corner: a lost visitor holding a phone map, a local pointing down the street.",
+        "natural_english": [
+         "Excuse me, where is the train station?",
+         "Go straight, then turn left.",
+         "It's about five minutes on foot.",
+         "You can't miss it."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Sorry, is the station far from here?",
+          "gesture": "map in hand"
+         },
+         {
+          "speaker": "B",
+          "line": "No, it's close. Straight ahead, then left at the bakery.",
+          "gesture": "pointing"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Excuse me, where is the train station?",
+            "Go straight, then turn left.",
+            "It's about five minutes on foot.",
+            "You can't miss it."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Sorry, is the station far from here?",
+            "No, it's close. Straight ahead, then left at the bakery."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "directions with imperatives"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 132,
+        "level": "A2",
+        "module": 7,
+        "module_title": "The City & Navigation",
+        "title": "Taking the Bus — Listen & Shadow",
+        "visual_scene": "A bus shelter with a route map; a bus approaches, headlights in the drizzle.",
+        "natural_english": [
+         "Which bus goes to the city center?",
+         "The number twelve, I think.",
+         "You need to buy a ticket first.",
+         "Get off at the third stop."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Does this bus go downtown?",
+          "gesture": "stepping aboard"
+         },
+         {
+          "speaker": "B",
+          "line": "Yes, but you need to change at the square.",
+          "gesture": "holding the door"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Which bus goes to the city center?",
+            "The number twelve, I think.",
+            "You need to buy a ticket first.",
+            "Get off at the third stop."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Does this bus go downtown?",
+            "Yes, but you need to change at the square."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "get on / get off / change"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "We are happy."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "happy!",
+    "2_two_words": "We happy!",
+    "3_full_sentence": "We are happy.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A shopper turning over a price tag, eyebrows raised, putting the item back.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «We are happy.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): too + adjective. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «Ninety dollars? That's too much.» اصمت وانظر بترقّب. بعد السؤال اصمت 5 ثوانٍ كاملة. أي كلمة واحدة منه = نجاح كبير. وسّعها أنت إلى الجملة الكاملة بفرح واضح.",
+    "لا تترجم: إذا لم يفهم، أعد الجملة مع مشهد أقوى (إيماءة، صوت، حركة) لا مع ترجمة عربية.",
+    "صحح بالإعادة (recast): يقول 'Bus go!' فتقول بدهشة سعيدة 'Yes! The bus is going!' — دون أن تقل 'خطأ' أو 'لا'.",
+    "نوع هذه الحلقة: ابدأ بجمل مألوفة من حلقات سابقة قبل الجديد حتى يشعر بأمان «أنا أعرف هذا».",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child engages with the scene and may offer a word or two spontaneously. You expand it; he owes you nothing."
+  },
+  {
+   "episode": 61,
+   "level": "A2",
+   "module": 8,
+   "module_title": "Commerce & Markets",
+   "title": "Paying",
+   "kind": "core",
+   "source_page": 165,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 2 — Toddler Talk (linguistic age 18 months–3 years)",
+    "teacher_role": "You are a caregiver expanding the child's world: the city, the market, yesterday and tomorrow. You ask simple questions and wait. When the child answers with one or two words, you expand it naturally into a full sentence and move on.",
+    "child_expected": "Says single words and two-word combos ('more juice', 'go bus!'). Answers 'what/where' questions with a word or gesture.",
+    "speech_style": "Natural but still slow. Use expansions: child says 'Bus!' — you say 'Yes, the bus is coming!'"
+   },
+   "stage_ar": {
+    "stage": "المرحلة الثانية — كلام الطفل سائرًا (عمر لغوي 18 شهرًا–3 سنوات)",
+    "teacher_role": "أنت مُربٍّ يوسّع عالم الطفل: المدينة والسوق وأمس وغدًا. اسأل أسئلة بسيطة وانتظر. حين يجيب بكلمة أو كلمتين، وسّعها أنت إلى جملة كاملة بشكل طبيعي وواصل.",
+    "child_expected": "ينطق كلمات مفردة وتركيبات من كلمتين (more juice / go bus). يجيب عن أسئلة ماذا وأين بكلمة أو بإشارة.",
+    "speech_style": "طبيعي لكن ما زال بطيئًا. استخدم التوسيع: يقول الطفل Bus! تقول أنت: Yes, the bus is coming!"
+   },
+   "scene": {
+    "setting": "A card machine beeping at a checkout, a phone hovering over it.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A restaurant table. The bill sits in the middle; phones with calculators come out.",
+    "lines": [
+     "How do we split the bill?",
+     "I had just the soup.",
+     "Let's just divide it equally. It's easier.",
+     "Next time, dessert is on me."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "What do we owe?",
+      "gesture": "bill in hand"
+     },
+     {
+      "speaker": "B",
+      "line": "Let's split it. You can get the tip.",
+      "gesture": "card on the tray"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Card or cash?  ·  Card or cash?  ·  Card or cash?"
+      },
+      {
+       "who": "Teacher",
+       "line": "Card, please.  ·  Card, please.  ·  Card, please."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Live dialogue — teacher plays both roles with the child",
+     "camera": "Over-the-shoulder alternates; keep both faces in frame for reactions.",
+     "action": "Teacher speaks line A to the child with gesture. Waits 5 seconds — silently. If the child offers anything, expand it joyfully. Then teacher voices B with a puppet/second voice. Replay the exchange once more with roles swapped.",
+     "audio": [
+      {
+       "who": "A",
+       "line": "Just this, please.",
+       "gesture": "placing items down"
+      },
+      {
+       "who": "B",
+       "line": "Twelve forty. Card or cash?",
+       "gesture": "ringing it up"
+      }
+     ],
+     "sfx": "None. Faces and voices carry everything."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Card, please."
+      },
+      {
+       "who": "Teacher",
+       "line": "Card or cash?"
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Do you want a receipt?"
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 131,
+        "level": "A2",
+        "module": 7,
+        "module_title": "The City & Navigation",
+        "title": "Where Is the Station?",
+        "visual_scene": "A city corner: a lost visitor holding a phone map, a local pointing down the street.",
+        "natural_english": [
+         "Excuse me, where is the train station?",
+         "Go straight, then turn left.",
+         "It's about five minutes on foot.",
+         "You can't miss it."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Sorry, is the station far from here?",
+          "gesture": "map in hand"
+         },
+         {
+          "speaker": "B",
+          "line": "No, it's close. Straight ahead, then left at the bakery.",
+          "gesture": "pointing"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Excuse me, where is the train station?",
+            "Go straight, then turn left.",
+            "It's about five minutes on foot.",
+            "You can't miss it."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Sorry, is the station far from here?",
+            "No, it's close. Straight ahead, then left at the bakery."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "directions with imperatives"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 132,
+        "level": "A2",
+        "module": 7,
+        "module_title": "The City & Navigation",
+        "title": "Taking the Bus — Listen & Shadow",
+        "visual_scene": "A bus shelter with a route map; a bus approaches, headlights in the drizzle.",
+        "natural_english": [
+         "Which bus goes to the city center?",
+         "The number twelve, I think.",
+         "You need to buy a ticket first.",
+         "Get off at the third stop."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Does this bus go downtown?",
+          "gesture": "stepping aboard"
+         },
+         {
+          "speaker": "B",
+          "line": "Yes, but you need to change at the square.",
+          "gesture": "holding the door"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Which bus goes to the city center?",
+            "The number twelve, I think.",
+            "You need to buy a ticket first.",
+            "Get off at the third stop."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Does this bus go downtown?",
+            "Yes, but you need to change at the square."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "get on / get off / change"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Card or cash?"
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "cash?",
+    "2_two_words": "or cash?",
+    "3_full_sentence": "Card or cash?",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A card machine beeping at a checkout, a phone hovering over it.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «Card or cash?» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): receipt / checkout phrases. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «Twelve forty. Card or cash?» اصمت وانظر بترقّب. بعد السؤال اصمت 5 ثوانٍ كاملة. أي كلمة واحدة منه = نجاح كبير. وسّعها أنت إلى الجملة الكاملة بفرح واضح.",
+    "لا تترجم: إذا لم يفهم، أعد الجملة مع مشهد أقوى (إيماءة، صوت، حركة) لا مع ترجمة عربية.",
+    "صحح بالإعادة (recast): يقول 'Bus go!' فتقول بدهشة سعيدة 'Yes! The bus is going!' — دون أن تقل 'خطأ' أو 'لا'.",
+    "نوع هذه الحلقة: الأسماء والأفعال أمام عينيه أهم من أي شرح.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child engages with the scene and may offer a word or two spontaneously. You expand it; he owes you nothing."
+  },
+  {
+   "episode": 62,
+   "level": "A2",
+   "module": 8,
+   "module_title": "Commerce & Markets",
+   "title": "The Grocery List — Listen & Shadow",
+   "kind": "shadow",
+   "source_page": 166,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 2 — Toddler Talk (linguistic age 18 months–3 years)",
+    "teacher_role": "You are a caregiver expanding the child's world: the city, the market, yesterday and tomorrow. You ask simple questions and wait. When the child answers with one or two words, you expand it naturally into a full sentence and move on.",
+    "child_expected": "Says single words and two-word combos ('more juice', 'go bus!'). Answers 'what/where' questions with a word or gesture.",
+    "speech_style": "Natural but still slow. Use expansions: child says 'Bus!' — you say 'Yes, the bus is coming!'"
+   },
+   "stage_ar": {
+    "stage": "المرحلة الثانية — كلام الطفل سائرًا (عمر لغوي 18 شهرًا–3 سنوات)",
+    "teacher_role": "أنت مُربٍّ يوسّع عالم الطفل: المدينة والسوق وأمس وغدًا. اسأل أسئلة بسيطة وانتظر. حين يجيب بكلمة أو كلمتين، وسّعها أنت إلى جملة كاملة بشكل طبيعي وواصل.",
+    "child_expected": "ينطق كلمات مفردة وتركيبات من كلمتين (more juice / go bus). يجيب عن أسئلة ماذا وأين بكلمة أو بإشارة.",
+    "speech_style": "طبيعي لكن ما زال بطيئًا. استخدم التوسيع: يقول الطفل Bus! تقول أنت: Yes, the bus is coming!"
+   },
+   "scene": {
+    "setting": "A phone screen with a list: milk, bread, eggs, tomatoes. A basket filling up.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A checkout belt: milk, bread... then chocolate, chips, and a small potted plant.",
+    "lines": [
+     "I came for milk and bread.",
+     "I left with chocolate, chips, and a plant.",
+     "The list said five things. I bought twelve.",
+     "Supermarkets are dangerous places."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "What's all this?",
+      "gesture": "eyebrows raised"
+     },
+     {
+      "speaker": "B",
+      "line": "Don't judge me. The chocolate was on sale.",
+      "gesture": "defensive smile"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "We need milk and bread.  ·  We need milk and bread.  ·  We need milk and bread."
+      },
+      {
+       "who": "Teacher",
+       "line": "Don't forget the eggs.  ·  Don't forget the eggs.  ·  Don't forget the eggs."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Echo & shadow play (pure imitation game, never a task)",
+     "camera": "Full-body teacher shot so mouth, hands and body are all visible.",
+     "action": "Teacher says each line twice: once slow with huge mouth movements, once natural. If the child shadows, wonderful; if not, the teacher simply continues, delighted either way.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "We need milk and bread.  ...  We need milk and bread."
+      },
+      {
+       "who": "Teacher",
+       "line": "Don't forget the eggs.  ...  Don't forget the eggs."
+      },
+      {
+       "who": "Teacher",
+       "line": "We're out of coffee again.  ...  We're out of coffee again."
+      },
+      {
+       "who": "Teacher",
+       "line": "That's everything, I think.  ...  That's everything, I think."
+      }
+     ],
+     "sfx": "Optional light rhythm under the second pass."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Don't forget the eggs."
+      },
+      {
+       "who": "Teacher",
+       "line": "We need milk and bread."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "We're out of coffee again."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 131,
+        "level": "A2",
+        "module": 7,
+        "module_title": "The City & Navigation",
+        "title": "Where Is the Station?",
+        "visual_scene": "A city corner: a lost visitor holding a phone map, a local pointing down the street.",
+        "natural_english": [
+         "Excuse me, where is the train station?",
+         "Go straight, then turn left.",
+         "It's about five minutes on foot.",
+         "You can't miss it."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Sorry, is the station far from here?",
+          "gesture": "map in hand"
+         },
+         {
+          "speaker": "B",
+          "line": "No, it's close. Straight ahead, then left at the bakery.",
+          "gesture": "pointing"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Excuse me, where is the train station?",
+            "Go straight, then turn left.",
+            "It's about five minutes on foot.",
+            "You can't miss it."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Sorry, is the station far from here?",
+            "No, it's close. Straight ahead, then left at the bakery."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "directions with imperatives"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 132,
+        "level": "A2",
+        "module": 7,
+        "module_title": "The City & Navigation",
+        "title": "Taking the Bus — Listen & Shadow",
+        "visual_scene": "A bus shelter with a route map; a bus approaches, headlights in the drizzle.",
+        "natural_english": [
+         "Which bus goes to the city center?",
+         "The number twelve, I think.",
+         "You need to buy a ticket first.",
+         "Get off at the third stop."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Does this bus go downtown?",
+          "gesture": "stepping aboard"
+         },
+         {
+          "speaker": "B",
+          "line": "Yes, but you need to change at the square.",
+          "gesture": "holding the door"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Which bus goes to the city center?",
+            "The number twelve, I think.",
+            "You need to buy a ticket first.",
+            "Get off at the third stop."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Does this bus go downtown?",
+            "Yes, but you need to change at the square."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "get on / get off / change"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "We need milk and bread."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "bread!",
+    "2_two_words": "and bread!",
+    "3_full_sentence": "We need milk and bread.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A phone screen with a list: milk, bread, eggs, tomatoes. A basket filling up.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «We need milk and bread.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): we need / we're out of. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «Did you get the tomatoes?» اصمت وانظر بترقّب. بعد السؤال اصمت 5 ثوانٍ كاملة. أي كلمة واحدة منه = نجاح كبير. وسّعها أنت إلى الجملة الكاملة بفرح واضح.",
+    "لا تترجم: إذا لم يفهم، أعد الجملة مع مشهد أقوى (إيماءة، صوت، حركة) لا مع ترجمة عربية.",
+    "صحح بالإعادة (recast): يقول 'Bus go!' فتقول بدهشة سعيدة 'Yes! The bus is going!' — دون أن تقل 'خطأ' أو 'لا'.",
+    "نوع هذه الحلقة: التظليل هنا لعبة تقليد طبيعية لا واجب نطق — إن لم يقلد فلا شيء، أنت وحدك تكمل بفرح.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child engages with the scene and may offer a word or two spontaneously. You expand it; he owes you nothing."
+  },
+  {
+   "episode": 63,
+   "level": "A2",
+   "module": 8,
+   "module_title": "Commerce & Markets",
+   "title": "Trying Things On — Your Turn",
+   "kind": "your_turn",
+   "source_page": 167,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 2 — Toddler Talk (linguistic age 18 months–3 years)",
+    "teacher_role": "You are a caregiver expanding the child's world: the city, the market, yesterday and tomorrow. You ask simple questions and wait. When the child answers with one or two words, you expand it naturally into a full sentence and move on.",
+    "child_expected": "Says single words and two-word combos ('more juice', 'go bus!'). Answers 'what/where' questions with a word or gesture.",
+    "speech_style": "Natural but still slow. Use expansions: child says 'Bus!' — you say 'Yes, the bus is coming!'"
+   },
+   "stage_ar": {
+    "stage": "المرحلة الثانية — كلام الطفل سائرًا (عمر لغوي 18 شهرًا–3 سنوات)",
+    "teacher_role": "أنت مُربٍّ يوسّع عالم الطفل: المدينة والسوق وأمس وغدًا. اسأل أسئلة بسيطة وانتظر. حين يجيب بكلمة أو كلمتين، وسّعها أنت إلى جملة كاملة بشكل طبيعي وواصل.",
+    "child_expected": "ينطق كلمات مفردة وتركيبات من كلمتين (more juice / go bus). يجيب عن أسئلة ماذا وأين بكلمة أو بإشارة.",
+    "speech_style": "طبيعي لكن ما زال بطيئًا. استخدم التوسيع: يقول الطفل Bus! تقول أنت: Yes, the bus is coming!"
+   },
+   "scene": {
+    "setting": "Fitting room door opening; a shopper checking themselves in a full-length mirror.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A friend waits outside a fitting room, ready with a thumbs-up or thumbs-down.",
+    "lines": [
+     "What do you think? Honest opinion.",
+     "Hmm. The color is great. The cut, not so much.",
+     "Tell me the truth. I can take it.",
+     "That's what friends are for."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Be honest. How does it look?",
+      "gesture": "curtain half open"
+     },
+     {
+      "speaker": "B (you)",
+      "line": "… (respond aloud)",
+      "gesture": ""
+     },
+     {
+      "speaker": "B (model)",
+      "line": "Try the other one. This one fights you.",
+      "gesture": "honest face"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Can I try this on?  ·  Can I try this on?  ·  Can I try this on?"
+      },
+      {
+       "who": "Teacher",
+       "line": "The fitting rooms are over there.  ·  The fitting rooms are over there.  ·  The fitting rooms are over there."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Silent invitation (no production ever required)",
+     "camera": "Tight on teacher's expectant face during the pause — warm, patient, zero pressure.",
+     "action": "Teacher asks, then holds a real 5-second silence with bright eyes and raised eyebrows. Whether the child answers or not, the teacher then completes the answer himself, warmly, as if the child had asked him to. Any sound the child makes is celebrated but never requested.",
+     "audio": [
+      {
+       "who": "Teacher (asks, then waits 5s)",
+       "line": "How does it look?"
+      },
+      {
+       "who": "(silence — the child may or may not attempt; both are perfect)",
+       "line": "…"
+      },
+      {
+       "who": "Teacher (completes warmly)",
+       "line": "Honestly? It suits you."
+      }
+     ],
+     "sfx": "A tiny 'sparkle' cue only if the child initiates anything."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "The fitting rooms are over there."
+      },
+      {
+       "who": "Teacher",
+       "line": "Can I try this on?"
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "It fits well, but it's a bit tight."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 131,
+        "level": "A2",
+        "module": 7,
+        "module_title": "The City & Navigation",
+        "title": "Where Is the Station?",
+        "visual_scene": "A city corner: a lost visitor holding a phone map, a local pointing down the street.",
+        "natural_english": [
+         "Excuse me, where is the train station?",
+         "Go straight, then turn left.",
+         "It's about five minutes on foot.",
+         "You can't miss it."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Sorry, is the station far from here?",
+          "gesture": "map in hand"
+         },
+         {
+          "speaker": "B",
+          "line": "No, it's close. Straight ahead, then left at the bakery.",
+          "gesture": "pointing"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Excuse me, where is the train station?",
+            "Go straight, then turn left.",
+            "It's about five minutes on foot.",
+            "You can't miss it."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Sorry, is the station far from here?",
+            "No, it's close. Straight ahead, then left at the bakery."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "directions with imperatives"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 132,
+        "level": "A2",
+        "module": 7,
+        "module_title": "The City & Navigation",
+        "title": "Taking the Bus — Listen & Shadow",
+        "visual_scene": "A bus shelter with a route map; a bus approaches, headlights in the drizzle.",
+        "natural_english": [
+         "Which bus goes to the city center?",
+         "The number twelve, I think.",
+         "You need to buy a ticket first.",
+         "Get off at the third stop."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Does this bus go downtown?",
+          "gesture": "stepping aboard"
+         },
+         {
+          "speaker": "B",
+          "line": "Yes, but you need to change at the square.",
+          "gesture": "holding the door"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Which bus goes to the city center?",
+            "The number twelve, I think.",
+            "You need to buy a ticket first.",
+            "Get off at the third stop."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Does this bus go downtown?",
+            "Yes, but you need to change at the square."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "get on / get off / change"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Can I try this on?"
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "on?",
+    "2_two_words": "this on?",
+    "3_full_sentence": "Can I try this on?",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: Fitting room door opening; a shopper checking themselves in a full-length mirror.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «Can I try this on?» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): try on / it fits. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «How does it look?» اصمت وانظر بترقّب. بعد السؤال اصمت 5 ثوانٍ كاملة. أي كلمة واحدة منه = نجاح كبير. وسّعها أنت إلى الجملة الكاملة بفرح واضح.",
+    "لا تترجم: إذا لم يفهم، أعد الجملة مع مشهد أقوى (إيماءة، صوت، حركة) لا مع ترجمة عربية.",
+    "صحح بالإعادة (recast): يقول 'Bus go!' فتقول بدهشة سعيدة 'Yes! The bus is going!' — دون أن تقل 'خطأ' أو 'لا'.",
+    "نوع هذه الحلقة: الدعوة صامتة: الصمت المنتظر هو جوهر الحلقة، وأنت من يكمل الإجابة دائمًا بعد الانتظار سواء نطق هو أم لا.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child engages with the scene and may offer a word or two spontaneously. You expand it; he owes you nothing."
+  },
+  {
+   "episode": 64,
+   "level": "A2",
+   "module": 8,
+   "module_title": "Commerce & Markets",
+   "title": "Street Food — Spiral Review",
+   "kind": "spiral",
+   "source_page": 168,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 2 — Toddler Talk (linguistic age 18 months–3 years)",
+    "teacher_role": "You are a caregiver expanding the child's world: the city, the market, yesterday and tomorrow. You ask simple questions and wait. When the child answers with one or two words, you expand it naturally into a full sentence and move on.",
+    "child_expected": "Says single words and two-word combos ('more juice', 'go bus!'). Answers 'what/where' questions with a word or gesture.",
+    "speech_style": "Natural but still slow. Use expansions: child says 'Bus!' — you say 'Yes, the bus is coming!'"
+   },
+   "stage_ar": {
+    "stage": "المرحلة الثانية — كلام الطفل سائرًا (عمر لغوي 18 شهرًا–3 سنوات)",
+    "teacher_role": "أنت مُربٍّ يوسّع عالم الطفل: المدينة والسوق وأمس وغدًا. اسأل أسئلة بسيطة وانتظر. حين يجيب بكلمة أو كلمتين، وسّعها أنت إلى جملة كاملة بشكل طبيعي وواصل.",
+    "child_expected": "ينطق كلمات مفردة وتركيبات من كلمتين (more juice / go bus). يجيب عن أسئلة ماذا وأين بكلمة أو بإشارة.",
+    "speech_style": "طبيعي لكن ما زال بطيئًا. استخدم التوسيع: يقول الطفل Bus! تقول أنت: Yes, the bus is coming!"
+   },
+   "scene": {
+    "setting": "A food truck window, a wrap being rolled, the smell of grilled meat implied.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "Plastic chairs on a sidewalk, steaming plates, a grill smoking at the curb.",
+    "lines": [
+     "We are happy.",
+     "You'll see it right away.",
+     "The chef knows everyone by name.",
+     "Five stars. Better than any restaurant."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Is this place good?",
+      "gesture": "reading a handwritten sign"
+     },
+     {
+      "speaker": "B",
+      "line": "Good? I've eaten here every Friday for three years.",
+      "gesture": "plate already ordered"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "We are happy.  ·  We are happy.  ·  We are happy."
+      },
+      {
+       "who": "Teacher",
+       "line": "You'll see it right away.  ·  You'll see it right away.  ·  You'll see it right away."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Old lines, new scene",
+     "camera": "Cut between quick inserts of earlier episodes and the live scene.",
+     "action": "Teacher opens with familiar lines from earlier modules (spiral), then lands them into today's new scene. The child feels 'I know this!' — that safety is the goal.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "We are happy."
+      },
+      {
+       "who": "Teacher",
+       "line": "You'll see it right away."
+      },
+      {
+       "who": "Teacher",
+       "line": "Spicy, but not too spicy."
+      },
+      {
+       "who": "Teacher",
+       "line": "Extra sauce? No charge."
+      }
+     ],
+     "sfx": "Soft 'you know this!' chime on each familiar line."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "You'll see it right away."
+      },
+      {
+       "who": "Teacher",
+       "line": "We are happy."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Spicy, but not too spicy."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 131,
+        "level": "A2",
+        "module": 7,
+        "module_title": "The City & Navigation",
+        "title": "Where Is the Station?",
+        "visual_scene": "A city corner: a lost visitor holding a phone map, a local pointing down the street.",
+        "natural_english": [
+         "Excuse me, where is the train station?",
+         "Go straight, then turn left.",
+         "It's about five minutes on foot.",
+         "You can't miss it."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Sorry, is the station far from here?",
+          "gesture": "map in hand"
+         },
+         {
+          "speaker": "B",
+          "line": "No, it's close. Straight ahead, then left at the bakery.",
+          "gesture": "pointing"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Excuse me, where is the train station?",
+            "Go straight, then turn left.",
+            "It's about five minutes on foot.",
+            "You can't miss it."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Sorry, is the station far from here?",
+            "No, it's close. Straight ahead, then left at the bakery."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "directions with imperatives"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 132,
+        "level": "A2",
+        "module": 7,
+        "module_title": "The City & Navigation",
+        "title": "Taking the Bus — Listen & Shadow",
+        "visual_scene": "A bus shelter with a route map; a bus approaches, headlights in the drizzle.",
+        "natural_english": [
+         "Which bus goes to the city center?",
+         "The number twelve, I think.",
+         "You need to buy a ticket first.",
+         "Get off at the third stop."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Does this bus go downtown?",
+          "gesture": "stepping aboard"
+         },
+         {
+          "speaker": "B",
+          "line": "Yes, but you need to change at the square.",
+          "gesture": "holding the door"
+         }
+        ],
+        "audio_script": {
+         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
+         "contractions": "Use common contractions: I'm, don't, it's, can't.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Which bus goes to the city center?",
+            "The number twelve, I think.",
+            "You need to buy a ticket first.",
+            "Get off at the third stop."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Does this bus go downtown?",
+            "Yes, but you need to change at the square."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "get on / get off / change"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "We are happy."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "happy!",
+    "2_two_words": "We happy!",
+    "3_full_sentence": "We are happy.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A food truck window, a wrap being rolled, the smell of grilled meat implied.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «We are happy.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): spicy or mild / no charge. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «Is it good here?» اصمت وانظر بترقّب. بعد السؤال اصمت 5 ثوانٍ كاملة. أي كلمة واحدة منه = نجاح كبير. وسّعها أنت إلى الجملة الكاملة بفرح واضح.",
+    "لا تترجم: إذا لم يفهم، أعد الجملة مع مشهد أقوى (إيماءة، صوت، حركة) لا مع ترجمة عربية.",
+    "صحح بالإعادة (recast): يقول 'Bus go!' فتقول بدهشة سعيدة 'Yes! The bus is going!' — دون أن تقل 'خطأ' أو 'لا'.",
+    "نوع هذه الحلقة: ابدأ بجمل مألوفة من حلقات سابقة قبل الجديد حتى يشعر بأمان «أنا أعرف هذا».",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child engages with the scene and may offer a word or two spontaneously. You expand it; he owes you nothing."
+  }
+ ]
+}

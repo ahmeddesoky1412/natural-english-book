@@ -1,0 +1,2517 @@
+{
+ "module": 5,
+ "module_title": "Basic Interactions & Survival English",
+ "level": "A1",
+ "episodes": [
+  {
+   "episode": 33,
+   "level": "A1",
+   "module": 5,
+   "module_title": "Basic Interactions & Survival English",
+   "title": "Hello and Goodbye",
+   "kind": "core",
+   "source_page": 81,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 1 — Pre-speech & First Words (linguistic age 0–18 months)",
+    "teacher_role": "You are a caregiver narrating life. The child understands far more than he says. Expect silence, pointing, gaze, babble. Never demand speech.",
+    "child_expected": "Watches your face and hands. Points. Reaches. May echo a final word after many repetitions (e.g. 'hot!').",
+    "speech_style": "Parentese: short sentences, slow, musical, exaggerated intonation, lots of repetition. One idea per sentence."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الأولى — ما قبل الكلام وأول الكلمات (عمر لغوي 0–18 شهرًا)",
+    "teacher_role": "أنت مُربٍّ يروي الحياة بصوت عالٍ. الطفل يفهم أكثر بكثير مما ينطق. توقّع الصمت والإشارة والنظر والتلبّغ. لا تطلب الكلام أبدًا.",
+    "child_expected": "يراقب وجهك ويديك. يشير. يتمطّى نحو الشيء. قد يردد آخر كلمة بعد تكرارات كثيرة (مثل: hot!).",
+    "speech_style": "لغة الأمهات: جمل قصيرة، بطيئة، موسيقية، نبرة مبالغة فيها، تكرار كثير. فكرة واحدة لكل جملة."
+   },
+   "scene": {
+    "setting": "Morning on a residential street; two neighbors pass each other and wave.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A new employee at the office door, slightly nervous. Colleagues look up and wave.",
+    "lines": [
+     "It is my first day.",
+     "I say hello to everyone.",
+     "People are friendly here.",
+     "Good start. Good day."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Welcome! You must be the new one.",
+      "gesture": "warm smile"
+     },
+     {
+      "speaker": "B",
+      "line": "Yes, that's me. Happy to be here.",
+      "gesture": "hand extended"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello!  ·  Hello!  ·  Hello!"
+      },
+      {
+       "who": "Teacher",
+       "line": "Good morning.  ·  Good morning.  ·  Good morning."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Live dialogue — teacher plays both roles with the child",
+     "camera": "Over-the-shoulder alternates; keep both faces in frame for reactions.",
+     "action": "Teacher speaks line A to the child with gesture. Waits 5 seconds — silently. If the child offers anything, expand it joyfully. Then teacher voices B with a puppet/second voice. Replay the exchange once more with roles swapped.",
+     "audio": [
+      {
+       "who": "A",
+       "line": "Good morning!",
+       "gesture": "waving"
+      },
+      {
+       "who": "B",
+       "line": "Good morning! Have a good day.",
+       "gesture": "smiling and walking on"
+      }
+     ],
+     "sfx": "None. Faces and voices carry everything."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Good morning."
+      },
+      {
+       "who": "Teacher",
+       "line": "Hello!"
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Goodbye. See you later."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 61,
+        "level": "A1",
+        "module": 4,
+        "module_title": "Family & Immediate Relationships",
+        "title": "My Family",
+        "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
+        "natural_english": [
+         "This is my family.",
+         "This is my mother.",
+         "This is my father.",
+         "We are happy."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Your family?",
+          "gesture": "looking at the photo"
+         },
+         {
+          "speaker": "B",
+          "line": "Yes. My mother, my father, my sister.",
+          "gesture": "pointing at each"
+         }
+        ],
+        "audio_script": {
+         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "This is my family.",
+            "This is my mother.",
+            "This is my father.",
+            "We are happy."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Your family?",
+            "Yes. My mother, my father, my sister."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "my mother / my father"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 62,
+        "level": "A1",
+        "module": 4,
+        "module_title": "Family & Immediate Relationships",
+        "title": "My Brother — Listen & Shadow",
+        "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
+        "natural_english": [
+         "This is my brother.",
+         "He is tall.",
+         "He is funny.",
+         "I like my brother."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Who is he?",
+          "gesture": "curious"
+         },
+         {
+          "speaker": "B",
+          "line": "My brother. He is twenty.",
+          "gesture": "smiling proudly"
+         }
+        ],
+        "audio_script": {
+         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "This is my brother.",
+            "He is tall.",
+            "He is funny.",
+            "I like my brother."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Who is he?",
+            "My brother. He is twenty."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "he is"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello!"
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "Hello!",
+    "2_two_words": "Hello!",
+    "3_full_sentence": "Hello!",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: Morning on a residential street; two neighbors pass each other and wave.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «Hello!» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): good morning / goodbye. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «Good morning!» اصمت وانظر بترقّب. بعد كل جملة اصمت 3–5 ثوانٍ وانظر في عينيه. أي حركة أو صوت منه = تفاعل ناجح، كافئه بابتسامة وتكرار الجملة.",
+    "ممنوع الترجمة نهائيًا: اربط الكلمة بالشيء والفعل والتجربة نفسها أمام عينيه. الصورة والصوت واللمس هي القاموس.",
+    "إذا نطق كلمة بشكل غير صحيح، لا تصحح: أعد أنت الكلمة الصحيحة بابتسامة في سياق جديد، وكأنك تؤكدها لا تعترض.",
+    "نوع هذه الحلقة: الأسماء والأفعال أمام عينيه أهم من أي شرح.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child watches your face, points, reaches, or babbles. Comprehension signs only — any spoken word is a bonus, never a goal."
+  },
+  {
+   "episode": 34,
+   "level": "A1",
+   "module": 5,
+   "module_title": "Basic Interactions & Survival English",
+   "title": "How Are You? — Listen & Shadow",
+   "kind": "shadow",
+   "source_page": 82,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 1 — Pre-speech & First Words (linguistic age 0–18 months)",
+    "teacher_role": "You are a caregiver narrating life. The child understands far more than he says. Expect silence, pointing, gaze, babble. Never demand speech.",
+    "child_expected": "Watches your face and hands. Points. Reaches. May echo a final word after many repetitions (e.g. 'hot!').",
+    "speech_style": "Parentese: short sentences, slow, musical, exaggerated intonation, lots of repetition. One idea per sentence."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الأولى — ما قبل الكلام وأول الكلمات (عمر لغوي 0–18 شهرًا)",
+    "teacher_role": "أنت مُربٍّ يروي الحياة بصوت عالٍ. الطفل يفهم أكثر بكثير مما ينطق. توقّع الصمت والإشارة والنظر والتلبّغ. لا تطلب الكلام أبدًا.",
+    "child_expected": "يراقب وجهك ويديك. يشير. يتمطّى نحو الشيء. قد يردد آخر كلمة بعد تكرارات كثيرة (مثل: hot!).",
+    "speech_style": "لغة الأمهات: جمل قصيرة، بطيئة، موسيقية، نبرة مبالغة فيها، تكرار كثير. فكرة واحدة لكل جملة."
+   },
+   "scene": {
+    "setting": "Two colleagues meeting by the office kettle, mugs in hand.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "Two colleagues by the window. One looks tired; the other's face shows real concern.",
+    "lines": [
+     "How are you today?",
+     "Not so good, to be honest.",
+     "I didn't sleep well.",
+     "Thanks for asking. It helps."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "How are you?",
+      "gesture": "gentle"
+     },
+     {
+      "speaker": "B",
+      "line": "Honestly? Not great. Didn't sleep.",
+      "gesture": "rubbing eyes"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "How are you?  ·  How are you?  ·  How are you?"
+      },
+      {
+       "who": "Teacher",
+       "line": "I am fine, thank you.  ·  I am fine, thank you.  ·  I am fine, thank you."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Echo & shadow play (pure imitation game, never a task)",
+     "camera": "Full-body teacher shot so mouth, hands and body are all visible.",
+     "action": "Teacher says each line twice: once slow with huge mouth movements, once natural. If the child shadows, wonderful; if not, the teacher simply continues, delighted either way.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "How are you?  ...  How are you?"
+      },
+      {
+       "who": "Teacher",
+       "line": "I am fine, thank you.  ...  I am fine, thank you."
+      },
+      {
+       "who": "Teacher",
+       "line": "And you?  ...  And you?"
+      },
+      {
+       "who": "Teacher",
+       "line": "I am very well.  ...  I am very well."
+      }
+     ],
+     "sfx": "Optional light rhythm under the second pass."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I am fine, thank you."
+      },
+      {
+       "who": "Teacher",
+       "line": "How are you?"
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "And you?"
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 61,
+        "level": "A1",
+        "module": 4,
+        "module_title": "Family & Immediate Relationships",
+        "title": "My Family",
+        "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
+        "natural_english": [
+         "This is my family.",
+         "This is my mother.",
+         "This is my father.",
+         "We are happy."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Your family?",
+          "gesture": "looking at the photo"
+         },
+         {
+          "speaker": "B",
+          "line": "Yes. My mother, my father, my sister.",
+          "gesture": "pointing at each"
+         }
+        ],
+        "audio_script": {
+         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "This is my family.",
+            "This is my mother.",
+            "This is my father.",
+            "We are happy."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Your family?",
+            "Yes. My mother, my father, my sister."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "my mother / my father"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 62,
+        "level": "A1",
+        "module": 4,
+        "module_title": "Family & Immediate Relationships",
+        "title": "My Brother — Listen & Shadow",
+        "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
+        "natural_english": [
+         "This is my brother.",
+         "He is tall.",
+         "He is funny.",
+         "I like my brother."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Who is he?",
+          "gesture": "curious"
+         },
+         {
+          "speaker": "B",
+          "line": "My brother. He is twenty.",
+          "gesture": "smiling proudly"
+         }
+        ],
+        "audio_script": {
+         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "This is my brother.",
+            "He is tall.",
+            "He is funny.",
+            "I like my brother."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Who is he?",
+            "My brother. He is twenty."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "he is"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "How are you?"
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "How?",
+    "2_two_words": "How?",
+    "3_full_sentence": "How are you?",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: Two colleagues meeting by the office kettle, mugs in hand.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «How are you?» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): how are you. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «Hi! How are you?» اصمت وانظر بترقّب. بعد كل جملة اصمت 3–5 ثوانٍ وانظر في عينيه. أي حركة أو صوت منه = تفاعل ناجح، كافئه بابتسامة وتكرار الجملة.",
+    "ممنوع الترجمة نهائيًا: اربط الكلمة بالشيء والفعل والتجربة نفسها أمام عينيه. الصورة والصوت واللمس هي القاموس.",
+    "إذا نطق كلمة بشكل غير صحيح، لا تصحح: أعد أنت الكلمة الصحيحة بابتسامة في سياق جديد، وكأنك تؤكدها لا تعترض.",
+    "نوع هذه الحلقة: التظليل هنا لعبة تقليد طبيعية لا واجب نطق — إن لم يقلد فلا شيء، أنت وحدك تكمل بفرح.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child watches your face, points, reaches, or babbles. Comprehension signs only — any spoken word is a bonus, never a goal."
+  },
+  {
+   "episode": 35,
+   "level": "A1",
+   "module": 5,
+   "module_title": "Basic Interactions & Survival English",
+   "title": "Please and Thank You — Your Turn",
+   "kind": "your_turn",
+   "source_page": 83,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 1 — Pre-speech & First Words (linguistic age 0–18 months)",
+    "teacher_role": "You are a caregiver narrating life. The child understands far more than he says. Expect silence, pointing, gaze, babble. Never demand speech.",
+    "child_expected": "Watches your face and hands. Points. Reaches. May echo a final word after many repetitions (e.g. 'hot!').",
+    "speech_style": "Parentese: short sentences, slow, musical, exaggerated intonation, lots of repetition. One idea per sentence."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الأولى — ما قبل الكلام وأول الكلمات (عمر لغوي 0–18 شهرًا)",
+    "teacher_role": "أنت مُربٍّ يروي الحياة بصوت عالٍ. الطفل يفهم أكثر بكثير مما ينطق. توقّع الصمت والإشارة والنظر والتلبّغ. لا تطلب الكلام أبدًا.",
+    "child_expected": "يراقب وجهك ويديك. يشير. يتمطّى نحو الشيء. قد يردد آخر كلمة بعد تكرارات كثيرة (مثل: hot!).",
+    "speech_style": "لغة الأمهات: جمل قصيرة، بطيئة، موسيقية، نبرة مبالغة فيها، تكرار كثير. فكرة واحدة لكل جملة."
+   },
+   "scene": {
+    "setting": "A small shop counter; a customer points at bread and holds out coins.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A neighbor passing a ladder over a garden fence, both hands involved.",
+    "lines": [
+     "Can you help me, please?",
+     "Of course. No problem.",
+     "Thank you so much!",
+     "Anytime. That's what neighbors are for."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Could you help me for a minute?",
+      "gesture": "ladder slipping"
+     },
+     {
+      "speaker": "B (you)",
+      "line": "… (respond aloud)",
+      "gesture": ""
+     },
+     {
+      "speaker": "B (model)",
+      "line": "Sure. What do you need?",
+      "gesture": "already walking over"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "One bread, please.  ·  One bread, please.  ·  One bread, please."
+      },
+      {
+       "who": "Teacher",
+       "line": "Thank you very much.  ·  Thank you very much.  ·  Thank you very much."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Silent invitation (no production ever required)",
+     "camera": "Tight on teacher's expectant face during the pause — warm, patient, zero pressure.",
+     "action": "Teacher asks, then holds a real 5-second silence with bright eyes and raised eyebrows. Whether the child answers or not, the teacher then completes the answer himself, warmly, as if the child had asked him to. Any sound the child makes is celebrated but never requested.",
+     "audio": [
+      {
+       "who": "Teacher (asks, then waits 5s)",
+       "line": "One bread, please."
+      },
+      {
+       "who": "(silence — the child may or may not attempt; both are perfect)",
+       "line": "…"
+      },
+      {
+       "who": "Teacher (completes warmly)",
+       "line": "You are welcome."
+      }
+     ],
+     "sfx": "A tiny 'sparkle' cue only if the child initiates anything."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Thank you very much."
+      },
+      {
+       "who": "Teacher",
+       "line": "One bread, please."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "You are welcome."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 61,
+        "level": "A1",
+        "module": 4,
+        "module_title": "Family & Immediate Relationships",
+        "title": "My Family",
+        "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
+        "natural_english": [
+         "This is my family.",
+         "This is my mother.",
+         "This is my father.",
+         "We are happy."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Your family?",
+          "gesture": "looking at the photo"
+         },
+         {
+          "speaker": "B",
+          "line": "Yes. My mother, my father, my sister.",
+          "gesture": "pointing at each"
+         }
+        ],
+        "audio_script": {
+         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "This is my family.",
+            "This is my mother.",
+            "This is my father.",
+            "We are happy."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Your family?",
+            "Yes. My mother, my father, my sister."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "my mother / my father"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 62,
+        "level": "A1",
+        "module": 4,
+        "module_title": "Family & Immediate Relationships",
+        "title": "My Brother — Listen & Shadow",
+        "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
+        "natural_english": [
+         "This is my brother.",
+         "He is tall.",
+         "He is funny.",
+         "I like my brother."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Who is he?",
+          "gesture": "curious"
+         },
+         {
+          "speaker": "B",
+          "line": "My brother. He is twenty.",
+          "gesture": "smiling proudly"
+         }
+        ],
+        "audio_script": {
+         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "This is my brother.",
+            "He is tall.",
+            "He is funny.",
+            "I like my brother."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Who is he?",
+            "My brother. He is twenty."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "he is"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "One bread, please."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "please!",
+    "2_two_words": "bread please!",
+    "3_full_sentence": "One bread, please.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A small shop counter; a customer points at bread and holds out coins.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «One bread, please.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): please / thank you. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «One bread, please.» اصمت وانظر بترقّب. بعد كل جملة اصمت 3–5 ثوانٍ وانظر في عينيه. أي حركة أو صوت منه = تفاعل ناجح، كافئه بابتسامة وتكرار الجملة.",
+    "ممنوع الترجمة نهائيًا: اربط الكلمة بالشيء والفعل والتجربة نفسها أمام عينيه. الصورة والصوت واللمس هي القاموس.",
+    "إذا نطق كلمة بشكل غير صحيح، لا تصحح: أعد أنت الكلمة الصحيحة بابتسامة في سياق جديد، وكأنك تؤكدها لا تعترض.",
+    "نوع هذه الحلقة: الدعوة صامتة: الصمت المنتظر هو جوهر الحلقة، وأنت من يكمل الإجابة دائمًا بعد الانتظار سواء نطق هو أم لا.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child watches your face, points, reaches, or babbles. Comprehension signs only — any spoken word is a bonus, never a goal."
+  },
+  {
+   "episode": 36,
+   "level": "A1",
+   "module": 5,
+   "module_title": "Basic Interactions & Survival English",
+   "title": "One, Two, Three — Spiral Review",
+   "kind": "spiral",
+   "source_page": 84,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 1 — Pre-speech & First Words (linguistic age 0–18 months)",
+    "teacher_role": "You are a caregiver narrating life. The child understands far more than he says. Expect silence, pointing, gaze, babble. Never demand speech.",
+    "child_expected": "Watches your face and hands. Points. Reaches. May echo a final word after many repetitions (e.g. 'hot!').",
+    "speech_style": "Parentese: short sentences, slow, musical, exaggerated intonation, lots of repetition. One idea per sentence."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الأولى — ما قبل الكلام وأول الكلمات (عمر لغوي 0–18 شهرًا)",
+    "teacher_role": "أنت مُربٍّ يروي الحياة بصوت عالٍ. الطفل يفهم أكثر بكثير مما ينطق. توقّع الصمت والإشارة والنظر والتلبّغ. لا تطلب الكلام أبدًا.",
+    "child_expected": "يراقب وجهك ويديك. يشير. يتمطّى نحو الشيء. قد يردد آخر كلمة بعد تكرارات كثيرة (مثل: hot!).",
+    "speech_style": "لغة الأمهات: جمل قصيرة، بطيئة، موسيقية، نبرة مبالغة فيها، تكرار كثير. فكرة واحدة لكل جملة."
+   },
+   "scene": {
+    "setting": "A hand placing apples one by one into a bag on a kitchen scale.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "Two people at a cafe table. One dictates, the other writes digits on a paper napkin.",
+    "lines": [
+     "I am happy.",
+     "This is my wife.",
+     "Slowly, please. I write it down.",
+     "Got it. I'll call you."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Give me your number.",
+      "gesture": "pen ready"
+     },
+     {
+      "speaker": "B",
+      "line": "Zero seven seven, one two two... Did you get it?",
+      "gesture": "slowly"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I am happy.  ·  I am happy.  ·  I am happy."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is my wife.  ·  This is my wife.  ·  This is my wife."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Old lines, new scene",
+     "camera": "Cut between quick inserts of earlier episodes and the live scene.",
+     "action": "Teacher opens with familiar lines from earlier modules (spiral), then lands them into today's new scene. The child feels 'I know this!' — that safety is the goal.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I am happy."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is my wife."
+      },
+      {
+       "who": "Teacher",
+       "line": "One, two, three, four, five."
+      },
+      {
+       "who": "Teacher",
+       "line": "Five apples. Good."
+      }
+     ],
+     "sfx": "Soft 'you know this!' chime on each familiar line."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "This is my wife."
+      },
+      {
+       "who": "Teacher",
+       "line": "I am happy."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "One, two, three, four, five."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 61,
+        "level": "A1",
+        "module": 4,
+        "module_title": "Family & Immediate Relationships",
+        "title": "My Family",
+        "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
+        "natural_english": [
+         "This is my family.",
+         "This is my mother.",
+         "This is my father.",
+         "We are happy."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Your family?",
+          "gesture": "looking at the photo"
+         },
+         {
+          "speaker": "B",
+          "line": "Yes. My mother, my father, my sister.",
+          "gesture": "pointing at each"
+         }
+        ],
+        "audio_script": {
+         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "This is my family.",
+            "This is my mother.",
+            "This is my father.",
+            "We are happy."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Your family?",
+            "Yes. My mother, my father, my sister."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "my mother / my father"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 62,
+        "level": "A1",
+        "module": 4,
+        "module_title": "Family & Immediate Relationships",
+        "title": "My Brother — Listen & Shadow",
+        "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
+        "natural_english": [
+         "This is my brother.",
+         "He is tall.",
+         "He is funny.",
+         "I like my brother."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Who is he?",
+          "gesture": "curious"
+         },
+         {
+          "speaker": "B",
+          "line": "My brother. He is twenty.",
+          "gesture": "smiling proudly"
+         }
+        ],
+        "audio_script": {
+         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "This is my brother.",
+            "He is tall.",
+            "He is funny.",
+            "I like my brother."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Who is he?",
+            "My brother. He is twenty."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "he is"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I am happy."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "happy!",
+    "2_two_words": "am happy!",
+    "3_full_sentence": "I am happy.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A hand placing apples one by one into a bag on a kitchen scale.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «I am happy.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): numbers 1-5. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «How many?» اصمت وانظر بترقّب. بعد كل جملة اصمت 3–5 ثوانٍ وانظر في عينيه. أي حركة أو صوت منه = تفاعل ناجح، كافئه بابتسامة وتكرار الجملة.",
+    "ممنوع الترجمة نهائيًا: اربط الكلمة بالشيء والفعل والتجربة نفسها أمام عينيه. الصورة والصوت واللمس هي القاموس.",
+    "إذا نطق كلمة بشكل غير صحيح، لا تصحح: أعد أنت الكلمة الصحيحة بابتسامة في سياق جديد، وكأنك تؤكدها لا تعترض.",
+    "نوع هذه الحلقة: ابدأ بجمل مألوفة من حلقات سابقة قبل الجديد حتى يشعر بأمان «أنا أعرف هذا».",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child watches your face, points, reaches, or babbles. Comprehension signs only — any spoken word is a bonus, never a goal."
+  },
+  {
+   "episode": 37,
+   "level": "A1",
+   "module": 5,
+   "module_title": "Basic Interactions & Survival English",
+   "title": "What Time Is It?",
+   "kind": "core",
+   "source_page": 85,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 1 — Pre-speech & First Words (linguistic age 0–18 months)",
+    "teacher_role": "You are a caregiver narrating life. The child understands far more than he says. Expect silence, pointing, gaze, babble. Never demand speech.",
+    "child_expected": "Watches your face and hands. Points. Reaches. May echo a final word after many repetitions (e.g. 'hot!').",
+    "speech_style": "Parentese: short sentences, slow, musical, exaggerated intonation, lots of repetition. One idea per sentence."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الأولى — ما قبل الكلام وأول الكلمات (عمر لغوي 0–18 شهرًا)",
+    "teacher_role": "أنت مُربٍّ يروي الحياة بصوت عالٍ. الطفل يفهم أكثر بكثير مما ينطق. توقّع الصمت والإشارة والنظر والتلبّغ. لا تطلب الكلام أبدًا.",
+    "child_expected": "يراقب وجهك ويديك. يشير. يتمطّى نحو الشيء. قد يردد آخر كلمة بعد تكرارات كثيرة (مثل: hot!).",
+    "speech_style": "لغة الأمهات: جمل قصيرة، بطيئة، موسيقية، نبرة مبالغة فيها، تكرار كثير. فكرة واحدة لكل جملة."
+   },
+   "scene": {
+    "setting": "A wall clock showing nine, and a man checking his watch against it.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A bus stop. A watch reads 8:40. The road is empty.",
+    "lines": [
+     "The bus comes at eight thirty.",
+     "It is eight forty now. No bus.",
+     "It is late. Again.",
+     "Patience. Or a taxi."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Where's the bus?",
+      "gesture": "looking down the road"
+     },
+     {
+      "speaker": "B",
+      "line": "Late, as always. Let's walk instead.",
+      "gesture": "already moving"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "What time is it?  ·  What time is it?  ·  What time is it?"
+      },
+      {
+       "who": "Teacher",
+       "line": "It is nine o'clock.  ·  It is nine o'clock.  ·  It is nine o'clock."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Live dialogue — teacher plays both roles with the child",
+     "camera": "Over-the-shoulder alternates; keep both faces in frame for reactions.",
+     "action": "Teacher speaks line A to the child with gesture. Waits 5 seconds — silently. If the child offers anything, expand it joyfully. Then teacher voices B with a puppet/second voice. Replay the exchange once more with roles swapped.",
+     "audio": [
+      {
+       "who": "A",
+       "line": "What time is it?",
+       "gesture": "looking up at the clock"
+      },
+      {
+       "who": "B",
+       "line": "Nine o'clock. We are early.",
+       "gesture": "relaxing"
+      }
+     ],
+     "sfx": "None. Faces and voices carry everything."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "It is nine o'clock."
+      },
+      {
+       "who": "Teacher",
+       "line": "What time is it?"
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "It is late."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 61,
+        "level": "A1",
+        "module": 4,
+        "module_title": "Family & Immediate Relationships",
+        "title": "My Family",
+        "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
+        "natural_english": [
+         "This is my family.",
+         "This is my mother.",
+         "This is my father.",
+         "We are happy."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Your family?",
+          "gesture": "looking at the photo"
+         },
+         {
+          "speaker": "B",
+          "line": "Yes. My mother, my father, my sister.",
+          "gesture": "pointing at each"
+         }
+        ],
+        "audio_script": {
+         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "This is my family.",
+            "This is my mother.",
+            "This is my father.",
+            "We are happy."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Your family?",
+            "Yes. My mother, my father, my sister."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "my mother / my father"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 62,
+        "level": "A1",
+        "module": 4,
+        "module_title": "Family & Immediate Relationships",
+        "title": "My Brother — Listen & Shadow",
+        "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
+        "natural_english": [
+         "This is my brother.",
+         "He is tall.",
+         "He is funny.",
+         "I like my brother."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Who is he?",
+          "gesture": "curious"
+         },
+         {
+          "speaker": "B",
+          "line": "My brother. He is twenty.",
+          "gesture": "smiling proudly"
+         }
+        ],
+        "audio_script": {
+         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "This is my brother.",
+            "He is tall.",
+            "He is funny.",
+            "I like my brother."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Who is he?",
+            "My brother. He is twenty."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "he is"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "What time is it?"
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "time?",
+    "2_two_words": "What time?",
+    "3_full_sentence": "What time is it?",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A wall clock showing nine, and a man checking his watch against it.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «What time is it?» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): what time. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «What time is it?» اصمت وانظر بترقّب. بعد كل جملة اصمت 3–5 ثوانٍ وانظر في عينيه. أي حركة أو صوت منه = تفاعل ناجح، كافئه بابتسامة وتكرار الجملة.",
+    "ممنوع الترجمة نهائيًا: اربط الكلمة بالشيء والفعل والتجربة نفسها أمام عينيه. الصورة والصوت واللمس هي القاموس.",
+    "إذا نطق كلمة بشكل غير صحيح، لا تصحح: أعد أنت الكلمة الصحيحة بابتسامة في سياق جديد، وكأنك تؤكدها لا تعترض.",
+    "نوع هذه الحلقة: الأسماء والأفعال أمام عينيه أهم من أي شرح.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child watches your face, points, reaches, or babbles. Comprehension signs only — any spoken word is a bonus, never a goal."
+  },
+  {
+   "episode": 38,
+   "level": "A1",
+   "module": 5,
+   "module_title": "Basic Interactions & Survival English",
+   "title": "Excuse Me, Sorry — Listen & Shadow",
+   "kind": "shadow",
+   "source_page": 86,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 1 — Pre-speech & First Words (linguistic age 0–18 months)",
+    "teacher_role": "You are a caregiver narrating life. The child understands far more than he says. Expect silence, pointing, gaze, babble. Never demand speech.",
+    "child_expected": "Watches your face and hands. Points. Reaches. May echo a final word after many repetitions (e.g. 'hot!').",
+    "speech_style": "Parentese: short sentences, slow, musical, exaggerated intonation, lots of repetition. One idea per sentence."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الأولى — ما قبل الكلام وأول الكلمات (عمر لغوي 0–18 شهرًا)",
+    "teacher_role": "أنت مُربٍّ يروي الحياة بصوت عالٍ. الطفل يفهم أكثر بكثير مما ينطق. توقّع الصمت والإشارة والنظر والتلبّغ. لا تطلب الكلام أبدًا.",
+    "child_expected": "يراقب وجهك ويديك. يشير. يتمطّى نحو الشيء. قد يردد آخر كلمة بعد تكرارات كثيرة (مثل: hot!).",
+    "speech_style": "لغة الأمهات: جمل قصيرة، بطيئة، موسيقية، نبرة مبالغة فيها، تكرار كثير. فكرة واحدة لكل جملة."
+   },
+   "scene": {
+    "setting": "A crowded bus; a passenger steps on another's foot and apologizes.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A cup in pieces on the kitchen floor. Two people kneeling among the fragments.",
+    "lines": [
+     "Oh no. I broke your cup.",
+     "It was my grandmother's cup.",
+     "I am so, so sorry.",
+     "It's OK. It was just a thing. You are more important."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "I'm so sorry. I broke it.",
+      "gesture": "hand to mouth"
+     },
+     {
+      "speaker": "B",
+      "line": "Don't worry. Accidents happen.",
+      "gesture": "sweeping gently"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Excuse me.  ·  Excuse me.  ·  Excuse me."
+      },
+      {
+       "who": "Teacher",
+       "line": "I am sorry.  ·  I am sorry.  ·  I am sorry."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Echo & shadow play (pure imitation game, never a task)",
+     "camera": "Full-body teacher shot so mouth, hands and body are all visible.",
+     "action": "Teacher says each line twice: once slow with huge mouth movements, once natural. If the child shadows, wonderful; if not, the teacher simply continues, delighted either way.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Excuse me.  ...  Excuse me."
+      },
+      {
+       "who": "Teacher",
+       "line": "I am sorry.  ...  I am sorry."
+      },
+      {
+       "who": "Teacher",
+       "line": "No problem.  ...  No problem."
+      },
+      {
+       "who": "Teacher",
+       "line": "It is OK.  ...  It is OK."
+      }
+     ],
+     "sfx": "Optional light rhythm under the second pass."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I am sorry."
+      },
+      {
+       "who": "Teacher",
+       "line": "Excuse me."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "No problem."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 61,
+        "level": "A1",
+        "module": 4,
+        "module_title": "Family & Immediate Relationships",
+        "title": "My Family",
+        "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
+        "natural_english": [
+         "This is my family.",
+         "This is my mother.",
+         "This is my father.",
+         "We are happy."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Your family?",
+          "gesture": "looking at the photo"
+         },
+         {
+          "speaker": "B",
+          "line": "Yes. My mother, my father, my sister.",
+          "gesture": "pointing at each"
+         }
+        ],
+        "audio_script": {
+         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "This is my family.",
+            "This is my mother.",
+            "This is my father.",
+            "We are happy."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Your family?",
+            "Yes. My mother, my father, my sister."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "my mother / my father"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 62,
+        "level": "A1",
+        "module": 4,
+        "module_title": "Family & Immediate Relationships",
+        "title": "My Brother — Listen & Shadow",
+        "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
+        "natural_english": [
+         "This is my brother.",
+         "He is tall.",
+         "He is funny.",
+         "I like my brother."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Who is he?",
+          "gesture": "curious"
+         },
+         {
+          "speaker": "B",
+          "line": "My brother. He is twenty.",
+          "gesture": "smiling proudly"
+         }
+        ],
+        "audio_script": {
+         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "This is my brother.",
+            "He is tall.",
+            "He is funny.",
+            "I like my brother."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Who is he?",
+            "My brother. He is twenty."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "he is"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Excuse me."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "me!",
+    "2_two_words": "Excuse me!",
+    "3_full_sentence": "Excuse me.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A crowded bus; a passenger steps on another's foot and apologizes.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «Excuse me.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): excuse me / sorry. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «Oh! Sorry!» اصمت وانظر بترقّب. بعد كل جملة اصمت 3–5 ثوانٍ وانظر في عينيه. أي حركة أو صوت منه = تفاعل ناجح، كافئه بابتسامة وتكرار الجملة.",
+    "ممنوع الترجمة نهائيًا: اربط الكلمة بالشيء والفعل والتجربة نفسها أمام عينيه. الصورة والصوت واللمس هي القاموس.",
+    "إذا نطق كلمة بشكل غير صحيح، لا تصحح: أعد أنت الكلمة الصحيحة بابتسامة في سياق جديد، وكأنك تؤكدها لا تعترض.",
+    "نوع هذه الحلقة: التظليل هنا لعبة تقليد طبيعية لا واجب نطق — إن لم يقلد فلا شيء، أنت وحدك تكمل بفرح.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child watches your face, points, reaches, or babbles. Comprehension signs only — any spoken word is a bonus, never a goal."
+  },
+  {
+   "episode": 39,
+   "level": "A1",
+   "module": 5,
+   "module_title": "Basic Interactions & Survival English",
+   "title": "Yes and No — Your Turn",
+   "kind": "your_turn",
+   "source_page": 87,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 1 — Pre-speech & First Words (linguistic age 0–18 months)",
+    "teacher_role": "You are a caregiver narrating life. The child understands far more than he says. Expect silence, pointing, gaze, babble. Never demand speech.",
+    "child_expected": "Watches your face and hands. Points. Reaches. May echo a final word after many repetitions (e.g. 'hot!').",
+    "speech_style": "Parentese: short sentences, slow, musical, exaggerated intonation, lots of repetition. One idea per sentence."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الأولى — ما قبل الكلام وأول الكلمات (عمر لغوي 0–18 شهرًا)",
+    "teacher_role": "أنت مُربٍّ يروي الحياة بصوت عالٍ. الطفل يفهم أكثر بكثير مما ينطق. توقّع الصمت والإشارة والنظر والتلبّغ. لا تطلب الكلام أبدًا.",
+    "child_expected": "يراقب وجهك ويديك. يشير. يتمطّى نحو الشيء. قد يردد آخر كلمة بعد تكرارات كثيرة (مثل: hot!).",
+    "speech_style": "لغة الأمهات: جمل قصيرة، بطيئة، موسيقية، نبرة مبالغة فيها، تكرار كثير. فكرة واحدة لكل جملة."
+   },
+   "scene": {
+    "setting": "Two faces in close-up: one nodding clearly, one shaking the head.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A hand holding a small invitation card. An open calendar on the table.",
+    "lines": [
+     "Here is an invitation.",
+     "Saturday, seven o'clock, dinner.",
+     "I want to go. But I am tired.",
+     "Yes or no? Yes. Of course yes."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Are you coming Saturday?",
+      "gesture": "hopeful"
+     },
+     {
+      "speaker": "B (you)",
+      "line": "… (respond aloud)",
+      "gesture": ""
+     },
+     {
+      "speaker": "B (model)",
+      "line": "I wouldn't miss it. See you there.",
+      "gesture": "card on the fridge"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Yes, please.  ·  Yes, please.  ·  Yes, please."
+      },
+      {
+       "who": "Teacher",
+       "line": "No, thank you.  ·  No, thank you.  ·  No, thank you."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Silent invitation (no production ever required)",
+     "camera": "Tight on teacher's expectant face during the pause — warm, patient, zero pressure.",
+     "action": "Teacher asks, then holds a real 5-second silence with bright eyes and raised eyebrows. Whether the child answers or not, the teacher then completes the answer himself, warmly, as if the child had asked him to. Any sound the child makes is celebrated but never requested.",
+     "audio": [
+      {
+       "who": "Teacher (asks, then waits 5s)",
+       "line": "More tea?"
+      },
+      {
+       "who": "(silence — the child may or may not attempt; both are perfect)",
+       "line": "…"
+      },
+      {
+       "who": "Teacher (completes warmly)",
+       "line": "Yes, please. Just a little."
+      }
+     ],
+     "sfx": "A tiny 'sparkle' cue only if the child initiates anything."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "No, thank you."
+      },
+      {
+       "who": "Teacher",
+       "line": "Yes, please."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Yes, I like it."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 61,
+        "level": "A1",
+        "module": 4,
+        "module_title": "Family & Immediate Relationships",
+        "title": "My Family",
+        "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
+        "natural_english": [
+         "This is my family.",
+         "This is my mother.",
+         "This is my father.",
+         "We are happy."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Your family?",
+          "gesture": "looking at the photo"
+         },
+         {
+          "speaker": "B",
+          "line": "Yes. My mother, my father, my sister.",
+          "gesture": "pointing at each"
+         }
+        ],
+        "audio_script": {
+         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "This is my family.",
+            "This is my mother.",
+            "This is my father.",
+            "We are happy."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Your family?",
+            "Yes. My mother, my father, my sister."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "my mother / my father"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 62,
+        "level": "A1",
+        "module": 4,
+        "module_title": "Family & Immediate Relationships",
+        "title": "My Brother — Listen & Shadow",
+        "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
+        "natural_english": [
+         "This is my brother.",
+         "He is tall.",
+         "He is funny.",
+         "I like my brother."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Who is he?",
+          "gesture": "curious"
+         },
+         {
+          "speaker": "B",
+          "line": "My brother. He is twenty.",
+          "gesture": "smiling proudly"
+         }
+        ],
+        "audio_script": {
+         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "This is my brother.",
+            "He is tall.",
+            "He is funny.",
+            "I like my brother."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Who is he?",
+            "My brother. He is twenty."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "he is"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Yes, please."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "please!",
+    "2_two_words": "Yes please!",
+    "3_full_sentence": "Yes, please.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: Two faces in close-up: one nodding clearly, one shaking the head.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «Yes, please.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): yes / no. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «More tea?» اصمت وانظر بترقّب. بعد كل جملة اصمت 3–5 ثوانٍ وانظر في عينيه. أي حركة أو صوت منه = تفاعل ناجح، كافئه بابتسامة وتكرار الجملة.",
+    "ممنوع الترجمة نهائيًا: اربط الكلمة بالشيء والفعل والتجربة نفسها أمام عينيه. الصورة والصوت واللمس هي القاموس.",
+    "إذا نطق كلمة بشكل غير صحيح، لا تصحح: أعد أنت الكلمة الصحيحة بابتسامة في سياق جديد، وكأنك تؤكدها لا تعترض.",
+    "نوع هذه الحلقة: الدعوة صامتة: الصمت المنتظر هو جوهر الحلقة، وأنت من يكمل الإجابة دائمًا بعد الانتظار سواء نطق هو أم لا.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child watches your face, points, reaches, or babbles. Comprehension signs only — any spoken word is a bonus, never a goal."
+  },
+  {
+   "episode": 40,
+   "level": "A1",
+   "module": 5,
+   "module_title": "Basic Interactions & Survival English",
+   "title": "I Don't Understand — Spiral Review",
+   "kind": "spiral",
+   "source_page": 88,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 1 — Pre-speech & First Words (linguistic age 0–18 months)",
+    "teacher_role": "You are a caregiver narrating life. The child understands far more than he says. Expect silence, pointing, gaze, babble. Never demand speech.",
+    "child_expected": "Watches your face and hands. Points. Reaches. May echo a final word after many repetitions (e.g. 'hot!').",
+    "speech_style": "Parentese: short sentences, slow, musical, exaggerated intonation, lots of repetition. One idea per sentence."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الأولى — ما قبل الكلام وأول الكلمات (عمر لغوي 0–18 شهرًا)",
+    "teacher_role": "أنت مُربٍّ يروي الحياة بصوت عالٍ. الطفل يفهم أكثر بكثير مما ينطق. توقّع الصمت والإشارة والنظر والتلبّغ. لا تطلب الكلام أبدًا.",
+    "child_expected": "يراقب وجهك ويديك. يشير. يتمطّى نحو الشيء. قد يردد آخر كلمة بعد تكرارات كثيرة (مثل: hot!).",
+    "speech_style": "لغة الأمهات: جمل قصيرة، بطيئة، موسيقية، نبرة مبالغة فيها، تكرار كثير. فكرة واحدة لكل جملة."
+   },
+   "scene": {
+    "setting": "A learner at a counter looking puzzled, hand slightly raised.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "Two people at an information desk. One leans in, listening hard.",
+    "lines": [
+     "I am happy.",
+     "This is my wife.",
+     "It's my first month here.",
+     "Slower is better. Thank you for your patience."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Sorry, I didn't catch that.",
+      "gesture": "leaning in"
+     },
+     {
+      "speaker": "B",
+      "line": "No problem. I'll say it slower.",
+      "gesture": "smiling, slower"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I am happy.  ·  I am happy.  ·  I am happy."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is my wife.  ·  This is my wife.  ·  This is my wife."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Old lines, new scene",
+     "camera": "Cut between quick inserts of earlier episodes and the live scene.",
+     "action": "Teacher opens with familiar lines from earlier modules (spiral), then lands them into today's new scene. The child feels 'I know this!' — that safety is the goal.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I am happy."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is my wife."
+      },
+      {
+       "who": "Teacher",
+       "line": "Slowly, please."
+      },
+      {
+       "who": "Teacher",
+       "line": "OK. Now I understand."
+      }
+     ],
+     "sfx": "Soft 'you know this!' chime on each familiar line."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "This is my wife."
+      },
+      {
+       "who": "Teacher",
+       "line": "I am happy."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Slowly, please."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 61,
+        "level": "A1",
+        "module": 4,
+        "module_title": "Family & Immediate Relationships",
+        "title": "My Family",
+        "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
+        "natural_english": [
+         "This is my family.",
+         "This is my mother.",
+         "This is my father.",
+         "We are happy."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Your family?",
+          "gesture": "looking at the photo"
+         },
+         {
+          "speaker": "B",
+          "line": "Yes. My mother, my father, my sister.",
+          "gesture": "pointing at each"
+         }
+        ],
+        "audio_script": {
+         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "This is my family.",
+            "This is my mother.",
+            "This is my father.",
+            "We are happy."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Your family?",
+            "Yes. My mother, my father, my sister."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "my mother / my father"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 62,
+        "level": "A1",
+        "module": 4,
+        "module_title": "Family & Immediate Relationships",
+        "title": "My Brother — Listen & Shadow",
+        "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
+        "natural_english": [
+         "This is my brother.",
+         "He is tall.",
+         "He is funny.",
+         "I like my brother."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "Who is he?",
+          "gesture": "curious"
+         },
+         {
+          "speaker": "B",
+          "line": "My brother. He is twenty.",
+          "gesture": "smiling proudly"
+         }
+        ],
+        "audio_script": {
+         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
+         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "This is my brother.",
+            "He is tall.",
+            "He is funny.",
+            "I like my brother."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "Who is he?",
+            "My brother. He is twenty."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "he is"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I am happy."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "happy!",
+    "2_two_words": "am happy!",
+    "3_full_sentence": "I am happy.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A learner at a counter looking puzzled, hand slightly raised.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «I am happy.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): I don't understand. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «It's ten dollars fifty.» اصمت وانظر بترقّب. بعد كل جملة اصمت 3–5 ثوانٍ وانظر في عينيه. أي حركة أو صوت منه = تفاعل ناجح، كافئه بابتسامة وتكرار الجملة.",
+    "ممنوع الترجمة نهائيًا: اربط الكلمة بالشيء والفعل والتجربة نفسها أمام عينيه. الصورة والصوت واللمس هي القاموس.",
+    "إذا نطق كلمة بشكل غير صحيح، لا تصحح: أعد أنت الكلمة الصحيحة بابتسامة في سياق جديد، وكأنك تؤكدها لا تعترض.",
+    "نوع هذه الحلقة: ابدأ بجمل مألوفة من حلقات سابقة قبل الجديد حتى يشعر بأمان «أنا أعرف هذا».",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child watches your face, points, reaches, or babbles. Comprehension signs only — any spoken word is a bonus, never a goal."
+  }
+ ]
+}

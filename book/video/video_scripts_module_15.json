@@ -1,0 +1,2517 @@
+{
+ "module": 15,
+ "module_title": "Professional Communication",
+ "level": "B2",
+ "episodes": [
+  {
+   "episode": 113,
+   "level": "B2",
+   "module": 15,
+   "module_title": "Professional Communication",
+   "title": "Opening a Meeting",
+   "kind": "core",
+   "source_page": 426,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 4 — The Fluent Adolescent (linguistic age 9+ to adult fluency)",
+    "teacher_role": "You are a mentor talking with a near-fluent speaker. Treat the child as an intellectual equal: humor, debate, professional scenarios, idiom-rich conversation. Push registers: formal, playful, sarcastic, diplomatic.",
+    "child_expected": "Holds his own in any conversation. Understands jokes, irony, understatement. Argues positions with nuance.",
+    "speech_style": "Authentic native speech at native speed, including hesitation markers, idioms, and cultural references."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الرابعة — المراهق الطليق (عمر لغوي 9+ حتى طلاقة البالغ)",
+    "teacher_role": "أنت مرشدٌ تحاور شبه طليقًا. عامل الطفل كمثيل فكري: فكاهة ونقاش ومواقف مهنية وحديث غني بالمصطلحات. ادفع نحو مستويات اللغة: الرسمية والمرحة والساخرة والدبلوماسية.",
+    "child_expected": "يصمد في أي حوار. يفهم النكتة والسخرية والتقليل. يدافع عن مواقف ببراعة ودقة.",
+    "speech_style": "كلام أصلي أصيل بالسرعة الأصلية، بعلامات التردد والمصطلحات والمرجعيات الثقافية."
+   },
+   "scene": {
+    "setting": "A conference room at 9:00 sharp: laptops open, one chair still empty, coffee steam rising.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A meeting already ten minutes old. No agenda on screen. Someone checks their watch.",
+    "lines": [
+     "No agenda again.",
+     "Twenty minutes in, we're still defining the topic.",
+     "An agenda isn't bureaucracy. It's respect for time.",
+     "Next meeting, I send it myself."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "What are we deciding today?",
+      "gesture": "pen still capped"
+     },
+     {
+      "speaker": "B",
+      "line": "Good question. That's the problem.",
+      "gesture": "dry, not cruel"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Thanks, everyone, for making time.  ·  Thanks, everyone, for making time.  ·  Thanks, everyone, for making time."
+      },
+      {
+       "who": "Teacher",
+       "line": "We have three items and forty minutes.  ·  We have three items and forty minutes.  ·  We have three items and forty minutes."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Live dialogue — teacher plays both roles with the child",
+     "camera": "Over-the-shoulder alternates; keep both faces in frame for reactions.",
+     "action": "Teacher speaks line A to the child with gesture. Waits 5 seconds — silently. If the child offers anything, expand it joyfully. Then teacher voices B with a puppet/second voice. Replay the exchange once more with roles swapped.",
+     "audio": [
+      {
+       "who": "A",
+       "line": "Are we waiting on anyone?",
+       "gesture": "glancing at the door"
+      },
+      {
+       "who": "B",
+       "line": "No, let's begin. He'll join when he joins.",
+       "gesture": "opening the agenda"
+      }
+     ],
+     "sfx": "None. Faces and voices carry everything."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "We have three items and forty minutes."
+      },
+      {
+       "who": "Teacher",
+       "line": "Thanks, everyone, for making time."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I'll keep us moving, but let's allow real discussion on item two."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 381,
+        "level": "B2",
+        "module": 14,
+        "module_title": "Social Nuance & Cultural Context",
+        "title": "Reading Between the Lines",
+        "visual_scene": "An email on a screen: 'Per my last message, just circling back...' A reader's eyebrow rises.",
+        "natural_english": [
+         "'Per my last email' actually means 'you didn't read it.'",
+         "'Let's take this offline' means 'not in front of everyone.'",
+         "'With all due respect' usually announces a disagreement.",
+         "English politeness is often a thin layer over a blunt message."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "He said the idea was 'interesting.'",
+          "gesture": "hopeful"
+         },
+         {
+          "speaker": "B",
+          "line": "Ah. In polite English, 'interesting' is rarely a compliment.",
+          "gesture": "sympathetic wince"
+         }
+        ],
+        "audio_script": {
+         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
+         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "'Per my last email' actually means 'you didn't read it.'",
+            "'Let's take this offline' means 'not in front of everyone.'",
+            "'With all due respect' usually announces a disagreement.",
+            "English politeness is often a thin layer over a blunt message."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "He said the idea was 'interesting.'",
+            "Ah. In polite English, 'interesting' is rarely a compliment."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "reading between the lines"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 382,
+        "level": "B2",
+        "module": 14,
+        "module_title": "Social Nuance & Cultural Context",
+        "title": "Sarcasm at Work — Listen & Shadow",
+        "visual_scene": "Two colleagues watching a printer jam for the third time, deadpan.",
+        "natural_english": [
+         "Oh great, another Monday surprise.",
+         "Well, that went smoothly.",
+         "I love it when plans survive contact with reality.",
+         "You can hear the irony, right?"
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "The server picked the busiest day to crash.",
+          "gesture": "flat"
+         },
+         {
+          "speaker": "B",
+          "line": "Perfect timing, as always. Truly impeccable planning by the universe.",
+          "gesture": "deadpan"
+         }
+        ],
+        "audio_script": {
+         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
+         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Oh great, another Monday surprise.",
+            "Well, that went smoothly.",
+            "I love it when plans survive contact with reality.",
+            "You can hear the irony, right?"
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "The server picked the busiest day to crash.",
+            "Perfect timing, as always. Truly impeccable planning by the universe."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "deadpan irony"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Thanks, everyone, for making time."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "time!",
+    "2_two_words": "making time!",
+    "3_full_sentence": "Thanks, everyone, for making time.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A conference room at 9:00 sharp: laptops open, one chair still empty, coffee steam rising.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «Thanks, everyone, for making time.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): making time / keep us moving. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «Are we waiting on anyone?» اصمت وانظر بترقّب. اترك له مساحة كاملة ليبني موقفه. لا تملأ الصمت. الجدل الهادئ معك هو الدرس نفسه.",
+    "لا تترجم: استخدم التعريف بالإنجليزية والمقارنات والمواقف. السياق الثقافي نفسه جزء من الدرس.",
+    "تجاهل الأخطاء الصغيرة، وأعد الصياغة فقط حين يغيّر الخطأ المعنى. ركّز طاقتك على إدخال التعبيرات الأصيلة.",
+    "نوع هذه الحلقة: الأسماء والأفعال أمام عينيه أهم من أي شرح.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child holds natural exchanges and argues points because he wants to, not because he is asked."
+  },
+  {
+   "episode": 114,
+   "level": "B2",
+   "module": 15,
+   "module_title": "Professional Communication",
+   "title": "Steering the Discussion — Listen & Shadow",
+   "kind": "shadow",
+   "source_page": 427,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 4 — The Fluent Adolescent (linguistic age 9+ to adult fluency)",
+    "teacher_role": "You are a mentor talking with a near-fluent speaker. Treat the child as an intellectual equal: humor, debate, professional scenarios, idiom-rich conversation. Push registers: formal, playful, sarcastic, diplomatic.",
+    "child_expected": "Holds his own in any conversation. Understands jokes, irony, understatement. Argues positions with nuance.",
+    "speech_style": "Authentic native speech at native speed, including hesitation markers, idioms, and cultural references."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الرابعة — المراهق الطليق (عمر لغوي 9+ حتى طلاقة البالغ)",
+    "teacher_role": "أنت مرشدٌ تحاور شبه طليقًا. عامل الطفل كمثيل فكري: فكاهة ونقاش ومواقف مهنية وحديث غني بالمصطلحات. ادفع نحو مستويات اللغة: الرسمية والمرحة والساخرة والدبلوماسية.",
+    "child_expected": "يصمد في أي حوار. يفهم النكتة والسخرية والتقليل. يدافع عن مواقف ببراعة ودقة.",
+    "speech_style": "كلام أصلي أصيل بالسرعة الأصلية، بعلامات التردد والمصطلحات والمرجعيات الثقافية."
+   },
+   "scene": {
+    "setting": "A hand gently raised in a meeting, three people talking over each other.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "One person tells a long story; eyes around the table drift to laptops and watches.",
+    "lines": [
+     "He's told this story three times.",
+     "Someone must steer, or we lose the hour.",
+     "'Great background — what's the decision we need?'",
+     "Kind redirection is a leadership skill."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "How do we get him back on track?",
+      "gesture": "whispered"
+     },
+     {
+      "speaker": "B",
+      "line": "Ask for the decision. Stories end when decisions start.",
+      "gesture": "watching the clock"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Let's park that for now and come back to it.  ·  Let's park that for now and come back to it.  ·  Let's park that for now and come back to it."
+      },
+      {
+       "who": "Teacher",
+       "line": "We're drifting off topic slightly.  ·  We're drifting off topic slightly.  ·  We're drifting off topic slightly."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Echo & shadow play (pure imitation game, never a task)",
+     "camera": "Full-body teacher shot so mouth, hands and body are all visible.",
+     "action": "Teacher says each line twice: once slow with huge mouth movements, once natural. If the child shadows, wonderful; if not, the teacher simply continues, delighted either way.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Let's park that for now and come back to it.  ...  Let's park that for now and come back to it."
+      },
+      {
+       "who": "Teacher",
+       "line": "We're drifting off topic slightly.  ...  We're drifting off topic slightly."
+      },
+      {
+       "who": "Teacher",
+       "line": "Can we timebox this to ten minutes?  ...  Can we timebox this to ten minutes?"
+      },
+      {
+       "who": "Teacher",
+       "line": "Let's take that offline, just the two of us.  ...  Let's take that offline, just the two of us."
+      }
+     ],
+     "sfx": "Optional light rhythm under the second pass."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "We're drifting off topic slightly."
+      },
+      {
+       "who": "Teacher",
+       "line": "Let's park that for now and come back to it."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Can we timebox this to ten minutes?"
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 381,
+        "level": "B2",
+        "module": 14,
+        "module_title": "Social Nuance & Cultural Context",
+        "title": "Reading Between the Lines",
+        "visual_scene": "An email on a screen: 'Per my last message, just circling back...' A reader's eyebrow rises.",
+        "natural_english": [
+         "'Per my last email' actually means 'you didn't read it.'",
+         "'Let's take this offline' means 'not in front of everyone.'",
+         "'With all due respect' usually announces a disagreement.",
+         "English politeness is often a thin layer over a blunt message."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "He said the idea was 'interesting.'",
+          "gesture": "hopeful"
+         },
+         {
+          "speaker": "B",
+          "line": "Ah. In polite English, 'interesting' is rarely a compliment.",
+          "gesture": "sympathetic wince"
+         }
+        ],
+        "audio_script": {
+         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
+         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "'Per my last email' actually means 'you didn't read it.'",
+            "'Let's take this offline' means 'not in front of everyone.'",
+            "'With all due respect' usually announces a disagreement.",
+            "English politeness is often a thin layer over a blunt message."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "He said the idea was 'interesting.'",
+            "Ah. In polite English, 'interesting' is rarely a compliment."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "reading between the lines"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 382,
+        "level": "B2",
+        "module": 14,
+        "module_title": "Social Nuance & Cultural Context",
+        "title": "Sarcasm at Work — Listen & Shadow",
+        "visual_scene": "Two colleagues watching a printer jam for the third time, deadpan.",
+        "natural_english": [
+         "Oh great, another Monday surprise.",
+         "Well, that went smoothly.",
+         "I love it when plans survive contact with reality.",
+         "You can hear the irony, right?"
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "The server picked the busiest day to crash.",
+          "gesture": "flat"
+         },
+         {
+          "speaker": "B",
+          "line": "Perfect timing, as always. Truly impeccable planning by the universe.",
+          "gesture": "deadpan"
+         }
+        ],
+        "audio_script": {
+         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
+         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Oh great, another Monday surprise.",
+            "Well, that went smoothly.",
+            "I love it when plans survive contact with reality.",
+            "You can hear the irony, right?"
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "The server picked the busiest day to crash.",
+            "Perfect timing, as always. Truly impeccable planning by the universe."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "deadpan irony"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Let's park that for now and come back to it."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "minutes?",
+    "2_two_words": "ten minutes?",
+    "3_full_sentence": "Can we timebox this to ten minutes?",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A hand gently raised in a meeting, three people talking over each other.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «Let's park that for now and come back to it.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): park it / timebox. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «Should we redesign the whole onboarding flow?» اصمت وانظر بترقّب. اترك له مساحة كاملة ليبني موقفه. لا تملأ الصمت. الجدل الهادئ معك هو الدرس نفسه.",
+    "لا تترجم: استخدم التعريف بالإنجليزية والمقارنات والمواقف. السياق الثقافي نفسه جزء من الدرس.",
+    "تجاهل الأخطاء الصغيرة، وأعد الصياغة فقط حين يغيّر الخطأ المعنى. ركّز طاقتك على إدخال التعبيرات الأصيلة.",
+    "نوع هذه الحلقة: التظليل هنا لعبة تقليد طبيعية لا واجب نطق — إن لم يقلد فلا شيء، أنت وحدك تكمل بفرح.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child holds natural exchanges and argues points because he wants to, not because he is asked."
+  },
+  {
+   "episode": 115,
+   "level": "B2",
+   "module": 15,
+   "module_title": "Professional Communication",
+   "title": "Email Tone — Your Turn",
+   "kind": "your_turn",
+   "source_page": 428,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 4 — The Fluent Adolescent (linguistic age 9+ to adult fluency)",
+    "teacher_role": "You are a mentor talking with a near-fluent speaker. Treat the child as an intellectual equal: humor, debate, professional scenarios, idiom-rich conversation. Push registers: formal, playful, sarcastic, diplomatic.",
+    "child_expected": "Holds his own in any conversation. Understands jokes, irony, understatement. Argues positions with nuance.",
+    "speech_style": "Authentic native speech at native speed, including hesitation markers, idioms, and cultural references."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الرابعة — المراهق الطليق (عمر لغوي 9+ حتى طلاقة البالغ)",
+    "teacher_role": "أنت مرشدٌ تحاور شبه طليقًا. عامل الطفل كمثيل فكري: فكاهة ونقاش ومواقف مهنية وحديث غني بالمصطلحات. ادفع نحو مستويات اللغة: الرسمية والمرحة والساخرة والدبلوماسية.",
+    "child_expected": "يصمد في أي حوار. يفهم النكتة والسخرية والتقليل. يدافع عن مواقف ببراعة ودقة.",
+    "speech_style": "كلام أصلي أصيل بالسرعة الأصلية، بعلامات التردد والمصطلحات والمرجعيات الثقافية."
+   },
+   "scene": {
+    "setting": "An email draft on screen, a sentence being softened from 'You failed to' to 'It looks like'.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "An email chain on screen. The CC list grows. The politeness gets sharper with each reply.",
+    "lines": [
+     "The CC list grows with each reply.",
+     "The politeness sharpens with every line.",
+     "'Just to clarify, for the third time...'",
+     "Someone should pick up the phone. Someone won't."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "This thread is getting tense.",
+      "gesture": "scrolling"
+     },
+     {
+      "speaker": "B (you)",
+      "line": "… (respond aloud)",
+      "gesture": ""
+     },
+     {
+      "speaker": "B (model)",
+      "line": "Five 'gentle reminders' in. Time for a call.",
+      "gesture": "reaching for the phone"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I'm following up on my message from Tuesday.  ·  I'm following up on my message from Tuesday.  ·  I'm following up on my message from Tuesday."
+      },
+      {
+       "who": "Teacher",
+       "line": "Just a gentle nudge on this.  ·  Just a gentle nudge on this.  ·  Just a gentle nudge on this."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Silent invitation (no production ever required)",
+     "camera": "Tight on teacher's expectant face during the pause — warm, patient, zero pressure.",
+     "action": "Teacher asks, then holds a real 5-second silence with bright eyes and raised eyebrows. Whether the child answers or not, the teacher then completes the answer himself, warmly, as if the child had asked him to. Any sound the child makes is celebrated but never requested.",
+     "audio": [
+      {
+       "who": "Teacher (asks, then waits 5s)",
+       "line": "How should I phrase the reminder?"
+      },
+      {
+       "who": "(silence — the child may or may not attempt; both are perfect)",
+       "line": "…"
+      },
+      {
+       "who": "Teacher (completes warmly)",
+       "line": "Keep it light. 'Circling back' buys you three more nudges before anyone gets annoyed."
+      }
+     ],
+     "sfx": "A tiny 'sparkle' cue only if the child initiates anything."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Just a gentle nudge on this."
+      },
+      {
+       "who": "Teacher",
+       "line": "I'm following up on my message from Tuesday."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Could you prioritize it this week, if possible?"
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 381,
+        "level": "B2",
+        "module": 14,
+        "module_title": "Social Nuance & Cultural Context",
+        "title": "Reading Between the Lines",
+        "visual_scene": "An email on a screen: 'Per my last message, just circling back...' A reader's eyebrow rises.",
+        "natural_english": [
+         "'Per my last email' actually means 'you didn't read it.'",
+         "'Let's take this offline' means 'not in front of everyone.'",
+         "'With all due respect' usually announces a disagreement.",
+         "English politeness is often a thin layer over a blunt message."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "He said the idea was 'interesting.'",
+          "gesture": "hopeful"
+         },
+         {
+          "speaker": "B",
+          "line": "Ah. In polite English, 'interesting' is rarely a compliment.",
+          "gesture": "sympathetic wince"
+         }
+        ],
+        "audio_script": {
+         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
+         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "'Per my last email' actually means 'you didn't read it.'",
+            "'Let's take this offline' means 'not in front of everyone.'",
+            "'With all due respect' usually announces a disagreement.",
+            "English politeness is often a thin layer over a blunt message."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "He said the idea was 'interesting.'",
+            "Ah. In polite English, 'interesting' is rarely a compliment."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "reading between the lines"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 382,
+        "level": "B2",
+        "module": 14,
+        "module_title": "Social Nuance & Cultural Context",
+        "title": "Sarcasm at Work — Listen & Shadow",
+        "visual_scene": "Two colleagues watching a printer jam for the third time, deadpan.",
+        "natural_english": [
+         "Oh great, another Monday surprise.",
+         "Well, that went smoothly.",
+         "I love it when plans survive contact with reality.",
+         "You can hear the irony, right?"
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "The server picked the busiest day to crash.",
+          "gesture": "flat"
+         },
+         {
+          "speaker": "B",
+          "line": "Perfect timing, as always. Truly impeccable planning by the universe.",
+          "gesture": "deadpan"
+         }
+        ],
+        "audio_script": {
+         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
+         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Oh great, another Monday surprise.",
+            "Well, that went smoothly.",
+            "I love it when plans survive contact with reality.",
+            "You can hear the irony, right?"
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "The server picked the busiest day to crash.",
+            "Perfect timing, as always. Truly impeccable planning by the universe."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "deadpan irony"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I'm following up on my message from Tuesday."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "possible?",
+    "2_two_words": "if possible?",
+    "3_full_sentence": "Could you prioritize it this week, if possible?",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: An email draft on screen, a sentence being softened from 'You failed to' to 'It looks like'.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «I'm following up on my message from Tuesday.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): following up / gentle nudge. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «How should I phrase the reminder?» اصمت وانظر بترقّب. اترك له مساحة كاملة ليبني موقفه. لا تملأ الصمت. الجدل الهادئ معك هو الدرس نفسه.",
+    "لا تترجم: استخدم التعريف بالإنجليزية والمقارنات والمواقف. السياق الثقافي نفسه جزء من الدرس.",
+    "تجاهل الأخطاء الصغيرة، وأعد الصياغة فقط حين يغيّر الخطأ المعنى. ركّز طاقتك على إدخال التعبيرات الأصيلة.",
+    "نوع هذه الحلقة: الدعوة صامتة: الصمت المنتظر هو جوهر الحلقة، وأنت من يكمل الإجابة دائمًا بعد الانتظار سواء نطق هو أم لا.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child holds natural exchanges and argues points because he wants to, not because he is asked."
+  },
+  {
+   "episode": 116,
+   "level": "B2",
+   "module": 15,
+   "module_title": "Professional Communication",
+   "title": "Negotiating — Spiral Review",
+   "kind": "spiral",
+   "source_page": 429,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 4 — The Fluent Adolescent (linguistic age 9+ to adult fluency)",
+    "teacher_role": "You are a mentor talking with a near-fluent speaker. Treat the child as an intellectual equal: humor, debate, professional scenarios, idiom-rich conversation. Push registers: formal, playful, sarcastic, diplomatic.",
+    "child_expected": "Holds his own in any conversation. Understands jokes, irony, understatement. Argues positions with nuance.",
+    "speech_style": "Authentic native speech at native speed, including hesitation markers, idioms, and cultural references."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الرابعة — المراهق الطليق (عمر لغوي 9+ حتى طلاقة البالغ)",
+    "teacher_role": "أنت مرشدٌ تحاور شبه طليقًا. عامل الطفل كمثيل فكري: فكاهة ونقاش ومواقف مهنية وحديث غني بالمصطلحات. ادفع نحو مستويات اللغة: الرسمية والمرحة والساخرة والدبلوماسية.",
+    "child_expected": "يصمد في أي حوار. يفهم النكتة والسخرية والتقليل. يدافع عن مواقف ببراعة ودقة.",
+    "speech_style": "كلام أصلي أصيل بالسرعة الأصلية، بعلامات التردد والمصطلحات والمرجعيات الثقافية."
+   },
+   "scene": {
+    "setting": "Two parties at a table, a printed proposal between them, one pen uncapped.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A negotiation table. One very large number written on the whiteboard, underlined twice.",
+    "lines": [
+     "I'm asleep by eleven, mostly.",
+     "I watched a tutorial and changed it myself.",
+     "I counter slowly, with reasons, not feelings.",
+     "The deal lands in the middle. Both sides claim victory."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Their number is absurd.",
+      "gesture": "pushing the sheet away"
+     },
+     {
+      "speaker": "B",
+      "line": "It's an anchor, not a price. Counter with logic and patience.",
+      "gesture": "steady"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I'm asleep by eleven, mostly.  ·  I'm asleep by eleven, mostly.  ·  I'm asleep by eleven, mostly."
+      },
+      {
+       "who": "Teacher",
+       "line": "I watched a tutorial and changed it myself.  ·  I watched a tutorial and changed it myself.  ·  I watched a tutorial and changed it myself."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Old lines, new scene",
+     "camera": "Cut between quick inserts of earlier episodes and the live scene.",
+     "action": "Teacher opens with familiar lines from earlier modules (spiral), then lands them into today's new scene. The child feels 'I know this!' — that safety is the goal.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I'm asleep by eleven, mostly."
+      },
+      {
+       "who": "Teacher",
+       "line": "I watched a tutorial and changed it myself."
+      },
+      {
+       "who": "Teacher",
+       "line": "We have some flexibility on timeline, less on price."
+      },
+      {
+       "who": "Teacher",
+       "line": "Let's find a structure that works for both sides."
+      }
+     ],
+     "sfx": "Soft 'you know this!' chime on each familiar line."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I watched a tutorial and changed it myself."
+      },
+      {
+       "who": "Teacher",
+       "line": "I'm asleep by eleven, mostly."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "We have some flexibility on timeline, less on price."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 381,
+        "level": "B2",
+        "module": 14,
+        "module_title": "Social Nuance & Cultural Context",
+        "title": "Reading Between the Lines",
+        "visual_scene": "An email on a screen: 'Per my last message, just circling back...' A reader's eyebrow rises.",
+        "natural_english": [
+         "'Per my last email' actually means 'you didn't read it.'",
+         "'Let's take this offline' means 'not in front of everyone.'",
+         "'With all due respect' usually announces a disagreement.",
+         "English politeness is often a thin layer over a blunt message."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "He said the idea was 'interesting.'",
+          "gesture": "hopeful"
+         },
+         {
+          "speaker": "B",
+          "line": "Ah. In polite English, 'interesting' is rarely a compliment.",
+          "gesture": "sympathetic wince"
+         }
+        ],
+        "audio_script": {
+         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
+         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "'Per my last email' actually means 'you didn't read it.'",
+            "'Let's take this offline' means 'not in front of everyone.'",
+            "'With all due respect' usually announces a disagreement.",
+            "English politeness is often a thin layer over a blunt message."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "He said the idea was 'interesting.'",
+            "Ah. In polite English, 'interesting' is rarely a compliment."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "reading between the lines"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 382,
+        "level": "B2",
+        "module": 14,
+        "module_title": "Social Nuance & Cultural Context",
+        "title": "Sarcasm at Work — Listen & Shadow",
+        "visual_scene": "Two colleagues watching a printer jam for the third time, deadpan.",
+        "natural_english": [
+         "Oh great, another Monday surprise.",
+         "Well, that went smoothly.",
+         "I love it when plans survive contact with reality.",
+         "You can hear the irony, right?"
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "The server picked the busiest day to crash.",
+          "gesture": "flat"
+         },
+         {
+          "speaker": "B",
+          "line": "Perfect timing, as always. Truly impeccable planning by the universe.",
+          "gesture": "deadpan"
+         }
+        ],
+        "audio_script": {
+         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
+         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Oh great, another Monday surprise.",
+            "Well, that went smoothly.",
+            "I love it when plans survive contact with reality.",
+            "You can hear the irony, right?"
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "The server picked the busiest day to crash.",
+            "Perfect timing, as always. Truly impeccable planning by the universe."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "deadpan irony"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I'm asleep by eleven, mostly."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "mostly!",
+    "2_two_words": "eleven mostly!",
+    "3_full_sentence": "I'm asleep by eleven, mostly.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: Two parties at a table, a printed proposal between them, one pen uncapped.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «I'm asleep by eleven, mostly.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): what would need to be true. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «Understood. If we extend the timeline by six weeks, we can bring the number down. Would that trade work?» اصمت وانظر بترقّب. اترك له مساحة كاملة ليبني موقفه. لا تملأ الصمت. الجدل الهادئ معك هو الدرس نفسه.",
+    "لا تترجم: استخدم التعريف بالإنجليزية والمقارنات والمواقف. السياق الثقافي نفسه جزء من الدرس.",
+    "تجاهل الأخطاء الصغيرة، وأعد الصياغة فقط حين يغيّر الخطأ المعنى. ركّز طاقتك على إدخال التعبيرات الأصيلة.",
+    "نوع هذه الحلقة: ابدأ بجمل مألوفة من حلقات سابقة قبل الجديد حتى يشعر بأمان «أنا أعرف هذا».",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child holds natural exchanges and argues points because he wants to, not because he is asked."
+  },
+  {
+   "episode": 117,
+   "level": "B2",
+   "module": 15,
+   "module_title": "Professional Communication",
+   "title": "Giving Feedback",
+   "kind": "core",
+   "source_page": 430,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 4 — The Fluent Adolescent (linguistic age 9+ to adult fluency)",
+    "teacher_role": "You are a mentor talking with a near-fluent speaker. Treat the child as an intellectual equal: humor, debate, professional scenarios, idiom-rich conversation. Push registers: formal, playful, sarcastic, diplomatic.",
+    "child_expected": "Holds his own in any conversation. Understands jokes, irony, understatement. Argues positions with nuance.",
+    "speech_style": "Authentic native speech at native speed, including hesitation markers, idioms, and cultural references."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الرابعة — المراهق الطليق (عمر لغوي 9+ حتى طلاقة البالغ)",
+    "teacher_role": "أنت مرشدٌ تحاور شبه طليقًا. عامل الطفل كمثيل فكري: فكاهة ونقاش ومواقف مهنية وحديث غني بالمصطلحات. ادفع نحو مستويات اللغة: الرسمية والمرحة والساخرة والدبلوماسية.",
+    "child_expected": "يصمد في أي حوار. يفهم النكتة والسخرية والتقليل. يدافع عن مواقف ببراعة ودقة.",
+    "speech_style": "كلام أصلي أصيل بالسرعة الأصلية، بعلامات التردد والمصطلحات والمرجعيات الثقافية."
+   },
+   "scene": {
+    "setting": "A one-on-one corner of an open office; two chairs angled, not facing.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A one-on-one. A manager structures the conversation carefully, notes open but barely used.",
+    "lines": [
+     "Good feedback isn't a compliment wrapped in criticism.",
+     "It's specific, timely, and forward-looking.",
+     "'Next time, try X' beats 'you should have.'",
+     "Feedback is a gift. Wrap it properly."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "How do I tell her the report failed?",
+      "gesture": "dreading it"
+     },
+     {
+      "speaker": "B",
+      "line": "Be specific, be kind, and point forward. What, not who.",
+      "gesture": "calm"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Overall, the work is strong.  ·  Overall, the work is strong.  ·  Overall, the work is strong."
+      },
+      {
+       "who": "Teacher",
+       "line": "One area to sharpen: the summary buried the key finding.  ·  One area to sharpen: the summary buried the key finding.  ·  One area to sharpen: the summary buried the key finding."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Live dialogue — teacher plays both roles with the child",
+     "camera": "Over-the-shoulder alternates; keep both faces in frame for reactions.",
+     "action": "Teacher speaks line A to the child with gesture. Waits 5 seconds — silently. If the child offers anything, expand it joyfully. Then teacher voices B with a puppet/second voice. Replay the exchange once more with roles swapped.",
+     "audio": [
+      {
+       "who": "A",
+       "line": "How did the presentation land?",
+       "gesture": "slightly braced"
+      },
+      {
+       "who": "B",
+       "line": "Well received overall. One suggestion: lead with the conclusion next time. The analysis is great; the order hid it.",
+       "gesture": "constructive, kind"
+      }
+     ],
+     "sfx": "None. Faces and voices carry everything."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "One area to sharpen: the summary buried the key finding."
+      },
+      {
+       "who": "Teacher",
+       "line": "Overall, the work is strong."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "What support would help you here?"
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 381,
+        "level": "B2",
+        "module": 14,
+        "module_title": "Social Nuance & Cultural Context",
+        "title": "Reading Between the Lines",
+        "visual_scene": "An email on a screen: 'Per my last message, just circling back...' A reader's eyebrow rises.",
+        "natural_english": [
+         "'Per my last email' actually means 'you didn't read it.'",
+         "'Let's take this offline' means 'not in front of everyone.'",
+         "'With all due respect' usually announces a disagreement.",
+         "English politeness is often a thin layer over a blunt message."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "He said the idea was 'interesting.'",
+          "gesture": "hopeful"
+         },
+         {
+          "speaker": "B",
+          "line": "Ah. In polite English, 'interesting' is rarely a compliment.",
+          "gesture": "sympathetic wince"
+         }
+        ],
+        "audio_script": {
+         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
+         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "'Per my last email' actually means 'you didn't read it.'",
+            "'Let's take this offline' means 'not in front of everyone.'",
+            "'With all due respect' usually announces a disagreement.",
+            "English politeness is often a thin layer over a blunt message."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "He said the idea was 'interesting.'",
+            "Ah. In polite English, 'interesting' is rarely a compliment."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "reading between the lines"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 382,
+        "level": "B2",
+        "module": 14,
+        "module_title": "Social Nuance & Cultural Context",
+        "title": "Sarcasm at Work — Listen & Shadow",
+        "visual_scene": "Two colleagues watching a printer jam for the third time, deadpan.",
+        "natural_english": [
+         "Oh great, another Monday surprise.",
+         "Well, that went smoothly.",
+         "I love it when plans survive contact with reality.",
+         "You can hear the irony, right?"
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "The server picked the busiest day to crash.",
+          "gesture": "flat"
+         },
+         {
+          "speaker": "B",
+          "line": "Perfect timing, as always. Truly impeccable planning by the universe.",
+          "gesture": "deadpan"
+         }
+        ],
+        "audio_script": {
+         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
+         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Oh great, another Monday surprise.",
+            "Well, that went smoothly.",
+            "I love it when plans survive contact with reality.",
+            "You can hear the irony, right?"
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "The server picked the busiest day to crash.",
+            "Perfect timing, as always. Truly impeccable planning by the universe."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "deadpan irony"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Overall, the work is strong."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "here?",
+    "2_two_words": "help here?",
+    "3_full_sentence": "What support would help you here?",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A one-on-one corner of an open office; two chairs angled, not facing.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «Overall, the work is strong.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): land / lead with. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «How did the presentation land?» اصمت وانظر بترقّب. اترك له مساحة كاملة ليبني موقفه. لا تملأ الصمت. الجدل الهادئ معك هو الدرس نفسه.",
+    "لا تترجم: استخدم التعريف بالإنجليزية والمقارنات والمواقف. السياق الثقافي نفسه جزء من الدرس.",
+    "تجاهل الأخطاء الصغيرة، وأعد الصياغة فقط حين يغيّر الخطأ المعنى. ركّز طاقتك على إدخال التعبيرات الأصيلة.",
+    "نوع هذه الحلقة: الأسماء والأفعال أمام عينيه أهم من أي شرح.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child holds natural exchanges and argues points because he wants to, not because he is asked."
+  },
+  {
+   "episode": 118,
+   "level": "B2",
+   "module": 15,
+   "module_title": "Professional Communication",
+   "title": "Disagreeing With Your Manager — Listen & Shadow",
+   "kind": "shadow",
+   "source_page": 431,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 4 — The Fluent Adolescent (linguistic age 9+ to adult fluency)",
+    "teacher_role": "You are a mentor talking with a near-fluent speaker. Treat the child as an intellectual equal: humor, debate, professional scenarios, idiom-rich conversation. Push registers: formal, playful, sarcastic, diplomatic.",
+    "child_expected": "Holds his own in any conversation. Understands jokes, irony, understatement. Argues positions with nuance.",
+    "speech_style": "Authentic native speech at native speed, including hesitation markers, idioms, and cultural references."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الرابعة — المراهق الطليق (عمر لغوي 9+ حتى طلاقة البالغ)",
+    "teacher_role": "أنت مرشدٌ تحاور شبه طليقًا. عامل الطفل كمثيل فكري: فكاهة ونقاش ومواقف مهنية وحديث غني بالمصطلحات. ادفع نحو مستويات اللغة: الرسمية والمرحة والساخرة والدبلوماسية.",
+    "child_expected": "يصمد في أي حوار. يفهم النكتة والسخرية والتقليل. يدافع عن مواقف ببراعة ودقة.",
+    "speech_style": "كلام أصلي أصيل بالسرعة الأصلية، بعلامات التردد والمصطلحات والمرجعيات الثقافية."
+   },
+   "scene": {
+    "setting": "An office with the door ajar; a junior employee choosing words with visible care.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A meeting. A chart on the screen quietly contradicts the most senior person in the room.",
+    "lines": [
+     "The boss prefers option A. The data prefers B.",
+     "I don't fight the person. I present the chart.",
+     "'May I show what the pilot data says?'",
+     "Numbers depersonalize the disagreement."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "He won't like this.",
+      "gesture": "nervous"
+     },
+     {
+      "speaker": "B",
+      "line": "Then let the data say it. I'll just hold the pointer.",
+      "gesture": "chart ready"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "May I push back on one point?  ·  May I push back on one point?  ·  May I push back on one point?"
+      },
+      {
+       "who": "Teacher",
+       "line": "I see the upside, but I'm worried about the risk.  ·  I see the upside, but I'm worried about the risk.  ·  I see the upside, but I'm worried about the risk."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Echo & shadow play (pure imitation game, never a task)",
+     "camera": "Full-body teacher shot so mouth, hands and body are all visible.",
+     "action": "Teacher says each line twice: once slow with huge mouth movements, once natural. If the child shadows, wonderful; if not, the teacher simply continues, delighted either way.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "May I push back on one point?  ...  May I push back on one point?"
+      },
+      {
+       "who": "Teacher",
+       "line": "I see the upside, but I'm worried about the risk.  ...  I see the upside, but I'm worried about the risk."
+      },
+      {
+       "who": "Teacher",
+       "line": "Could we test it on a small scale first?  ...  Could we test it on a small scale first?"
+      },
+      {
+       "who": "Teacher",
+       "line": "I'll support the decision either way.  ...  I'll support the decision either way."
+      }
+     ],
+     "sfx": "Optional light rhythm under the second pass."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I see the upside, but I'm worried about the risk."
+      },
+      {
+       "who": "Teacher",
+       "line": "May I push back on one point?"
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Could we test it on a small scale first?"
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 381,
+        "level": "B2",
+        "module": 14,
+        "module_title": "Social Nuance & Cultural Context",
+        "title": "Reading Between the Lines",
+        "visual_scene": "An email on a screen: 'Per my last message, just circling back...' A reader's eyebrow rises.",
+        "natural_english": [
+         "'Per my last email' actually means 'you didn't read it.'",
+         "'Let's take this offline' means 'not in front of everyone.'",
+         "'With all due respect' usually announces a disagreement.",
+         "English politeness is often a thin layer over a blunt message."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "He said the idea was 'interesting.'",
+          "gesture": "hopeful"
+         },
+         {
+          "speaker": "B",
+          "line": "Ah. In polite English, 'interesting' is rarely a compliment.",
+          "gesture": "sympathetic wince"
+         }
+        ],
+        "audio_script": {
+         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
+         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "'Per my last email' actually means 'you didn't read it.'",
+            "'Let's take this offline' means 'not in front of everyone.'",
+            "'With all due respect' usually announces a disagreement.",
+            "English politeness is often a thin layer over a blunt message."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "He said the idea was 'interesting.'",
+            "Ah. In polite English, 'interesting' is rarely a compliment."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "reading between the lines"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 382,
+        "level": "B2",
+        "module": 14,
+        "module_title": "Social Nuance & Cultural Context",
+        "title": "Sarcasm at Work — Listen & Shadow",
+        "visual_scene": "Two colleagues watching a printer jam for the third time, deadpan.",
+        "natural_english": [
+         "Oh great, another Monday surprise.",
+         "Well, that went smoothly.",
+         "I love it when plans survive contact with reality.",
+         "You can hear the irony, right?"
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "The server picked the busiest day to crash.",
+          "gesture": "flat"
+         },
+         {
+          "speaker": "B",
+          "line": "Perfect timing, as always. Truly impeccable planning by the universe.",
+          "gesture": "deadpan"
+         }
+        ],
+        "audio_script": {
+         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
+         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Oh great, another Monday surprise.",
+            "Well, that went smoothly.",
+            "I love it when plans survive contact with reality.",
+            "You can hear the irony, right?"
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "The server picked the busiest day to crash.",
+            "Perfect timing, as always. Truly impeccable planning by the universe."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "deadpan irony"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "May I push back on one point?"
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "point?",
+    "2_two_words": "one point?",
+    "3_full_sentence": "May I push back on one point?",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: An office with the door ajar; a junior employee choosing words with visible care.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «May I push back on one point?» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): push back / either way. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «I want us to launch in March.» اصمت وانظر بترقّب. اترك له مساحة كاملة ليبني موقفه. لا تملأ الصمت. الجدل الهادئ معك هو الدرس نفسه.",
+    "لا تترجم: استخدم التعريف بالإنجليزية والمقارنات والمواقف. السياق الثقافي نفسه جزء من الدرس.",
+    "تجاهل الأخطاء الصغيرة، وأعد الصياغة فقط حين يغيّر الخطأ المعنى. ركّز طاقتك على إدخال التعبيرات الأصيلة.",
+    "نوع هذه الحلقة: التظليل هنا لعبة تقليد طبيعية لا واجب نطق — إن لم يقلد فلا شيء، أنت وحدك تكمل بفرح.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child holds natural exchanges and argues points because he wants to, not because he is asked."
+  },
+  {
+   "episode": 119,
+   "level": "B2",
+   "module": 15,
+   "module_title": "Professional Communication",
+   "title": "Delegating — Your Turn",
+   "kind": "your_turn",
+   "source_page": 432,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 4 — The Fluent Adolescent (linguistic age 9+ to adult fluency)",
+    "teacher_role": "You are a mentor talking with a near-fluent speaker. Treat the child as an intellectual equal: humor, debate, professional scenarios, idiom-rich conversation. Push registers: formal, playful, sarcastic, diplomatic.",
+    "child_expected": "Holds his own in any conversation. Understands jokes, irony, understatement. Argues positions with nuance.",
+    "speech_style": "Authentic native speech at native speed, including hesitation markers, idioms, and cultural references."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الرابعة — المراهق الطليق (عمر لغوي 9+ حتى طلاقة البالغ)",
+    "teacher_role": "أنت مرشدٌ تحاور شبه طليقًا. عامل الطفل كمثيل فكري: فكاهة ونقاش ومواقف مهنية وحديث غني بالمصطلحات. ادفع نحو مستويات اللغة: الرسمية والمرحة والساخرة والدبلوماسية.",
+    "child_expected": "يصمد في أي حوار. يفهم النكتة والسخرية والتقليل. يدافع عن مواقف ببراعة ودقة.",
+    "speech_style": "كلام أصلي أصيل بالسرعة الأصلية، بعلامات التردد والمصطلحات والمرجعيات الثقافية."
+   },
+   "scene": {
+    "setting": "A task board: one card moving from a crowded column to an empty one.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "An open office. A manager's hand hovers over a colleague's keyboard... then withdraws.",
+    "lines": [
+     "I used to rewrite everyone's work.",
+     "My team stopped thinking. Why would they? I'd redo it anyway.",
+     "Now I define the outcome and step back.",
+     "Their version is sometimes better. Always faster."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "You're not checking his draft?",
+      "gesture": "surprised"
+     },
+     {
+      "speaker": "B (you)",
+      "line": "… (respond aloud)",
+      "gesture": ""
+     },
+     {
+      "speaker": "B (model)",
+      "line": "I gave him the goal and the deadline. The how is his.",
+      "gesture": "hands off the keyboard"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I'd like you to own the vendor outreach.  ·  I'd like you to own the vendor outreach.  ·  I'd like you to own the vendor outreach."
+      },
+      {
+       "who": "Teacher",
+       "line": "You'll have full authority up to ten thousand.  ·  You'll have full authority up to ten thousand.  ·  You'll have full authority up to ten thousand."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Silent invitation (no production ever required)",
+     "camera": "Tight on teacher's expectant face during the pause — warm, patient, zero pressure.",
+     "action": "Teacher asks, then holds a real 5-second silence with bright eyes and raised eyebrows. Whether the child answers or not, the teacher then completes the answer himself, warmly, as if the child had asked him to. Any sound the child makes is celebrated but never requested.",
+     "audio": [
+      {
+       "who": "Teacher (asks, then waits 5s)",
+       "line": "Can you take this off my plate?"
+      },
+      {
+       "who": "(silence — the child may or may not attempt; both are perfect)",
+       "line": "…"
+      },
+      {
+       "who": "Teacher (completes warmly)",
+       "line": "Yes, hand it over. I'll own it end to end and flag you only if it slips."
+      }
+     ],
+     "sfx": "A tiny 'sparkle' cue only if the child initiates anything."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "You'll have full authority up to ten thousand."
+      },
+      {
+       "who": "Teacher",
+       "line": "I'd like you to own the vendor outreach."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Check in with me weekly, not daily."
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 381,
+        "level": "B2",
+        "module": 14,
+        "module_title": "Social Nuance & Cultural Context",
+        "title": "Reading Between the Lines",
+        "visual_scene": "An email on a screen: 'Per my last message, just circling back...' A reader's eyebrow rises.",
+        "natural_english": [
+         "'Per my last email' actually means 'you didn't read it.'",
+         "'Let's take this offline' means 'not in front of everyone.'",
+         "'With all due respect' usually announces a disagreement.",
+         "English politeness is often a thin layer over a blunt message."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "He said the idea was 'interesting.'",
+          "gesture": "hopeful"
+         },
+         {
+          "speaker": "B",
+          "line": "Ah. In polite English, 'interesting' is rarely a compliment.",
+          "gesture": "sympathetic wince"
+         }
+        ],
+        "audio_script": {
+         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
+         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "'Per my last email' actually means 'you didn't read it.'",
+            "'Let's take this offline' means 'not in front of everyone.'",
+            "'With all due respect' usually announces a disagreement.",
+            "English politeness is often a thin layer over a blunt message."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "He said the idea was 'interesting.'",
+            "Ah. In polite English, 'interesting' is rarely a compliment."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "reading between the lines"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 382,
+        "level": "B2",
+        "module": 14,
+        "module_title": "Social Nuance & Cultural Context",
+        "title": "Sarcasm at Work — Listen & Shadow",
+        "visual_scene": "Two colleagues watching a printer jam for the third time, deadpan.",
+        "natural_english": [
+         "Oh great, another Monday surprise.",
+         "Well, that went smoothly.",
+         "I love it when plans survive contact with reality.",
+         "You can hear the irony, right?"
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "The server picked the busiest day to crash.",
+          "gesture": "flat"
+         },
+         {
+          "speaker": "B",
+          "line": "Perfect timing, as always. Truly impeccable planning by the universe.",
+          "gesture": "deadpan"
+         }
+        ],
+        "audio_script": {
+         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
+         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Oh great, another Monday surprise.",
+            "Well, that went smoothly.",
+            "I love it when plans survive contact with reality.",
+            "You can hear the irony, right?"
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "The server picked the busiest day to crash.",
+            "Perfect timing, as always. Truly impeccable planning by the universe."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "deadpan irony"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I'd like you to own the vendor outreach."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "outreach!",
+    "2_two_words": "vendor outreach!",
+    "3_full_sentence": "I'd like you to own the vendor outreach.",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A task board: one card moving from a crowded column to an empty one.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «I'd like you to own the vendor outreach.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): own it end to end. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «Can you take this off my plate?» اصمت وانظر بترقّب. اترك له مساحة كاملة ليبني موقفه. لا تملأ الصمت. الجدل الهادئ معك هو الدرس نفسه.",
+    "لا تترجم: استخدم التعريف بالإنجليزية والمقارنات والمواقف. السياق الثقافي نفسه جزء من الدرس.",
+    "تجاهل الأخطاء الصغيرة، وأعد الصياغة فقط حين يغيّر الخطأ المعنى. ركّز طاقتك على إدخال التعبيرات الأصيلة.",
+    "نوع هذه الحلقة: الدعوة صامتة: الصمت المنتظر هو جوهر الحلقة، وأنت من يكمل الإجابة دائمًا بعد الانتظار سواء نطق هو أم لا.",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child holds natural exchanges and argues points because he wants to, not because he is asked."
+  },
+  {
+   "episode": 120,
+   "level": "B2",
+   "module": 15,
+   "module_title": "Professional Communication",
+   "title": "Wrapping Up — Spiral Review",
+   "kind": "spiral",
+   "source_page": 433,
+   "duration": "10 minutes",
+   "stage": {
+    "stage": "Stage 4 — The Fluent Adolescent (linguistic age 9+ to adult fluency)",
+    "teacher_role": "You are a mentor talking with a near-fluent speaker. Treat the child as an intellectual equal: humor, debate, professional scenarios, idiom-rich conversation. Push registers: formal, playful, sarcastic, diplomatic.",
+    "child_expected": "Holds his own in any conversation. Understands jokes, irony, understatement. Argues positions with nuance.",
+    "speech_style": "Authentic native speech at native speed, including hesitation markers, idioms, and cultural references."
+   },
+   "stage_ar": {
+    "stage": "المرحلة الرابعة — المراهق الطليق (عمر لغوي 9+ حتى طلاقة البالغ)",
+    "teacher_role": "أنت مرشدٌ تحاور شبه طليقًا. عامل الطفل كمثيل فكري: فكاهة ونقاش ومواقف مهنية وحديث غني بالمصطلحات. ادفع نحو مستويات اللغة: الرسمية والمرحة والساخرة والدبلوماسية.",
+    "child_expected": "يصمد في أي حوار. يفهم النكتة والسخرية والتقليل. يدافع عن مواقف ببراعة ودقة.",
+    "speech_style": "كلام أصلي أصيل بالسرعة الأصلية، بعلامات التردد والمصطلحات والمرجعيات الثقافية."
+   },
+   "scene": {
+    "setting": "A meeting's last minute: laptops half-closed, one person scribbling final actions.",
+    "characters": "The Teacher (caregiver) and the Child. One real location, real objects.",
+    "props": "Everything the scene names must be physically present."
+   },
+   "replay_variation": {
+    "when": "Re-shoot or re-watch this episode with the alternate scene after a few days — same lines, new world.",
+    "setting": "A sent email on screen: decisions, owners, and deadlines, all in bold. Sent 41 minutes after the meeting.",
+    "lines": [
+     "I'm asleep by eleven, mostly.",
+     "I watched a tutorial and changed it myself.",
+     "Decisions, owners, deadlines. Bold. Short.",
+     "A meeting without a recap is a rumor."
+    ],
+    "dialogue": [
+     {
+      "speaker": "A",
+      "line": "Did anyone write that down?",
+      "gesture": "end of meeting"
+     },
+     {
+      "speaker": "B",
+      "line": "I did. Recap's in your inbox. Deadlines included.",
+      "gesture": "already sent"
+     }
+    ]
+   },
+   "beats": [
+    {
+     "t": "0:00–0:30",
+     "beat": "Greeting ritual",
+     "camera": "Close on teacher's face, then tilt to include the child. Warm eye contact.",
+     "action": "Teacher enters the scene with the same opening ritual every episode.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Hello hello! Look, look! It's time."
+      }
+     ],
+     "sfx": "Soft, cheerful. Same intro jingle each episode."
+    },
+    {
+     "t": "0:30–2:00",
+     "beat": "Scene immersion — show, don't tell",
+     "camera": "Wide shot of the full scene, then slow push-in on each key object as it is named.",
+     "action": "Teacher physically points to and touches each object/action as it is named. Each line three times: slow, slower, natural. Child watches or joins. No requests, no 'say it'.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I'm asleep by eleven, mostly.  ·  I'm asleep by eleven, mostly.  ·  I'm asleep by eleven, mostly."
+      },
+      {
+       "who": "Teacher",
+       "line": "I watched a tutorial and changed it myself.  ·  I watched a tutorial and changed it myself.  ·  I watched a tutorial and changed it myself."
+      }
+     ],
+     "sfx": "Real ambient sounds of the scene (traffic, kettle, market)."
+    },
+    {
+     "t": "2:00–4:30",
+     "beat": "Old lines, new scene",
+     "camera": "Cut between quick inserts of earlier episodes and the live scene.",
+     "action": "Teacher opens with familiar lines from earlier modules (spiral), then lands them into today's new scene. The child feels 'I know this!' — that safety is the goal.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I'm asleep by eleven, mostly."
+      },
+      {
+       "who": "Teacher",
+       "line": "I watched a tutorial and changed it myself."
+      },
+      {
+       "who": "Teacher",
+       "line": "Anything we've missed before we close?"
+      },
+      {
+       "who": "Teacher",
+       "line": "Thanks, everyone. Good session."
+      }
+     ],
+     "sfx": "Soft 'you know this!' chime on each familiar line."
+    },
+    {
+     "t": "4:30–5:30",
+     "beat": "Action & touch — the body learns",
+     "camera": "Floor-level wide: both bodies moving in the scene.",
+     "action": "Teacher acts out every line physically (picks up, pours, points, walks, mimes) and gently guides the child's hands through the same action. Language rides on movement.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I watched a tutorial and changed it myself."
+      },
+      {
+       "who": "Teacher",
+       "line": "I'm asleep by eleven, mostly."
+      }
+     ],
+     "sfx": "Real object sounds (cup set down, door, water)."
+    },
+    {
+     "t": "5:30–7:00",
+     "beat": "Variation & free play (child leads, teacher expands)",
+     "camera": "Handheld, playful. When the child initiates anything, the camera follows HIM.",
+     "action": "Teacher changes one variable (color, size, person) and re-uses today's lines. If the child produces a word or fragment, the teacher expands it into the full sentence with visible joy — and never asks him to repeat the expanded version.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "Anything we've missed before we close?"
+      }
+     ],
+     "sfx": "Natural room tone."
+    },
+    {
+     "t": "7:00–8:30",
+     "beat": "Spiral recall — yesterday's lines inside today's world",
+     "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
+     "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 381,
+        "level": "B2",
+        "module": 14,
+        "module_title": "Social Nuance & Cultural Context",
+        "title": "Reading Between the Lines",
+        "visual_scene": "An email on a screen: 'Per my last message, just circling back...' A reader's eyebrow rises.",
+        "natural_english": [
+         "'Per my last email' actually means 'you didn't read it.'",
+         "'Let's take this offline' means 'not in front of everyone.'",
+         "'With all due respect' usually announces a disagreement.",
+         "English politeness is often a thin layer over a blunt message."
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "He said the idea was 'interesting.'",
+          "gesture": "hopeful"
+         },
+         {
+          "speaker": "B",
+          "line": "Ah. In polite English, 'interesting' is rarely a compliment.",
+          "gesture": "sympathetic wince"
+         }
+        ],
+        "audio_script": {
+         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
+         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
+         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "'Per my last email' actually means 'you didn't read it.'",
+            "'Let's take this offline' means 'not in front of everyone.'",
+            "'With all due respect' usually announces a disagreement.",
+            "English politeness is often a thin layer over a blunt message."
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "He said the idea was 'interesting.'",
+            "Ah. In polite English, 'interesting' is rarely a compliment."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "reading between the lines"
+         ]
+        }
+       }
+      },
+      {
+       "who": "Teacher",
+       "line": {
+        "page": 382,
+        "level": "B2",
+        "module": 14,
+        "module_title": "Social Nuance & Cultural Context",
+        "title": "Sarcasm at Work — Listen & Shadow",
+        "visual_scene": "Two colleagues watching a printer jam for the third time, deadpan.",
+        "natural_english": [
+         "Oh great, another Monday surprise.",
+         "Well, that went smoothly.",
+         "I love it when plans survive contact with reality.",
+         "You can hear the irony, right?"
+        ],
+        "dialogue": [
+         {
+          "speaker": "A",
+          "line": "The server picked the busiest day to crash.",
+          "gesture": "flat"
+         },
+         {
+          "speaker": "B",
+          "line": "Perfect timing, as always. Truly impeccable planning by the universe.",
+          "gesture": "deadpan"
+         }
+        ],
+        "audio_script": {
+         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
+         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
+         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
+         "voices": [
+          {
+           "role": "Voice 1 — narrator / Speaker A",
+           "lines": [
+            "Oh great, another Monday surprise.",
+            "Well, that went smoothly.",
+            "I love it when plans survive contact with reality.",
+            "You can hear the irony, right?"
+           ]
+          },
+          {
+           "role": "Voice 2 — conversation partner / Speaker B",
+           "lines": [
+            "The server picked the busiest day to crash.",
+            "Perfect timing, as always. Truly impeccable planning by the universe."
+           ]
+          }
+         ]
+        },
+        "spiral": {
+         "familiar_pct": 85,
+         "new_pct": 15,
+         "new_elements": [
+          "deadpan irony"
+         ]
+        }
+       }
+      }
+     ],
+     "sfx": "Gentle 'remember this?' musical tag."
+    },
+    {
+     "t": "8:30–9:30",
+     "beat": "Quiet wind-down",
+     "camera": "Slow push-in. Soft light if possible.",
+     "action": "Teacher repeats today's first line once, very softly, while both settle down. The line now belongs to the calm.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "I'm asleep by eleven, mostly."
+      }
+     ],
+     "sfx": "Ambient only, quieter."
+    },
+    {
+     "t": "9:30–10:00",
+     "beat": "Closing ritual (same every episode)",
+     "camera": "Return to the opening framing. Slow, calm.",
+     "action": "Same goodbye words and same gesture every time, then a quiet moment together.",
+     "audio": [
+      {
+       "who": "Teacher",
+       "line": "That's all for today. Bye bye, see you next time!"
+      }
+     ],
+     "sfx": "Same outro jingle each episode."
+    }
+   ],
+   "ladder": {
+    "1_single_word": "close?",
+    "2_two_words": "we close?",
+    "3_full_sentence": "Anything we've missed before we close?",
+    "note_ar": "هذا هو السلّم التلقائي: الكلمة ← كلمتان ← الجملة. يظهر من وحده مع الأسابيع — لا تتدرّب عليه ولا تختبره فيه أبدًا."
+   },
+   "teacher_notes_ar": [
+    "القاعدة الذهبية — صفر مجهود: لا تطلب من الطفل أن يكرر، لا تقل له 'قل' أو 'جرب' أو 'قول معايا'. أنت تتكلم وتعمل، وهو يكتسب. الكلام سيخرج من وحده حين يجهز، تمامًا كما خرجت لغته الأولى.",
+    "البناء التراكمي يحدث وحده: ستسمعه يقول الكلمة المفردة أولًا، بعد أسابيع كلمة+كلمة، ثم الجملة الكاملة. لا تقفز به خطوة — أكمل أنت الجملة الناقصة بابتسامة وواصل (التوسيع)، ولا تطلب منه إكمالها.",
+    "جهّز المشهد قبل بدء التصوير: A meeting's last minute: laptops half-closed, one person scribbling final actions.. الأهم أن الطفل يرى الأشياء الحقيقية والفعل الحقيقي، لا صورًا فقط.",
+    "انطق ببطء مع الإيماءة: «I'm asleep by eleven, mostly.» — كررها ثلاث مرات قبل الانتقال لأي جملة جديدة. الهدف أن تسمع أذنه نفس النمط حتى يتنبأ به.",
+    "عنصر اليوم الجديد (15%): action items / recap. قدّمه وحده أولًا مرتين، ثم ادمجه في الجمل. لا تقدم أكثر من عنصر جديد واحد في الجلسة.",
+    "بعد سؤال «Who's taking the notes?» اصمت وانظر بترقّب. اترك له مساحة كاملة ليبني موقفه. لا تملأ الصمت. الجدل الهادئ معك هو الدرس نفسه.",
+    "لا تترجم: استخدم التعريف بالإنجليزية والمقارنات والمواقف. السياق الثقافي نفسه جزء من الدرس.",
+    "تجاهل الأخطاء الصغيرة، وأعد الصياغة فقط حين يغيّر الخطأ المعنى. ركّز طاقتك على إدخال التعبيرات الأصيلة.",
+    "نوع هذه الحلقة: ابدأ بجمل مألوفة من حلقات سابقة قبل الجديد حتى يشعر بأمان «أنا أعرف هذا».",
+    "الحلقة 10 دقائق مقسّمة ثماني مشاهد زمنية — التزم بالمدد خاصة الصمت (5 ثوانٍ كاملة) وطقس الافتتاح والختام.",
+    "اختم كل حلقة بنفس طقس الوداع (نفس الجملة ونفس الإيماءة) ليصبح أمانًا متوقعًا يفتح باب الاستقبال في الحلقة القادمة."
+   ],
+   "zero_effort_rule": {
+    "rule": "The child is never asked to produce anything. No 'repeat after me', no 'say it', no 'your turn'. The teacher models; the child acquires. Speech emerges on its own: single word → two words → full sentence.",
+    "rule_ar": "لا يُطلب من الطفل أي إنتاج إطلاقًا: لا 'كرر معي'، لا 'قل'، لا 'دورك'. أنت نمذج وهو يكتسب. الكلام يخرج وحده: كلمة ← كلمتان ← جملة كاملة.",
+    "if_child_speaks": "Celebrate warmly, expand his words into the full sentence yourself, and move on. Never ask him to repeat the expansion.",
+    "if_child_silent": "Perfectly fine. Silence is acquisition in progress. Complete the line yourself and continue naturally."
+   },
+   "success_signs": "The child holds natural exchanges and argues points because he wants to, not because he is asked."
+  }
+ ]
+}
