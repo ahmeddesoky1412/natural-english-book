@@ -139,121 +139,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 161,
-        "level": "A2",
-        "module": 8,
-        "module_title": "Commerce & Markets",
-        "title": "How Much Is It?",
-        "visual_scene": "A market stall with oranges piled in a pyramid, a handwritten price sign.",
-        "natural_english": [
-         "How much are the oranges?",
-         "They're three dollars a kilo.",
-         "That's a good price.",
-         "I'll take two kilos, please."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "How much is this?",
-          "gesture": "holding up a melon"
-         },
-         {
-          "speaker": "B",
-          "line": "Four dollars. Fresh this morning.",
-          "gesture": "tapping it twice"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "How much are the oranges?",
-            "They're three dollars a kilo.",
-            "That's a good price.",
-            "I'll take two kilos, please."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "How much is this?",
-            "Four dollars. Fresh this morning."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "how much / I'll take"
-         ]
-        }
-       }
+       "line": "How much are the oranges?"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 162,
-        "level": "A2",
-        "module": 8,
-        "module_title": "Commerce & Markets",
-        "title": "I Like This One — Listen & Shadow",
-        "visual_scene": "A clothing rack; a shopper holding up two shirts, comparing them.",
-        "natural_english": [
-         "I like this one better.",
-         "Do you have it in blue?",
-         "Sorry, blue is out of stock.",
-         "OK, I'll take the green one then."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you have this in a medium?",
-          "gesture": "holding a shirt"
-         },
-         {
-          "speaker": "B",
-          "line": "Let me check the back... yes, here you go.",
-          "gesture": "disappearing briefly"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I like this one better.",
-            "Do you have it in blue?",
-            "Sorry, blue is out of stock.",
-            "OK, I'll take the green one then."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you have this in a medium?",
-            "Let me check the back... yes, here you go."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "prefer / out of stock"
-         ]
-        }
-       }
+       "line": "They're three dollars a kilo."
+      },
+      {
+       "who": "Teacher",
+       "line": "I like this one better."
+      },
+      {
+       "who": "Teacher",
+       "line": "Do you have it in blue?"
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -454,121 +352,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 161,
-        "level": "A2",
-        "module": 8,
-        "module_title": "Commerce & Markets",
-        "title": "How Much Is It?",
-        "visual_scene": "A market stall with oranges piled in a pyramid, a handwritten price sign.",
-        "natural_english": [
-         "How much are the oranges?",
-         "They're three dollars a kilo.",
-         "That's a good price.",
-         "I'll take two kilos, please."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "How much is this?",
-          "gesture": "holding up a melon"
-         },
-         {
-          "speaker": "B",
-          "line": "Four dollars. Fresh this morning.",
-          "gesture": "tapping it twice"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "How much are the oranges?",
-            "They're three dollars a kilo.",
-            "That's a good price.",
-            "I'll take two kilos, please."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "How much is this?",
-            "Four dollars. Fresh this morning."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "how much / I'll take"
-         ]
-        }
-       }
+       "line": "How much are the oranges?"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 162,
-        "level": "A2",
-        "module": 8,
-        "module_title": "Commerce & Markets",
-        "title": "I Like This One — Listen & Shadow",
-        "visual_scene": "A clothing rack; a shopper holding up two shirts, comparing them.",
-        "natural_english": [
-         "I like this one better.",
-         "Do you have it in blue?",
-         "Sorry, blue is out of stock.",
-         "OK, I'll take the green one then."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you have this in a medium?",
-          "gesture": "holding a shirt"
-         },
-         {
-          "speaker": "B",
-          "line": "Let me check the back... yes, here you go.",
-          "gesture": "disappearing briefly"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I like this one better.",
-            "Do you have it in blue?",
-            "Sorry, blue is out of stock.",
-            "OK, I'll take the green one then."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you have this in a medium?",
-            "Let me check the back... yes, here you go."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "prefer / out of stock"
-         ]
-        }
-       }
+       "line": "They're three dollars a kilo."
+      },
+      {
+       "who": "Teacher",
+       "line": "I like this one better."
+      },
+      {
+       "who": "Teacher",
+       "line": "Do you have it in blue?"
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -770,121 +566,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 161,
-        "level": "A2",
-        "module": 8,
-        "module_title": "Commerce & Markets",
-        "title": "How Much Is It?",
-        "visual_scene": "A market stall with oranges piled in a pyramid, a handwritten price sign.",
-        "natural_english": [
-         "How much are the oranges?",
-         "They're three dollars a kilo.",
-         "That's a good price.",
-         "I'll take two kilos, please."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "How much is this?",
-          "gesture": "holding up a melon"
-         },
-         {
-          "speaker": "B",
-          "line": "Four dollars. Fresh this morning.",
-          "gesture": "tapping it twice"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "How much are the oranges?",
-            "They're three dollars a kilo.",
-            "That's a good price.",
-            "I'll take two kilos, please."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "How much is this?",
-            "Four dollars. Fresh this morning."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "how much / I'll take"
-         ]
-        }
-       }
+       "line": "How much are the oranges?"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 162,
-        "level": "A2",
-        "module": 8,
-        "module_title": "Commerce & Markets",
-        "title": "I Like This One — Listen & Shadow",
-        "visual_scene": "A clothing rack; a shopper holding up two shirts, comparing them.",
-        "natural_english": [
-         "I like this one better.",
-         "Do you have it in blue?",
-         "Sorry, blue is out of stock.",
-         "OK, I'll take the green one then."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you have this in a medium?",
-          "gesture": "holding a shirt"
-         },
-         {
-          "speaker": "B",
-          "line": "Let me check the back... yes, here you go.",
-          "gesture": "disappearing briefly"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I like this one better.",
-            "Do you have it in blue?",
-            "Sorry, blue is out of stock.",
-            "OK, I'll take the green one then."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you have this in a medium?",
-            "Let me check the back... yes, here you go."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "prefer / out of stock"
-         ]
-        }
-       }
+       "line": "They're three dollars a kilo."
+      },
+      {
+       "who": "Teacher",
+       "line": "I like this one better."
+      },
+      {
+       "who": "Teacher",
+       "line": "Do you have it in blue?"
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1085,121 +779,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 161,
-        "level": "A2",
-        "module": 8,
-        "module_title": "Commerce & Markets",
-        "title": "How Much Is It?",
-        "visual_scene": "A market stall with oranges piled in a pyramid, a handwritten price sign.",
-        "natural_english": [
-         "How much are the oranges?",
-         "They're three dollars a kilo.",
-         "That's a good price.",
-         "I'll take two kilos, please."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "How much is this?",
-          "gesture": "holding up a melon"
-         },
-         {
-          "speaker": "B",
-          "line": "Four dollars. Fresh this morning.",
-          "gesture": "tapping it twice"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "How much are the oranges?",
-            "They're three dollars a kilo.",
-            "That's a good price.",
-            "I'll take two kilos, please."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "How much is this?",
-            "Four dollars. Fresh this morning."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "how much / I'll take"
-         ]
-        }
-       }
+       "line": "How much are the oranges?"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 162,
-        "level": "A2",
-        "module": 8,
-        "module_title": "Commerce & Markets",
-        "title": "I Like This One — Listen & Shadow",
-        "visual_scene": "A clothing rack; a shopper holding up two shirts, comparing them.",
-        "natural_english": [
-         "I like this one better.",
-         "Do you have it in blue?",
-         "Sorry, blue is out of stock.",
-         "OK, I'll take the green one then."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you have this in a medium?",
-          "gesture": "holding a shirt"
-         },
-         {
-          "speaker": "B",
-          "line": "Let me check the back... yes, here you go.",
-          "gesture": "disappearing briefly"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I like this one better.",
-            "Do you have it in blue?",
-            "Sorry, blue is out of stock.",
-            "OK, I'll take the green one then."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you have this in a medium?",
-            "Let me check the back... yes, here you go."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "prefer / out of stock"
-         ]
-        }
-       }
+       "line": "They're three dollars a kilo."
+      },
+      {
+       "who": "Teacher",
+       "line": "I like this one better."
+      },
+      {
+       "who": "Teacher",
+       "line": "Do you have it in blue?"
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1394,121 +986,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 161,
-        "level": "A2",
-        "module": 8,
-        "module_title": "Commerce & Markets",
-        "title": "How Much Is It?",
-        "visual_scene": "A market stall with oranges piled in a pyramid, a handwritten price sign.",
-        "natural_english": [
-         "How much are the oranges?",
-         "They're three dollars a kilo.",
-         "That's a good price.",
-         "I'll take two kilos, please."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "How much is this?",
-          "gesture": "holding up a melon"
-         },
-         {
-          "speaker": "B",
-          "line": "Four dollars. Fresh this morning.",
-          "gesture": "tapping it twice"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "How much are the oranges?",
-            "They're three dollars a kilo.",
-            "That's a good price.",
-            "I'll take two kilos, please."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "How much is this?",
-            "Four dollars. Fresh this morning."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "how much / I'll take"
-         ]
-        }
-       }
+       "line": "How much are the oranges?"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 162,
-        "level": "A2",
-        "module": 8,
-        "module_title": "Commerce & Markets",
-        "title": "I Like This One — Listen & Shadow",
-        "visual_scene": "A clothing rack; a shopper holding up two shirts, comparing them.",
-        "natural_english": [
-         "I like this one better.",
-         "Do you have it in blue?",
-         "Sorry, blue is out of stock.",
-         "OK, I'll take the green one then."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you have this in a medium?",
-          "gesture": "holding a shirt"
-         },
-         {
-          "speaker": "B",
-          "line": "Let me check the back... yes, here you go.",
-          "gesture": "disappearing briefly"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I like this one better.",
-            "Do you have it in blue?",
-            "Sorry, blue is out of stock.",
-            "OK, I'll take the green one then."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you have this in a medium?",
-            "Let me check the back... yes, here you go."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "prefer / out of stock"
-         ]
-        }
-       }
+       "line": "They're three dollars a kilo."
+      },
+      {
+       "who": "Teacher",
+       "line": "I like this one better."
+      },
+      {
+       "who": "Teacher",
+       "line": "Do you have it in blue?"
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1709,121 +1199,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 161,
-        "level": "A2",
-        "module": 8,
-        "module_title": "Commerce & Markets",
-        "title": "How Much Is It?",
-        "visual_scene": "A market stall with oranges piled in a pyramid, a handwritten price sign.",
-        "natural_english": [
-         "How much are the oranges?",
-         "They're three dollars a kilo.",
-         "That's a good price.",
-         "I'll take two kilos, please."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "How much is this?",
-          "gesture": "holding up a melon"
-         },
-         {
-          "speaker": "B",
-          "line": "Four dollars. Fresh this morning.",
-          "gesture": "tapping it twice"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "How much are the oranges?",
-            "They're three dollars a kilo.",
-            "That's a good price.",
-            "I'll take two kilos, please."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "How much is this?",
-            "Four dollars. Fresh this morning."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "how much / I'll take"
-         ]
-        }
-       }
+       "line": "How much are the oranges?"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 162,
-        "level": "A2",
-        "module": 8,
-        "module_title": "Commerce & Markets",
-        "title": "I Like This One — Listen & Shadow",
-        "visual_scene": "A clothing rack; a shopper holding up two shirts, comparing them.",
-        "natural_english": [
-         "I like this one better.",
-         "Do you have it in blue?",
-         "Sorry, blue is out of stock.",
-         "OK, I'll take the green one then."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you have this in a medium?",
-          "gesture": "holding a shirt"
-         },
-         {
-          "speaker": "B",
-          "line": "Let me check the back... yes, here you go.",
-          "gesture": "disappearing briefly"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I like this one better.",
-            "Do you have it in blue?",
-            "Sorry, blue is out of stock.",
-            "OK, I'll take the green one then."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you have this in a medium?",
-            "Let me check the back... yes, here you go."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "prefer / out of stock"
-         ]
-        }
-       }
+       "line": "They're three dollars a kilo."
+      },
+      {
+       "who": "Teacher",
+       "line": "I like this one better."
+      },
+      {
+       "who": "Teacher",
+       "line": "Do you have it in blue?"
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2025,121 +1413,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 161,
-        "level": "A2",
-        "module": 8,
-        "module_title": "Commerce & Markets",
-        "title": "How Much Is It?",
-        "visual_scene": "A market stall with oranges piled in a pyramid, a handwritten price sign.",
-        "natural_english": [
-         "How much are the oranges?",
-         "They're three dollars a kilo.",
-         "That's a good price.",
-         "I'll take two kilos, please."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "How much is this?",
-          "gesture": "holding up a melon"
-         },
-         {
-          "speaker": "B",
-          "line": "Four dollars. Fresh this morning.",
-          "gesture": "tapping it twice"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "How much are the oranges?",
-            "They're three dollars a kilo.",
-            "That's a good price.",
-            "I'll take two kilos, please."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "How much is this?",
-            "Four dollars. Fresh this morning."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "how much / I'll take"
-         ]
-        }
-       }
+       "line": "How much are the oranges?"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 162,
-        "level": "A2",
-        "module": 8,
-        "module_title": "Commerce & Markets",
-        "title": "I Like This One — Listen & Shadow",
-        "visual_scene": "A clothing rack; a shopper holding up two shirts, comparing them.",
-        "natural_english": [
-         "I like this one better.",
-         "Do you have it in blue?",
-         "Sorry, blue is out of stock.",
-         "OK, I'll take the green one then."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you have this in a medium?",
-          "gesture": "holding a shirt"
-         },
-         {
-          "speaker": "B",
-          "line": "Let me check the back... yes, here you go.",
-          "gesture": "disappearing briefly"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I like this one better.",
-            "Do you have it in blue?",
-            "Sorry, blue is out of stock.",
-            "OK, I'll take the green one then."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you have this in a medium?",
-            "Let me check the back... yes, here you go."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "prefer / out of stock"
-         ]
-        }
-       }
+       "line": "They're three dollars a kilo."
+      },
+      {
+       "who": "Teacher",
+       "line": "I like this one better."
+      },
+      {
+       "who": "Teacher",
+       "line": "Do you have it in blue?"
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2340,121 +1626,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 161,
-        "level": "A2",
-        "module": 8,
-        "module_title": "Commerce & Markets",
-        "title": "How Much Is It?",
-        "visual_scene": "A market stall with oranges piled in a pyramid, a handwritten price sign.",
-        "natural_english": [
-         "How much are the oranges?",
-         "They're three dollars a kilo.",
-         "That's a good price.",
-         "I'll take two kilos, please."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "How much is this?",
-          "gesture": "holding up a melon"
-         },
-         {
-          "speaker": "B",
-          "line": "Four dollars. Fresh this morning.",
-          "gesture": "tapping it twice"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "How much are the oranges?",
-            "They're three dollars a kilo.",
-            "That's a good price.",
-            "I'll take two kilos, please."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "How much is this?",
-            "Four dollars. Fresh this morning."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "how much / I'll take"
-         ]
-        }
-       }
+       "line": "How much are the oranges?"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 162,
-        "level": "A2",
-        "module": 8,
-        "module_title": "Commerce & Markets",
-        "title": "I Like This One — Listen & Shadow",
-        "visual_scene": "A clothing rack; a shopper holding up two shirts, comparing them.",
-        "natural_english": [
-         "I like this one better.",
-         "Do you have it in blue?",
-         "Sorry, blue is out of stock.",
-         "OK, I'll take the green one then."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you have this in a medium?",
-          "gesture": "holding a shirt"
-         },
-         {
-          "speaker": "B",
-          "line": "Let me check the back... yes, here you go.",
-          "gesture": "disappearing briefly"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I like this one better.",
-            "Do you have it in blue?",
-            "Sorry, blue is out of stock.",
-            "OK, I'll take the green one then."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you have this in a medium?",
-            "Let me check the back... yes, here you go."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "prefer / out of stock"
-         ]
-        }
-       }
+       "line": "They're three dollars a kilo."
+      },
+      {
+       "who": "Teacher",
+       "line": "I like this one better."
+      },
+      {
+       "who": "Teacher",
+       "line": "Do you have it in blue?"
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."

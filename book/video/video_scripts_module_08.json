@@ -139,121 +139,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 131,
-        "level": "A2",
-        "module": 7,
-        "module_title": "The City & Navigation",
-        "title": "Where Is the Station?",
-        "visual_scene": "A city corner: a lost visitor holding a phone map, a local pointing down the street.",
-        "natural_english": [
-         "Excuse me, where is the train station?",
-         "Go straight, then turn left.",
-         "It's about five minutes on foot.",
-         "You can't miss it."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Sorry, is the station far from here?",
-          "gesture": "map in hand"
-         },
-         {
-          "speaker": "B",
-          "line": "No, it's close. Straight ahead, then left at the bakery.",
-          "gesture": "pointing"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Excuse me, where is the train station?",
-            "Go straight, then turn left.",
-            "It's about five minutes on foot.",
-            "You can't miss it."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Sorry, is the station far from here?",
-            "No, it's close. Straight ahead, then left at the bakery."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "directions with imperatives"
-         ]
-        }
-       }
+       "line": "Excuse me, where is the train station?"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 132,
-        "level": "A2",
-        "module": 7,
-        "module_title": "The City & Navigation",
-        "title": "Taking the Bus — Listen & Shadow",
-        "visual_scene": "A bus shelter with a route map; a bus approaches, headlights in the drizzle.",
-        "natural_english": [
-         "Which bus goes to the city center?",
-         "The number twelve, I think.",
-         "You need to buy a ticket first.",
-         "Get off at the third stop."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Does this bus go downtown?",
-          "gesture": "stepping aboard"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes, but you need to change at the square.",
-          "gesture": "holding the door"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Which bus goes to the city center?",
-            "The number twelve, I think.",
-            "You need to buy a ticket first.",
-            "Get off at the third stop."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Does this bus go downtown?",
-            "Yes, but you need to change at the square."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "get on / get off / change"
-         ]
-        }
-       }
+       "line": "Go straight, then turn left."
+      },
+      {
+       "who": "Teacher",
+       "line": "Which bus goes to the city center?"
+      },
+      {
+       "who": "Teacher",
+       "line": "The number twelve, I think."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -454,121 +352,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 131,
-        "level": "A2",
-        "module": 7,
-        "module_title": "The City & Navigation",
-        "title": "Where Is the Station?",
-        "visual_scene": "A city corner: a lost visitor holding a phone map, a local pointing down the street.",
-        "natural_english": [
-         "Excuse me, where is the train station?",
-         "Go straight, then turn left.",
-         "It's about five minutes on foot.",
-         "You can't miss it."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Sorry, is the station far from here?",
-          "gesture": "map in hand"
-         },
-         {
-          "speaker": "B",
-          "line": "No, it's close. Straight ahead, then left at the bakery.",
-          "gesture": "pointing"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Excuse me, where is the train station?",
-            "Go straight, then turn left.",
-            "It's about five minutes on foot.",
-            "You can't miss it."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Sorry, is the station far from here?",
-            "No, it's close. Straight ahead, then left at the bakery."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "directions with imperatives"
-         ]
-        }
-       }
+       "line": "Excuse me, where is the train station?"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 132,
-        "level": "A2",
-        "module": 7,
-        "module_title": "The City & Navigation",
-        "title": "Taking the Bus — Listen & Shadow",
-        "visual_scene": "A bus shelter with a route map; a bus approaches, headlights in the drizzle.",
-        "natural_english": [
-         "Which bus goes to the city center?",
-         "The number twelve, I think.",
-         "You need to buy a ticket first.",
-         "Get off at the third stop."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Does this bus go downtown?",
-          "gesture": "stepping aboard"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes, but you need to change at the square.",
-          "gesture": "holding the door"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Which bus goes to the city center?",
-            "The number twelve, I think.",
-            "You need to buy a ticket first.",
-            "Get off at the third stop."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Does this bus go downtown?",
-            "Yes, but you need to change at the square."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "get on / get off / change"
-         ]
-        }
-       }
+       "line": "Go straight, then turn left."
+      },
+      {
+       "who": "Teacher",
+       "line": "Which bus goes to the city center?"
+      },
+      {
+       "who": "Teacher",
+       "line": "The number twelve, I think."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -770,121 +566,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 131,
-        "level": "A2",
-        "module": 7,
-        "module_title": "The City & Navigation",
-        "title": "Where Is the Station?",
-        "visual_scene": "A city corner: a lost visitor holding a phone map, a local pointing down the street.",
-        "natural_english": [
-         "Excuse me, where is the train station?",
-         "Go straight, then turn left.",
-         "It's about five minutes on foot.",
-         "You can't miss it."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Sorry, is the station far from here?",
-          "gesture": "map in hand"
-         },
-         {
-          "speaker": "B",
-          "line": "No, it's close. Straight ahead, then left at the bakery.",
-          "gesture": "pointing"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Excuse me, where is the train station?",
-            "Go straight, then turn left.",
-            "It's about five minutes on foot.",
-            "You can't miss it."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Sorry, is the station far from here?",
-            "No, it's close. Straight ahead, then left at the bakery."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "directions with imperatives"
-         ]
-        }
-       }
+       "line": "Excuse me, where is the train station?"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 132,
-        "level": "A2",
-        "module": 7,
-        "module_title": "The City & Navigation",
-        "title": "Taking the Bus — Listen & Shadow",
-        "visual_scene": "A bus shelter with a route map; a bus approaches, headlights in the drizzle.",
-        "natural_english": [
-         "Which bus goes to the city center?",
-         "The number twelve, I think.",
-         "You need to buy a ticket first.",
-         "Get off at the third stop."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Does this bus go downtown?",
-          "gesture": "stepping aboard"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes, but you need to change at the square.",
-          "gesture": "holding the door"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Which bus goes to the city center?",
-            "The number twelve, I think.",
-            "You need to buy a ticket first.",
-            "Get off at the third stop."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Does this bus go downtown?",
-            "Yes, but you need to change at the square."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "get on / get off / change"
-         ]
-        }
-       }
+       "line": "Go straight, then turn left."
+      },
+      {
+       "who": "Teacher",
+       "line": "Which bus goes to the city center?"
+      },
+      {
+       "who": "Teacher",
+       "line": "The number twelve, I think."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1085,121 +779,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 131,
-        "level": "A2",
-        "module": 7,
-        "module_title": "The City & Navigation",
-        "title": "Where Is the Station?",
-        "visual_scene": "A city corner: a lost visitor holding a phone map, a local pointing down the street.",
-        "natural_english": [
-         "Excuse me, where is the train station?",
-         "Go straight, then turn left.",
-         "It's about five minutes on foot.",
-         "You can't miss it."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Sorry, is the station far from here?",
-          "gesture": "map in hand"
-         },
-         {
-          "speaker": "B",
-          "line": "No, it's close. Straight ahead, then left at the bakery.",
-          "gesture": "pointing"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Excuse me, where is the train station?",
-            "Go straight, then turn left.",
-            "It's about five minutes on foot.",
-            "You can't miss it."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Sorry, is the station far from here?",
-            "No, it's close. Straight ahead, then left at the bakery."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "directions with imperatives"
-         ]
-        }
-       }
+       "line": "Excuse me, where is the train station?"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 132,
-        "level": "A2",
-        "module": 7,
-        "module_title": "The City & Navigation",
-        "title": "Taking the Bus — Listen & Shadow",
-        "visual_scene": "A bus shelter with a route map; a bus approaches, headlights in the drizzle.",
-        "natural_english": [
-         "Which bus goes to the city center?",
-         "The number twelve, I think.",
-         "You need to buy a ticket first.",
-         "Get off at the third stop."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Does this bus go downtown?",
-          "gesture": "stepping aboard"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes, but you need to change at the square.",
-          "gesture": "holding the door"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Which bus goes to the city center?",
-            "The number twelve, I think.",
-            "You need to buy a ticket first.",
-            "Get off at the third stop."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Does this bus go downtown?",
-            "Yes, but you need to change at the square."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "get on / get off / change"
-         ]
-        }
-       }
+       "line": "Go straight, then turn left."
+      },
+      {
+       "who": "Teacher",
+       "line": "Which bus goes to the city center?"
+      },
+      {
+       "who": "Teacher",
+       "line": "The number twelve, I think."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1394,121 +986,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 131,
-        "level": "A2",
-        "module": 7,
-        "module_title": "The City & Navigation",
-        "title": "Where Is the Station?",
-        "visual_scene": "A city corner: a lost visitor holding a phone map, a local pointing down the street.",
-        "natural_english": [
-         "Excuse me, where is the train station?",
-         "Go straight, then turn left.",
-         "It's about five minutes on foot.",
-         "You can't miss it."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Sorry, is the station far from here?",
-          "gesture": "map in hand"
-         },
-         {
-          "speaker": "B",
-          "line": "No, it's close. Straight ahead, then left at the bakery.",
-          "gesture": "pointing"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Excuse me, where is the train station?",
-            "Go straight, then turn left.",
-            "It's about five minutes on foot.",
-            "You can't miss it."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Sorry, is the station far from here?",
-            "No, it's close. Straight ahead, then left at the bakery."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "directions with imperatives"
-         ]
-        }
-       }
+       "line": "Excuse me, where is the train station?"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 132,
-        "level": "A2",
-        "module": 7,
-        "module_title": "The City & Navigation",
-        "title": "Taking the Bus — Listen & Shadow",
-        "visual_scene": "A bus shelter with a route map; a bus approaches, headlights in the drizzle.",
-        "natural_english": [
-         "Which bus goes to the city center?",
-         "The number twelve, I think.",
-         "You need to buy a ticket first.",
-         "Get off at the third stop."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Does this bus go downtown?",
-          "gesture": "stepping aboard"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes, but you need to change at the square.",
-          "gesture": "holding the door"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Which bus goes to the city center?",
-            "The number twelve, I think.",
-            "You need to buy a ticket first.",
-            "Get off at the third stop."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Does this bus go downtown?",
-            "Yes, but you need to change at the square."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "get on / get off / change"
-         ]
-        }
-       }
+       "line": "Go straight, then turn left."
+      },
+      {
+       "who": "Teacher",
+       "line": "Which bus goes to the city center?"
+      },
+      {
+       "who": "Teacher",
+       "line": "The number twelve, I think."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1709,121 +1199,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 131,
-        "level": "A2",
-        "module": 7,
-        "module_title": "The City & Navigation",
-        "title": "Where Is the Station?",
-        "visual_scene": "A city corner: a lost visitor holding a phone map, a local pointing down the street.",
-        "natural_english": [
-         "Excuse me, where is the train station?",
-         "Go straight, then turn left.",
-         "It's about five minutes on foot.",
-         "You can't miss it."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Sorry, is the station far from here?",
-          "gesture": "map in hand"
-         },
-         {
-          "speaker": "B",
-          "line": "No, it's close. Straight ahead, then left at the bakery.",
-          "gesture": "pointing"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Excuse me, where is the train station?",
-            "Go straight, then turn left.",
-            "It's about five minutes on foot.",
-            "You can't miss it."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Sorry, is the station far from here?",
-            "No, it's close. Straight ahead, then left at the bakery."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "directions with imperatives"
-         ]
-        }
-       }
+       "line": "Excuse me, where is the train station?"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 132,
-        "level": "A2",
-        "module": 7,
-        "module_title": "The City & Navigation",
-        "title": "Taking the Bus — Listen & Shadow",
-        "visual_scene": "A bus shelter with a route map; a bus approaches, headlights in the drizzle.",
-        "natural_english": [
-         "Which bus goes to the city center?",
-         "The number twelve, I think.",
-         "You need to buy a ticket first.",
-         "Get off at the third stop."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Does this bus go downtown?",
-          "gesture": "stepping aboard"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes, but you need to change at the square.",
-          "gesture": "holding the door"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Which bus goes to the city center?",
-            "The number twelve, I think.",
-            "You need to buy a ticket first.",
-            "Get off at the third stop."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Does this bus go downtown?",
-            "Yes, but you need to change at the square."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "get on / get off / change"
-         ]
-        }
-       }
+       "line": "Go straight, then turn left."
+      },
+      {
+       "who": "Teacher",
+       "line": "Which bus goes to the city center?"
+      },
+      {
+       "who": "Teacher",
+       "line": "The number twelve, I think."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2025,121 +1413,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 131,
-        "level": "A2",
-        "module": 7,
-        "module_title": "The City & Navigation",
-        "title": "Where Is the Station?",
-        "visual_scene": "A city corner: a lost visitor holding a phone map, a local pointing down the street.",
-        "natural_english": [
-         "Excuse me, where is the train station?",
-         "Go straight, then turn left.",
-         "It's about five minutes on foot.",
-         "You can't miss it."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Sorry, is the station far from here?",
-          "gesture": "map in hand"
-         },
-         {
-          "speaker": "B",
-          "line": "No, it's close. Straight ahead, then left at the bakery.",
-          "gesture": "pointing"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Excuse me, where is the train station?",
-            "Go straight, then turn left.",
-            "It's about five minutes on foot.",
-            "You can't miss it."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Sorry, is the station far from here?",
-            "No, it's close. Straight ahead, then left at the bakery."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "directions with imperatives"
-         ]
-        }
-       }
+       "line": "Excuse me, where is the train station?"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 132,
-        "level": "A2",
-        "module": 7,
-        "module_title": "The City & Navigation",
-        "title": "Taking the Bus — Listen & Shadow",
-        "visual_scene": "A bus shelter with a route map; a bus approaches, headlights in the drizzle.",
-        "natural_english": [
-         "Which bus goes to the city center?",
-         "The number twelve, I think.",
-         "You need to buy a ticket first.",
-         "Get off at the third stop."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Does this bus go downtown?",
-          "gesture": "stepping aboard"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes, but you need to change at the square.",
-          "gesture": "holding the door"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Which bus goes to the city center?",
-            "The number twelve, I think.",
-            "You need to buy a ticket first.",
-            "Get off at the third stop."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Does this bus go downtown?",
-            "Yes, but you need to change at the square."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "get on / get off / change"
-         ]
-        }
-       }
+       "line": "Go straight, then turn left."
+      },
+      {
+       "who": "Teacher",
+       "line": "Which bus goes to the city center?"
+      },
+      {
+       "who": "Teacher",
+       "line": "The number twelve, I think."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2340,121 +1626,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 131,
-        "level": "A2",
-        "module": 7,
-        "module_title": "The City & Navigation",
-        "title": "Where Is the Station?",
-        "visual_scene": "A city corner: a lost visitor holding a phone map, a local pointing down the street.",
-        "natural_english": [
-         "Excuse me, where is the train station?",
-         "Go straight, then turn left.",
-         "It's about five minutes on foot.",
-         "You can't miss it."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Sorry, is the station far from here?",
-          "gesture": "map in hand"
-         },
-         {
-          "speaker": "B",
-          "line": "No, it's close. Straight ahead, then left at the bakery.",
-          "gesture": "pointing"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Excuse me, where is the train station?",
-            "Go straight, then turn left.",
-            "It's about five minutes on foot.",
-            "You can't miss it."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Sorry, is the station far from here?",
-            "No, it's close. Straight ahead, then left at the bakery."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "directions with imperatives"
-         ]
-        }
-       }
+       "line": "Excuse me, where is the train station?"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 132,
-        "level": "A2",
-        "module": 7,
-        "module_title": "The City & Navigation",
-        "title": "Taking the Bus — Listen & Shadow",
-        "visual_scene": "A bus shelter with a route map; a bus approaches, headlights in the drizzle.",
-        "natural_english": [
-         "Which bus goes to the city center?",
-         "The number twelve, I think.",
-         "You need to buy a ticket first.",
-         "Get off at the third stop."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Does this bus go downtown?",
-          "gesture": "stepping aboard"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes, but you need to change at the square.",
-          "gesture": "holding the door"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Which bus goes to the city center?",
-            "The number twelve, I think.",
-            "You need to buy a ticket first.",
-            "Get off at the third stop."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Does this bus go downtown?",
-            "Yes, but you need to change at the square."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "get on / get off / change"
-         ]
-        }
-       }
+       "line": "Go straight, then turn left."
+      },
+      {
+       "who": "Teacher",
+       "line": "Which bus goes to the city center?"
+      },
+      {
+       "who": "Teacher",
+       "line": "The number twelve, I think."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."

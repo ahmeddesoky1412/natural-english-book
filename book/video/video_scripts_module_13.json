@@ -139,121 +139,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 301,
-        "level": "B1",
-        "module": 12,
-        "module_title": "Relationships, Opinions & Feelings",
-        "title": "I See It Differently",
-        "visual_scene": "Two colleagues at a screen, one pointing, the other with arms crossed but listening.",
-        "natural_english": [
-         "I see your point, but I read the data differently.",
-         "The numbers suggest the opposite, actually.",
-         "Maybe we're looking at different segments.",
-         "Let's compare sources before we decide."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "The campaign clearly worked.",
-          "gesture": "confident"
-         },
-         {
-          "speaker": "B",
-          "line": "Hmm, I'm not so sure. The spike matches a holiday, not our launch.",
-          "gesture": "pulling up a chart"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I see your point, but I read the data differently.",
-            "The numbers suggest the opposite, actually.",
-            "Maybe we're looking at different segments.",
-            "Let's compare sources before we decide."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "The campaign clearly worked.",
-            "Hmm, I'm not so sure. The spike matches a holiday, not our launch."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "I see your point, but"
-         ]
-        }
-       }
+       "line": "I see your point, but I read the data differently."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 302,
-        "level": "B1",
-        "module": 12,
-        "module_title": "Relationships, Opinions & Feelings",
-        "title": "Strong Opinions, Gently Held — Listen & Shadow",
-        "visual_scene": "A debate over lunch, both smiling, one gesturing with a fork.",
-        "natural_english": [
-         "Honestly, I think remote work is here to stay.",
-         "Offices will shrink, not disappear.",
-         "I could be wrong, but that's my read.",
-         "What's your take on it?"
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you think offices will survive?",
-          "gesture": "mid-bite"
-         },
-         {
-          "speaker": "B",
-          "line": "In some form, sure. But five days a week in a cubicle? That era's over.",
-          "gesture": "shrugging"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Honestly, I think remote work is here to stay.",
-            "Offices will shrink, not disappear.",
-            "I could be wrong, but that's my read.",
-            "What's your take on it?"
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you think offices will survive?",
-            "In some form, sure. But five days a week in a cubicle? That era's over."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "that's my read / here to stay"
-         ]
-        }
-       }
+       "line": "The numbers suggest the opposite, actually."
+      },
+      {
+       "who": "Teacher",
+       "line": "Honestly, I think remote work is here to stay."
+      },
+      {
+       "who": "Teacher",
+       "line": "Offices will shrink, not disappear."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -454,121 +352,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 301,
-        "level": "B1",
-        "module": 12,
-        "module_title": "Relationships, Opinions & Feelings",
-        "title": "I See It Differently",
-        "visual_scene": "Two colleagues at a screen, one pointing, the other with arms crossed but listening.",
-        "natural_english": [
-         "I see your point, but I read the data differently.",
-         "The numbers suggest the opposite, actually.",
-         "Maybe we're looking at different segments.",
-         "Let's compare sources before we decide."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "The campaign clearly worked.",
-          "gesture": "confident"
-         },
-         {
-          "speaker": "B",
-          "line": "Hmm, I'm not so sure. The spike matches a holiday, not our launch.",
-          "gesture": "pulling up a chart"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I see your point, but I read the data differently.",
-            "The numbers suggest the opposite, actually.",
-            "Maybe we're looking at different segments.",
-            "Let's compare sources before we decide."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "The campaign clearly worked.",
-            "Hmm, I'm not so sure. The spike matches a holiday, not our launch."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "I see your point, but"
-         ]
-        }
-       }
+       "line": "I see your point, but I read the data differently."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 302,
-        "level": "B1",
-        "module": 12,
-        "module_title": "Relationships, Opinions & Feelings",
-        "title": "Strong Opinions, Gently Held — Listen & Shadow",
-        "visual_scene": "A debate over lunch, both smiling, one gesturing with a fork.",
-        "natural_english": [
-         "Honestly, I think remote work is here to stay.",
-         "Offices will shrink, not disappear.",
-         "I could be wrong, but that's my read.",
-         "What's your take on it?"
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you think offices will survive?",
-          "gesture": "mid-bite"
-         },
-         {
-          "speaker": "B",
-          "line": "In some form, sure. But five days a week in a cubicle? That era's over.",
-          "gesture": "shrugging"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Honestly, I think remote work is here to stay.",
-            "Offices will shrink, not disappear.",
-            "I could be wrong, but that's my read.",
-            "What's your take on it?"
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you think offices will survive?",
-            "In some form, sure. But five days a week in a cubicle? That era's over."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "that's my read / here to stay"
-         ]
-        }
-       }
+       "line": "The numbers suggest the opposite, actually."
+      },
+      {
+       "who": "Teacher",
+       "line": "Honestly, I think remote work is here to stay."
+      },
+      {
+       "who": "Teacher",
+       "line": "Offices will shrink, not disappear."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -770,121 +566,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 301,
-        "level": "B1",
-        "module": 12,
-        "module_title": "Relationships, Opinions & Feelings",
-        "title": "I See It Differently",
-        "visual_scene": "Two colleagues at a screen, one pointing, the other with arms crossed but listening.",
-        "natural_english": [
-         "I see your point, but I read the data differently.",
-         "The numbers suggest the opposite, actually.",
-         "Maybe we're looking at different segments.",
-         "Let's compare sources before we decide."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "The campaign clearly worked.",
-          "gesture": "confident"
-         },
-         {
-          "speaker": "B",
-          "line": "Hmm, I'm not so sure. The spike matches a holiday, not our launch.",
-          "gesture": "pulling up a chart"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I see your point, but I read the data differently.",
-            "The numbers suggest the opposite, actually.",
-            "Maybe we're looking at different segments.",
-            "Let's compare sources before we decide."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "The campaign clearly worked.",
-            "Hmm, I'm not so sure. The spike matches a holiday, not our launch."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "I see your point, but"
-         ]
-        }
-       }
+       "line": "I see your point, but I read the data differently."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 302,
-        "level": "B1",
-        "module": 12,
-        "module_title": "Relationships, Opinions & Feelings",
-        "title": "Strong Opinions, Gently Held — Listen & Shadow",
-        "visual_scene": "A debate over lunch, both smiling, one gesturing with a fork.",
-        "natural_english": [
-         "Honestly, I think remote work is here to stay.",
-         "Offices will shrink, not disappear.",
-         "I could be wrong, but that's my read.",
-         "What's your take on it?"
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you think offices will survive?",
-          "gesture": "mid-bite"
-         },
-         {
-          "speaker": "B",
-          "line": "In some form, sure. But five days a week in a cubicle? That era's over.",
-          "gesture": "shrugging"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Honestly, I think remote work is here to stay.",
-            "Offices will shrink, not disappear.",
-            "I could be wrong, but that's my read.",
-            "What's your take on it?"
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you think offices will survive?",
-            "In some form, sure. But five days a week in a cubicle? That era's over."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "that's my read / here to stay"
-         ]
-        }
-       }
+       "line": "The numbers suggest the opposite, actually."
+      },
+      {
+       "who": "Teacher",
+       "line": "Honestly, I think remote work is here to stay."
+      },
+      {
+       "who": "Teacher",
+       "line": "Offices will shrink, not disappear."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1085,121 +779,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 301,
-        "level": "B1",
-        "module": 12,
-        "module_title": "Relationships, Opinions & Feelings",
-        "title": "I See It Differently",
-        "visual_scene": "Two colleagues at a screen, one pointing, the other with arms crossed but listening.",
-        "natural_english": [
-         "I see your point, but I read the data differently.",
-         "The numbers suggest the opposite, actually.",
-         "Maybe we're looking at different segments.",
-         "Let's compare sources before we decide."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "The campaign clearly worked.",
-          "gesture": "confident"
-         },
-         {
-          "speaker": "B",
-          "line": "Hmm, I'm not so sure. The spike matches a holiday, not our launch.",
-          "gesture": "pulling up a chart"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I see your point, but I read the data differently.",
-            "The numbers suggest the opposite, actually.",
-            "Maybe we're looking at different segments.",
-            "Let's compare sources before we decide."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "The campaign clearly worked.",
-            "Hmm, I'm not so sure. The spike matches a holiday, not our launch."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "I see your point, but"
-         ]
-        }
-       }
+       "line": "I see your point, but I read the data differently."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 302,
-        "level": "B1",
-        "module": 12,
-        "module_title": "Relationships, Opinions & Feelings",
-        "title": "Strong Opinions, Gently Held — Listen & Shadow",
-        "visual_scene": "A debate over lunch, both smiling, one gesturing with a fork.",
-        "natural_english": [
-         "Honestly, I think remote work is here to stay.",
-         "Offices will shrink, not disappear.",
-         "I could be wrong, but that's my read.",
-         "What's your take on it?"
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you think offices will survive?",
-          "gesture": "mid-bite"
-         },
-         {
-          "speaker": "B",
-          "line": "In some form, sure. But five days a week in a cubicle? That era's over.",
-          "gesture": "shrugging"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Honestly, I think remote work is here to stay.",
-            "Offices will shrink, not disappear.",
-            "I could be wrong, but that's my read.",
-            "What's your take on it?"
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you think offices will survive?",
-            "In some form, sure. But five days a week in a cubicle? That era's over."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "that's my read / here to stay"
-         ]
-        }
-       }
+       "line": "The numbers suggest the opposite, actually."
+      },
+      {
+       "who": "Teacher",
+       "line": "Honestly, I think remote work is here to stay."
+      },
+      {
+       "who": "Teacher",
+       "line": "Offices will shrink, not disappear."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1399,121 +991,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 301,
-        "level": "B1",
-        "module": 12,
-        "module_title": "Relationships, Opinions & Feelings",
-        "title": "I See It Differently",
-        "visual_scene": "Two colleagues at a screen, one pointing, the other with arms crossed but listening.",
-        "natural_english": [
-         "I see your point, but I read the data differently.",
-         "The numbers suggest the opposite, actually.",
-         "Maybe we're looking at different segments.",
-         "Let's compare sources before we decide."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "The campaign clearly worked.",
-          "gesture": "confident"
-         },
-         {
-          "speaker": "B",
-          "line": "Hmm, I'm not so sure. The spike matches a holiday, not our launch.",
-          "gesture": "pulling up a chart"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I see your point, but I read the data differently.",
-            "The numbers suggest the opposite, actually.",
-            "Maybe we're looking at different segments.",
-            "Let's compare sources before we decide."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "The campaign clearly worked.",
-            "Hmm, I'm not so sure. The spike matches a holiday, not our launch."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "I see your point, but"
-         ]
-        }
-       }
+       "line": "I see your point, but I read the data differently."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 302,
-        "level": "B1",
-        "module": 12,
-        "module_title": "Relationships, Opinions & Feelings",
-        "title": "Strong Opinions, Gently Held — Listen & Shadow",
-        "visual_scene": "A debate over lunch, both smiling, one gesturing with a fork.",
-        "natural_english": [
-         "Honestly, I think remote work is here to stay.",
-         "Offices will shrink, not disappear.",
-         "I could be wrong, but that's my read.",
-         "What's your take on it?"
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you think offices will survive?",
-          "gesture": "mid-bite"
-         },
-         {
-          "speaker": "B",
-          "line": "In some form, sure. But five days a week in a cubicle? That era's over.",
-          "gesture": "shrugging"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Honestly, I think remote work is here to stay.",
-            "Offices will shrink, not disappear.",
-            "I could be wrong, but that's my read.",
-            "What's your take on it?"
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you think offices will survive?",
-            "In some form, sure. But five days a week in a cubicle? That era's over."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "that's my read / here to stay"
-         ]
-        }
-       }
+       "line": "The numbers suggest the opposite, actually."
+      },
+      {
+       "who": "Teacher",
+       "line": "Honestly, I think remote work is here to stay."
+      },
+      {
+       "who": "Teacher",
+       "line": "Offices will shrink, not disappear."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1714,121 +1204,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 301,
-        "level": "B1",
-        "module": 12,
-        "module_title": "Relationships, Opinions & Feelings",
-        "title": "I See It Differently",
-        "visual_scene": "Two colleagues at a screen, one pointing, the other with arms crossed but listening.",
-        "natural_english": [
-         "I see your point, but I read the data differently.",
-         "The numbers suggest the opposite, actually.",
-         "Maybe we're looking at different segments.",
-         "Let's compare sources before we decide."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "The campaign clearly worked.",
-          "gesture": "confident"
-         },
-         {
-          "speaker": "B",
-          "line": "Hmm, I'm not so sure. The spike matches a holiday, not our launch.",
-          "gesture": "pulling up a chart"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I see your point, but I read the data differently.",
-            "The numbers suggest the opposite, actually.",
-            "Maybe we're looking at different segments.",
-            "Let's compare sources before we decide."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "The campaign clearly worked.",
-            "Hmm, I'm not so sure. The spike matches a holiday, not our launch."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "I see your point, but"
-         ]
-        }
-       }
+       "line": "I see your point, but I read the data differently."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 302,
-        "level": "B1",
-        "module": 12,
-        "module_title": "Relationships, Opinions & Feelings",
-        "title": "Strong Opinions, Gently Held — Listen & Shadow",
-        "visual_scene": "A debate over lunch, both smiling, one gesturing with a fork.",
-        "natural_english": [
-         "Honestly, I think remote work is here to stay.",
-         "Offices will shrink, not disappear.",
-         "I could be wrong, but that's my read.",
-         "What's your take on it?"
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you think offices will survive?",
-          "gesture": "mid-bite"
-         },
-         {
-          "speaker": "B",
-          "line": "In some form, sure. But five days a week in a cubicle? That era's over.",
-          "gesture": "shrugging"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Honestly, I think remote work is here to stay.",
-            "Offices will shrink, not disappear.",
-            "I could be wrong, but that's my read.",
-            "What's your take on it?"
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you think offices will survive?",
-            "In some form, sure. But five days a week in a cubicle? That era's over."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "that's my read / here to stay"
-         ]
-        }
-       }
+       "line": "The numbers suggest the opposite, actually."
+      },
+      {
+       "who": "Teacher",
+       "line": "Honestly, I think remote work is here to stay."
+      },
+      {
+       "who": "Teacher",
+       "line": "Offices will shrink, not disappear."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2030,121 +1418,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 301,
-        "level": "B1",
-        "module": 12,
-        "module_title": "Relationships, Opinions & Feelings",
-        "title": "I See It Differently",
-        "visual_scene": "Two colleagues at a screen, one pointing, the other with arms crossed but listening.",
-        "natural_english": [
-         "I see your point, but I read the data differently.",
-         "The numbers suggest the opposite, actually.",
-         "Maybe we're looking at different segments.",
-         "Let's compare sources before we decide."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "The campaign clearly worked.",
-          "gesture": "confident"
-         },
-         {
-          "speaker": "B",
-          "line": "Hmm, I'm not so sure. The spike matches a holiday, not our launch.",
-          "gesture": "pulling up a chart"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I see your point, but I read the data differently.",
-            "The numbers suggest the opposite, actually.",
-            "Maybe we're looking at different segments.",
-            "Let's compare sources before we decide."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "The campaign clearly worked.",
-            "Hmm, I'm not so sure. The spike matches a holiday, not our launch."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "I see your point, but"
-         ]
-        }
-       }
+       "line": "I see your point, but I read the data differently."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 302,
-        "level": "B1",
-        "module": 12,
-        "module_title": "Relationships, Opinions & Feelings",
-        "title": "Strong Opinions, Gently Held — Listen & Shadow",
-        "visual_scene": "A debate over lunch, both smiling, one gesturing with a fork.",
-        "natural_english": [
-         "Honestly, I think remote work is here to stay.",
-         "Offices will shrink, not disappear.",
-         "I could be wrong, but that's my read.",
-         "What's your take on it?"
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you think offices will survive?",
-          "gesture": "mid-bite"
-         },
-         {
-          "speaker": "B",
-          "line": "In some form, sure. But five days a week in a cubicle? That era's over.",
-          "gesture": "shrugging"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Honestly, I think remote work is here to stay.",
-            "Offices will shrink, not disappear.",
-            "I could be wrong, but that's my read.",
-            "What's your take on it?"
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you think offices will survive?",
-            "In some form, sure. But five days a week in a cubicle? That era's over."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "that's my read / here to stay"
-         ]
-        }
-       }
+       "line": "The numbers suggest the opposite, actually."
+      },
+      {
+       "who": "Teacher",
+       "line": "Honestly, I think remote work is here to stay."
+      },
+      {
+       "who": "Teacher",
+       "line": "Offices will shrink, not disappear."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2345,121 +1631,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 301,
-        "level": "B1",
-        "module": 12,
-        "module_title": "Relationships, Opinions & Feelings",
-        "title": "I See It Differently",
-        "visual_scene": "Two colleagues at a screen, one pointing, the other with arms crossed but listening.",
-        "natural_english": [
-         "I see your point, but I read the data differently.",
-         "The numbers suggest the opposite, actually.",
-         "Maybe we're looking at different segments.",
-         "Let's compare sources before we decide."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "The campaign clearly worked.",
-          "gesture": "confident"
-         },
-         {
-          "speaker": "B",
-          "line": "Hmm, I'm not so sure. The spike matches a holiday, not our launch.",
-          "gesture": "pulling up a chart"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I see your point, but I read the data differently.",
-            "The numbers suggest the opposite, actually.",
-            "Maybe we're looking at different segments.",
-            "Let's compare sources before we decide."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "The campaign clearly worked.",
-            "Hmm, I'm not so sure. The spike matches a holiday, not our launch."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "I see your point, but"
-         ]
-        }
-       }
+       "line": "I see your point, but I read the data differently."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 302,
-        "level": "B1",
-        "module": 12,
-        "module_title": "Relationships, Opinions & Feelings",
-        "title": "Strong Opinions, Gently Held — Listen & Shadow",
-        "visual_scene": "A debate over lunch, both smiling, one gesturing with a fork.",
-        "natural_english": [
-         "Honestly, I think remote work is here to stay.",
-         "Offices will shrink, not disappear.",
-         "I could be wrong, but that's my read.",
-         "What's your take on it?"
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you think offices will survive?",
-          "gesture": "mid-bite"
-         },
-         {
-          "speaker": "B",
-          "line": "In some form, sure. But five days a week in a cubicle? That era's over.",
-          "gesture": "shrugging"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Honestly, I think remote work is here to stay.",
-            "Offices will shrink, not disappear.",
-            "I could be wrong, but that's my read.",
-            "What's your take on it?"
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you think offices will survive?",
-            "In some form, sure. But five days a week in a cubicle? That era's over."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "that's my read / here to stay"
-         ]
-        }
-       }
+       "line": "The numbers suggest the opposite, actually."
+      },
+      {
+       "who": "Teacher",
+       "line": "Honestly, I think remote work is here to stay."
+      },
+      {
+       "who": "Teacher",
+       "line": "Offices will shrink, not disappear."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."

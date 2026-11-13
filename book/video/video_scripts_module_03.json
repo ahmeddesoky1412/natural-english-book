@@ -139,121 +139,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 16,
-        "level": "A1",
-        "module": 2,
-        "module_title": "The Human Body & Basic Actions",
-        "title": "Stand Up, Sit Down",
-        "visual_scene": "A man in a plain room. In one frame he stands; in the next he sits.",
-        "natural_english": [
-         "I stand up.",
-         "I sit down.",
-         "Stand up. Sit down.",
-         "Now I am sitting."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Stand up, please.",
-          "gesture": "gesturing upward"
-         },
-         {
-          "speaker": "B",
-          "line": "OK. Now I sit down.",
-          "gesture": "sitting"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I stand up.",
-            "I sit down.",
-            "Stand up. Sit down.",
-            "Now I am sitting."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Stand up, please.",
-            "OK. Now I sit down."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "stand up / sit down"
-         ]
-        }
-       }
+       "line": "I stand up."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 17,
-        "level": "A1",
-        "module": 2,
-        "module_title": "The Human Body & Basic Actions",
-        "title": "Walk and Stop — Listen & Shadow",
-        "visual_scene": "A person walking along a corridor, then stopping at a door marked EXIT.",
-        "natural_english": [
-         "I walk.",
-         "I walk to the door.",
-         "Now I stop.",
-         "I am at the door."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Stop here, please.",
-          "gesture": "raising a hand"
-         },
-         {
-          "speaker": "B",
-          "line": "OK. I stop.",
-          "gesture": "freezing mid-step"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I walk.",
-            "I walk to the door.",
-            "Now I stop.",
-            "I am at the door."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Stop here, please.",
-            "OK. I stop."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "walk / stop"
-         ]
-        }
-       }
+       "line": "I sit down."
+      },
+      {
+       "who": "Teacher",
+       "line": "I walk."
+      },
+      {
+       "who": "Teacher",
+       "line": "I walk to the door."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -454,121 +352,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 16,
-        "level": "A1",
-        "module": 2,
-        "module_title": "The Human Body & Basic Actions",
-        "title": "Stand Up, Sit Down",
-        "visual_scene": "A man in a plain room. In one frame he stands; in the next he sits.",
-        "natural_english": [
-         "I stand up.",
-         "I sit down.",
-         "Stand up. Sit down.",
-         "Now I am sitting."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Stand up, please.",
-          "gesture": "gesturing upward"
-         },
-         {
-          "speaker": "B",
-          "line": "OK. Now I sit down.",
-          "gesture": "sitting"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I stand up.",
-            "I sit down.",
-            "Stand up. Sit down.",
-            "Now I am sitting."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Stand up, please.",
-            "OK. Now I sit down."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "stand up / sit down"
-         ]
-        }
-       }
+       "line": "I stand up."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 17,
-        "level": "A1",
-        "module": 2,
-        "module_title": "The Human Body & Basic Actions",
-        "title": "Walk and Stop — Listen & Shadow",
-        "visual_scene": "A person walking along a corridor, then stopping at a door marked EXIT.",
-        "natural_english": [
-         "I walk.",
-         "I walk to the door.",
-         "Now I stop.",
-         "I am at the door."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Stop here, please.",
-          "gesture": "raising a hand"
-         },
-         {
-          "speaker": "B",
-          "line": "OK. I stop.",
-          "gesture": "freezing mid-step"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I walk.",
-            "I walk to the door.",
-            "Now I stop.",
-            "I am at the door."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Stop here, please.",
-            "OK. I stop."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "walk / stop"
-         ]
-        }
-       }
+       "line": "I sit down."
+      },
+      {
+       "who": "Teacher",
+       "line": "I walk."
+      },
+      {
+       "who": "Teacher",
+       "line": "I walk to the door."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -770,121 +566,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 16,
-        "level": "A1",
-        "module": 2,
-        "module_title": "The Human Body & Basic Actions",
-        "title": "Stand Up, Sit Down",
-        "visual_scene": "A man in a plain room. In one frame he stands; in the next he sits.",
-        "natural_english": [
-         "I stand up.",
-         "I sit down.",
-         "Stand up. Sit down.",
-         "Now I am sitting."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Stand up, please.",
-          "gesture": "gesturing upward"
-         },
-         {
-          "speaker": "B",
-          "line": "OK. Now I sit down.",
-          "gesture": "sitting"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I stand up.",
-            "I sit down.",
-            "Stand up. Sit down.",
-            "Now I am sitting."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Stand up, please.",
-            "OK. Now I sit down."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "stand up / sit down"
-         ]
-        }
-       }
+       "line": "I stand up."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 17,
-        "level": "A1",
-        "module": 2,
-        "module_title": "The Human Body & Basic Actions",
-        "title": "Walk and Stop — Listen & Shadow",
-        "visual_scene": "A person walking along a corridor, then stopping at a door marked EXIT.",
-        "natural_english": [
-         "I walk.",
-         "I walk to the door.",
-         "Now I stop.",
-         "I am at the door."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Stop here, please.",
-          "gesture": "raising a hand"
-         },
-         {
-          "speaker": "B",
-          "line": "OK. I stop.",
-          "gesture": "freezing mid-step"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I walk.",
-            "I walk to the door.",
-            "Now I stop.",
-            "I am at the door."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Stop here, please.",
-            "OK. I stop."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "walk / stop"
-         ]
-        }
-       }
+       "line": "I sit down."
+      },
+      {
+       "who": "Teacher",
+       "line": "I walk."
+      },
+      {
+       "who": "Teacher",
+       "line": "I walk to the door."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1085,121 +779,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 16,
-        "level": "A1",
-        "module": 2,
-        "module_title": "The Human Body & Basic Actions",
-        "title": "Stand Up, Sit Down",
-        "visual_scene": "A man in a plain room. In one frame he stands; in the next he sits.",
-        "natural_english": [
-         "I stand up.",
-         "I sit down.",
-         "Stand up. Sit down.",
-         "Now I am sitting."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Stand up, please.",
-          "gesture": "gesturing upward"
-         },
-         {
-          "speaker": "B",
-          "line": "OK. Now I sit down.",
-          "gesture": "sitting"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I stand up.",
-            "I sit down.",
-            "Stand up. Sit down.",
-            "Now I am sitting."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Stand up, please.",
-            "OK. Now I sit down."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "stand up / sit down"
-         ]
-        }
-       }
+       "line": "I stand up."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 17,
-        "level": "A1",
-        "module": 2,
-        "module_title": "The Human Body & Basic Actions",
-        "title": "Walk and Stop — Listen & Shadow",
-        "visual_scene": "A person walking along a corridor, then stopping at a door marked EXIT.",
-        "natural_english": [
-         "I walk.",
-         "I walk to the door.",
-         "Now I stop.",
-         "I am at the door."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Stop here, please.",
-          "gesture": "raising a hand"
-         },
-         {
-          "speaker": "B",
-          "line": "OK. I stop.",
-          "gesture": "freezing mid-step"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I walk.",
-            "I walk to the door.",
-            "Now I stop.",
-            "I am at the door."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Stop here, please.",
-            "OK. I stop."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "walk / stop"
-         ]
-        }
-       }
+       "line": "I sit down."
+      },
+      {
+       "who": "Teacher",
+       "line": "I walk."
+      },
+      {
+       "who": "Teacher",
+       "line": "I walk to the door."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1394,121 +986,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 16,
-        "level": "A1",
-        "module": 2,
-        "module_title": "The Human Body & Basic Actions",
-        "title": "Stand Up, Sit Down",
-        "visual_scene": "A man in a plain room. In one frame he stands; in the next he sits.",
-        "natural_english": [
-         "I stand up.",
-         "I sit down.",
-         "Stand up. Sit down.",
-         "Now I am sitting."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Stand up, please.",
-          "gesture": "gesturing upward"
-         },
-         {
-          "speaker": "B",
-          "line": "OK. Now I sit down.",
-          "gesture": "sitting"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I stand up.",
-            "I sit down.",
-            "Stand up. Sit down.",
-            "Now I am sitting."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Stand up, please.",
-            "OK. Now I sit down."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "stand up / sit down"
-         ]
-        }
-       }
+       "line": "I stand up."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 17,
-        "level": "A1",
-        "module": 2,
-        "module_title": "The Human Body & Basic Actions",
-        "title": "Walk and Stop — Listen & Shadow",
-        "visual_scene": "A person walking along a corridor, then stopping at a door marked EXIT.",
-        "natural_english": [
-         "I walk.",
-         "I walk to the door.",
-         "Now I stop.",
-         "I am at the door."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Stop here, please.",
-          "gesture": "raising a hand"
-         },
-         {
-          "speaker": "B",
-          "line": "OK. I stop.",
-          "gesture": "freezing mid-step"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I walk.",
-            "I walk to the door.",
-            "Now I stop.",
-            "I am at the door."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Stop here, please.",
-            "OK. I stop."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "walk / stop"
-         ]
-        }
-       }
+       "line": "I sit down."
+      },
+      {
+       "who": "Teacher",
+       "line": "I walk."
+      },
+      {
+       "who": "Teacher",
+       "line": "I walk to the door."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1709,121 +1199,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 16,
-        "level": "A1",
-        "module": 2,
-        "module_title": "The Human Body & Basic Actions",
-        "title": "Stand Up, Sit Down",
-        "visual_scene": "A man in a plain room. In one frame he stands; in the next he sits.",
-        "natural_english": [
-         "I stand up.",
-         "I sit down.",
-         "Stand up. Sit down.",
-         "Now I am sitting."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Stand up, please.",
-          "gesture": "gesturing upward"
-         },
-         {
-          "speaker": "B",
-          "line": "OK. Now I sit down.",
-          "gesture": "sitting"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I stand up.",
-            "I sit down.",
-            "Stand up. Sit down.",
-            "Now I am sitting."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Stand up, please.",
-            "OK. Now I sit down."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "stand up / sit down"
-         ]
-        }
-       }
+       "line": "I stand up."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 17,
-        "level": "A1",
-        "module": 2,
-        "module_title": "The Human Body & Basic Actions",
-        "title": "Walk and Stop — Listen & Shadow",
-        "visual_scene": "A person walking along a corridor, then stopping at a door marked EXIT.",
-        "natural_english": [
-         "I walk.",
-         "I walk to the door.",
-         "Now I stop.",
-         "I am at the door."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Stop here, please.",
-          "gesture": "raising a hand"
-         },
-         {
-          "speaker": "B",
-          "line": "OK. I stop.",
-          "gesture": "freezing mid-step"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I walk.",
-            "I walk to the door.",
-            "Now I stop.",
-            "I am at the door."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Stop here, please.",
-            "OK. I stop."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "walk / stop"
-         ]
-        }
-       }
+       "line": "I sit down."
+      },
+      {
+       "who": "Teacher",
+       "line": "I walk."
+      },
+      {
+       "who": "Teacher",
+       "line": "I walk to the door."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2025,121 +1413,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 16,
-        "level": "A1",
-        "module": 2,
-        "module_title": "The Human Body & Basic Actions",
-        "title": "Stand Up, Sit Down",
-        "visual_scene": "A man in a plain room. In one frame he stands; in the next he sits.",
-        "natural_english": [
-         "I stand up.",
-         "I sit down.",
-         "Stand up. Sit down.",
-         "Now I am sitting."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Stand up, please.",
-          "gesture": "gesturing upward"
-         },
-         {
-          "speaker": "B",
-          "line": "OK. Now I sit down.",
-          "gesture": "sitting"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I stand up.",
-            "I sit down.",
-            "Stand up. Sit down.",
-            "Now I am sitting."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Stand up, please.",
-            "OK. Now I sit down."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "stand up / sit down"
-         ]
-        }
-       }
+       "line": "I stand up."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 17,
-        "level": "A1",
-        "module": 2,
-        "module_title": "The Human Body & Basic Actions",
-        "title": "Walk and Stop — Listen & Shadow",
-        "visual_scene": "A person walking along a corridor, then stopping at a door marked EXIT.",
-        "natural_english": [
-         "I walk.",
-         "I walk to the door.",
-         "Now I stop.",
-         "I am at the door."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Stop here, please.",
-          "gesture": "raising a hand"
-         },
-         {
-          "speaker": "B",
-          "line": "OK. I stop.",
-          "gesture": "freezing mid-step"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I walk.",
-            "I walk to the door.",
-            "Now I stop.",
-            "I am at the door."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Stop here, please.",
-            "OK. I stop."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "walk / stop"
-         ]
-        }
-       }
+       "line": "I sit down."
+      },
+      {
+       "who": "Teacher",
+       "line": "I walk."
+      },
+      {
+       "who": "Teacher",
+       "line": "I walk to the door."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2340,121 +1626,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 16,
-        "level": "A1",
-        "module": 2,
-        "module_title": "The Human Body & Basic Actions",
-        "title": "Stand Up, Sit Down",
-        "visual_scene": "A man in a plain room. In one frame he stands; in the next he sits.",
-        "natural_english": [
-         "I stand up.",
-         "I sit down.",
-         "Stand up. Sit down.",
-         "Now I am sitting."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Stand up, please.",
-          "gesture": "gesturing upward"
-         },
-         {
-          "speaker": "B",
-          "line": "OK. Now I sit down.",
-          "gesture": "sitting"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I stand up.",
-            "I sit down.",
-            "Stand up. Sit down.",
-            "Now I am sitting."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Stand up, please.",
-            "OK. Now I sit down."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "stand up / sit down"
-         ]
-        }
-       }
+       "line": "I stand up."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 17,
-        "level": "A1",
-        "module": 2,
-        "module_title": "The Human Body & Basic Actions",
-        "title": "Walk and Stop — Listen & Shadow",
-        "visual_scene": "A person walking along a corridor, then stopping at a door marked EXIT.",
-        "natural_english": [
-         "I walk.",
-         "I walk to the door.",
-         "Now I stop.",
-         "I am at the door."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Stop here, please.",
-          "gesture": "raising a hand"
-         },
-         {
-          "speaker": "B",
-          "line": "OK. I stop.",
-          "gesture": "freezing mid-step"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I walk.",
-            "I walk to the door.",
-            "Now I stop.",
-            "I am at the door."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Stop here, please.",
-            "OK. I stop."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "walk / stop"
-         ]
-        }
-       }
+       "line": "I sit down."
+      },
+      {
+       "who": "Teacher",
+       "line": "I walk."
+      },
+      {
+       "who": "Teacher",
+       "line": "I walk to the door."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."

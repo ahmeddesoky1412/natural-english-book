@@ -139,121 +139,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 381,
-        "level": "B2",
-        "module": 14,
-        "module_title": "Social Nuance & Cultural Context",
-        "title": "Reading Between the Lines",
-        "visual_scene": "An email on a screen: 'Per my last message, just circling back...' A reader's eyebrow rises.",
-        "natural_english": [
-         "'Per my last email' actually means 'you didn't read it.'",
-         "'Let's take this offline' means 'not in front of everyone.'",
-         "'With all due respect' usually announces a disagreement.",
-         "English politeness is often a thin layer over a blunt message."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "He said the idea was 'interesting.'",
-          "gesture": "hopeful"
-         },
-         {
-          "speaker": "B",
-          "line": "Ah. In polite English, 'interesting' is rarely a compliment.",
-          "gesture": "sympathetic wince"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "'Per my last email' actually means 'you didn't read it.'",
-            "'Let's take this offline' means 'not in front of everyone.'",
-            "'With all due respect' usually announces a disagreement.",
-            "English politeness is often a thin layer over a blunt message."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "He said the idea was 'interesting.'",
-            "Ah. In polite English, 'interesting' is rarely a compliment."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "reading between the lines"
-         ]
-        }
-       }
+       "line": "'Per my last email' actually means 'you didn't read it.'"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 382,
-        "level": "B2",
-        "module": 14,
-        "module_title": "Social Nuance & Cultural Context",
-        "title": "Sarcasm at Work — Listen & Shadow",
-        "visual_scene": "Two colleagues watching a printer jam for the third time, deadpan.",
-        "natural_english": [
-         "Oh great, another Monday surprise.",
-         "Well, that went smoothly.",
-         "I love it when plans survive contact with reality.",
-         "You can hear the irony, right?"
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "The server picked the busiest day to crash.",
-          "gesture": "flat"
-         },
-         {
-          "speaker": "B",
-          "line": "Perfect timing, as always. Truly impeccable planning by the universe.",
-          "gesture": "deadpan"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Oh great, another Monday surprise.",
-            "Well, that went smoothly.",
-            "I love it when plans survive contact with reality.",
-            "You can hear the irony, right?"
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "The server picked the busiest day to crash.",
-            "Perfect timing, as always. Truly impeccable planning by the universe."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "deadpan irony"
-         ]
-        }
-       }
+       "line": "'Let's take this offline' means 'not in front of everyone.'"
+      },
+      {
+       "who": "Teacher",
+       "line": "Oh great, another Monday surprise."
+      },
+      {
+       "who": "Teacher",
+       "line": "Well, that went smoothly."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -454,121 +352,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 381,
-        "level": "B2",
-        "module": 14,
-        "module_title": "Social Nuance & Cultural Context",
-        "title": "Reading Between the Lines",
-        "visual_scene": "An email on a screen: 'Per my last message, just circling back...' A reader's eyebrow rises.",
-        "natural_english": [
-         "'Per my last email' actually means 'you didn't read it.'",
-         "'Let's take this offline' means 'not in front of everyone.'",
-         "'With all due respect' usually announces a disagreement.",
-         "English politeness is often a thin layer over a blunt message."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "He said the idea was 'interesting.'",
-          "gesture": "hopeful"
-         },
-         {
-          "speaker": "B",
-          "line": "Ah. In polite English, 'interesting' is rarely a compliment.",
-          "gesture": "sympathetic wince"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "'Per my last email' actually means 'you didn't read it.'",
-            "'Let's take this offline' means 'not in front of everyone.'",
-            "'With all due respect' usually announces a disagreement.",
-            "English politeness is often a thin layer over a blunt message."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "He said the idea was 'interesting.'",
-            "Ah. In polite English, 'interesting' is rarely a compliment."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "reading between the lines"
-         ]
-        }
-       }
+       "line": "'Per my last email' actually means 'you didn't read it.'"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 382,
-        "level": "B2",
-        "module": 14,
-        "module_title": "Social Nuance & Cultural Context",
-        "title": "Sarcasm at Work — Listen & Shadow",
-        "visual_scene": "Two colleagues watching a printer jam for the third time, deadpan.",
-        "natural_english": [
-         "Oh great, another Monday surprise.",
-         "Well, that went smoothly.",
-         "I love it when plans survive contact with reality.",
-         "You can hear the irony, right?"
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "The server picked the busiest day to crash.",
-          "gesture": "flat"
-         },
-         {
-          "speaker": "B",
-          "line": "Perfect timing, as always. Truly impeccable planning by the universe.",
-          "gesture": "deadpan"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Oh great, another Monday surprise.",
-            "Well, that went smoothly.",
-            "I love it when plans survive contact with reality.",
-            "You can hear the irony, right?"
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "The server picked the busiest day to crash.",
-            "Perfect timing, as always. Truly impeccable planning by the universe."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "deadpan irony"
-         ]
-        }
-       }
+       "line": "'Let's take this offline' means 'not in front of everyone.'"
+      },
+      {
+       "who": "Teacher",
+       "line": "Oh great, another Monday surprise."
+      },
+      {
+       "who": "Teacher",
+       "line": "Well, that went smoothly."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -770,121 +566,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 381,
-        "level": "B2",
-        "module": 14,
-        "module_title": "Social Nuance & Cultural Context",
-        "title": "Reading Between the Lines",
-        "visual_scene": "An email on a screen: 'Per my last message, just circling back...' A reader's eyebrow rises.",
-        "natural_english": [
-         "'Per my last email' actually means 'you didn't read it.'",
-         "'Let's take this offline' means 'not in front of everyone.'",
-         "'With all due respect' usually announces a disagreement.",
-         "English politeness is often a thin layer over a blunt message."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "He said the idea was 'interesting.'",
-          "gesture": "hopeful"
-         },
-         {
-          "speaker": "B",
-          "line": "Ah. In polite English, 'interesting' is rarely a compliment.",
-          "gesture": "sympathetic wince"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "'Per my last email' actually means 'you didn't read it.'",
-            "'Let's take this offline' means 'not in front of everyone.'",
-            "'With all due respect' usually announces a disagreement.",
-            "English politeness is often a thin layer over a blunt message."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "He said the idea was 'interesting.'",
-            "Ah. In polite English, 'interesting' is rarely a compliment."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "reading between the lines"
-         ]
-        }
-       }
+       "line": "'Per my last email' actually means 'you didn't read it.'"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 382,
-        "level": "B2",
-        "module": 14,
-        "module_title": "Social Nuance & Cultural Context",
-        "title": "Sarcasm at Work — Listen & Shadow",
-        "visual_scene": "Two colleagues watching a printer jam for the third time, deadpan.",
-        "natural_english": [
-         "Oh great, another Monday surprise.",
-         "Well, that went smoothly.",
-         "I love it when plans survive contact with reality.",
-         "You can hear the irony, right?"
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "The server picked the busiest day to crash.",
-          "gesture": "flat"
-         },
-         {
-          "speaker": "B",
-          "line": "Perfect timing, as always. Truly impeccable planning by the universe.",
-          "gesture": "deadpan"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Oh great, another Monday surprise.",
-            "Well, that went smoothly.",
-            "I love it when plans survive contact with reality.",
-            "You can hear the irony, right?"
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "The server picked the busiest day to crash.",
-            "Perfect timing, as always. Truly impeccable planning by the universe."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "deadpan irony"
-         ]
-        }
-       }
+       "line": "'Let's take this offline' means 'not in front of everyone.'"
+      },
+      {
+       "who": "Teacher",
+       "line": "Oh great, another Monday surprise."
+      },
+      {
+       "who": "Teacher",
+       "line": "Well, that went smoothly."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1085,121 +779,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 381,
-        "level": "B2",
-        "module": 14,
-        "module_title": "Social Nuance & Cultural Context",
-        "title": "Reading Between the Lines",
-        "visual_scene": "An email on a screen: 'Per my last message, just circling back...' A reader's eyebrow rises.",
-        "natural_english": [
-         "'Per my last email' actually means 'you didn't read it.'",
-         "'Let's take this offline' means 'not in front of everyone.'",
-         "'With all due respect' usually announces a disagreement.",
-         "English politeness is often a thin layer over a blunt message."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "He said the idea was 'interesting.'",
-          "gesture": "hopeful"
-         },
-         {
-          "speaker": "B",
-          "line": "Ah. In polite English, 'interesting' is rarely a compliment.",
-          "gesture": "sympathetic wince"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "'Per my last email' actually means 'you didn't read it.'",
-            "'Let's take this offline' means 'not in front of everyone.'",
-            "'With all due respect' usually announces a disagreement.",
-            "English politeness is often a thin layer over a blunt message."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "He said the idea was 'interesting.'",
-            "Ah. In polite English, 'interesting' is rarely a compliment."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "reading between the lines"
-         ]
-        }
-       }
+       "line": "'Per my last email' actually means 'you didn't read it.'"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 382,
-        "level": "B2",
-        "module": 14,
-        "module_title": "Social Nuance & Cultural Context",
-        "title": "Sarcasm at Work — Listen & Shadow",
-        "visual_scene": "Two colleagues watching a printer jam for the third time, deadpan.",
-        "natural_english": [
-         "Oh great, another Monday surprise.",
-         "Well, that went smoothly.",
-         "I love it when plans survive contact with reality.",
-         "You can hear the irony, right?"
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "The server picked the busiest day to crash.",
-          "gesture": "flat"
-         },
-         {
-          "speaker": "B",
-          "line": "Perfect timing, as always. Truly impeccable planning by the universe.",
-          "gesture": "deadpan"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Oh great, another Monday surprise.",
-            "Well, that went smoothly.",
-            "I love it when plans survive contact with reality.",
-            "You can hear the irony, right?"
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "The server picked the busiest day to crash.",
-            "Perfect timing, as always. Truly impeccable planning by the universe."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "deadpan irony"
-         ]
-        }
-       }
+       "line": "'Let's take this offline' means 'not in front of everyone.'"
+      },
+      {
+       "who": "Teacher",
+       "line": "Oh great, another Monday surprise."
+      },
+      {
+       "who": "Teacher",
+       "line": "Well, that went smoothly."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1394,121 +986,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 381,
-        "level": "B2",
-        "module": 14,
-        "module_title": "Social Nuance & Cultural Context",
-        "title": "Reading Between the Lines",
-        "visual_scene": "An email on a screen: 'Per my last message, just circling back...' A reader's eyebrow rises.",
-        "natural_english": [
-         "'Per my last email' actually means 'you didn't read it.'",
-         "'Let's take this offline' means 'not in front of everyone.'",
-         "'With all due respect' usually announces a disagreement.",
-         "English politeness is often a thin layer over a blunt message."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "He said the idea was 'interesting.'",
-          "gesture": "hopeful"
-         },
-         {
-          "speaker": "B",
-          "line": "Ah. In polite English, 'interesting' is rarely a compliment.",
-          "gesture": "sympathetic wince"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "'Per my last email' actually means 'you didn't read it.'",
-            "'Let's take this offline' means 'not in front of everyone.'",
-            "'With all due respect' usually announces a disagreement.",
-            "English politeness is often a thin layer over a blunt message."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "He said the idea was 'interesting.'",
-            "Ah. In polite English, 'interesting' is rarely a compliment."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "reading between the lines"
-         ]
-        }
-       }
+       "line": "'Per my last email' actually means 'you didn't read it.'"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 382,
-        "level": "B2",
-        "module": 14,
-        "module_title": "Social Nuance & Cultural Context",
-        "title": "Sarcasm at Work — Listen & Shadow",
-        "visual_scene": "Two colleagues watching a printer jam for the third time, deadpan.",
-        "natural_english": [
-         "Oh great, another Monday surprise.",
-         "Well, that went smoothly.",
-         "I love it when plans survive contact with reality.",
-         "You can hear the irony, right?"
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "The server picked the busiest day to crash.",
-          "gesture": "flat"
-         },
-         {
-          "speaker": "B",
-          "line": "Perfect timing, as always. Truly impeccable planning by the universe.",
-          "gesture": "deadpan"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Oh great, another Monday surprise.",
-            "Well, that went smoothly.",
-            "I love it when plans survive contact with reality.",
-            "You can hear the irony, right?"
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "The server picked the busiest day to crash.",
-            "Perfect timing, as always. Truly impeccable planning by the universe."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "deadpan irony"
-         ]
-        }
-       }
+       "line": "'Let's take this offline' means 'not in front of everyone.'"
+      },
+      {
+       "who": "Teacher",
+       "line": "Oh great, another Monday surprise."
+      },
+      {
+       "who": "Teacher",
+       "line": "Well, that went smoothly."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1709,121 +1199,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 381,
-        "level": "B2",
-        "module": 14,
-        "module_title": "Social Nuance & Cultural Context",
-        "title": "Reading Between the Lines",
-        "visual_scene": "An email on a screen: 'Per my last message, just circling back...' A reader's eyebrow rises.",
-        "natural_english": [
-         "'Per my last email' actually means 'you didn't read it.'",
-         "'Let's take this offline' means 'not in front of everyone.'",
-         "'With all due respect' usually announces a disagreement.",
-         "English politeness is often a thin layer over a blunt message."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "He said the idea was 'interesting.'",
-          "gesture": "hopeful"
-         },
-         {
-          "speaker": "B",
-          "line": "Ah. In polite English, 'interesting' is rarely a compliment.",
-          "gesture": "sympathetic wince"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "'Per my last email' actually means 'you didn't read it.'",
-            "'Let's take this offline' means 'not in front of everyone.'",
-            "'With all due respect' usually announces a disagreement.",
-            "English politeness is often a thin layer over a blunt message."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "He said the idea was 'interesting.'",
-            "Ah. In polite English, 'interesting' is rarely a compliment."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "reading between the lines"
-         ]
-        }
-       }
+       "line": "'Per my last email' actually means 'you didn't read it.'"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 382,
-        "level": "B2",
-        "module": 14,
-        "module_title": "Social Nuance & Cultural Context",
-        "title": "Sarcasm at Work — Listen & Shadow",
-        "visual_scene": "Two colleagues watching a printer jam for the third time, deadpan.",
-        "natural_english": [
-         "Oh great, another Monday surprise.",
-         "Well, that went smoothly.",
-         "I love it when plans survive contact with reality.",
-         "You can hear the irony, right?"
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "The server picked the busiest day to crash.",
-          "gesture": "flat"
-         },
-         {
-          "speaker": "B",
-          "line": "Perfect timing, as always. Truly impeccable planning by the universe.",
-          "gesture": "deadpan"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Oh great, another Monday surprise.",
-            "Well, that went smoothly.",
-            "I love it when plans survive contact with reality.",
-            "You can hear the irony, right?"
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "The server picked the busiest day to crash.",
-            "Perfect timing, as always. Truly impeccable planning by the universe."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "deadpan irony"
-         ]
-        }
-       }
+       "line": "'Let's take this offline' means 'not in front of everyone.'"
+      },
+      {
+       "who": "Teacher",
+       "line": "Oh great, another Monday surprise."
+      },
+      {
+       "who": "Teacher",
+       "line": "Well, that went smoothly."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2025,121 +1413,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 381,
-        "level": "B2",
-        "module": 14,
-        "module_title": "Social Nuance & Cultural Context",
-        "title": "Reading Between the Lines",
-        "visual_scene": "An email on a screen: 'Per my last message, just circling back...' A reader's eyebrow rises.",
-        "natural_english": [
-         "'Per my last email' actually means 'you didn't read it.'",
-         "'Let's take this offline' means 'not in front of everyone.'",
-         "'With all due respect' usually announces a disagreement.",
-         "English politeness is often a thin layer over a blunt message."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "He said the idea was 'interesting.'",
-          "gesture": "hopeful"
-         },
-         {
-          "speaker": "B",
-          "line": "Ah. In polite English, 'interesting' is rarely a compliment.",
-          "gesture": "sympathetic wince"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "'Per my last email' actually means 'you didn't read it.'",
-            "'Let's take this offline' means 'not in front of everyone.'",
-            "'With all due respect' usually announces a disagreement.",
-            "English politeness is often a thin layer over a blunt message."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "He said the idea was 'interesting.'",
-            "Ah. In polite English, 'interesting' is rarely a compliment."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "reading between the lines"
-         ]
-        }
-       }
+       "line": "'Per my last email' actually means 'you didn't read it.'"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 382,
-        "level": "B2",
-        "module": 14,
-        "module_title": "Social Nuance & Cultural Context",
-        "title": "Sarcasm at Work — Listen & Shadow",
-        "visual_scene": "Two colleagues watching a printer jam for the third time, deadpan.",
-        "natural_english": [
-         "Oh great, another Monday surprise.",
-         "Well, that went smoothly.",
-         "I love it when plans survive contact with reality.",
-         "You can hear the irony, right?"
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "The server picked the busiest day to crash.",
-          "gesture": "flat"
-         },
-         {
-          "speaker": "B",
-          "line": "Perfect timing, as always. Truly impeccable planning by the universe.",
-          "gesture": "deadpan"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Oh great, another Monday surprise.",
-            "Well, that went smoothly.",
-            "I love it when plans survive contact with reality.",
-            "You can hear the irony, right?"
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "The server picked the busiest day to crash.",
-            "Perfect timing, as always. Truly impeccable planning by the universe."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "deadpan irony"
-         ]
-        }
-       }
+       "line": "'Let's take this offline' means 'not in front of everyone.'"
+      },
+      {
+       "who": "Teacher",
+       "line": "Oh great, another Monday surprise."
+      },
+      {
+       "who": "Teacher",
+       "line": "Well, that went smoothly."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2340,121 +1626,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 381,
-        "level": "B2",
-        "module": 14,
-        "module_title": "Social Nuance & Cultural Context",
-        "title": "Reading Between the Lines",
-        "visual_scene": "An email on a screen: 'Per my last message, just circling back...' A reader's eyebrow rises.",
-        "natural_english": [
-         "'Per my last email' actually means 'you didn't read it.'",
-         "'Let's take this offline' means 'not in front of everyone.'",
-         "'With all due respect' usually announces a disagreement.",
-         "English politeness is often a thin layer over a blunt message."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "He said the idea was 'interesting.'",
-          "gesture": "hopeful"
-         },
-         {
-          "speaker": "B",
-          "line": "Ah. In polite English, 'interesting' is rarely a compliment.",
-          "gesture": "sympathetic wince"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "'Per my last email' actually means 'you didn't read it.'",
-            "'Let's take this offline' means 'not in front of everyone.'",
-            "'With all due respect' usually announces a disagreement.",
-            "English politeness is often a thin layer over a blunt message."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "He said the idea was 'interesting.'",
-            "Ah. In polite English, 'interesting' is rarely a compliment."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "reading between the lines"
-         ]
-        }
-       }
+       "line": "'Per my last email' actually means 'you didn't read it.'"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 382,
-        "level": "B2",
-        "module": 14,
-        "module_title": "Social Nuance & Cultural Context",
-        "title": "Sarcasm at Work — Listen & Shadow",
-        "visual_scene": "Two colleagues watching a printer jam for the third time, deadpan.",
-        "natural_english": [
-         "Oh great, another Monday surprise.",
-         "Well, that went smoothly.",
-         "I love it when plans survive contact with reality.",
-         "You can hear the irony, right?"
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "The server picked the busiest day to crash.",
-          "gesture": "flat"
-         },
-         {
-          "speaker": "B",
-          "line": "Perfect timing, as always. Truly impeccable planning by the universe.",
-          "gesture": "deadpan"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Oh great, another Monday surprise.",
-            "Well, that went smoothly.",
-            "I love it when plans survive contact with reality.",
-            "You can hear the irony, right?"
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "The server picked the busiest day to crash.",
-            "Perfect timing, as always. Truly impeccable planning by the universe."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "deadpan irony"
-         ]
-        }
-       }
+       "line": "'Let's take this offline' means 'not in front of everyone.'"
+      },
+      {
+       "who": "Teacher",
+       "line": "Oh great, another Monday surprise."
+      },
+      {
+       "who": "Teacher",
+       "line": "Well, that went smoothly."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."

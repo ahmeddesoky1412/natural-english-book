@@ -139,121 +139,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 1,
-        "level": "A1",
-        "module": 1,
-        "module_title": "Presence & Environment",
-        "title": "Morning Table",
-        "visual_scene": "A clean wooden table with a steaming cup of coffee in warm morning sunlight. A chair pulled out beside it.",
-        "natural_english": [
-         "This is a cup.",
-         "Here is coffee.",
-         "It is hot.",
-         "The cup is on the table."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Coffee?",
-          "gesture": "raising the cup slightly"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes. Hot coffee.",
-          "gesture": "nodding"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is a cup.",
-            "Here is coffee.",
-            "It is hot.",
-            "The cup is on the table."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Coffee?",
-            "Yes. Hot coffee."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "on the table"
-         ]
-        }
-       }
+       "line": "This is a cup."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 2,
-        "level": "A1",
-        "module": 1,
-        "module_title": "Presence & Environment",
-        "title": "The Window — Listen & Shadow",
-        "visual_scene": "A large window with white curtains. Outside, a quiet street with one green tree.",
-        "natural_english": [
-         "This is a window.",
-         "The window is big.",
-         "I see a tree.",
-         "The tree is green."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Look. What is that?",
-          "gesture": "pointing outside"
-         },
-         {
-          "speaker": "B",
-          "line": "A tree. A green tree.",
-          "gesture": "looking out"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is a window.",
-            "The window is big.",
-            "I see a tree.",
-            "The tree is green."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Look. What is that?",
-            "A tree. A green tree."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "I see"
-         ]
-        }
-       }
+       "line": "Here is coffee."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is a window."
+      },
+      {
+       "who": "Teacher",
+       "line": "The window is big."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -454,121 +352,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 1,
-        "level": "A1",
-        "module": 1,
-        "module_title": "Presence & Environment",
-        "title": "Morning Table",
-        "visual_scene": "A clean wooden table with a steaming cup of coffee in warm morning sunlight. A chair pulled out beside it.",
-        "natural_english": [
-         "This is a cup.",
-         "Here is coffee.",
-         "It is hot.",
-         "The cup is on the table."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Coffee?",
-          "gesture": "raising the cup slightly"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes. Hot coffee.",
-          "gesture": "nodding"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is a cup.",
-            "Here is coffee.",
-            "It is hot.",
-            "The cup is on the table."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Coffee?",
-            "Yes. Hot coffee."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "on the table"
-         ]
-        }
-       }
+       "line": "This is a cup."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 2,
-        "level": "A1",
-        "module": 1,
-        "module_title": "Presence & Environment",
-        "title": "The Window — Listen & Shadow",
-        "visual_scene": "A large window with white curtains. Outside, a quiet street with one green tree.",
-        "natural_english": [
-         "This is a window.",
-         "The window is big.",
-         "I see a tree.",
-         "The tree is green."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Look. What is that?",
-          "gesture": "pointing outside"
-         },
-         {
-          "speaker": "B",
-          "line": "A tree. A green tree.",
-          "gesture": "looking out"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is a window.",
-            "The window is big.",
-            "I see a tree.",
-            "The tree is green."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Look. What is that?",
-            "A tree. A green tree."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "I see"
-         ]
-        }
-       }
+       "line": "Here is coffee."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is a window."
+      },
+      {
+       "who": "Teacher",
+       "line": "The window is big."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -770,121 +566,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 1,
-        "level": "A1",
-        "module": 1,
-        "module_title": "Presence & Environment",
-        "title": "Morning Table",
-        "visual_scene": "A clean wooden table with a steaming cup of coffee in warm morning sunlight. A chair pulled out beside it.",
-        "natural_english": [
-         "This is a cup.",
-         "Here is coffee.",
-         "It is hot.",
-         "The cup is on the table."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Coffee?",
-          "gesture": "raising the cup slightly"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes. Hot coffee.",
-          "gesture": "nodding"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is a cup.",
-            "Here is coffee.",
-            "It is hot.",
-            "The cup is on the table."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Coffee?",
-            "Yes. Hot coffee."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "on the table"
-         ]
-        }
-       }
+       "line": "This is a cup."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 2,
-        "level": "A1",
-        "module": 1,
-        "module_title": "Presence & Environment",
-        "title": "The Window — Listen & Shadow",
-        "visual_scene": "A large window with white curtains. Outside, a quiet street with one green tree.",
-        "natural_english": [
-         "This is a window.",
-         "The window is big.",
-         "I see a tree.",
-         "The tree is green."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Look. What is that?",
-          "gesture": "pointing outside"
-         },
-         {
-          "speaker": "B",
-          "line": "A tree. A green tree.",
-          "gesture": "looking out"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is a window.",
-            "The window is big.",
-            "I see a tree.",
-            "The tree is green."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Look. What is that?",
-            "A tree. A green tree."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "I see"
-         ]
-        }
-       }
+       "line": "Here is coffee."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is a window."
+      },
+      {
+       "who": "Teacher",
+       "line": "The window is big."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1085,121 +779,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 1,
-        "level": "A1",
-        "module": 1,
-        "module_title": "Presence & Environment",
-        "title": "Morning Table",
-        "visual_scene": "A clean wooden table with a steaming cup of coffee in warm morning sunlight. A chair pulled out beside it.",
-        "natural_english": [
-         "This is a cup.",
-         "Here is coffee.",
-         "It is hot.",
-         "The cup is on the table."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Coffee?",
-          "gesture": "raising the cup slightly"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes. Hot coffee.",
-          "gesture": "nodding"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is a cup.",
-            "Here is coffee.",
-            "It is hot.",
-            "The cup is on the table."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Coffee?",
-            "Yes. Hot coffee."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "on the table"
-         ]
-        }
-       }
+       "line": "This is a cup."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 2,
-        "level": "A1",
-        "module": 1,
-        "module_title": "Presence & Environment",
-        "title": "The Window — Listen & Shadow",
-        "visual_scene": "A large window with white curtains. Outside, a quiet street with one green tree.",
-        "natural_english": [
-         "This is a window.",
-         "The window is big.",
-         "I see a tree.",
-         "The tree is green."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Look. What is that?",
-          "gesture": "pointing outside"
-         },
-         {
-          "speaker": "B",
-          "line": "A tree. A green tree.",
-          "gesture": "looking out"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is a window.",
-            "The window is big.",
-            "I see a tree.",
-            "The tree is green."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Look. What is that?",
-            "A tree. A green tree."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "I see"
-         ]
-        }
-       }
+       "line": "Here is coffee."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is a window."
+      },
+      {
+       "who": "Teacher",
+       "line": "The window is big."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1394,121 +986,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 1,
-        "level": "A1",
-        "module": 1,
-        "module_title": "Presence & Environment",
-        "title": "Morning Table",
-        "visual_scene": "A clean wooden table with a steaming cup of coffee in warm morning sunlight. A chair pulled out beside it.",
-        "natural_english": [
-         "This is a cup.",
-         "Here is coffee.",
-         "It is hot.",
-         "The cup is on the table."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Coffee?",
-          "gesture": "raising the cup slightly"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes. Hot coffee.",
-          "gesture": "nodding"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is a cup.",
-            "Here is coffee.",
-            "It is hot.",
-            "The cup is on the table."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Coffee?",
-            "Yes. Hot coffee."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "on the table"
-         ]
-        }
-       }
+       "line": "This is a cup."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 2,
-        "level": "A1",
-        "module": 1,
-        "module_title": "Presence & Environment",
-        "title": "The Window — Listen & Shadow",
-        "visual_scene": "A large window with white curtains. Outside, a quiet street with one green tree.",
-        "natural_english": [
-         "This is a window.",
-         "The window is big.",
-         "I see a tree.",
-         "The tree is green."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Look. What is that?",
-          "gesture": "pointing outside"
-         },
-         {
-          "speaker": "B",
-          "line": "A tree. A green tree.",
-          "gesture": "looking out"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is a window.",
-            "The window is big.",
-            "I see a tree.",
-            "The tree is green."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Look. What is that?",
-            "A tree. A green tree."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "I see"
-         ]
-        }
-       }
+       "line": "Here is coffee."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is a window."
+      },
+      {
+       "who": "Teacher",
+       "line": "The window is big."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1709,121 +1199,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 1,
-        "level": "A1",
-        "module": 1,
-        "module_title": "Presence & Environment",
-        "title": "Morning Table",
-        "visual_scene": "A clean wooden table with a steaming cup of coffee in warm morning sunlight. A chair pulled out beside it.",
-        "natural_english": [
-         "This is a cup.",
-         "Here is coffee.",
-         "It is hot.",
-         "The cup is on the table."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Coffee?",
-          "gesture": "raising the cup slightly"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes. Hot coffee.",
-          "gesture": "nodding"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is a cup.",
-            "Here is coffee.",
-            "It is hot.",
-            "The cup is on the table."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Coffee?",
-            "Yes. Hot coffee."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "on the table"
-         ]
-        }
-       }
+       "line": "This is a cup."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 2,
-        "level": "A1",
-        "module": 1,
-        "module_title": "Presence & Environment",
-        "title": "The Window — Listen & Shadow",
-        "visual_scene": "A large window with white curtains. Outside, a quiet street with one green tree.",
-        "natural_english": [
-         "This is a window.",
-         "The window is big.",
-         "I see a tree.",
-         "The tree is green."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Look. What is that?",
-          "gesture": "pointing outside"
-         },
-         {
-          "speaker": "B",
-          "line": "A tree. A green tree.",
-          "gesture": "looking out"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is a window.",
-            "The window is big.",
-            "I see a tree.",
-            "The tree is green."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Look. What is that?",
-            "A tree. A green tree."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "I see"
-         ]
-        }
-       }
+       "line": "Here is coffee."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is a window."
+      },
+      {
+       "who": "Teacher",
+       "line": "The window is big."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2025,121 +1413,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 1,
-        "level": "A1",
-        "module": 1,
-        "module_title": "Presence & Environment",
-        "title": "Morning Table",
-        "visual_scene": "A clean wooden table with a steaming cup of coffee in warm morning sunlight. A chair pulled out beside it.",
-        "natural_english": [
-         "This is a cup.",
-         "Here is coffee.",
-         "It is hot.",
-         "The cup is on the table."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Coffee?",
-          "gesture": "raising the cup slightly"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes. Hot coffee.",
-          "gesture": "nodding"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is a cup.",
-            "Here is coffee.",
-            "It is hot.",
-            "The cup is on the table."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Coffee?",
-            "Yes. Hot coffee."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "on the table"
-         ]
-        }
-       }
+       "line": "This is a cup."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 2,
-        "level": "A1",
-        "module": 1,
-        "module_title": "Presence & Environment",
-        "title": "The Window — Listen & Shadow",
-        "visual_scene": "A large window with white curtains. Outside, a quiet street with one green tree.",
-        "natural_english": [
-         "This is a window.",
-         "The window is big.",
-         "I see a tree.",
-         "The tree is green."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Look. What is that?",
-          "gesture": "pointing outside"
-         },
-         {
-          "speaker": "B",
-          "line": "A tree. A green tree.",
-          "gesture": "looking out"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is a window.",
-            "The window is big.",
-            "I see a tree.",
-            "The tree is green."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Look. What is that?",
-            "A tree. A green tree."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "I see"
-         ]
-        }
-       }
+       "line": "Here is coffee."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is a window."
+      },
+      {
+       "who": "Teacher",
+       "line": "The window is big."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2340,121 +1626,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 1,
-        "level": "A1",
-        "module": 1,
-        "module_title": "Presence & Environment",
-        "title": "Morning Table",
-        "visual_scene": "A clean wooden table with a steaming cup of coffee in warm morning sunlight. A chair pulled out beside it.",
-        "natural_english": [
-         "This is a cup.",
-         "Here is coffee.",
-         "It is hot.",
-         "The cup is on the table."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Coffee?",
-          "gesture": "raising the cup slightly"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes. Hot coffee.",
-          "gesture": "nodding"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is a cup.",
-            "Here is coffee.",
-            "It is hot.",
-            "The cup is on the table."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Coffee?",
-            "Yes. Hot coffee."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "on the table"
-         ]
-        }
-       }
+       "line": "This is a cup."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 2,
-        "level": "A1",
-        "module": 1,
-        "module_title": "Presence & Environment",
-        "title": "The Window — Listen & Shadow",
-        "visual_scene": "A large window with white curtains. Outside, a quiet street with one green tree.",
-        "natural_english": [
-         "This is a window.",
-         "The window is big.",
-         "I see a tree.",
-         "The tree is green."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Look. What is that?",
-          "gesture": "pointing outside"
-         },
-         {
-          "speaker": "B",
-          "line": "A tree. A green tree.",
-          "gesture": "looking out"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is a window.",
-            "The window is big.",
-            "I see a tree.",
-            "The tree is green."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Look. What is that?",
-            "A tree. A green tree."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "I see"
-         ]
-        }
-       }
+       "line": "Here is coffee."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is a window."
+      },
+      {
+       "who": "Teacher",
+       "line": "The window is big."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."

@@ -139,121 +139,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 341,
-        "level": "B1",
-        "module": 13,
-        "module_title": "Troubleshooting & Navigation of Problems",
-        "title": "Lost Keys",
-        "visual_scene": "A hallway in mild chaos: cushions on the floor, a bag emptied, one shoe missing.",
-        "natural_english": [
-         "I can't find my keys anywhere.",
-         "I've checked every pocket twice.",
-         "The last time I saw them was at the cafe.",
-         "Wait... they're in my other jacket."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Still looking for the keys?",
-          "gesture": "amused"
-         },
-         {
-          "speaker": "B",
-          "line": "Don't. I've turned the place upside down. Oh. They were in my coat.",
-          "gesture": "defeated, then relieved"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I can't find my keys anywhere.",
-            "I've checked every pocket twice.",
-            "The last time I saw them was at the cafe.",
-            "Wait... they're in my other jacket."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Still looking for the keys?",
-            "Don't. I've turned the place upside down. Oh. They were in my coat."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "turned the place upside down"
-         ]
-        }
-       }
+       "line": "I can't find my keys anywhere."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 342,
-        "level": "B1",
-        "module": 13,
-        "module_title": "Troubleshooting & Navigation of Problems",
-        "title": "The Train Is Delayed — Listen & Shadow",
-        "visual_scene": "A station board flashing DELAYED in orange; passengers sighing in a row.",
-        "natural_english": [
-         "The train's been delayed by forty minutes.",
-         "There's replacement bus service, apparently.",
-         "I'm going to miss my connection.",
-         "I'll notify them and take the next one."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Are you stuck too?",
-          "gesture": "resigned"
-         },
-         {
-          "speaker": "B",
-          "line": "Delay after delay. At this rate, I'll arrive by dinner.",
-          "gesture": "gesturing at the board"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "The train's been delayed by forty minutes.",
-            "There's replacement bus service, apparently.",
-            "I'm going to miss my connection.",
-            "I'll notify them and take the next one."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Are you stuck too?",
-            "Delay after delay. At this rate, I'll arrive by dinner."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "at this rate / replacement service"
-         ]
-        }
-       }
+       "line": "I've checked every pocket twice."
+      },
+      {
+       "who": "Teacher",
+       "line": "The train's been delayed by forty minutes."
+      },
+      {
+       "who": "Teacher",
+       "line": "There's replacement bus service, apparently."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -454,121 +352,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 341,
-        "level": "B1",
-        "module": 13,
-        "module_title": "Troubleshooting & Navigation of Problems",
-        "title": "Lost Keys",
-        "visual_scene": "A hallway in mild chaos: cushions on the floor, a bag emptied, one shoe missing.",
-        "natural_english": [
-         "I can't find my keys anywhere.",
-         "I've checked every pocket twice.",
-         "The last time I saw them was at the cafe.",
-         "Wait... they're in my other jacket."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Still looking for the keys?",
-          "gesture": "amused"
-         },
-         {
-          "speaker": "B",
-          "line": "Don't. I've turned the place upside down. Oh. They were in my coat.",
-          "gesture": "defeated, then relieved"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I can't find my keys anywhere.",
-            "I've checked every pocket twice.",
-            "The last time I saw them was at the cafe.",
-            "Wait... they're in my other jacket."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Still looking for the keys?",
-            "Don't. I've turned the place upside down. Oh. They were in my coat."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "turned the place upside down"
-         ]
-        }
-       }
+       "line": "I can't find my keys anywhere."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 342,
-        "level": "B1",
-        "module": 13,
-        "module_title": "Troubleshooting & Navigation of Problems",
-        "title": "The Train Is Delayed — Listen & Shadow",
-        "visual_scene": "A station board flashing DELAYED in orange; passengers sighing in a row.",
-        "natural_english": [
-         "The train's been delayed by forty minutes.",
-         "There's replacement bus service, apparently.",
-         "I'm going to miss my connection.",
-         "I'll notify them and take the next one."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Are you stuck too?",
-          "gesture": "resigned"
-         },
-         {
-          "speaker": "B",
-          "line": "Delay after delay. At this rate, I'll arrive by dinner.",
-          "gesture": "gesturing at the board"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "The train's been delayed by forty minutes.",
-            "There's replacement bus service, apparently.",
-            "I'm going to miss my connection.",
-            "I'll notify them and take the next one."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Are you stuck too?",
-            "Delay after delay. At this rate, I'll arrive by dinner."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "at this rate / replacement service"
-         ]
-        }
-       }
+       "line": "I've checked every pocket twice."
+      },
+      {
+       "who": "Teacher",
+       "line": "The train's been delayed by forty minutes."
+      },
+      {
+       "who": "Teacher",
+       "line": "There's replacement bus service, apparently."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -770,121 +566,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 341,
-        "level": "B1",
-        "module": 13,
-        "module_title": "Troubleshooting & Navigation of Problems",
-        "title": "Lost Keys",
-        "visual_scene": "A hallway in mild chaos: cushions on the floor, a bag emptied, one shoe missing.",
-        "natural_english": [
-         "I can't find my keys anywhere.",
-         "I've checked every pocket twice.",
-         "The last time I saw them was at the cafe.",
-         "Wait... they're in my other jacket."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Still looking for the keys?",
-          "gesture": "amused"
-         },
-         {
-          "speaker": "B",
-          "line": "Don't. I've turned the place upside down. Oh. They were in my coat.",
-          "gesture": "defeated, then relieved"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I can't find my keys anywhere.",
-            "I've checked every pocket twice.",
-            "The last time I saw them was at the cafe.",
-            "Wait... they're in my other jacket."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Still looking for the keys?",
-            "Don't. I've turned the place upside down. Oh. They were in my coat."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "turned the place upside down"
-         ]
-        }
-       }
+       "line": "I can't find my keys anywhere."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 342,
-        "level": "B1",
-        "module": 13,
-        "module_title": "Troubleshooting & Navigation of Problems",
-        "title": "The Train Is Delayed — Listen & Shadow",
-        "visual_scene": "A station board flashing DELAYED in orange; passengers sighing in a row.",
-        "natural_english": [
-         "The train's been delayed by forty minutes.",
-         "There's replacement bus service, apparently.",
-         "I'm going to miss my connection.",
-         "I'll notify them and take the next one."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Are you stuck too?",
-          "gesture": "resigned"
-         },
-         {
-          "speaker": "B",
-          "line": "Delay after delay. At this rate, I'll arrive by dinner.",
-          "gesture": "gesturing at the board"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "The train's been delayed by forty minutes.",
-            "There's replacement bus service, apparently.",
-            "I'm going to miss my connection.",
-            "I'll notify them and take the next one."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Are you stuck too?",
-            "Delay after delay. At this rate, I'll arrive by dinner."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "at this rate / replacement service"
-         ]
-        }
-       }
+       "line": "I've checked every pocket twice."
+      },
+      {
+       "who": "Teacher",
+       "line": "The train's been delayed by forty minutes."
+      },
+      {
+       "who": "Teacher",
+       "line": "There's replacement bus service, apparently."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1090,121 +784,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 341,
-        "level": "B1",
-        "module": 13,
-        "module_title": "Troubleshooting & Navigation of Problems",
-        "title": "Lost Keys",
-        "visual_scene": "A hallway in mild chaos: cushions on the floor, a bag emptied, one shoe missing.",
-        "natural_english": [
-         "I can't find my keys anywhere.",
-         "I've checked every pocket twice.",
-         "The last time I saw them was at the cafe.",
-         "Wait... they're in my other jacket."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Still looking for the keys?",
-          "gesture": "amused"
-         },
-         {
-          "speaker": "B",
-          "line": "Don't. I've turned the place upside down. Oh. They were in my coat.",
-          "gesture": "defeated, then relieved"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I can't find my keys anywhere.",
-            "I've checked every pocket twice.",
-            "The last time I saw them was at the cafe.",
-            "Wait... they're in my other jacket."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Still looking for the keys?",
-            "Don't. I've turned the place upside down. Oh. They were in my coat."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "turned the place upside down"
-         ]
-        }
-       }
+       "line": "I can't find my keys anywhere."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 342,
-        "level": "B1",
-        "module": 13,
-        "module_title": "Troubleshooting & Navigation of Problems",
-        "title": "The Train Is Delayed — Listen & Shadow",
-        "visual_scene": "A station board flashing DELAYED in orange; passengers sighing in a row.",
-        "natural_english": [
-         "The train's been delayed by forty minutes.",
-         "There's replacement bus service, apparently.",
-         "I'm going to miss my connection.",
-         "I'll notify them and take the next one."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Are you stuck too?",
-          "gesture": "resigned"
-         },
-         {
-          "speaker": "B",
-          "line": "Delay after delay. At this rate, I'll arrive by dinner.",
-          "gesture": "gesturing at the board"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "The train's been delayed by forty minutes.",
-            "There's replacement bus service, apparently.",
-            "I'm going to miss my connection.",
-            "I'll notify them and take the next one."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Are you stuck too?",
-            "Delay after delay. At this rate, I'll arrive by dinner."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "at this rate / replacement service"
-         ]
-        }
-       }
+       "line": "I've checked every pocket twice."
+      },
+      {
+       "who": "Teacher",
+       "line": "The train's been delayed by forty minutes."
+      },
+      {
+       "who": "Teacher",
+       "line": "There's replacement bus service, apparently."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1399,121 +991,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 341,
-        "level": "B1",
-        "module": 13,
-        "module_title": "Troubleshooting & Navigation of Problems",
-        "title": "Lost Keys",
-        "visual_scene": "A hallway in mild chaos: cushions on the floor, a bag emptied, one shoe missing.",
-        "natural_english": [
-         "I can't find my keys anywhere.",
-         "I've checked every pocket twice.",
-         "The last time I saw them was at the cafe.",
-         "Wait... they're in my other jacket."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Still looking for the keys?",
-          "gesture": "amused"
-         },
-         {
-          "speaker": "B",
-          "line": "Don't. I've turned the place upside down. Oh. They were in my coat.",
-          "gesture": "defeated, then relieved"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I can't find my keys anywhere.",
-            "I've checked every pocket twice.",
-            "The last time I saw them was at the cafe.",
-            "Wait... they're in my other jacket."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Still looking for the keys?",
-            "Don't. I've turned the place upside down. Oh. They were in my coat."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "turned the place upside down"
-         ]
-        }
-       }
+       "line": "I can't find my keys anywhere."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 342,
-        "level": "B1",
-        "module": 13,
-        "module_title": "Troubleshooting & Navigation of Problems",
-        "title": "The Train Is Delayed — Listen & Shadow",
-        "visual_scene": "A station board flashing DELAYED in orange; passengers sighing in a row.",
-        "natural_english": [
-         "The train's been delayed by forty minutes.",
-         "There's replacement bus service, apparently.",
-         "I'm going to miss my connection.",
-         "I'll notify them and take the next one."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Are you stuck too?",
-          "gesture": "resigned"
-         },
-         {
-          "speaker": "B",
-          "line": "Delay after delay. At this rate, I'll arrive by dinner.",
-          "gesture": "gesturing at the board"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "The train's been delayed by forty minutes.",
-            "There's replacement bus service, apparently.",
-            "I'm going to miss my connection.",
-            "I'll notify them and take the next one."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Are you stuck too?",
-            "Delay after delay. At this rate, I'll arrive by dinner."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "at this rate / replacement service"
-         ]
-        }
-       }
+       "line": "I've checked every pocket twice."
+      },
+      {
+       "who": "Teacher",
+       "line": "The train's been delayed by forty minutes."
+      },
+      {
+       "who": "Teacher",
+       "line": "There's replacement bus service, apparently."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1714,121 +1204,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 341,
-        "level": "B1",
-        "module": 13,
-        "module_title": "Troubleshooting & Navigation of Problems",
-        "title": "Lost Keys",
-        "visual_scene": "A hallway in mild chaos: cushions on the floor, a bag emptied, one shoe missing.",
-        "natural_english": [
-         "I can't find my keys anywhere.",
-         "I've checked every pocket twice.",
-         "The last time I saw them was at the cafe.",
-         "Wait... they're in my other jacket."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Still looking for the keys?",
-          "gesture": "amused"
-         },
-         {
-          "speaker": "B",
-          "line": "Don't. I've turned the place upside down. Oh. They were in my coat.",
-          "gesture": "defeated, then relieved"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I can't find my keys anywhere.",
-            "I've checked every pocket twice.",
-            "The last time I saw them was at the cafe.",
-            "Wait... they're in my other jacket."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Still looking for the keys?",
-            "Don't. I've turned the place upside down. Oh. They were in my coat."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "turned the place upside down"
-         ]
-        }
-       }
+       "line": "I can't find my keys anywhere."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 342,
-        "level": "B1",
-        "module": 13,
-        "module_title": "Troubleshooting & Navigation of Problems",
-        "title": "The Train Is Delayed — Listen & Shadow",
-        "visual_scene": "A station board flashing DELAYED in orange; passengers sighing in a row.",
-        "natural_english": [
-         "The train's been delayed by forty minutes.",
-         "There's replacement bus service, apparently.",
-         "I'm going to miss my connection.",
-         "I'll notify them and take the next one."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Are you stuck too?",
-          "gesture": "resigned"
-         },
-         {
-          "speaker": "B",
-          "line": "Delay after delay. At this rate, I'll arrive by dinner.",
-          "gesture": "gesturing at the board"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "The train's been delayed by forty minutes.",
-            "There's replacement bus service, apparently.",
-            "I'm going to miss my connection.",
-            "I'll notify them and take the next one."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Are you stuck too?",
-            "Delay after delay. At this rate, I'll arrive by dinner."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "at this rate / replacement service"
-         ]
-        }
-       }
+       "line": "I've checked every pocket twice."
+      },
+      {
+       "who": "Teacher",
+       "line": "The train's been delayed by forty minutes."
+      },
+      {
+       "who": "Teacher",
+       "line": "There's replacement bus service, apparently."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2030,121 +1418,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 341,
-        "level": "B1",
-        "module": 13,
-        "module_title": "Troubleshooting & Navigation of Problems",
-        "title": "Lost Keys",
-        "visual_scene": "A hallway in mild chaos: cushions on the floor, a bag emptied, one shoe missing.",
-        "natural_english": [
-         "I can't find my keys anywhere.",
-         "I've checked every pocket twice.",
-         "The last time I saw them was at the cafe.",
-         "Wait... they're in my other jacket."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Still looking for the keys?",
-          "gesture": "amused"
-         },
-         {
-          "speaker": "B",
-          "line": "Don't. I've turned the place upside down. Oh. They were in my coat.",
-          "gesture": "defeated, then relieved"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I can't find my keys anywhere.",
-            "I've checked every pocket twice.",
-            "The last time I saw them was at the cafe.",
-            "Wait... they're in my other jacket."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Still looking for the keys?",
-            "Don't. I've turned the place upside down. Oh. They were in my coat."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "turned the place upside down"
-         ]
-        }
-       }
+       "line": "I can't find my keys anywhere."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 342,
-        "level": "B1",
-        "module": 13,
-        "module_title": "Troubleshooting & Navigation of Problems",
-        "title": "The Train Is Delayed — Listen & Shadow",
-        "visual_scene": "A station board flashing DELAYED in orange; passengers sighing in a row.",
-        "natural_english": [
-         "The train's been delayed by forty minutes.",
-         "There's replacement bus service, apparently.",
-         "I'm going to miss my connection.",
-         "I'll notify them and take the next one."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Are you stuck too?",
-          "gesture": "resigned"
-         },
-         {
-          "speaker": "B",
-          "line": "Delay after delay. At this rate, I'll arrive by dinner.",
-          "gesture": "gesturing at the board"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "The train's been delayed by forty minutes.",
-            "There's replacement bus service, apparently.",
-            "I'm going to miss my connection.",
-            "I'll notify them and take the next one."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Are you stuck too?",
-            "Delay after delay. At this rate, I'll arrive by dinner."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "at this rate / replacement service"
-         ]
-        }
-       }
+       "line": "I've checked every pocket twice."
+      },
+      {
+       "who": "Teacher",
+       "line": "The train's been delayed by forty minutes."
+      },
+      {
+       "who": "Teacher",
+       "line": "There's replacement bus service, apparently."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2345,121 +1631,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 341,
-        "level": "B1",
-        "module": 13,
-        "module_title": "Troubleshooting & Navigation of Problems",
-        "title": "Lost Keys",
-        "visual_scene": "A hallway in mild chaos: cushions on the floor, a bag emptied, one shoe missing.",
-        "natural_english": [
-         "I can't find my keys anywhere.",
-         "I've checked every pocket twice.",
-         "The last time I saw them was at the cafe.",
-         "Wait... they're in my other jacket."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Still looking for the keys?",
-          "gesture": "amused"
-         },
-         {
-          "speaker": "B",
-          "line": "Don't. I've turned the place upside down. Oh. They were in my coat.",
-          "gesture": "defeated, then relieved"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I can't find my keys anywhere.",
-            "I've checked every pocket twice.",
-            "The last time I saw them was at the cafe.",
-            "Wait... they're in my other jacket."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Still looking for the keys?",
-            "Don't. I've turned the place upside down. Oh. They were in my coat."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "turned the place upside down"
-         ]
-        }
-       }
+       "line": "I can't find my keys anywhere."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 342,
-        "level": "B1",
-        "module": 13,
-        "module_title": "Troubleshooting & Navigation of Problems",
-        "title": "The Train Is Delayed — Listen & Shadow",
-        "visual_scene": "A station board flashing DELAYED in orange; passengers sighing in a row.",
-        "natural_english": [
-         "The train's been delayed by forty minutes.",
-         "There's replacement bus service, apparently.",
-         "I'm going to miss my connection.",
-         "I'll notify them and take the next one."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Are you stuck too?",
-          "gesture": "resigned"
-         },
-         {
-          "speaker": "B",
-          "line": "Delay after delay. At this rate, I'll arrive by dinner.",
-          "gesture": "gesturing at the board"
-         }
-        ],
-        "audio_script": {
-         "pacing": "conversational pace, ~160 wpm, natural contractions, occasional hesitation",
-         "contractions": "Use contractions freely; allow one hesitation marker ('well', 'hmm') before opinions.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "The train's been delayed by forty minutes.",
-            "There's replacement bus service, apparently.",
-            "I'm going to miss my connection.",
-            "I'll notify them and take the next one."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Are you stuck too?",
-            "Delay after delay. At this rate, I'll arrive by dinner."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "at this rate / replacement service"
-         ]
-        }
-       }
+       "line": "I've checked every pocket twice."
+      },
+      {
+       "who": "Teacher",
+       "line": "The train's been delayed by forty minutes."
+      },
+      {
+       "who": "Teacher",
+       "line": "There's replacement bus service, apparently."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."

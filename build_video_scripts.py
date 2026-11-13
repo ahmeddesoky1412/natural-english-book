@@ -156,12 +156,15 @@ def beats_for(p, unit_lines, dlg, kind, recall_lines):
         "audio": [{"who": "Teacher", "line": unit_lines[2] if len(unit_lines) > 2 else unit_lines[0]}],
         "sfx": "Natural room tone.",
     })
-    if recall_lines:
+    recall_flat = []
+    for rl in (recall_lines or [])[:2]:
+        recall_flat.extend(rl["natural_english"][:2] if isinstance(rl, dict) else [rl])
+    if recall_flat:
         b.append({
             "t": "7:00–8:30", "beat": "Spiral recall — yesterday's lines inside today's world",
             "camera": "Same framing as the immersion beat; inserts of the earlier episode allowed.",
             "action": "Teacher weaves lines the child already owns into today's scene, casually, as if remembering them together. Zero testing — pure recognition pleasure.",
-            "audio": [{"who": "Teacher", "line": l} for l in recall_lines],
+            "audio": [{"who": "Teacher", "line": l} for l in recall_flat],
             "sfx": "Gentle 'remember this?' musical tag.",
         })
     b.append({

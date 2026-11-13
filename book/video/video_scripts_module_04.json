@@ -139,121 +139,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 36,
-        "level": "A1",
-        "module": 3,
-        "module_title": "Home & Daily Life",
-        "title": "The Kitchen",
-        "visual_scene": "A small kitchen: a sink, a stove, a kettle, and two mugs drying on a rack.",
-        "natural_english": [
-         "This is the kitchen.",
-         "I cook here.",
-         "The kettle is on the stove.",
-         "The water is hot."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Tea?",
-          "gesture": "lifting the kettle"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes, please. One cup.",
-          "gesture": "getting a mug"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is the kitchen.",
-            "I cook here.",
-            "The kettle is on the stove.",
-            "The water is hot."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Tea?",
-            "Yes, please. One cup."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "kitchen / cook"
-         ]
-        }
-       }
+       "line": "This is the kitchen."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 37,
-        "level": "A1",
-        "module": 3,
-        "module_title": "Home & Daily Life",
-        "title": "In the Fridge — Listen & Shadow",
-        "visual_scene": "An open fridge: milk, eggs, one tomato, half a cheese.",
-        "natural_english": [
-         "This is the fridge.",
-         "The milk is in the fridge.",
-         "The eggs are here.",
-         "The cheese is old."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Where is the milk?",
-          "gesture": "opening the fridge"
-         },
-         {
-          "speaker": "B",
-          "line": "Here. Next to the eggs.",
-          "gesture": "pointing"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is the fridge.",
-            "The milk is in the fridge.",
-            "The eggs are here.",
-            "The cheese is old."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Where is the milk?",
-            "Here. Next to the eggs."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "in / next to"
-         ]
-        }
-       }
+       "line": "I cook here."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is the fridge."
+      },
+      {
+       "who": "Teacher",
+       "line": "The milk is in the fridge."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -454,121 +352,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 36,
-        "level": "A1",
-        "module": 3,
-        "module_title": "Home & Daily Life",
-        "title": "The Kitchen",
-        "visual_scene": "A small kitchen: a sink, a stove, a kettle, and two mugs drying on a rack.",
-        "natural_english": [
-         "This is the kitchen.",
-         "I cook here.",
-         "The kettle is on the stove.",
-         "The water is hot."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Tea?",
-          "gesture": "lifting the kettle"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes, please. One cup.",
-          "gesture": "getting a mug"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is the kitchen.",
-            "I cook here.",
-            "The kettle is on the stove.",
-            "The water is hot."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Tea?",
-            "Yes, please. One cup."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "kitchen / cook"
-         ]
-        }
-       }
+       "line": "This is the kitchen."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 37,
-        "level": "A1",
-        "module": 3,
-        "module_title": "Home & Daily Life",
-        "title": "In the Fridge — Listen & Shadow",
-        "visual_scene": "An open fridge: milk, eggs, one tomato, half a cheese.",
-        "natural_english": [
-         "This is the fridge.",
-         "The milk is in the fridge.",
-         "The eggs are here.",
-         "The cheese is old."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Where is the milk?",
-          "gesture": "opening the fridge"
-         },
-         {
-          "speaker": "B",
-          "line": "Here. Next to the eggs.",
-          "gesture": "pointing"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is the fridge.",
-            "The milk is in the fridge.",
-            "The eggs are here.",
-            "The cheese is old."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Where is the milk?",
-            "Here. Next to the eggs."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "in / next to"
-         ]
-        }
-       }
+       "line": "I cook here."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is the fridge."
+      },
+      {
+       "who": "Teacher",
+       "line": "The milk is in the fridge."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -770,121 +566,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 36,
-        "level": "A1",
-        "module": 3,
-        "module_title": "Home & Daily Life",
-        "title": "The Kitchen",
-        "visual_scene": "A small kitchen: a sink, a stove, a kettle, and two mugs drying on a rack.",
-        "natural_english": [
-         "This is the kitchen.",
-         "I cook here.",
-         "The kettle is on the stove.",
-         "The water is hot."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Tea?",
-          "gesture": "lifting the kettle"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes, please. One cup.",
-          "gesture": "getting a mug"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is the kitchen.",
-            "I cook here.",
-            "The kettle is on the stove.",
-            "The water is hot."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Tea?",
-            "Yes, please. One cup."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "kitchen / cook"
-         ]
-        }
-       }
+       "line": "This is the kitchen."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 37,
-        "level": "A1",
-        "module": 3,
-        "module_title": "Home & Daily Life",
-        "title": "In the Fridge — Listen & Shadow",
-        "visual_scene": "An open fridge: milk, eggs, one tomato, half a cheese.",
-        "natural_english": [
-         "This is the fridge.",
-         "The milk is in the fridge.",
-         "The eggs are here.",
-         "The cheese is old."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Where is the milk?",
-          "gesture": "opening the fridge"
-         },
-         {
-          "speaker": "B",
-          "line": "Here. Next to the eggs.",
-          "gesture": "pointing"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is the fridge.",
-            "The milk is in the fridge.",
-            "The eggs are here.",
-            "The cheese is old."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Where is the milk?",
-            "Here. Next to the eggs."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "in / next to"
-         ]
-        }
-       }
+       "line": "I cook here."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is the fridge."
+      },
+      {
+       "who": "Teacher",
+       "line": "The milk is in the fridge."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1085,121 +779,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 36,
-        "level": "A1",
-        "module": 3,
-        "module_title": "Home & Daily Life",
-        "title": "The Kitchen",
-        "visual_scene": "A small kitchen: a sink, a stove, a kettle, and two mugs drying on a rack.",
-        "natural_english": [
-         "This is the kitchen.",
-         "I cook here.",
-         "The kettle is on the stove.",
-         "The water is hot."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Tea?",
-          "gesture": "lifting the kettle"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes, please. One cup.",
-          "gesture": "getting a mug"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is the kitchen.",
-            "I cook here.",
-            "The kettle is on the stove.",
-            "The water is hot."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Tea?",
-            "Yes, please. One cup."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "kitchen / cook"
-         ]
-        }
-       }
+       "line": "This is the kitchen."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 37,
-        "level": "A1",
-        "module": 3,
-        "module_title": "Home & Daily Life",
-        "title": "In the Fridge — Listen & Shadow",
-        "visual_scene": "An open fridge: milk, eggs, one tomato, half a cheese.",
-        "natural_english": [
-         "This is the fridge.",
-         "The milk is in the fridge.",
-         "The eggs are here.",
-         "The cheese is old."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Where is the milk?",
-          "gesture": "opening the fridge"
-         },
-         {
-          "speaker": "B",
-          "line": "Here. Next to the eggs.",
-          "gesture": "pointing"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is the fridge.",
-            "The milk is in the fridge.",
-            "The eggs are here.",
-            "The cheese is old."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Where is the milk?",
-            "Here. Next to the eggs."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "in / next to"
-         ]
-        }
-       }
+       "line": "I cook here."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is the fridge."
+      },
+      {
+       "who": "Teacher",
+       "line": "The milk is in the fridge."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1394,121 +986,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 36,
-        "level": "A1",
-        "module": 3,
-        "module_title": "Home & Daily Life",
-        "title": "The Kitchen",
-        "visual_scene": "A small kitchen: a sink, a stove, a kettle, and two mugs drying on a rack.",
-        "natural_english": [
-         "This is the kitchen.",
-         "I cook here.",
-         "The kettle is on the stove.",
-         "The water is hot."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Tea?",
-          "gesture": "lifting the kettle"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes, please. One cup.",
-          "gesture": "getting a mug"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is the kitchen.",
-            "I cook here.",
-            "The kettle is on the stove.",
-            "The water is hot."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Tea?",
-            "Yes, please. One cup."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "kitchen / cook"
-         ]
-        }
-       }
+       "line": "This is the kitchen."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 37,
-        "level": "A1",
-        "module": 3,
-        "module_title": "Home & Daily Life",
-        "title": "In the Fridge — Listen & Shadow",
-        "visual_scene": "An open fridge: milk, eggs, one tomato, half a cheese.",
-        "natural_english": [
-         "This is the fridge.",
-         "The milk is in the fridge.",
-         "The eggs are here.",
-         "The cheese is old."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Where is the milk?",
-          "gesture": "opening the fridge"
-         },
-         {
-          "speaker": "B",
-          "line": "Here. Next to the eggs.",
-          "gesture": "pointing"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is the fridge.",
-            "The milk is in the fridge.",
-            "The eggs are here.",
-            "The cheese is old."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Where is the milk?",
-            "Here. Next to the eggs."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "in / next to"
-         ]
-        }
-       }
+       "line": "I cook here."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is the fridge."
+      },
+      {
+       "who": "Teacher",
+       "line": "The milk is in the fridge."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1709,121 +1199,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 36,
-        "level": "A1",
-        "module": 3,
-        "module_title": "Home & Daily Life",
-        "title": "The Kitchen",
-        "visual_scene": "A small kitchen: a sink, a stove, a kettle, and two mugs drying on a rack.",
-        "natural_english": [
-         "This is the kitchen.",
-         "I cook here.",
-         "The kettle is on the stove.",
-         "The water is hot."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Tea?",
-          "gesture": "lifting the kettle"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes, please. One cup.",
-          "gesture": "getting a mug"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is the kitchen.",
-            "I cook here.",
-            "The kettle is on the stove.",
-            "The water is hot."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Tea?",
-            "Yes, please. One cup."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "kitchen / cook"
-         ]
-        }
-       }
+       "line": "This is the kitchen."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 37,
-        "level": "A1",
-        "module": 3,
-        "module_title": "Home & Daily Life",
-        "title": "In the Fridge — Listen & Shadow",
-        "visual_scene": "An open fridge: milk, eggs, one tomato, half a cheese.",
-        "natural_english": [
-         "This is the fridge.",
-         "The milk is in the fridge.",
-         "The eggs are here.",
-         "The cheese is old."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Where is the milk?",
-          "gesture": "opening the fridge"
-         },
-         {
-          "speaker": "B",
-          "line": "Here. Next to the eggs.",
-          "gesture": "pointing"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is the fridge.",
-            "The milk is in the fridge.",
-            "The eggs are here.",
-            "The cheese is old."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Where is the milk?",
-            "Here. Next to the eggs."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "in / next to"
-         ]
-        }
-       }
+       "line": "I cook here."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is the fridge."
+      },
+      {
+       "who": "Teacher",
+       "line": "The milk is in the fridge."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2025,121 +1413,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 36,
-        "level": "A1",
-        "module": 3,
-        "module_title": "Home & Daily Life",
-        "title": "The Kitchen",
-        "visual_scene": "A small kitchen: a sink, a stove, a kettle, and two mugs drying on a rack.",
-        "natural_english": [
-         "This is the kitchen.",
-         "I cook here.",
-         "The kettle is on the stove.",
-         "The water is hot."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Tea?",
-          "gesture": "lifting the kettle"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes, please. One cup.",
-          "gesture": "getting a mug"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is the kitchen.",
-            "I cook here.",
-            "The kettle is on the stove.",
-            "The water is hot."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Tea?",
-            "Yes, please. One cup."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "kitchen / cook"
-         ]
-        }
-       }
+       "line": "This is the kitchen."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 37,
-        "level": "A1",
-        "module": 3,
-        "module_title": "Home & Daily Life",
-        "title": "In the Fridge — Listen & Shadow",
-        "visual_scene": "An open fridge: milk, eggs, one tomato, half a cheese.",
-        "natural_english": [
-         "This is the fridge.",
-         "The milk is in the fridge.",
-         "The eggs are here.",
-         "The cheese is old."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Where is the milk?",
-          "gesture": "opening the fridge"
-         },
-         {
-          "speaker": "B",
-          "line": "Here. Next to the eggs.",
-          "gesture": "pointing"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is the fridge.",
-            "The milk is in the fridge.",
-            "The eggs are here.",
-            "The cheese is old."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Where is the milk?",
-            "Here. Next to the eggs."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "in / next to"
-         ]
-        }
-       }
+       "line": "I cook here."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is the fridge."
+      },
+      {
+       "who": "Teacher",
+       "line": "The milk is in the fridge."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2340,121 +1626,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 36,
-        "level": "A1",
-        "module": 3,
-        "module_title": "Home & Daily Life",
-        "title": "The Kitchen",
-        "visual_scene": "A small kitchen: a sink, a stove, a kettle, and two mugs drying on a rack.",
-        "natural_english": [
-         "This is the kitchen.",
-         "I cook here.",
-         "The kettle is on the stove.",
-         "The water is hot."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Tea?",
-          "gesture": "lifting the kettle"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes, please. One cup.",
-          "gesture": "getting a mug"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is the kitchen.",
-            "I cook here.",
-            "The kettle is on the stove.",
-            "The water is hot."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Tea?",
-            "Yes, please. One cup."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "kitchen / cook"
-         ]
-        }
-       }
+       "line": "This is the kitchen."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 37,
-        "level": "A1",
-        "module": 3,
-        "module_title": "Home & Daily Life",
-        "title": "In the Fridge — Listen & Shadow",
-        "visual_scene": "An open fridge: milk, eggs, one tomato, half a cheese.",
-        "natural_english": [
-         "This is the fridge.",
-         "The milk is in the fridge.",
-         "The eggs are here.",
-         "The cheese is old."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Where is the milk?",
-          "gesture": "opening the fridge"
-         },
-         {
-          "speaker": "B",
-          "line": "Here. Next to the eggs.",
-          "gesture": "pointing"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is the fridge.",
-            "The milk is in the fridge.",
-            "The eggs are here.",
-            "The cheese is old."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Where is the milk?",
-            "Here. Next to the eggs."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "in / next to"
-         ]
-        }
-       }
+       "line": "I cook here."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is the fridge."
+      },
+      {
+       "who": "Teacher",
+       "line": "The milk is in the fridge."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."

@@ -139,121 +139,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 101,
-        "level": "A2",
-        "module": 6,
-        "module_title": "Daily Routines & Habits",
-        "title": "I Wake Up at Seven",
-        "visual_scene": "A bedroom at dawn; an alarm clock reads 7:00 and a hand reaches out to stop it.",
-        "natural_english": [
-         "I wake up at seven.",
-         "First, I check my phone.",
-         "Then I get out of bed.",
-         "I don't jump up. I'm slow in the morning."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "You're up early.",
-          "gesture": "surprised"
-         },
-         {
-          "speaker": "B",
-          "line": "Yeah, I always wake up at seven. Old habit.",
-          "gesture": "stretching"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I wake up at seven.",
-            "First, I check my phone.",
-            "Then I get out of bed.",
-            "I don't jump up. I'm slow in the morning."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "You're up early.",
-            "Yeah, I always wake up at seven. Old habit."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "wake up at + time"
-         ]
-        }
-       }
+       "line": "I wake up at seven."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 102,
-        "level": "A2",
-        "module": 6,
-        "module_title": "Daily Routines & Habits",
-        "title": "Morning Routine — Listen & Shadow",
-        "visual_scene": "Bathroom mirror: a person brushing teeth, washing face, hair still wet.",
-        "natural_english": [
-         "I brush my teeth.",
-         "I take a shower.",
-         "I get dressed in ten minutes.",
-         "I don't eat breakfast at home."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you shower in the morning?",
-          "gesture": "curious"
-         },
-         {
-          "speaker": "B",
-          "line": "Always. I can't start the day without it.",
-          "gesture": "rubbing wet hair"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I brush my teeth.",
-            "I take a shower.",
-            "I get dressed in ten minutes.",
-            "I don't eat breakfast at home."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you shower in the morning?",
-            "Always. I can't start the day without it."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "present simple routines"
-         ]
-        }
-       }
+       "line": "First, I check my phone."
+      },
+      {
+       "who": "Teacher",
+       "line": "I brush my teeth."
+      },
+      {
+       "who": "Teacher",
+       "line": "I take a shower."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -454,121 +352,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 101,
-        "level": "A2",
-        "module": 6,
-        "module_title": "Daily Routines & Habits",
-        "title": "I Wake Up at Seven",
-        "visual_scene": "A bedroom at dawn; an alarm clock reads 7:00 and a hand reaches out to stop it.",
-        "natural_english": [
-         "I wake up at seven.",
-         "First, I check my phone.",
-         "Then I get out of bed.",
-         "I don't jump up. I'm slow in the morning."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "You're up early.",
-          "gesture": "surprised"
-         },
-         {
-          "speaker": "B",
-          "line": "Yeah, I always wake up at seven. Old habit.",
-          "gesture": "stretching"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I wake up at seven.",
-            "First, I check my phone.",
-            "Then I get out of bed.",
-            "I don't jump up. I'm slow in the morning."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "You're up early.",
-            "Yeah, I always wake up at seven. Old habit."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "wake up at + time"
-         ]
-        }
-       }
+       "line": "I wake up at seven."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 102,
-        "level": "A2",
-        "module": 6,
-        "module_title": "Daily Routines & Habits",
-        "title": "Morning Routine — Listen & Shadow",
-        "visual_scene": "Bathroom mirror: a person brushing teeth, washing face, hair still wet.",
-        "natural_english": [
-         "I brush my teeth.",
-         "I take a shower.",
-         "I get dressed in ten minutes.",
-         "I don't eat breakfast at home."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you shower in the morning?",
-          "gesture": "curious"
-         },
-         {
-          "speaker": "B",
-          "line": "Always. I can't start the day without it.",
-          "gesture": "rubbing wet hair"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I brush my teeth.",
-            "I take a shower.",
-            "I get dressed in ten minutes.",
-            "I don't eat breakfast at home."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you shower in the morning?",
-            "Always. I can't start the day without it."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "present simple routines"
-         ]
-        }
-       }
+       "line": "First, I check my phone."
+      },
+      {
+       "who": "Teacher",
+       "line": "I brush my teeth."
+      },
+      {
+       "who": "Teacher",
+       "line": "I take a shower."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -770,121 +566,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 101,
-        "level": "A2",
-        "module": 6,
-        "module_title": "Daily Routines & Habits",
-        "title": "I Wake Up at Seven",
-        "visual_scene": "A bedroom at dawn; an alarm clock reads 7:00 and a hand reaches out to stop it.",
-        "natural_english": [
-         "I wake up at seven.",
-         "First, I check my phone.",
-         "Then I get out of bed.",
-         "I don't jump up. I'm slow in the morning."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "You're up early.",
-          "gesture": "surprised"
-         },
-         {
-          "speaker": "B",
-          "line": "Yeah, I always wake up at seven. Old habit.",
-          "gesture": "stretching"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I wake up at seven.",
-            "First, I check my phone.",
-            "Then I get out of bed.",
-            "I don't jump up. I'm slow in the morning."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "You're up early.",
-            "Yeah, I always wake up at seven. Old habit."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "wake up at + time"
-         ]
-        }
-       }
+       "line": "I wake up at seven."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 102,
-        "level": "A2",
-        "module": 6,
-        "module_title": "Daily Routines & Habits",
-        "title": "Morning Routine — Listen & Shadow",
-        "visual_scene": "Bathroom mirror: a person brushing teeth, washing face, hair still wet.",
-        "natural_english": [
-         "I brush my teeth.",
-         "I take a shower.",
-         "I get dressed in ten minutes.",
-         "I don't eat breakfast at home."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you shower in the morning?",
-          "gesture": "curious"
-         },
-         {
-          "speaker": "B",
-          "line": "Always. I can't start the day without it.",
-          "gesture": "rubbing wet hair"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I brush my teeth.",
-            "I take a shower.",
-            "I get dressed in ten minutes.",
-            "I don't eat breakfast at home."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you shower in the morning?",
-            "Always. I can't start the day without it."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "present simple routines"
-         ]
-        }
-       }
+       "line": "First, I check my phone."
+      },
+      {
+       "who": "Teacher",
+       "line": "I brush my teeth."
+      },
+      {
+       "who": "Teacher",
+       "line": "I take a shower."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1085,121 +779,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 101,
-        "level": "A2",
-        "module": 6,
-        "module_title": "Daily Routines & Habits",
-        "title": "I Wake Up at Seven",
-        "visual_scene": "A bedroom at dawn; an alarm clock reads 7:00 and a hand reaches out to stop it.",
-        "natural_english": [
-         "I wake up at seven.",
-         "First, I check my phone.",
-         "Then I get out of bed.",
-         "I don't jump up. I'm slow in the morning."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "You're up early.",
-          "gesture": "surprised"
-         },
-         {
-          "speaker": "B",
-          "line": "Yeah, I always wake up at seven. Old habit.",
-          "gesture": "stretching"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I wake up at seven.",
-            "First, I check my phone.",
-            "Then I get out of bed.",
-            "I don't jump up. I'm slow in the morning."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "You're up early.",
-            "Yeah, I always wake up at seven. Old habit."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "wake up at + time"
-         ]
-        }
-       }
+       "line": "I wake up at seven."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 102,
-        "level": "A2",
-        "module": 6,
-        "module_title": "Daily Routines & Habits",
-        "title": "Morning Routine — Listen & Shadow",
-        "visual_scene": "Bathroom mirror: a person brushing teeth, washing face, hair still wet.",
-        "natural_english": [
-         "I brush my teeth.",
-         "I take a shower.",
-         "I get dressed in ten minutes.",
-         "I don't eat breakfast at home."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you shower in the morning?",
-          "gesture": "curious"
-         },
-         {
-          "speaker": "B",
-          "line": "Always. I can't start the day without it.",
-          "gesture": "rubbing wet hair"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I brush my teeth.",
-            "I take a shower.",
-            "I get dressed in ten minutes.",
-            "I don't eat breakfast at home."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you shower in the morning?",
-            "Always. I can't start the day without it."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "present simple routines"
-         ]
-        }
-       }
+       "line": "First, I check my phone."
+      },
+      {
+       "who": "Teacher",
+       "line": "I brush my teeth."
+      },
+      {
+       "who": "Teacher",
+       "line": "I take a shower."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1394,121 +986,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 101,
-        "level": "A2",
-        "module": 6,
-        "module_title": "Daily Routines & Habits",
-        "title": "I Wake Up at Seven",
-        "visual_scene": "A bedroom at dawn; an alarm clock reads 7:00 and a hand reaches out to stop it.",
-        "natural_english": [
-         "I wake up at seven.",
-         "First, I check my phone.",
-         "Then I get out of bed.",
-         "I don't jump up. I'm slow in the morning."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "You're up early.",
-          "gesture": "surprised"
-         },
-         {
-          "speaker": "B",
-          "line": "Yeah, I always wake up at seven. Old habit.",
-          "gesture": "stretching"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I wake up at seven.",
-            "First, I check my phone.",
-            "Then I get out of bed.",
-            "I don't jump up. I'm slow in the morning."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "You're up early.",
-            "Yeah, I always wake up at seven. Old habit."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "wake up at + time"
-         ]
-        }
-       }
+       "line": "I wake up at seven."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 102,
-        "level": "A2",
-        "module": 6,
-        "module_title": "Daily Routines & Habits",
-        "title": "Morning Routine — Listen & Shadow",
-        "visual_scene": "Bathroom mirror: a person brushing teeth, washing face, hair still wet.",
-        "natural_english": [
-         "I brush my teeth.",
-         "I take a shower.",
-         "I get dressed in ten minutes.",
-         "I don't eat breakfast at home."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you shower in the morning?",
-          "gesture": "curious"
-         },
-         {
-          "speaker": "B",
-          "line": "Always. I can't start the day without it.",
-          "gesture": "rubbing wet hair"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I brush my teeth.",
-            "I take a shower.",
-            "I get dressed in ten minutes.",
-            "I don't eat breakfast at home."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you shower in the morning?",
-            "Always. I can't start the day without it."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "present simple routines"
-         ]
-        }
-       }
+       "line": "First, I check my phone."
+      },
+      {
+       "who": "Teacher",
+       "line": "I brush my teeth."
+      },
+      {
+       "who": "Teacher",
+       "line": "I take a shower."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1709,121 +1199,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 101,
-        "level": "A2",
-        "module": 6,
-        "module_title": "Daily Routines & Habits",
-        "title": "I Wake Up at Seven",
-        "visual_scene": "A bedroom at dawn; an alarm clock reads 7:00 and a hand reaches out to stop it.",
-        "natural_english": [
-         "I wake up at seven.",
-         "First, I check my phone.",
-         "Then I get out of bed.",
-         "I don't jump up. I'm slow in the morning."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "You're up early.",
-          "gesture": "surprised"
-         },
-         {
-          "speaker": "B",
-          "line": "Yeah, I always wake up at seven. Old habit.",
-          "gesture": "stretching"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I wake up at seven.",
-            "First, I check my phone.",
-            "Then I get out of bed.",
-            "I don't jump up. I'm slow in the morning."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "You're up early.",
-            "Yeah, I always wake up at seven. Old habit."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "wake up at + time"
-         ]
-        }
-       }
+       "line": "I wake up at seven."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 102,
-        "level": "A2",
-        "module": 6,
-        "module_title": "Daily Routines & Habits",
-        "title": "Morning Routine — Listen & Shadow",
-        "visual_scene": "Bathroom mirror: a person brushing teeth, washing face, hair still wet.",
-        "natural_english": [
-         "I brush my teeth.",
-         "I take a shower.",
-         "I get dressed in ten minutes.",
-         "I don't eat breakfast at home."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you shower in the morning?",
-          "gesture": "curious"
-         },
-         {
-          "speaker": "B",
-          "line": "Always. I can't start the day without it.",
-          "gesture": "rubbing wet hair"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I brush my teeth.",
-            "I take a shower.",
-            "I get dressed in ten minutes.",
-            "I don't eat breakfast at home."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you shower in the morning?",
-            "Always. I can't start the day without it."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "present simple routines"
-         ]
-        }
-       }
+       "line": "First, I check my phone."
+      },
+      {
+       "who": "Teacher",
+       "line": "I brush my teeth."
+      },
+      {
+       "who": "Teacher",
+       "line": "I take a shower."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2025,121 +1413,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 101,
-        "level": "A2",
-        "module": 6,
-        "module_title": "Daily Routines & Habits",
-        "title": "I Wake Up at Seven",
-        "visual_scene": "A bedroom at dawn; an alarm clock reads 7:00 and a hand reaches out to stop it.",
-        "natural_english": [
-         "I wake up at seven.",
-         "First, I check my phone.",
-         "Then I get out of bed.",
-         "I don't jump up. I'm slow in the morning."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "You're up early.",
-          "gesture": "surprised"
-         },
-         {
-          "speaker": "B",
-          "line": "Yeah, I always wake up at seven. Old habit.",
-          "gesture": "stretching"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I wake up at seven.",
-            "First, I check my phone.",
-            "Then I get out of bed.",
-            "I don't jump up. I'm slow in the morning."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "You're up early.",
-            "Yeah, I always wake up at seven. Old habit."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "wake up at + time"
-         ]
-        }
-       }
+       "line": "I wake up at seven."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 102,
-        "level": "A2",
-        "module": 6,
-        "module_title": "Daily Routines & Habits",
-        "title": "Morning Routine — Listen & Shadow",
-        "visual_scene": "Bathroom mirror: a person brushing teeth, washing face, hair still wet.",
-        "natural_english": [
-         "I brush my teeth.",
-         "I take a shower.",
-         "I get dressed in ten minutes.",
-         "I don't eat breakfast at home."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you shower in the morning?",
-          "gesture": "curious"
-         },
-         {
-          "speaker": "B",
-          "line": "Always. I can't start the day without it.",
-          "gesture": "rubbing wet hair"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I brush my teeth.",
-            "I take a shower.",
-            "I get dressed in ten minutes.",
-            "I don't eat breakfast at home."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you shower in the morning?",
-            "Always. I can't start the day without it."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "present simple routines"
-         ]
-        }
-       }
+       "line": "First, I check my phone."
+      },
+      {
+       "who": "Teacher",
+       "line": "I brush my teeth."
+      },
+      {
+       "who": "Teacher",
+       "line": "I take a shower."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2340,121 +1626,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 101,
-        "level": "A2",
-        "module": 6,
-        "module_title": "Daily Routines & Habits",
-        "title": "I Wake Up at Seven",
-        "visual_scene": "A bedroom at dawn; an alarm clock reads 7:00 and a hand reaches out to stop it.",
-        "natural_english": [
-         "I wake up at seven.",
-         "First, I check my phone.",
-         "Then I get out of bed.",
-         "I don't jump up. I'm slow in the morning."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "You're up early.",
-          "gesture": "surprised"
-         },
-         {
-          "speaker": "B",
-          "line": "Yeah, I always wake up at seven. Old habit.",
-          "gesture": "stretching"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I wake up at seven.",
-            "First, I check my phone.",
-            "Then I get out of bed.",
-            "I don't jump up. I'm slow in the morning."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "You're up early.",
-            "Yeah, I always wake up at seven. Old habit."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "wake up at + time"
-         ]
-        }
-       }
+       "line": "I wake up at seven."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 102,
-        "level": "A2",
-        "module": 6,
-        "module_title": "Daily Routines & Habits",
-        "title": "Morning Routine — Listen & Shadow",
-        "visual_scene": "Bathroom mirror: a person brushing teeth, washing face, hair still wet.",
-        "natural_english": [
-         "I brush my teeth.",
-         "I take a shower.",
-         "I get dressed in ten minutes.",
-         "I don't eat breakfast at home."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Do you shower in the morning?",
-          "gesture": "curious"
-         },
-         {
-          "speaker": "B",
-          "line": "Always. I can't start the day without it.",
-          "gesture": "rubbing wet hair"
-         }
-        ],
-        "audio_script": {
-         "pacing": "relaxed natural pace, ~140 wpm, light contractions, brief natural pauses",
-         "contractions": "Use common contractions: I'm, don't, it's, can't.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "I brush my teeth.",
-            "I take a shower.",
-            "I get dressed in ten minutes.",
-            "I don't eat breakfast at home."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Do you shower in the morning?",
-            "Always. I can't start the day without it."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "present simple routines"
-         ]
-        }
-       }
+       "line": "First, I check my phone."
+      },
+      {
+       "who": "Teacher",
+       "line": "I brush my teeth."
+      },
+      {
+       "who": "Teacher",
+       "line": "I take a shower."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."

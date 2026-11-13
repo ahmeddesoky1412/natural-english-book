@@ -139,121 +139,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 476,
-        "level": "B2",
-        "module": 16,
-        "module_title": "Abstract Concepts & Debates",
-        "title": "The Price of Convenience",
-        "visual_scene": "A doorstep stacked with delivery boxes, one torn, a scooter idling at the curb.",
-        "natural_english": [
-         "Convenience has a cost; we just don't see the invoice.",
-         "Every delivery has a footprint, however small it feels.",
-         "I'm not against it. I just think we should price it honestly.",
-         "The question isn't whether to use it, but how much."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Isn't same-day delivery amazing?",
-          "gesture": "unboxing"
-         },
-         {
-          "speaker": "B",
-          "line": "It is. And it's also a hundred small trucks we never think about.",
-          "gesture": "folding the box flat"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Convenience has a cost; we just don't see the invoice.",
-            "Every delivery has a footprint, however small it feels.",
-            "I'm not against it. I just think we should price it honestly.",
-            "The question isn't whether to use it, but how much."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Isn't same-day delivery amazing?",
-            "It is. And it's also a hundred small trucks we never think about."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "price it honestly"
-         ]
-        }
-       }
+       "line": "Convenience has a cost; we just don't see the invoice."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 477,
-        "level": "B2",
-        "module": 16,
-        "module_title": "Abstract Concepts & Debates",
-        "title": "Who Owns the Data? — Listen & Shadow",
-        "visual_scene": "A phone settings screen: dozens of toggles, most switched to 'allow'.",
-        "natural_english": [
-         "If the service is free, you're not the customer; you're the product.",
-         "Data is labor, in a sense. We generate it; companies refine it.",
-         "Consent screens are designed to be skipped.",
-         "Real consent would be boring and rare."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "I've got nothing to hide, so why care?",
-          "gesture": "scrolling"
-         },
-         {
-          "speaker": "B",
-          "line": "It's less about hiding and more about who profits from predicting you.",
-          "gesture": "turning the phone face down"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "If the service is free, you're not the customer; you're the product.",
-            "Data is labor, in a sense. We generate it; companies refine it.",
-            "Consent screens are designed to be skipped.",
-            "Real consent would be boring and rare."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "I've got nothing to hide, so why care?",
-            "It's less about hiding and more about who profits from predicting you."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "you're the product"
-         ]
-        }
-       }
+       "line": "Every delivery has a footprint, however small it feels."
+      },
+      {
+       "who": "Teacher",
+       "line": "If the service is free, you're not the customer; you're the product."
+      },
+      {
+       "who": "Teacher",
+       "line": "Data is labor, in a sense. We generate it; companies refine it."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -454,121 +352,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 476,
-        "level": "B2",
-        "module": 16,
-        "module_title": "Abstract Concepts & Debates",
-        "title": "The Price of Convenience",
-        "visual_scene": "A doorstep stacked with delivery boxes, one torn, a scooter idling at the curb.",
-        "natural_english": [
-         "Convenience has a cost; we just don't see the invoice.",
-         "Every delivery has a footprint, however small it feels.",
-         "I'm not against it. I just think we should price it honestly.",
-         "The question isn't whether to use it, but how much."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Isn't same-day delivery amazing?",
-          "gesture": "unboxing"
-         },
-         {
-          "speaker": "B",
-          "line": "It is. And it's also a hundred small trucks we never think about.",
-          "gesture": "folding the box flat"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Convenience has a cost; we just don't see the invoice.",
-            "Every delivery has a footprint, however small it feels.",
-            "I'm not against it. I just think we should price it honestly.",
-            "The question isn't whether to use it, but how much."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Isn't same-day delivery amazing?",
-            "It is. And it's also a hundred small trucks we never think about."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "price it honestly"
-         ]
-        }
-       }
+       "line": "Convenience has a cost; we just don't see the invoice."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 477,
-        "level": "B2",
-        "module": 16,
-        "module_title": "Abstract Concepts & Debates",
-        "title": "Who Owns the Data? — Listen & Shadow",
-        "visual_scene": "A phone settings screen: dozens of toggles, most switched to 'allow'.",
-        "natural_english": [
-         "If the service is free, you're not the customer; you're the product.",
-         "Data is labor, in a sense. We generate it; companies refine it.",
-         "Consent screens are designed to be skipped.",
-         "Real consent would be boring and rare."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "I've got nothing to hide, so why care?",
-          "gesture": "scrolling"
-         },
-         {
-          "speaker": "B",
-          "line": "It's less about hiding and more about who profits from predicting you.",
-          "gesture": "turning the phone face down"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "If the service is free, you're not the customer; you're the product.",
-            "Data is labor, in a sense. We generate it; companies refine it.",
-            "Consent screens are designed to be skipped.",
-            "Real consent would be boring and rare."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "I've got nothing to hide, so why care?",
-            "It's less about hiding and more about who profits from predicting you."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "you're the product"
-         ]
-        }
-       }
+       "line": "Every delivery has a footprint, however small it feels."
+      },
+      {
+       "who": "Teacher",
+       "line": "If the service is free, you're not the customer; you're the product."
+      },
+      {
+       "who": "Teacher",
+       "line": "Data is labor, in a sense. We generate it; companies refine it."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -770,121 +566,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 476,
-        "level": "B2",
-        "module": 16,
-        "module_title": "Abstract Concepts & Debates",
-        "title": "The Price of Convenience",
-        "visual_scene": "A doorstep stacked with delivery boxes, one torn, a scooter idling at the curb.",
-        "natural_english": [
-         "Convenience has a cost; we just don't see the invoice.",
-         "Every delivery has a footprint, however small it feels.",
-         "I'm not against it. I just think we should price it honestly.",
-         "The question isn't whether to use it, but how much."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Isn't same-day delivery amazing?",
-          "gesture": "unboxing"
-         },
-         {
-          "speaker": "B",
-          "line": "It is. And it's also a hundred small trucks we never think about.",
-          "gesture": "folding the box flat"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Convenience has a cost; we just don't see the invoice.",
-            "Every delivery has a footprint, however small it feels.",
-            "I'm not against it. I just think we should price it honestly.",
-            "The question isn't whether to use it, but how much."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Isn't same-day delivery amazing?",
-            "It is. And it's also a hundred small trucks we never think about."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "price it honestly"
-         ]
-        }
-       }
+       "line": "Convenience has a cost; we just don't see the invoice."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 477,
-        "level": "B2",
-        "module": 16,
-        "module_title": "Abstract Concepts & Debates",
-        "title": "Who Owns the Data? — Listen & Shadow",
-        "visual_scene": "A phone settings screen: dozens of toggles, most switched to 'allow'.",
-        "natural_english": [
-         "If the service is free, you're not the customer; you're the product.",
-         "Data is labor, in a sense. We generate it; companies refine it.",
-         "Consent screens are designed to be skipped.",
-         "Real consent would be boring and rare."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "I've got nothing to hide, so why care?",
-          "gesture": "scrolling"
-         },
-         {
-          "speaker": "B",
-          "line": "It's less about hiding and more about who profits from predicting you.",
-          "gesture": "turning the phone face down"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "If the service is free, you're not the customer; you're the product.",
-            "Data is labor, in a sense. We generate it; companies refine it.",
-            "Consent screens are designed to be skipped.",
-            "Real consent would be boring and rare."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "I've got nothing to hide, so why care?",
-            "It's less about hiding and more about who profits from predicting you."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "you're the product"
-         ]
-        }
-       }
+       "line": "Every delivery has a footprint, however small it feels."
+      },
+      {
+       "who": "Teacher",
+       "line": "If the service is free, you're not the customer; you're the product."
+      },
+      {
+       "who": "Teacher",
+       "line": "Data is labor, in a sense. We generate it; companies refine it."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1085,121 +779,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 476,
-        "level": "B2",
-        "module": 16,
-        "module_title": "Abstract Concepts & Debates",
-        "title": "The Price of Convenience",
-        "visual_scene": "A doorstep stacked with delivery boxes, one torn, a scooter idling at the curb.",
-        "natural_english": [
-         "Convenience has a cost; we just don't see the invoice.",
-         "Every delivery has a footprint, however small it feels.",
-         "I'm not against it. I just think we should price it honestly.",
-         "The question isn't whether to use it, but how much."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Isn't same-day delivery amazing?",
-          "gesture": "unboxing"
-         },
-         {
-          "speaker": "B",
-          "line": "It is. And it's also a hundred small trucks we never think about.",
-          "gesture": "folding the box flat"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Convenience has a cost; we just don't see the invoice.",
-            "Every delivery has a footprint, however small it feels.",
-            "I'm not against it. I just think we should price it honestly.",
-            "The question isn't whether to use it, but how much."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Isn't same-day delivery amazing?",
-            "It is. And it's also a hundred small trucks we never think about."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "price it honestly"
-         ]
-        }
-       }
+       "line": "Convenience has a cost; we just don't see the invoice."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 477,
-        "level": "B2",
-        "module": 16,
-        "module_title": "Abstract Concepts & Debates",
-        "title": "Who Owns the Data? — Listen & Shadow",
-        "visual_scene": "A phone settings screen: dozens of toggles, most switched to 'allow'.",
-        "natural_english": [
-         "If the service is free, you're not the customer; you're the product.",
-         "Data is labor, in a sense. We generate it; companies refine it.",
-         "Consent screens are designed to be skipped.",
-         "Real consent would be boring and rare."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "I've got nothing to hide, so why care?",
-          "gesture": "scrolling"
-         },
-         {
-          "speaker": "B",
-          "line": "It's less about hiding and more about who profits from predicting you.",
-          "gesture": "turning the phone face down"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "If the service is free, you're not the customer; you're the product.",
-            "Data is labor, in a sense. We generate it; companies refine it.",
-            "Consent screens are designed to be skipped.",
-            "Real consent would be boring and rare."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "I've got nothing to hide, so why care?",
-            "It's less about hiding and more about who profits from predicting you."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "you're the product"
-         ]
-        }
-       }
+       "line": "Every delivery has a footprint, however small it feels."
+      },
+      {
+       "who": "Teacher",
+       "line": "If the service is free, you're not the customer; you're the product."
+      },
+      {
+       "who": "Teacher",
+       "line": "Data is labor, in a sense. We generate it; companies refine it."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1394,121 +986,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 476,
-        "level": "B2",
-        "module": 16,
-        "module_title": "Abstract Concepts & Debates",
-        "title": "The Price of Convenience",
-        "visual_scene": "A doorstep stacked with delivery boxes, one torn, a scooter idling at the curb.",
-        "natural_english": [
-         "Convenience has a cost; we just don't see the invoice.",
-         "Every delivery has a footprint, however small it feels.",
-         "I'm not against it. I just think we should price it honestly.",
-         "The question isn't whether to use it, but how much."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Isn't same-day delivery amazing?",
-          "gesture": "unboxing"
-         },
-         {
-          "speaker": "B",
-          "line": "It is. And it's also a hundred small trucks we never think about.",
-          "gesture": "folding the box flat"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Convenience has a cost; we just don't see the invoice.",
-            "Every delivery has a footprint, however small it feels.",
-            "I'm not against it. I just think we should price it honestly.",
-            "The question isn't whether to use it, but how much."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Isn't same-day delivery amazing?",
-            "It is. And it's also a hundred small trucks we never think about."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "price it honestly"
-         ]
-        }
-       }
+       "line": "Convenience has a cost; we just don't see the invoice."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 477,
-        "level": "B2",
-        "module": 16,
-        "module_title": "Abstract Concepts & Debates",
-        "title": "Who Owns the Data? — Listen & Shadow",
-        "visual_scene": "A phone settings screen: dozens of toggles, most switched to 'allow'.",
-        "natural_english": [
-         "If the service is free, you're not the customer; you're the product.",
-         "Data is labor, in a sense. We generate it; companies refine it.",
-         "Consent screens are designed to be skipped.",
-         "Real consent would be boring and rare."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "I've got nothing to hide, so why care?",
-          "gesture": "scrolling"
-         },
-         {
-          "speaker": "B",
-          "line": "It's less about hiding and more about who profits from predicting you.",
-          "gesture": "turning the phone face down"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "If the service is free, you're not the customer; you're the product.",
-            "Data is labor, in a sense. We generate it; companies refine it.",
-            "Consent screens are designed to be skipped.",
-            "Real consent would be boring and rare."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "I've got nothing to hide, so why care?",
-            "It's less about hiding and more about who profits from predicting you."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "you're the product"
-         ]
-        }
-       }
+       "line": "Every delivery has a footprint, however small it feels."
+      },
+      {
+       "who": "Teacher",
+       "line": "If the service is free, you're not the customer; you're the product."
+      },
+      {
+       "who": "Teacher",
+       "line": "Data is labor, in a sense. We generate it; companies refine it."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1709,121 +1199,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 476,
-        "level": "B2",
-        "module": 16,
-        "module_title": "Abstract Concepts & Debates",
-        "title": "The Price of Convenience",
-        "visual_scene": "A doorstep stacked with delivery boxes, one torn, a scooter idling at the curb.",
-        "natural_english": [
-         "Convenience has a cost; we just don't see the invoice.",
-         "Every delivery has a footprint, however small it feels.",
-         "I'm not against it. I just think we should price it honestly.",
-         "The question isn't whether to use it, but how much."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Isn't same-day delivery amazing?",
-          "gesture": "unboxing"
-         },
-         {
-          "speaker": "B",
-          "line": "It is. And it's also a hundred small trucks we never think about.",
-          "gesture": "folding the box flat"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Convenience has a cost; we just don't see the invoice.",
-            "Every delivery has a footprint, however small it feels.",
-            "I'm not against it. I just think we should price it honestly.",
-            "The question isn't whether to use it, but how much."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Isn't same-day delivery amazing?",
-            "It is. And it's also a hundred small trucks we never think about."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "price it honestly"
-         ]
-        }
-       }
+       "line": "Convenience has a cost; we just don't see the invoice."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 477,
-        "level": "B2",
-        "module": 16,
-        "module_title": "Abstract Concepts & Debates",
-        "title": "Who Owns the Data? — Listen & Shadow",
-        "visual_scene": "A phone settings screen: dozens of toggles, most switched to 'allow'.",
-        "natural_english": [
-         "If the service is free, you're not the customer; you're the product.",
-         "Data is labor, in a sense. We generate it; companies refine it.",
-         "Consent screens are designed to be skipped.",
-         "Real consent would be boring and rare."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "I've got nothing to hide, so why care?",
-          "gesture": "scrolling"
-         },
-         {
-          "speaker": "B",
-          "line": "It's less about hiding and more about who profits from predicting you.",
-          "gesture": "turning the phone face down"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "If the service is free, you're not the customer; you're the product.",
-            "Data is labor, in a sense. We generate it; companies refine it.",
-            "Consent screens are designed to be skipped.",
-            "Real consent would be boring and rare."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "I've got nothing to hide, so why care?",
-            "It's less about hiding and more about who profits from predicting you."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "you're the product"
-         ]
-        }
-       }
+       "line": "Every delivery has a footprint, however small it feels."
+      },
+      {
+       "who": "Teacher",
+       "line": "If the service is free, you're not the customer; you're the product."
+      },
+      {
+       "who": "Teacher",
+       "line": "Data is labor, in a sense. We generate it; companies refine it."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2025,121 +1413,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 476,
-        "level": "B2",
-        "module": 16,
-        "module_title": "Abstract Concepts & Debates",
-        "title": "The Price of Convenience",
-        "visual_scene": "A doorstep stacked with delivery boxes, one torn, a scooter idling at the curb.",
-        "natural_english": [
-         "Convenience has a cost; we just don't see the invoice.",
-         "Every delivery has a footprint, however small it feels.",
-         "I'm not against it. I just think we should price it honestly.",
-         "The question isn't whether to use it, but how much."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Isn't same-day delivery amazing?",
-          "gesture": "unboxing"
-         },
-         {
-          "speaker": "B",
-          "line": "It is. And it's also a hundred small trucks we never think about.",
-          "gesture": "folding the box flat"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Convenience has a cost; we just don't see the invoice.",
-            "Every delivery has a footprint, however small it feels.",
-            "I'm not against it. I just think we should price it honestly.",
-            "The question isn't whether to use it, but how much."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Isn't same-day delivery amazing?",
-            "It is. And it's also a hundred small trucks we never think about."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "price it honestly"
-         ]
-        }
-       }
+       "line": "Convenience has a cost; we just don't see the invoice."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 477,
-        "level": "B2",
-        "module": 16,
-        "module_title": "Abstract Concepts & Debates",
-        "title": "Who Owns the Data? — Listen & Shadow",
-        "visual_scene": "A phone settings screen: dozens of toggles, most switched to 'allow'.",
-        "natural_english": [
-         "If the service is free, you're not the customer; you're the product.",
-         "Data is labor, in a sense. We generate it; companies refine it.",
-         "Consent screens are designed to be skipped.",
-         "Real consent would be boring and rare."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "I've got nothing to hide, so why care?",
-          "gesture": "scrolling"
-         },
-         {
-          "speaker": "B",
-          "line": "It's less about hiding and more about who profits from predicting you.",
-          "gesture": "turning the phone face down"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "If the service is free, you're not the customer; you're the product.",
-            "Data is labor, in a sense. We generate it; companies refine it.",
-            "Consent screens are designed to be skipped.",
-            "Real consent would be boring and rare."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "I've got nothing to hide, so why care?",
-            "It's less about hiding and more about who profits from predicting you."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "you're the product"
-         ]
-        }
-       }
+       "line": "Every delivery has a footprint, however small it feels."
+      },
+      {
+       "who": "Teacher",
+       "line": "If the service is free, you're not the customer; you're the product."
+      },
+      {
+       "who": "Teacher",
+       "line": "Data is labor, in a sense. We generate it; companies refine it."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2340,121 +1626,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 476,
-        "level": "B2",
-        "module": 16,
-        "module_title": "Abstract Concepts & Debates",
-        "title": "The Price of Convenience",
-        "visual_scene": "A doorstep stacked with delivery boxes, one torn, a scooter idling at the curb.",
-        "natural_english": [
-         "Convenience has a cost; we just don't see the invoice.",
-         "Every delivery has a footprint, however small it feels.",
-         "I'm not against it. I just think we should price it honestly.",
-         "The question isn't whether to use it, but how much."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Isn't same-day delivery amazing?",
-          "gesture": "unboxing"
-         },
-         {
-          "speaker": "B",
-          "line": "It is. And it's also a hundred small trucks we never think about.",
-          "gesture": "folding the box flat"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Convenience has a cost; we just don't see the invoice.",
-            "Every delivery has a footprint, however small it feels.",
-            "I'm not against it. I just think we should price it honestly.",
-            "The question isn't whether to use it, but how much."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Isn't same-day delivery amazing?",
-            "It is. And it's also a hundred small trucks we never think about."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "price it honestly"
-         ]
-        }
-       }
+       "line": "Convenience has a cost; we just don't see the invoice."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 477,
-        "level": "B2",
-        "module": 16,
-        "module_title": "Abstract Concepts & Debates",
-        "title": "Who Owns the Data? — Listen & Shadow",
-        "visual_scene": "A phone settings screen: dozens of toggles, most switched to 'allow'.",
-        "natural_english": [
-         "If the service is free, you're not the customer; you're the product.",
-         "Data is labor, in a sense. We generate it; companies refine it.",
-         "Consent screens are designed to be skipped.",
-         "Real consent would be boring and rare."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "I've got nothing to hide, so why care?",
-          "gesture": "scrolling"
-         },
-         {
-          "speaker": "B",
-          "line": "It's less about hiding and more about who profits from predicting you.",
-          "gesture": "turning the phone face down"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "If the service is free, you're not the customer; you're the product.",
-            "Data is labor, in a sense. We generate it; companies refine it.",
-            "Consent screens are designed to be skipped.",
-            "Real consent would be boring and rare."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "I've got nothing to hide, so why care?",
-            "It's less about hiding and more about who profits from predicting you."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "you're the product"
-         ]
-        }
-       }
+       "line": "Every delivery has a footprint, however small it feels."
+      },
+      {
+       "who": "Teacher",
+       "line": "If the service is free, you're not the customer; you're the product."
+      },
+      {
+       "who": "Teacher",
+       "line": "Data is labor, in a sense. We generate it; companies refine it."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."

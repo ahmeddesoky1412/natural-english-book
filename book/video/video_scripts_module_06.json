@@ -139,121 +139,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 81,
-        "level": "A1",
-        "module": 5,
-        "module_title": "Basic Interactions & Survival English",
-        "title": "Hello and Goodbye",
-        "visual_scene": "Morning on a residential street; two neighbors pass each other and wave.",
-        "natural_english": [
-         "Hello!",
-         "Good morning.",
-         "Goodbye. See you later.",
-         "Have a good day."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Good morning!",
-          "gesture": "waving"
-         },
-         {
-          "speaker": "B",
-          "line": "Good morning! Have a good day.",
-          "gesture": "smiling and walking on"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Hello!",
-            "Good morning.",
-            "Goodbye. See you later.",
-            "Have a good day."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Good morning!",
-            "Good morning! Have a good day."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "good morning / goodbye"
-         ]
-        }
-       }
+       "line": "Hello!"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 82,
-        "level": "A1",
-        "module": 5,
-        "module_title": "Basic Interactions & Survival English",
-        "title": "How Are You? — Listen & Shadow",
-        "visual_scene": "Two colleagues meeting by the office kettle, mugs in hand.",
-        "natural_english": [
-         "How are you?",
-         "I am fine, thank you.",
-         "And you?",
-         "I am very well."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Hi! How are you?",
-          "gesture": "warm"
-         },
-         {
-          "speaker": "B",
-          "line": "Fine, thanks. And you?",
-          "gesture": "pouring tea"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "How are you?",
-            "I am fine, thank you.",
-            "And you?",
-            "I am very well."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Hi! How are you?",
-            "Fine, thanks. And you?"
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "how are you"
-         ]
-        }
-       }
+       "line": "Good morning."
+      },
+      {
+       "who": "Teacher",
+       "line": "How are you?"
+      },
+      {
+       "who": "Teacher",
+       "line": "I am fine, thank you."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -454,121 +352,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 81,
-        "level": "A1",
-        "module": 5,
-        "module_title": "Basic Interactions & Survival English",
-        "title": "Hello and Goodbye",
-        "visual_scene": "Morning on a residential street; two neighbors pass each other and wave.",
-        "natural_english": [
-         "Hello!",
-         "Good morning.",
-         "Goodbye. See you later.",
-         "Have a good day."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Good morning!",
-          "gesture": "waving"
-         },
-         {
-          "speaker": "B",
-          "line": "Good morning! Have a good day.",
-          "gesture": "smiling and walking on"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Hello!",
-            "Good morning.",
-            "Goodbye. See you later.",
-            "Have a good day."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Good morning!",
-            "Good morning! Have a good day."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "good morning / goodbye"
-         ]
-        }
-       }
+       "line": "Hello!"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 82,
-        "level": "A1",
-        "module": 5,
-        "module_title": "Basic Interactions & Survival English",
-        "title": "How Are You? — Listen & Shadow",
-        "visual_scene": "Two colleagues meeting by the office kettle, mugs in hand.",
-        "natural_english": [
-         "How are you?",
-         "I am fine, thank you.",
-         "And you?",
-         "I am very well."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Hi! How are you?",
-          "gesture": "warm"
-         },
-         {
-          "speaker": "B",
-          "line": "Fine, thanks. And you?",
-          "gesture": "pouring tea"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "How are you?",
-            "I am fine, thank you.",
-            "And you?",
-            "I am very well."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Hi! How are you?",
-            "Fine, thanks. And you?"
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "how are you"
-         ]
-        }
-       }
+       "line": "Good morning."
+      },
+      {
+       "who": "Teacher",
+       "line": "How are you?"
+      },
+      {
+       "who": "Teacher",
+       "line": "I am fine, thank you."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -770,121 +566,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 81,
-        "level": "A1",
-        "module": 5,
-        "module_title": "Basic Interactions & Survival English",
-        "title": "Hello and Goodbye",
-        "visual_scene": "Morning on a residential street; two neighbors pass each other and wave.",
-        "natural_english": [
-         "Hello!",
-         "Good morning.",
-         "Goodbye. See you later.",
-         "Have a good day."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Good morning!",
-          "gesture": "waving"
-         },
-         {
-          "speaker": "B",
-          "line": "Good morning! Have a good day.",
-          "gesture": "smiling and walking on"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Hello!",
-            "Good morning.",
-            "Goodbye. See you later.",
-            "Have a good day."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Good morning!",
-            "Good morning! Have a good day."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "good morning / goodbye"
-         ]
-        }
-       }
+       "line": "Hello!"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 82,
-        "level": "A1",
-        "module": 5,
-        "module_title": "Basic Interactions & Survival English",
-        "title": "How Are You? — Listen & Shadow",
-        "visual_scene": "Two colleagues meeting by the office kettle, mugs in hand.",
-        "natural_english": [
-         "How are you?",
-         "I am fine, thank you.",
-         "And you?",
-         "I am very well."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Hi! How are you?",
-          "gesture": "warm"
-         },
-         {
-          "speaker": "B",
-          "line": "Fine, thanks. And you?",
-          "gesture": "pouring tea"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "How are you?",
-            "I am fine, thank you.",
-            "And you?",
-            "I am very well."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Hi! How are you?",
-            "Fine, thanks. And you?"
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "how are you"
-         ]
-        }
-       }
+       "line": "Good morning."
+      },
+      {
+       "who": "Teacher",
+       "line": "How are you?"
+      },
+      {
+       "who": "Teacher",
+       "line": "I am fine, thank you."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1085,121 +779,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 81,
-        "level": "A1",
-        "module": 5,
-        "module_title": "Basic Interactions & Survival English",
-        "title": "Hello and Goodbye",
-        "visual_scene": "Morning on a residential street; two neighbors pass each other and wave.",
-        "natural_english": [
-         "Hello!",
-         "Good morning.",
-         "Goodbye. See you later.",
-         "Have a good day."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Good morning!",
-          "gesture": "waving"
-         },
-         {
-          "speaker": "B",
-          "line": "Good morning! Have a good day.",
-          "gesture": "smiling and walking on"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Hello!",
-            "Good morning.",
-            "Goodbye. See you later.",
-            "Have a good day."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Good morning!",
-            "Good morning! Have a good day."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "good morning / goodbye"
-         ]
-        }
-       }
+       "line": "Hello!"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 82,
-        "level": "A1",
-        "module": 5,
-        "module_title": "Basic Interactions & Survival English",
-        "title": "How Are You? — Listen & Shadow",
-        "visual_scene": "Two colleagues meeting by the office kettle, mugs in hand.",
-        "natural_english": [
-         "How are you?",
-         "I am fine, thank you.",
-         "And you?",
-         "I am very well."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Hi! How are you?",
-          "gesture": "warm"
-         },
-         {
-          "speaker": "B",
-          "line": "Fine, thanks. And you?",
-          "gesture": "pouring tea"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "How are you?",
-            "I am fine, thank you.",
-            "And you?",
-            "I am very well."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Hi! How are you?",
-            "Fine, thanks. And you?"
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "how are you"
-         ]
-        }
-       }
+       "line": "Good morning."
+      },
+      {
+       "who": "Teacher",
+       "line": "How are you?"
+      },
+      {
+       "who": "Teacher",
+       "line": "I am fine, thank you."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1394,121 +986,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 81,
-        "level": "A1",
-        "module": 5,
-        "module_title": "Basic Interactions & Survival English",
-        "title": "Hello and Goodbye",
-        "visual_scene": "Morning on a residential street; two neighbors pass each other and wave.",
-        "natural_english": [
-         "Hello!",
-         "Good morning.",
-         "Goodbye. See you later.",
-         "Have a good day."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Good morning!",
-          "gesture": "waving"
-         },
-         {
-          "speaker": "B",
-          "line": "Good morning! Have a good day.",
-          "gesture": "smiling and walking on"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Hello!",
-            "Good morning.",
-            "Goodbye. See you later.",
-            "Have a good day."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Good morning!",
-            "Good morning! Have a good day."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "good morning / goodbye"
-         ]
-        }
-       }
+       "line": "Hello!"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 82,
-        "level": "A1",
-        "module": 5,
-        "module_title": "Basic Interactions & Survival English",
-        "title": "How Are You? — Listen & Shadow",
-        "visual_scene": "Two colleagues meeting by the office kettle, mugs in hand.",
-        "natural_english": [
-         "How are you?",
-         "I am fine, thank you.",
-         "And you?",
-         "I am very well."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Hi! How are you?",
-          "gesture": "warm"
-         },
-         {
-          "speaker": "B",
-          "line": "Fine, thanks. And you?",
-          "gesture": "pouring tea"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "How are you?",
-            "I am fine, thank you.",
-            "And you?",
-            "I am very well."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Hi! How are you?",
-            "Fine, thanks. And you?"
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "how are you"
-         ]
-        }
-       }
+       "line": "Good morning."
+      },
+      {
+       "who": "Teacher",
+       "line": "How are you?"
+      },
+      {
+       "who": "Teacher",
+       "line": "I am fine, thank you."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1709,121 +1199,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 81,
-        "level": "A1",
-        "module": 5,
-        "module_title": "Basic Interactions & Survival English",
-        "title": "Hello and Goodbye",
-        "visual_scene": "Morning on a residential street; two neighbors pass each other and wave.",
-        "natural_english": [
-         "Hello!",
-         "Good morning.",
-         "Goodbye. See you later.",
-         "Have a good day."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Good morning!",
-          "gesture": "waving"
-         },
-         {
-          "speaker": "B",
-          "line": "Good morning! Have a good day.",
-          "gesture": "smiling and walking on"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Hello!",
-            "Good morning.",
-            "Goodbye. See you later.",
-            "Have a good day."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Good morning!",
-            "Good morning! Have a good day."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "good morning / goodbye"
-         ]
-        }
-       }
+       "line": "Hello!"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 82,
-        "level": "A1",
-        "module": 5,
-        "module_title": "Basic Interactions & Survival English",
-        "title": "How Are You? — Listen & Shadow",
-        "visual_scene": "Two colleagues meeting by the office kettle, mugs in hand.",
-        "natural_english": [
-         "How are you?",
-         "I am fine, thank you.",
-         "And you?",
-         "I am very well."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Hi! How are you?",
-          "gesture": "warm"
-         },
-         {
-          "speaker": "B",
-          "line": "Fine, thanks. And you?",
-          "gesture": "pouring tea"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "How are you?",
-            "I am fine, thank you.",
-            "And you?",
-            "I am very well."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Hi! How are you?",
-            "Fine, thanks. And you?"
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "how are you"
-         ]
-        }
-       }
+       "line": "Good morning."
+      },
+      {
+       "who": "Teacher",
+       "line": "How are you?"
+      },
+      {
+       "who": "Teacher",
+       "line": "I am fine, thank you."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2025,121 +1413,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 81,
-        "level": "A1",
-        "module": 5,
-        "module_title": "Basic Interactions & Survival English",
-        "title": "Hello and Goodbye",
-        "visual_scene": "Morning on a residential street; two neighbors pass each other and wave.",
-        "natural_english": [
-         "Hello!",
-         "Good morning.",
-         "Goodbye. See you later.",
-         "Have a good day."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Good morning!",
-          "gesture": "waving"
-         },
-         {
-          "speaker": "B",
-          "line": "Good morning! Have a good day.",
-          "gesture": "smiling and walking on"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Hello!",
-            "Good morning.",
-            "Goodbye. See you later.",
-            "Have a good day."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Good morning!",
-            "Good morning! Have a good day."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "good morning / goodbye"
-         ]
-        }
-       }
+       "line": "Hello!"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 82,
-        "level": "A1",
-        "module": 5,
-        "module_title": "Basic Interactions & Survival English",
-        "title": "How Are You? — Listen & Shadow",
-        "visual_scene": "Two colleagues meeting by the office kettle, mugs in hand.",
-        "natural_english": [
-         "How are you?",
-         "I am fine, thank you.",
-         "And you?",
-         "I am very well."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Hi! How are you?",
-          "gesture": "warm"
-         },
-         {
-          "speaker": "B",
-          "line": "Fine, thanks. And you?",
-          "gesture": "pouring tea"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "How are you?",
-            "I am fine, thank you.",
-            "And you?",
-            "I am very well."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Hi! How are you?",
-            "Fine, thanks. And you?"
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "how are you"
-         ]
-        }
-       }
+       "line": "Good morning."
+      },
+      {
+       "who": "Teacher",
+       "line": "How are you?"
+      },
+      {
+       "who": "Teacher",
+       "line": "I am fine, thank you."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2340,121 +1626,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 81,
-        "level": "A1",
-        "module": 5,
-        "module_title": "Basic Interactions & Survival English",
-        "title": "Hello and Goodbye",
-        "visual_scene": "Morning on a residential street; two neighbors pass each other and wave.",
-        "natural_english": [
-         "Hello!",
-         "Good morning.",
-         "Goodbye. See you later.",
-         "Have a good day."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Good morning!",
-          "gesture": "waving"
-         },
-         {
-          "speaker": "B",
-          "line": "Good morning! Have a good day.",
-          "gesture": "smiling and walking on"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Hello!",
-            "Good morning.",
-            "Goodbye. See you later.",
-            "Have a good day."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Good morning!",
-            "Good morning! Have a good day."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "good morning / goodbye"
-         ]
-        }
-       }
+       "line": "Hello!"
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 82,
-        "level": "A1",
-        "module": 5,
-        "module_title": "Basic Interactions & Survival English",
-        "title": "How Are You? — Listen & Shadow",
-        "visual_scene": "Two colleagues meeting by the office kettle, mugs in hand.",
-        "natural_english": [
-         "How are you?",
-         "I am fine, thank you.",
-         "And you?",
-         "I am very well."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Hi! How are you?",
-          "gesture": "warm"
-         },
-         {
-          "speaker": "B",
-          "line": "Fine, thanks. And you?",
-          "gesture": "pouring tea"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "How are you?",
-            "I am fine, thank you.",
-            "And you?",
-            "I am very well."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Hi! How are you?",
-            "Fine, thanks. And you?"
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "how are you"
-         ]
-        }
-       }
+       "line": "Good morning."
+      },
+      {
+       "who": "Teacher",
+       "line": "How are you?"
+      },
+      {
+       "who": "Teacher",
+       "line": "I am fine, thank you."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."

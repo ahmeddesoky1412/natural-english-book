@@ -139,121 +139,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 426,
-        "level": "B2",
-        "module": 15,
-        "module_title": "Professional Communication",
-        "title": "Opening a Meeting",
-        "visual_scene": "A conference room at 9:00 sharp: laptops open, one chair still empty, coffee steam rising.",
-        "natural_english": [
-         "Thanks, everyone, for making time.",
-         "We have three items and forty minutes.",
-         "I'll keep us moving, but let's allow real discussion on item two.",
-         "Let's get started."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Are we waiting on anyone?",
-          "gesture": "glancing at the door"
-         },
-         {
-          "speaker": "B",
-          "line": "No, let's begin. He'll join when he joins.",
-          "gesture": "opening the agenda"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Thanks, everyone, for making time.",
-            "We have three items and forty minutes.",
-            "I'll keep us moving, but let's allow real discussion on item two.",
-            "Let's get started."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Are we waiting on anyone?",
-            "No, let's begin. He'll join when he joins."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "making time / keep us moving"
-         ]
-        }
-       }
+       "line": "Thanks, everyone, for making time."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 427,
-        "level": "B2",
-        "module": 15,
-        "module_title": "Professional Communication",
-        "title": "Steering the Discussion — Listen & Shadow",
-        "visual_scene": "A hand gently raised in a meeting, three people talking over each other.",
-        "natural_english": [
-         "Let's park that for now and come back to it.",
-         "We're drifting off topic slightly.",
-         "Can we timebox this to ten minutes?",
-         "Let's take that offline, just the two of us."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Should we redesign the whole onboarding flow?",
-          "gesture": "mid-idea"
-         },
-         {
-          "speaker": "B",
-          "line": "Good question, but out of scope today. Let's park it and note it for the next session.",
-          "gesture": "writing it down"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Let's park that for now and come back to it.",
-            "We're drifting off topic slightly.",
-            "Can we timebox this to ten minutes?",
-            "Let's take that offline, just the two of us."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Should we redesign the whole onboarding flow?",
-            "Good question, but out of scope today. Let's park it and note it for the next session."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "park it / timebox"
-         ]
-        }
-       }
+       "line": "We have three items and forty minutes."
+      },
+      {
+       "who": "Teacher",
+       "line": "Let's park that for now and come back to it."
+      },
+      {
+       "who": "Teacher",
+       "line": "We're drifting off topic slightly."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -454,121 +352,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 426,
-        "level": "B2",
-        "module": 15,
-        "module_title": "Professional Communication",
-        "title": "Opening a Meeting",
-        "visual_scene": "A conference room at 9:00 sharp: laptops open, one chair still empty, coffee steam rising.",
-        "natural_english": [
-         "Thanks, everyone, for making time.",
-         "We have three items and forty minutes.",
-         "I'll keep us moving, but let's allow real discussion on item two.",
-         "Let's get started."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Are we waiting on anyone?",
-          "gesture": "glancing at the door"
-         },
-         {
-          "speaker": "B",
-          "line": "No, let's begin. He'll join when he joins.",
-          "gesture": "opening the agenda"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Thanks, everyone, for making time.",
-            "We have three items and forty minutes.",
-            "I'll keep us moving, but let's allow real discussion on item two.",
-            "Let's get started."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Are we waiting on anyone?",
-            "No, let's begin. He'll join when he joins."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "making time / keep us moving"
-         ]
-        }
-       }
+       "line": "Thanks, everyone, for making time."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 427,
-        "level": "B2",
-        "module": 15,
-        "module_title": "Professional Communication",
-        "title": "Steering the Discussion — Listen & Shadow",
-        "visual_scene": "A hand gently raised in a meeting, three people talking over each other.",
-        "natural_english": [
-         "Let's park that for now and come back to it.",
-         "We're drifting off topic slightly.",
-         "Can we timebox this to ten minutes?",
-         "Let's take that offline, just the two of us."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Should we redesign the whole onboarding flow?",
-          "gesture": "mid-idea"
-         },
-         {
-          "speaker": "B",
-          "line": "Good question, but out of scope today. Let's park it and note it for the next session.",
-          "gesture": "writing it down"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Let's park that for now and come back to it.",
-            "We're drifting off topic slightly.",
-            "Can we timebox this to ten minutes?",
-            "Let's take that offline, just the two of us."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Should we redesign the whole onboarding flow?",
-            "Good question, but out of scope today. Let's park it and note it for the next session."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "park it / timebox"
-         ]
-        }
-       }
+       "line": "We have three items and forty minutes."
+      },
+      {
+       "who": "Teacher",
+       "line": "Let's park that for now and come back to it."
+      },
+      {
+       "who": "Teacher",
+       "line": "We're drifting off topic slightly."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -770,121 +566,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 426,
-        "level": "B2",
-        "module": 15,
-        "module_title": "Professional Communication",
-        "title": "Opening a Meeting",
-        "visual_scene": "A conference room at 9:00 sharp: laptops open, one chair still empty, coffee steam rising.",
-        "natural_english": [
-         "Thanks, everyone, for making time.",
-         "We have three items and forty minutes.",
-         "I'll keep us moving, but let's allow real discussion on item two.",
-         "Let's get started."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Are we waiting on anyone?",
-          "gesture": "glancing at the door"
-         },
-         {
-          "speaker": "B",
-          "line": "No, let's begin. He'll join when he joins.",
-          "gesture": "opening the agenda"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Thanks, everyone, for making time.",
-            "We have three items and forty minutes.",
-            "I'll keep us moving, but let's allow real discussion on item two.",
-            "Let's get started."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Are we waiting on anyone?",
-            "No, let's begin. He'll join when he joins."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "making time / keep us moving"
-         ]
-        }
-       }
+       "line": "Thanks, everyone, for making time."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 427,
-        "level": "B2",
-        "module": 15,
-        "module_title": "Professional Communication",
-        "title": "Steering the Discussion — Listen & Shadow",
-        "visual_scene": "A hand gently raised in a meeting, three people talking over each other.",
-        "natural_english": [
-         "Let's park that for now and come back to it.",
-         "We're drifting off topic slightly.",
-         "Can we timebox this to ten minutes?",
-         "Let's take that offline, just the two of us."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Should we redesign the whole onboarding flow?",
-          "gesture": "mid-idea"
-         },
-         {
-          "speaker": "B",
-          "line": "Good question, but out of scope today. Let's park it and note it for the next session.",
-          "gesture": "writing it down"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Let's park that for now and come back to it.",
-            "We're drifting off topic slightly.",
-            "Can we timebox this to ten minutes?",
-            "Let's take that offline, just the two of us."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Should we redesign the whole onboarding flow?",
-            "Good question, but out of scope today. Let's park it and note it for the next session."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "park it / timebox"
-         ]
-        }
-       }
+       "line": "We have three items and forty minutes."
+      },
+      {
+       "who": "Teacher",
+       "line": "Let's park that for now and come back to it."
+      },
+      {
+       "who": "Teacher",
+       "line": "We're drifting off topic slightly."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1085,121 +779,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 426,
-        "level": "B2",
-        "module": 15,
-        "module_title": "Professional Communication",
-        "title": "Opening a Meeting",
-        "visual_scene": "A conference room at 9:00 sharp: laptops open, one chair still empty, coffee steam rising.",
-        "natural_english": [
-         "Thanks, everyone, for making time.",
-         "We have three items and forty minutes.",
-         "I'll keep us moving, but let's allow real discussion on item two.",
-         "Let's get started."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Are we waiting on anyone?",
-          "gesture": "glancing at the door"
-         },
-         {
-          "speaker": "B",
-          "line": "No, let's begin. He'll join when he joins.",
-          "gesture": "opening the agenda"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Thanks, everyone, for making time.",
-            "We have three items and forty minutes.",
-            "I'll keep us moving, but let's allow real discussion on item two.",
-            "Let's get started."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Are we waiting on anyone?",
-            "No, let's begin. He'll join when he joins."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "making time / keep us moving"
-         ]
-        }
-       }
+       "line": "Thanks, everyone, for making time."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 427,
-        "level": "B2",
-        "module": 15,
-        "module_title": "Professional Communication",
-        "title": "Steering the Discussion — Listen & Shadow",
-        "visual_scene": "A hand gently raised in a meeting, three people talking over each other.",
-        "natural_english": [
-         "Let's park that for now and come back to it.",
-         "We're drifting off topic slightly.",
-         "Can we timebox this to ten minutes?",
-         "Let's take that offline, just the two of us."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Should we redesign the whole onboarding flow?",
-          "gesture": "mid-idea"
-         },
-         {
-          "speaker": "B",
-          "line": "Good question, but out of scope today. Let's park it and note it for the next session.",
-          "gesture": "writing it down"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Let's park that for now and come back to it.",
-            "We're drifting off topic slightly.",
-            "Can we timebox this to ten minutes?",
-            "Let's take that offline, just the two of us."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Should we redesign the whole onboarding flow?",
-            "Good question, but out of scope today. Let's park it and note it for the next session."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "park it / timebox"
-         ]
-        }
-       }
+       "line": "We have three items and forty minutes."
+      },
+      {
+       "who": "Teacher",
+       "line": "Let's park that for now and come back to it."
+      },
+      {
+       "who": "Teacher",
+       "line": "We're drifting off topic slightly."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1394,121 +986,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 426,
-        "level": "B2",
-        "module": 15,
-        "module_title": "Professional Communication",
-        "title": "Opening a Meeting",
-        "visual_scene": "A conference room at 9:00 sharp: laptops open, one chair still empty, coffee steam rising.",
-        "natural_english": [
-         "Thanks, everyone, for making time.",
-         "We have three items and forty minutes.",
-         "I'll keep us moving, but let's allow real discussion on item two.",
-         "Let's get started."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Are we waiting on anyone?",
-          "gesture": "glancing at the door"
-         },
-         {
-          "speaker": "B",
-          "line": "No, let's begin. He'll join when he joins.",
-          "gesture": "opening the agenda"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Thanks, everyone, for making time.",
-            "We have three items and forty minutes.",
-            "I'll keep us moving, but let's allow real discussion on item two.",
-            "Let's get started."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Are we waiting on anyone?",
-            "No, let's begin. He'll join when he joins."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "making time / keep us moving"
-         ]
-        }
-       }
+       "line": "Thanks, everyone, for making time."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 427,
-        "level": "B2",
-        "module": 15,
-        "module_title": "Professional Communication",
-        "title": "Steering the Discussion — Listen & Shadow",
-        "visual_scene": "A hand gently raised in a meeting, three people talking over each other.",
-        "natural_english": [
-         "Let's park that for now and come back to it.",
-         "We're drifting off topic slightly.",
-         "Can we timebox this to ten minutes?",
-         "Let's take that offline, just the two of us."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Should we redesign the whole onboarding flow?",
-          "gesture": "mid-idea"
-         },
-         {
-          "speaker": "B",
-          "line": "Good question, but out of scope today. Let's park it and note it for the next session.",
-          "gesture": "writing it down"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Let's park that for now and come back to it.",
-            "We're drifting off topic slightly.",
-            "Can we timebox this to ten minutes?",
-            "Let's take that offline, just the two of us."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Should we redesign the whole onboarding flow?",
-            "Good question, but out of scope today. Let's park it and note it for the next session."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "park it / timebox"
-         ]
-        }
-       }
+       "line": "We have three items and forty minutes."
+      },
+      {
+       "who": "Teacher",
+       "line": "Let's park that for now and come back to it."
+      },
+      {
+       "who": "Teacher",
+       "line": "We're drifting off topic slightly."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1709,121 +1199,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 426,
-        "level": "B2",
-        "module": 15,
-        "module_title": "Professional Communication",
-        "title": "Opening a Meeting",
-        "visual_scene": "A conference room at 9:00 sharp: laptops open, one chair still empty, coffee steam rising.",
-        "natural_english": [
-         "Thanks, everyone, for making time.",
-         "We have three items and forty minutes.",
-         "I'll keep us moving, but let's allow real discussion on item two.",
-         "Let's get started."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Are we waiting on anyone?",
-          "gesture": "glancing at the door"
-         },
-         {
-          "speaker": "B",
-          "line": "No, let's begin. He'll join when he joins.",
-          "gesture": "opening the agenda"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Thanks, everyone, for making time.",
-            "We have three items and forty minutes.",
-            "I'll keep us moving, but let's allow real discussion on item two.",
-            "Let's get started."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Are we waiting on anyone?",
-            "No, let's begin. He'll join when he joins."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "making time / keep us moving"
-         ]
-        }
-       }
+       "line": "Thanks, everyone, for making time."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 427,
-        "level": "B2",
-        "module": 15,
-        "module_title": "Professional Communication",
-        "title": "Steering the Discussion — Listen & Shadow",
-        "visual_scene": "A hand gently raised in a meeting, three people talking over each other.",
-        "natural_english": [
-         "Let's park that for now and come back to it.",
-         "We're drifting off topic slightly.",
-         "Can we timebox this to ten minutes?",
-         "Let's take that offline, just the two of us."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Should we redesign the whole onboarding flow?",
-          "gesture": "mid-idea"
-         },
-         {
-          "speaker": "B",
-          "line": "Good question, but out of scope today. Let's park it and note it for the next session.",
-          "gesture": "writing it down"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Let's park that for now and come back to it.",
-            "We're drifting off topic slightly.",
-            "Can we timebox this to ten minutes?",
-            "Let's take that offline, just the two of us."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Should we redesign the whole onboarding flow?",
-            "Good question, but out of scope today. Let's park it and note it for the next session."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "park it / timebox"
-         ]
-        }
-       }
+       "line": "We have three items and forty minutes."
+      },
+      {
+       "who": "Teacher",
+       "line": "Let's park that for now and come back to it."
+      },
+      {
+       "who": "Teacher",
+       "line": "We're drifting off topic slightly."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2025,121 +1413,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 426,
-        "level": "B2",
-        "module": 15,
-        "module_title": "Professional Communication",
-        "title": "Opening a Meeting",
-        "visual_scene": "A conference room at 9:00 sharp: laptops open, one chair still empty, coffee steam rising.",
-        "natural_english": [
-         "Thanks, everyone, for making time.",
-         "We have three items and forty minutes.",
-         "I'll keep us moving, but let's allow real discussion on item two.",
-         "Let's get started."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Are we waiting on anyone?",
-          "gesture": "glancing at the door"
-         },
-         {
-          "speaker": "B",
-          "line": "No, let's begin. He'll join when he joins.",
-          "gesture": "opening the agenda"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Thanks, everyone, for making time.",
-            "We have three items and forty minutes.",
-            "I'll keep us moving, but let's allow real discussion on item two.",
-            "Let's get started."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Are we waiting on anyone?",
-            "No, let's begin. He'll join when he joins."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "making time / keep us moving"
-         ]
-        }
-       }
+       "line": "Thanks, everyone, for making time."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 427,
-        "level": "B2",
-        "module": 15,
-        "module_title": "Professional Communication",
-        "title": "Steering the Discussion — Listen & Shadow",
-        "visual_scene": "A hand gently raised in a meeting, three people talking over each other.",
-        "natural_english": [
-         "Let's park that for now and come back to it.",
-         "We're drifting off topic slightly.",
-         "Can we timebox this to ten minutes?",
-         "Let's take that offline, just the two of us."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Should we redesign the whole onboarding flow?",
-          "gesture": "mid-idea"
-         },
-         {
-          "speaker": "B",
-          "line": "Good question, but out of scope today. Let's park it and note it for the next session.",
-          "gesture": "writing it down"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Let's park that for now and come back to it.",
-            "We're drifting off topic slightly.",
-            "Can we timebox this to ten minutes?",
-            "Let's take that offline, just the two of us."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Should we redesign the whole onboarding flow?",
-            "Good question, but out of scope today. Let's park it and note it for the next session."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "park it / timebox"
-         ]
-        }
-       }
+       "line": "We have three items and forty minutes."
+      },
+      {
+       "who": "Teacher",
+       "line": "Let's park that for now and come back to it."
+      },
+      {
+       "who": "Teacher",
+       "line": "We're drifting off topic slightly."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2340,121 +1626,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 426,
-        "level": "B2",
-        "module": 15,
-        "module_title": "Professional Communication",
-        "title": "Opening a Meeting",
-        "visual_scene": "A conference room at 9:00 sharp: laptops open, one chair still empty, coffee steam rising.",
-        "natural_english": [
-         "Thanks, everyone, for making time.",
-         "We have three items and forty minutes.",
-         "I'll keep us moving, but let's allow real discussion on item two.",
-         "Let's get started."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Are we waiting on anyone?",
-          "gesture": "glancing at the door"
-         },
-         {
-          "speaker": "B",
-          "line": "No, let's begin. He'll join when he joins.",
-          "gesture": "opening the agenda"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Thanks, everyone, for making time.",
-            "We have three items and forty minutes.",
-            "I'll keep us moving, but let's allow real discussion on item two.",
-            "Let's get started."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Are we waiting on anyone?",
-            "No, let's begin. He'll join when he joins."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "making time / keep us moving"
-         ]
-        }
-       }
+       "line": "Thanks, everyone, for making time."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 427,
-        "level": "B2",
-        "module": 15,
-        "module_title": "Professional Communication",
-        "title": "Steering the Discussion — Listen & Shadow",
-        "visual_scene": "A hand gently raised in a meeting, three people talking over each other.",
-        "natural_english": [
-         "Let's park that for now and come back to it.",
-         "We're drifting off topic slightly.",
-         "Can we timebox this to ten minutes?",
-         "Let's take that offline, just the two of us."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Should we redesign the whole onboarding flow?",
-          "gesture": "mid-idea"
-         },
-         {
-          "speaker": "B",
-          "line": "Good question, but out of scope today. Let's park it and note it for the next session.",
-          "gesture": "writing it down"
-         }
-        ],
-        "audio_script": {
-         "pacing": "authentic conversational pace, ~175 wpm, full contractions, hesitations and self-corrections welcome",
-         "contractions": "Fully natural speech: gonna/wanna acceptable in dialogue, fillers ('you know', 'I mean') permitted.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "Let's park that for now and come back to it.",
-            "We're drifting off topic slightly.",
-            "Can we timebox this to ten minutes?",
-            "Let's take that offline, just the two of us."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Should we redesign the whole onboarding flow?",
-            "Good question, but out of scope today. Let's park it and note it for the next session."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "park it / timebox"
-         ]
-        }
-       }
+       "line": "We have three items and forty minutes."
+      },
+      {
+       "who": "Teacher",
+       "line": "Let's park that for now and come back to it."
+      },
+      {
+       "who": "Teacher",
+       "line": "We're drifting off topic slightly."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."

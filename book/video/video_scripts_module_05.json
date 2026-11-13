@@ -139,121 +139,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 61,
-        "level": "A1",
-        "module": 4,
-        "module_title": "Family & Immediate Relationships",
-        "title": "My Family",
-        "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
-        "natural_english": [
-         "This is my family.",
-         "This is my mother.",
-         "This is my father.",
-         "We are happy."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Your family?",
-          "gesture": "looking at the photo"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes. My mother, my father, my sister.",
-          "gesture": "pointing at each"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is my family.",
-            "This is my mother.",
-            "This is my father.",
-            "We are happy."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Your family?",
-            "Yes. My mother, my father, my sister."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "my mother / my father"
-         ]
-        }
-       }
+       "line": "This is my family."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 62,
-        "level": "A1",
-        "module": 4,
-        "module_title": "Family & Immediate Relationships",
-        "title": "My Brother — Listen & Shadow",
-        "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
-        "natural_english": [
-         "This is my brother.",
-         "He is tall.",
-         "He is funny.",
-         "I like my brother."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Who is he?",
-          "gesture": "curious"
-         },
-         {
-          "speaker": "B",
-          "line": "My brother. He is twenty.",
-          "gesture": "smiling proudly"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is my brother.",
-            "He is tall.",
-            "He is funny.",
-            "I like my brother."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Who is he?",
-            "My brother. He is twenty."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "he is"
-         ]
-        }
-       }
+       "line": "This is my mother."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is my brother."
+      },
+      {
+       "who": "Teacher",
+       "line": "He is tall."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -454,121 +352,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 61,
-        "level": "A1",
-        "module": 4,
-        "module_title": "Family & Immediate Relationships",
-        "title": "My Family",
-        "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
-        "natural_english": [
-         "This is my family.",
-         "This is my mother.",
-         "This is my father.",
-         "We are happy."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Your family?",
-          "gesture": "looking at the photo"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes. My mother, my father, my sister.",
-          "gesture": "pointing at each"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is my family.",
-            "This is my mother.",
-            "This is my father.",
-            "We are happy."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Your family?",
-            "Yes. My mother, my father, my sister."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "my mother / my father"
-         ]
-        }
-       }
+       "line": "This is my family."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 62,
-        "level": "A1",
-        "module": 4,
-        "module_title": "Family & Immediate Relationships",
-        "title": "My Brother — Listen & Shadow",
-        "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
-        "natural_english": [
-         "This is my brother.",
-         "He is tall.",
-         "He is funny.",
-         "I like my brother."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Who is he?",
-          "gesture": "curious"
-         },
-         {
-          "speaker": "B",
-          "line": "My brother. He is twenty.",
-          "gesture": "smiling proudly"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is my brother.",
-            "He is tall.",
-            "He is funny.",
-            "I like my brother."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Who is he?",
-            "My brother. He is twenty."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "he is"
-         ]
-        }
-       }
+       "line": "This is my mother."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is my brother."
+      },
+      {
+       "who": "Teacher",
+       "line": "He is tall."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -770,121 +566,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 61,
-        "level": "A1",
-        "module": 4,
-        "module_title": "Family & Immediate Relationships",
-        "title": "My Family",
-        "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
-        "natural_english": [
-         "This is my family.",
-         "This is my mother.",
-         "This is my father.",
-         "We are happy."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Your family?",
-          "gesture": "looking at the photo"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes. My mother, my father, my sister.",
-          "gesture": "pointing at each"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is my family.",
-            "This is my mother.",
-            "This is my father.",
-            "We are happy."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Your family?",
-            "Yes. My mother, my father, my sister."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "my mother / my father"
-         ]
-        }
-       }
+       "line": "This is my family."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 62,
-        "level": "A1",
-        "module": 4,
-        "module_title": "Family & Immediate Relationships",
-        "title": "My Brother — Listen & Shadow",
-        "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
-        "natural_english": [
-         "This is my brother.",
-         "He is tall.",
-         "He is funny.",
-         "I like my brother."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Who is he?",
-          "gesture": "curious"
-         },
-         {
-          "speaker": "B",
-          "line": "My brother. He is twenty.",
-          "gesture": "smiling proudly"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is my brother.",
-            "He is tall.",
-            "He is funny.",
-            "I like my brother."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Who is he?",
-            "My brother. He is twenty."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "he is"
-         ]
-        }
-       }
+       "line": "This is my mother."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is my brother."
+      },
+      {
+       "who": "Teacher",
+       "line": "He is tall."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1085,121 +779,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 61,
-        "level": "A1",
-        "module": 4,
-        "module_title": "Family & Immediate Relationships",
-        "title": "My Family",
-        "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
-        "natural_english": [
-         "This is my family.",
-         "This is my mother.",
-         "This is my father.",
-         "We are happy."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Your family?",
-          "gesture": "looking at the photo"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes. My mother, my father, my sister.",
-          "gesture": "pointing at each"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is my family.",
-            "This is my mother.",
-            "This is my father.",
-            "We are happy."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Your family?",
-            "Yes. My mother, my father, my sister."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "my mother / my father"
-         ]
-        }
-       }
+       "line": "This is my family."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 62,
-        "level": "A1",
-        "module": 4,
-        "module_title": "Family & Immediate Relationships",
-        "title": "My Brother — Listen & Shadow",
-        "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
-        "natural_english": [
-         "This is my brother.",
-         "He is tall.",
-         "He is funny.",
-         "I like my brother."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Who is he?",
-          "gesture": "curious"
-         },
-         {
-          "speaker": "B",
-          "line": "My brother. He is twenty.",
-          "gesture": "smiling proudly"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is my brother.",
-            "He is tall.",
-            "He is funny.",
-            "I like my brother."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Who is he?",
-            "My brother. He is twenty."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "he is"
-         ]
-        }
-       }
+       "line": "This is my mother."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is my brother."
+      },
+      {
+       "who": "Teacher",
+       "line": "He is tall."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1394,121 +986,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 61,
-        "level": "A1",
-        "module": 4,
-        "module_title": "Family & Immediate Relationships",
-        "title": "My Family",
-        "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
-        "natural_english": [
-         "This is my family.",
-         "This is my mother.",
-         "This is my father.",
-         "We are happy."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Your family?",
-          "gesture": "looking at the photo"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes. My mother, my father, my sister.",
-          "gesture": "pointing at each"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is my family.",
-            "This is my mother.",
-            "This is my father.",
-            "We are happy."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Your family?",
-            "Yes. My mother, my father, my sister."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "my mother / my father"
-         ]
-        }
-       }
+       "line": "This is my family."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 62,
-        "level": "A1",
-        "module": 4,
-        "module_title": "Family & Immediate Relationships",
-        "title": "My Brother — Listen & Shadow",
-        "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
-        "natural_english": [
-         "This is my brother.",
-         "He is tall.",
-         "He is funny.",
-         "I like my brother."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Who is he?",
-          "gesture": "curious"
-         },
-         {
-          "speaker": "B",
-          "line": "My brother. He is twenty.",
-          "gesture": "smiling proudly"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is my brother.",
-            "He is tall.",
-            "He is funny.",
-            "I like my brother."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Who is he?",
-            "My brother. He is twenty."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "he is"
-         ]
-        }
-       }
+       "line": "This is my mother."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is my brother."
+      },
+      {
+       "who": "Teacher",
+       "line": "He is tall."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -1709,121 +1199,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 61,
-        "level": "A1",
-        "module": 4,
-        "module_title": "Family & Immediate Relationships",
-        "title": "My Family",
-        "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
-        "natural_english": [
-         "This is my family.",
-         "This is my mother.",
-         "This is my father.",
-         "We are happy."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Your family?",
-          "gesture": "looking at the photo"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes. My mother, my father, my sister.",
-          "gesture": "pointing at each"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is my family.",
-            "This is my mother.",
-            "This is my father.",
-            "We are happy."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Your family?",
-            "Yes. My mother, my father, my sister."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "my mother / my father"
-         ]
-        }
-       }
+       "line": "This is my family."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 62,
-        "level": "A1",
-        "module": 4,
-        "module_title": "Family & Immediate Relationships",
-        "title": "My Brother — Listen & Shadow",
-        "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
-        "natural_english": [
-         "This is my brother.",
-         "He is tall.",
-         "He is funny.",
-         "I like my brother."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Who is he?",
-          "gesture": "curious"
-         },
-         {
-          "speaker": "B",
-          "line": "My brother. He is twenty.",
-          "gesture": "smiling proudly"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is my brother.",
-            "He is tall.",
-            "He is funny.",
-            "I like my brother."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Who is he?",
-            "My brother. He is twenty."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "he is"
-         ]
-        }
-       }
+       "line": "This is my mother."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is my brother."
+      },
+      {
+       "who": "Teacher",
+       "line": "He is tall."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2025,121 +1413,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 61,
-        "level": "A1",
-        "module": 4,
-        "module_title": "Family & Immediate Relationships",
-        "title": "My Family",
-        "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
-        "natural_english": [
-         "This is my family.",
-         "This is my mother.",
-         "This is my father.",
-         "We are happy."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Your family?",
-          "gesture": "looking at the photo"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes. My mother, my father, my sister.",
-          "gesture": "pointing at each"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is my family.",
-            "This is my mother.",
-            "This is my father.",
-            "We are happy."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Your family?",
-            "Yes. My mother, my father, my sister."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "my mother / my father"
-         ]
-        }
-       }
+       "line": "This is my family."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 62,
-        "level": "A1",
-        "module": 4,
-        "module_title": "Family & Immediate Relationships",
-        "title": "My Brother — Listen & Shadow",
-        "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
-        "natural_english": [
-         "This is my brother.",
-         "He is tall.",
-         "He is funny.",
-         "I like my brother."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Who is he?",
-          "gesture": "curious"
-         },
-         {
-          "speaker": "B",
-          "line": "My brother. He is twenty.",
-          "gesture": "smiling proudly"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is my brother.",
-            "He is tall.",
-            "He is funny.",
-            "I like my brother."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Who is he?",
-            "My brother. He is twenty."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "he is"
-         ]
-        }
-       }
+       "line": "This is my mother."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is my brother."
+      },
+      {
+       "who": "Teacher",
+       "line": "He is tall."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
@@ -2340,121 +1626,19 @@
      "audio": [
       {
        "who": "Teacher",
-       "line": {
-        "page": 61,
-        "level": "A1",
-        "module": 4,
-        "module_title": "Family & Immediate Relationships",
-        "title": "My Family",
-        "visual_scene": "A family photo on a shelf: a mother, a father, two children, and a grandmother.",
-        "natural_english": [
-         "This is my family.",
-         "This is my mother.",
-         "This is my father.",
-         "We are happy."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Your family?",
-          "gesture": "looking at the photo"
-         },
-         {
-          "speaker": "B",
-          "line": "Yes. My mother, my father, my sister.",
-          "gesture": "pointing at each"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 narrates the scene lines with a beat between each. Voice 2 performs the dialogue naturally.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is my family.",
-            "This is my mother.",
-            "This is my father.",
-            "We are happy."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Your family?",
-            "Yes. My mother, my father, my sister."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "my mother / my father"
-         ]
-        }
-       }
+       "line": "This is my family."
       },
       {
        "who": "Teacher",
-       "line": {
-        "page": 62,
-        "level": "A1",
-        "module": 4,
-        "module_title": "Family & Immediate Relationships",
-        "title": "My Brother — Listen & Shadow",
-        "visual_scene": "Two young men laughing in a park, arms over each other's shoulders.",
-        "natural_english": [
-         "This is my brother.",
-         "He is tall.",
-         "He is funny.",
-         "I like my brother."
-        ],
-        "dialogue": [
-         {
-          "speaker": "A",
-          "line": "Who is he?",
-          "gesture": "curious"
-         },
-         {
-          "speaker": "B",
-          "line": "My brother. He is twenty.",
-          "gesture": "smiling proudly"
-         }
-        ],
-        "audio_script": {
-         "pacing": "slow and clear, ~120 wpm, full articulation, gentle pauses between lines",
-         "contractions": "Pronounce 'it is' fully; introduce 'it's' only in the dialogue voice.",
-         "direction": "Voice 1 reads each line, then repeats it once slower. Voice 2 enters only in the dialogue section. Listener shadows each line aloud.",
-         "voices": [
-          {
-           "role": "Voice 1 — narrator / Speaker A",
-           "lines": [
-            "This is my brother.",
-            "He is tall.",
-            "He is funny.",
-            "I like my brother."
-           ]
-          },
-          {
-           "role": "Voice 2 — conversation partner / Speaker B",
-           "lines": [
-            "Who is he?",
-            "My brother. He is twenty."
-           ]
-          }
-         ]
-        },
-        "spiral": {
-         "familiar_pct": 85,
-         "new_pct": 15,
-         "new_elements": [
-          "he is"
-         ]
-        }
-       }
+       "line": "This is my mother."
+      },
+      {
+       "who": "Teacher",
+       "line": "This is my brother."
+      },
+      {
+       "who": "Teacher",
+       "line": "He is tall."
       }
      ],
      "sfx": "Gentle 'remember this?' musical tag."
